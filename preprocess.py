@@ -29,7 +29,6 @@ def process_csv_files(embedding_manager: FileEmbeddingManager, base_dir: str):
         # Get all dataset folders in the chunk
         dataset_dirs = [d for d in os.listdir(chunk_path) if os.path.isdir(os.path.join(chunk_path, d))]
         csv_files = [os.path.join(chunk_path, d, f) for d in dataset_dirs for f in os.listdir(os.path.join(chunk_path, d)) if f.endswith('.csv')]
-        print(csv_files)
         if csv_files:
             embedding_manager.process_text_files(csv_files)
         

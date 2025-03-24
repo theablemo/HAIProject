@@ -4,6 +4,7 @@ import os
 from dotenv import load_dotenv
 from tqdm import tqdm
 from langchain_community.document_loaders import CSVLoader
+import pandas as pd
 
 from langchain_openai import AzureOpenAIEmbeddings
 from langchain_community.vectorstores import Chroma
@@ -104,7 +105,7 @@ class FileEmbeddingManager:
         metadata: Optional[Dict[str, Any]] = None,
     ) -> List[str]:
         """
-        Process a CSV file with its corresponding metadata text file and save chunks as embeddings.
+        Process a CSV file's metadata and save it as an embedding.
         Skips files that have already been embedded in the database.
 
         Args:
@@ -113,12 +114,14 @@ class FileEmbeddingManager:
             metadata (Dict[str, Any], optional): Additional metadata to store with the embeddings
 
         Returns:
-            List[str]: List of embedding IDs for the chunks
+            List[str]: List of embedding IDs (will be a single ID for the metadata)
         """
         if not os.path.exists(csv_path):
-            raise FileNotFoundError(f"CSV file not found: {csv_path}")
+            print(f"Warning: CSV file not found: {csv_path}")
+            return []
         if not os.path.exists(metadata_path):
-            raise FileNotFoundError(f"Metadata file not found: {metadata_path}")
+            print(f"Warning: Metadata file not found: {metadata_path}")
+            return []
 
         # Check if file is already in the database
         existing_chunks = self.vectorstore.similarity_search_with_score(
@@ -131,18 +134,39 @@ class FileEmbeddingManager:
             print(f"Skipping {csv_path} - already embedded in database")
             return []
 
-        # Load and process the CSV file using Langchain's CSVLoader
-        loader = CSVLoader(csv_path)
-        documents = loader.load()
-        
         # Extract metadata from the metadata file
-        with open(metadata_path, "r", encoding="utf-8") as file:
-            metadata_text = file.read()
+        try:
+            with open(metadata_path, "r", encoding="utf-8") as file:
+                metadata_text = file.read()
+        except Exception as e:
+            print(f"Warning: Could not read metadata file {metadata_path}: {str(e)}")
+            return []
         
         file_metadata, _ = self.extract_metadata_and_content(metadata_text)
         
-        # Split the documents into chunks using split_documents
-        split_docs = self.text_splitter.split_documents(documents)
+        # Read CSV headers
+        try:
+            # Try different encodings
+            encodings = ['utf-8', 'latin1', 'iso-8859-1', 'cp1252']
+            df = None
+            for encoding in encodings:
+                try:
+                    df = pd.read_csv(csv_path, encoding=encoding)
+                    break
+                except UnicodeDecodeError:
+                    continue
+                except Exception as e:
+                    print(f"Warning: Error reading CSV with {encoding} encoding: {str(e)}")
+                    continue
+            
+            if df is None:
+                print(f"Warning: Could not read CSV file {csv_path} with any supported encoding")
+                csv_headers = []
+            else:
+                csv_headers = list(df.columns)
+        except Exception as e:
+            print(f"Warning: Could not read CSV headers from {csv_path}: {str(e)}")
+            csv_headers = []
         
         # Prepare metadata
         if metadata is None:
@@ -153,22 +177,27 @@ class FileEmbeddingManager:
                 "source_file": csv_path,
                 "metadata_file": metadata_path,
                 "created_at": datetime.now().isoformat(),
-                "total_chunks": len(split_docs),
                 "file_type": "csv",
-                "columns": documents[0].metadata.get("headers", []) if documents else [],
+                "csv_headers": ', '.join(csv_headers),
             }
         )
 
-        # Save each chunk as an embedding
-        embedding_ids = []
-        for i, doc in enumerate(tqdm(split_docs, desc=f"Processing chunks for CSV file", leave=False)):
-            chunk_metadata = metadata.copy()
-            chunk_metadata.update(doc.metadata)  # Preserve the original document metadata
-            chunk_metadata["chunk_index"] = i
-            embedding_id = self.save_embedding(doc.page_content, chunk_metadata)
-            embedding_ids.append(embedding_id)
-            
-        return embedding_ids
+        # Create a descriptive text from the metadata for embedding
+        metadata_description = f"CSV file. "
+        if csv_headers:
+            metadata_description += f"Columns: {', '.join(csv_headers)}. "
+        if 'Keywords' in metadata:
+            metadata_description += f"Keywords: {metadata['Keywords']}. "
+        if 'Notes' in metadata:
+            metadata_description += f"Notes: {metadata['Notes']}"
+
+        try:
+            # Save the metadata as a single embedding
+            embedding_id = self.save_embedding(metadata_description, metadata)
+            return [embedding_id]
+        except Exception as e:
+            print(f"Warning: Failed to save embedding for {csv_path}: {str(e)}")
+            return []
 
     def process_text_files(
         self,
@@ -304,7 +333,8 @@ class FileEmbeddingManager:
         similarities = []
         for doc, score in results:
             # Extract ID from metadata if available, otherwise generate one
-            doc_id = doc.metadata.get("id", f"doc_{datetime.now().timestamp()}")
+            doc_id = doc.id
+            # doc_id = doc.metadata.get("id", f"doc_{datetime.now().timestamp()}")
             similarities.append((doc_id, doc.page_content, float(score), doc.metadata))
 
         return similarities
@@ -334,3 +364,28 @@ class FileEmbeddingManager:
         # Sort chunks by their index
         chunks.sort(key=lambda x: x[2].get("chunk_index", 0))
         return chunks
+
+    def remove_embeddings_by_file_type(self, file_type: str) -> int:
+        """
+        Remove all embeddings that have a specific file type.
+
+        Args:
+            file_type (str): The file type to filter by (e.g., "csv", "text")
+
+        Returns:
+            int: Number of embeddings removed
+        """
+        try:
+            # Get the collection
+            collection = self.vectorstore._collection
+            
+            # Delete documents where file_type matches using where clause
+            collection.delete(
+                where={"file_type": file_type}
+            )
+            
+            print(f"Removed all embeddings with file_type '{file_type}'")
+            return 1  # Return 1 to indicate successful deletion
+        except Exception as e:
+            print(f"Error removing embeddings: {str(e)}")
+            return 0
