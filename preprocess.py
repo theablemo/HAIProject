@@ -1,8 +1,8 @@
-from file_embedding_manager import FileEmbeddingManager
+from Backend.embedding_manager import EmbeddingManager
 import os
 from tqdm import tqdm
 
-def process_text_files(embedding_manager: FileEmbeddingManager, data_dir: str):
+def process_text_files(embedding_manager: EmbeddingManager, data_dir: str):
     """Process text files from the specified directory."""
     folders = os.listdir(data_dir)
     if ".DS_Store" in folders:
@@ -16,7 +16,7 @@ def process_text_files(embedding_manager: FileEmbeddingManager, data_dir: str):
         embedding_manager.process_text_files(files_paths)
 
 
-def process_csv_files(embedding_manager: FileEmbeddingManager, base_dir: str):
+def process_csv_files(embedding_manager: EmbeddingManager, base_dir: str):
     """Process CSV files and their metadata from the specified directory structure."""
     # Get all chunk folders
     folders = [d for d in os.listdir(base_dir) if d.startswith("chunk_")]
@@ -35,7 +35,7 @@ def process_csv_files(embedding_manager: FileEmbeddingManager, base_dir: str):
 
 
 if __name__ == "__main__":
-    embedding_manager = FileEmbeddingManager()
+    embedding_manager = EmbeddingManager()
     
     # Process text files
     text_data_dir = "health_data/canada_data/text_data"

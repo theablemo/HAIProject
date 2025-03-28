@@ -1,4 +1,4 @@
-from typing import List, Optional, Dict, Any
+from typing import List, Optional, Dict, Any, Tuple
 from datetime import datetime
 import os
 from dotenv import load_dotenv
@@ -12,7 +12,7 @@ from langchain.schema import Document
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 
-class FileEmbeddingManager:
+class EmbeddingManager:
     def __init__(
         self,
         collection_name: str = "embeddings",
@@ -313,7 +313,7 @@ class FileEmbeddingManager:
 
     def find_similar(
         self, query_text: str, top_k: int = 5, where: Optional[Dict[str, Any]] = None
-    ) -> List[tuple[str, str, float, Dict[str, Any]]]:
+    ) -> List[Tuple[Document, float]]:
         """
         Find the most similar texts to the query text.
 
@@ -329,15 +329,7 @@ class FileEmbeddingManager:
         results = self.vectorstore.similarity_search_with_score(
             query_text, k=top_k, filter=where
         )
-
-        similarities = []
-        for doc, score in results:
-            # Extract ID from metadata if available, otherwise generate one
-            doc_id = doc.id
-            # doc_id = doc.metadata.get("id", f"doc_{datetime.now().timestamp()}")
-            similarities.append((doc_id, doc.page_content, float(score), doc.metadata))
-
-        return similarities
+        return results
 
     def get_file_chunks(self, file_path: str) -> List[tuple[str, str, Dict[str, Any]]]:
         """

@@ -51,6 +51,7 @@ langchain==0.3.21
 langchain-community==0.3.20
 langchain-core==0.3.47
 langchain-google-genai==2.1.1
+langchain-experimental==0.3.4
 langchain-text-splitters==0.3.7
 langchain-huggingface==0.1.2
 langchain-openai==0.3.9
@@ -140,3 +141,10 @@ zipp==3.21.0
 zstandard==0.23.0
 accelerate>=0.26.0
 pandas>=2.2.3
+streamlit_mic_recorder==0.0.1  
+streamlit_webrtc==0.53.10
+streamlit==1.44.0
+# av==14.2.0
+soundfile==0.13.1
+pydub==0.25.1
+twilio~=8.1.0
