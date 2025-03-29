@@ -7,7 +7,7 @@ from langchain_community.document_loaders import CSVLoader
 import pandas as pd
 
 from langchain_openai import AzureOpenAIEmbeddings
-from langchain_community.vectorstores import Chroma
+from langchain_chroma import Chroma
 from langchain.schema import Document
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 

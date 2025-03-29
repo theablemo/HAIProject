@@ -4,10 +4,10 @@ class Solution:
     def __init__(self, title: str, subtitle: str):
         self.title = title
         self.subtitle = subtitle
-        self.insights = []
+        # self.insights = []
 
 class Insight:
-    def __init__(self, text: str, sources: List[str], vega_lite_spec: Optional[Dict[str, Any]] = None):
+    def __init__(self, text: str, sources: List[tuple[str, str]], vega_lite_spec: Optional[Dict[str, Any]] = None):
         self.text = text
         self.sources = sources
         self.vega_lite_spec = vega_lite_spec

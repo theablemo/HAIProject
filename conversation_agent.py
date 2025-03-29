@@ -3,10 +3,11 @@ from datetime import datetime
 import os
 from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_community.chat_models import AzureChatOpenAI
 from langchain.schema import HumanMessage, SystemMessage, AIMessage
-from langchain.memory import ConversationBufferMemory
-from langchain.prompts import ChatPromptTemplate, MessagesPlaceholder
-from langchain.chains import LLMChain
+from langchain_core.runnables import RunnablePassthrough
+from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
+from langchain_core.output_parsers import StrOutputParser
 import json
 from conversation import Conversation, Solution, Insight
 
@@ -14,15 +15,15 @@ class ConversationAgent:
     def __init__(
         self,
         model_name: str = "gemini-2.0-flash",
-        temperature: float = 0.7,
+        temperature: float = 0.1,
         max_tokens: int = 1000,
         memory_key: str = "chat_history",
     ):
         """
-        Initialize the ConversationAgent with Google's Gemini model and conversation memory.
+        Initialize the ConversationAgent with Azure OpenAI model and conversation memory.
 
         Args:
-            model_name (str): Name of the Gemini model to use
+            model_name (str): Name of the model to use
             temperature (float): Temperature for model sampling
             max_tokens (int): Maximum number of tokens to generate
             memory_key (str): Key for storing conversation history in memory
@@ -30,19 +31,24 @@ class ConversationAgent:
         # Load environment variables
         load_dotenv()
 
-        # Initialize Google's Gemini chat model
-        self.llm = ChatGoogleGenerativeAI(
-            model=model_name,
+        # Initialize Azure OpenAI chat model
+        self.llm = AzureChatOpenAI(
+            deployment_name="gpt-4o",
+            model_name="gpt-4o",
             temperature=temperature,
-            max_output_tokens=max_tokens,
-            google_api_key=os.getenv("GOOGLE_API_KEY"),
+            # max_tokens=max_tokens,
+            azure_endpoint=os.getenv("AZURE_OPENAI_CHAT_COMPLETION_ENDPOINT"),
+            api_key=os.getenv("AZURE_OPENAI_CHAT_COMPLETION_KEY"),
+            api_version=os.getenv("AZURE_OPENAI_CHAT_COMPLETION_API_VERSION"),
         )
 
-        # Initialize conversation memory
-        self.memory = ConversationBufferMemory(
-            memory_key=memory_key,
-            return_messages=True
-        )
+        # Commented out Google's Gemini implementation
+        # self.llm = ChatGoogleGenerativeAI(
+        #     model=model_name,
+        #     temperature=temperature,
+        #     max_output_tokens=max_tokens,
+        #     google_api_key=os.getenv("GOOGLE_API_KEY"),
+        # )
 
         # Initialize chat prompt template
         self.prompt = ChatPromptTemplate.from_messages([
@@ -51,13 +57,16 @@ class ConversationAgent:
             HumanMessage(content="{input}")
         ])
 
-        # Initialize LLM chain
-        self.chain = LLMChain(
-            llm=self.llm,
-            prompt=self.prompt,
-            memory=self.memory,
-            verbose=True
+        # Initialize the chain using the new pattern
+        self.chain = (
+            {"input": RunnablePassthrough(), "chat_history": RunnablePassthrough()}
+            | self.prompt
+            | self.llm
+            | StrOutputParser()
         )
+
+        # Initialize conversation history
+        self.chat_history = []
 
         # Initialize conversation object
         self.conversation = Conversation(
@@ -82,7 +91,7 @@ class ConversationAgent:
             background_info={},
             chat_history=[]
         )
-        self.memory.clear()
+        self.chat_history = []
 
     def process_message(self, message: str) -> str:
         """
@@ -98,10 +107,15 @@ class ConversationAgent:
         self.conversation.add_message("user", message)
         
         # Process message with the chain
-        response = self.chain.run(input=message)
+        response = self.chain.invoke({
+            "input": message,
+            "chat_history": self.chat_history
+        })
         
         # Add AI response to both memory and conversation
         self.conversation.add_message("assistant", response)
+        self.chat_history.append(HumanMessage(content=message))
+        self.chat_history.append(AIMessage(content=response))
         
         return response
 
@@ -113,7 +127,7 @@ class ConversationAgent:
             title (str): Title of the solution
             subtitle (str): Subtitle/description of the solution
         """
-        solution = Solution(title=title, subtitle=subtitle, insights=[])
+        solution = Solution(title=title, subtitle=subtitle)
         self.conversation.add_solution(solution)
 
     def add_insight(self, text: str, sources: List[str], vega_lite_spec: Optional[Dict[str, Any]] = None):
