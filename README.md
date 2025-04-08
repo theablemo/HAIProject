@@ -1,4 +1,4 @@
-# Doctor-Patient Conversation Assistant
+# AInsight: On-the-Fly Insights Based on Historical Data for Decision Support in High-Stakes Domain
 
 ## About the Project
 
