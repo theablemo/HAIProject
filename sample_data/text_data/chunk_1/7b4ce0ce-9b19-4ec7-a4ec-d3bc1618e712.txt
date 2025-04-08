@@ -1,0 +1,378 @@
+Created: 2022-06-21T17:57:14.820421
+Name: Briefing_Binder_for_Minister_of_Health_-_Appearance_before_Standing_Senate_Committee_on_Social_Affairs,_Science_and_Technology:_Study_of_Bill_C-10_(COVID-19)
+Original URL: https://open.canada.ca/data/dataset/7b4ce0ce-9b19-4ec7-a4ec-d3bc1618e712/resource/c7085ecf-c6f9-4fea-bf1f-27a6e5a4d554/download/briefing-binder-for-the-minister-of-health-appearance-before-soci-study-of-bill-c10-.pdf
+Package ID: 7b4ce0ce-9b19-4ec7-a4ec-d3bc1618e712
+Keywords: ['COVID-19', 'Pandemic', 'Coronavirus', 'Parliamentary Committee appearance', 'legislation']
+Notes: Briefing Binder for Minister of Health's March 2, 2022 appearance before Standing Senate Committee on Social Affairs, Science and Technology concerning the study of Bill C-10 (COVID-19)
+-------------------------------
+Extracted Text:
+Santé Canada et l’Agence de santé publique du Canada
+Bill C-10, An Act respecting certain measures related to COVID-19
+Briefing Binder, March 2, 2022
+Bill C-10, An Act respecting certain measures related to COVID-19
+SOCI Briefing Binder
+TABLE OFCONTENTS
+1. Minister’s Speech for SOCI
+2. Qs and As prepared for Senator Gold
+3. Delayed Response to Senator Marshall
+4. Text of the Bill
+5. Legislative Summary
+6. News Release
+7. Media Lines and Questions and Answers
+8. Redacted–Confidences of the Queen's Privy Council for Canada (Cabinet Confidences)
+Remarks for the Honourable Jean-Yves Duclos Minister of Health
+Appearance before the Standing Committee on Social Affairs, Science and Technology
+Bill C-10: An Act respecting certain measuresrelated to COVID-19
+March 2, 2022 Ottawa, ON
+Allotted speaking time: 5 minutes (maximum) Speech length: 608 words (5 minutes)
+Check against delivery
+Madam Chair and Honourable Members:
+Thank you for this opportunity to speak to the Committee today. I am pleased to be here to discuss Bill
+C-10, legislation that would provide Health Canada with the statutory authority to purchase and
+distribute up to $2.5 billion worth of COVID-19 rapid tests across the country.
+To begin, I want to impress upon you the importance of this Bill, and the need to make rapid tests
+widely available right now.
+As you know, the COVID-19 pandemic outlook is stabilizing across Canada. Omicron infection rates have
+peaked in many areas of the country, followed by a slower decline in hospitalization rates.
+While that is good news, we are not out of the woods yet. We have been in this situation before.
+As we transition to the next phase of our pandemic response, we need to have the right tools to avoid a
+resurgence of the virus.
+Testingplays a key role in our efforts to contain and mitigate the pandemic. By identifying infected
+Rapid tests can identify cases and effectively reduce the spread of COVID-19 in schools, in workplaces
+and in other high-risk settings.
+Madam Chair, not everyonewho has the Omicron variant of COVID-19 will show symptoms. In fact, the
+prevalence of asymptomatic infection is probably a significant factor in the high rate of transmission of
+Omicron.
+Bill C-10
+Bill C-10 would help to meet provincial and territorial needs for rapid tests, and would continue to
+support the national workplace testing program, as well as federal workplace screening initiatives.
+With this funding, the Government of Canada would purchase and ship hundreds of millions of
+additional COVID-19rapid tests to provinces and territories and Indigenous communities over the next
+three months, free of charge.
+The funding would also allow Health Canada to continue to provide tests for distribution through
+partners such as the Canadian Red Cross, chambers of commerce and pharmacies.
+Throughout the pandemic, the Government of Canada has been working closely with our provincial and
+territorial partners to ensure they have the tools they need to manage outbreaks and keep people safe.
+The federal governmentstarted buying and providing rapid tests free of charge to the provinces and
+territories in October 2020. To date, we have purchased more than 520.5 million rapid tests, at a total
+cost of almost $3.8 billion.
+In December alone, the Government of Canada delivered more than 35 million rapid tests to provinces
+and territories.
+In January, we secured and delivered another 140 million rapid antigen tests for the provinces and
+territories.
+Bill C-10 would allow Health Canada and the Public Health Agency of Canada to continue supporting
+provinces and territories by securing the rapid tests they need to keep people in Canada safe and
+healthy.
+And it would help ensure equitable access across all jurisdictions.
+Conclusion
+After two years of living through the COVID-19 pandemic, all of us are tired of it. But the reality is,
+COVID-19 continues to be part of our lives.
+As long as the virus continues to circulate in Canada, rapid testing will be an essential tool.
+It is safe,effective, easy to administer, and produces results in as little as 15 minutes.
+Bill C-10 would help the Government of Canada deliver hundreds of millions more rapid tests across the
+country.
+This legislation would help reduce the risk of outbreaks, quickly identify and isolate cases, and limit the
+spread of COVID-19 and its variants of concern.
+It would help keep people in Canada safe as we transition to the next phase of our pandemic response.
+Thank you.
+Bill C-10 Q&As
+Q1–What was the original funding source to procure tests?
+The federal allocation of the Safe Restart Agreement provided the initial funding for the procurement of
+COVID-19 rapid tests.
+Q2. Instead of seeking additional funding, did the Government consider shifting the responsibility of
+procurement of tests to provinces and territories?
+Since the outset of the pandemic jurisdictions have taken a Team Canada approach, with the
+Government of Canada taking a leadership role for funding and procuring vaccines and rapid tests. This
+has been critical in a highly competitive global market and to ensure equitable access across Canada.
+Q3 How did the Department procure the tests announced by the Prime Minister in January?
+With the announcement of $1.7 billion for rapid tests in the 2021 Economic and Fiscal Update, Health
+Canada, working with Public Services and Procurement Canada, was able to buy rapid tests for
+December, January and February. With this funding the Health Portfolio procured 345.0M tests.
+Q4 Why has Health Canada requested funds through the Supplemental Estimates C and Bill C-10?
+These planned expenditures for rapid tests have been included in both Supplementary Estimates C and
+in Bill C-10 primarily due to timing constraints. As a result of the highly competitive global market for
+rapid tests, some manufacturers are requesting advance payments. The statutory authority in Bill C-10
+would provide the ability to advance procurement and make payments up to one month earlier than
+waiting for Supplementary Estimates C to receive Royal Assent.
+Q5 Why do Bill C-8 and Bill C-10 permit the Health Portfolio to cover off costs incurred as of April 1, 2021
+and January 1, 2022?
+The language of the Bill provides flexibility to replenish sources of funds that were accessedto allow the
+procurement of tests prior to the passing of Bill C-8 and Bill C-10.
+Q6 Why has the Government introduced Bill C-10 given that Bill C-8 is still pending?
+Bill C-8 funding as committed in the 2021 Economic and Fiscal Update addressed needs inDecember to
+February. Bill C-10 is needed to respond to the ongoing demand for rapid tests, and ensure equitable
+access across Canada.
+Q7 What is the source of funds?
+Payments will be made from the Consolidated Revenue Fund.
+Q8 What authorities does Bill C-10 provide the Minister of Health?
+Bill C-10 provides the Minister of Health access for up to $2.5 billion from the Consolidated Revenue
+Fund to procure and distribute COVID-19 rapid tests.
+The Bill also gives the Minister the authority to distributetests to provinces and territories, any body or
+a person in Canada.
+Q9 What is the urgency of Bill C-10?
+The global demand for COVID-19 rapid tests has resulted in limited supply.
+If passed, Bill C-10 would provide statutory authority to spend the $2.5 billion immediately, and not
+bound by the fiscal year, enabling the Government to sign contracts quickly for delivery in the next few
+months. There is an urgent need for this Bill C-10 to pass so that there is a guarantee of supply in March
+to spring 2022.
+Q10 Does Bill C-10 provide enough funding for rapid tests?
+Bill C-10 would provide funding needed to procure critical supply of COVID-19 rapid tests to support
+rapid testing into spring 2022.
+Q11 Is the Government spending too much money on rapid tests?
+To date, tests procured have or are being deployed to support provinces and territories’ testing regimes,
+to fulfill federal mandates, to support employers and vulnerable communities.
+Q12 Did the Government of Canada deliver on its promise to get 140M RATs to provinces and territories
+in January?
+The Government of Canada received 140M rapid tests in January and distributed them to provinces and
+territories.
+Q13 Why did some provinces and territories get more rapid tests than others?
+Initially, shipmentsto provinces and territories were driven by provincial and territorial demand. With
+the advent of Omicron and the expansion of the use of COVID-19 rapid tests across all provinces and
+territories, the Government moved to a per capita allocation, resultingin provinces with larger
+populations receiving higher quantities of tests.
+Q14 What is the federal government doing to ensure that Canadians most at risk are getting access to
+rapid tests?
+The Government has put in place agreements with organizations to support roll-out of workplace
+screening, including an agreement with the Canadian Red Cross to provide tests and support for
+workplace screening in the non-profit sector.
+Due to the success of this initiative and the partnerships that the Canadian Red Cross has will
+organizations that support vulnerable populations, the agreement has been expanded so that the
+Canadian Red Cross can provide tests to individuals through organizations such as Boys and Girls Club,
+YMCA-YWCA and food banks.
+The Minister received an emailed request from Senator Marshall’s (CPC) office for more information
+regarding C-10, following his appearance at Senate Question Period, on February 9th. In the event that a
+similar question is asked at SOCI the question and proposed response appear below.
+Question:
+I believe Senator Marshall was hoping for a more detailed answer on how that money would be spent,
+but we appreciated your offer to get back to us with specific examples, hoping that a more detailed
+accounting of how the money is expected to be spent would also be included.
+However, regrettably we have not heard back from anyone as of yet. Can someone from your office
+please get back to us and let us know when we might expect to hear from you on this issue?
+Response:
+The Government has proposed additional funding up to $2.5B to Health Canada to procure rapid test
+kits and to cover associated logistics and operations costs.
+The majority of the funding is for the procurementof approximately 350 million COVID-19 rapid tests.
+However, some funding is required for the shipping of tests from Asia. There are also costs related to
+the warehousing and domestic transportation in Canada.
+First Session, Forty-fourth Parliament,70-71 Elizabeth II, 2021-2022
+HOUSE OF COMMONS OF CANADA
+BILL C-10
+An Act respecting certain measures related to COVID-19
+AS PASSED
+BY THE HOUSE OF COMMONS
+FEBRUARY 15, 2022
+91072
+RECOMMENDATION
+Her Excellency the Governor General recommends to the House of Commons the appropriation of
+public revenue under the cir-cumstances, in the manner and for the purposes set out in a measure
+entitled “An Act respecting certain measures related to COVID-19”.
+SUMMARY
+This enactment authorizes the Minister of Health to make pay-ments of up to $2.5 billion out of the
+Consolidated Revenue Fund in relation to coronavirus disease 2019 (COVID-19) tests.
+It also authorizes that Minister to transfer COVID-19 tests and in-struments used in relation to those
+tests to the provinces and territories and to bodies and persons in Canada.
+Available on the House of Commons website at the following address:
+www.ourcommons.ca
+2021-2022 ii 70-71 Eliz. II
+1st Session, 44th Parliament, 70-71 Elizabeth II, 2021-2022
+HOUSE OF COMMONS OF CANADA
+BILL C-10
+An Act respecting certain measures related to COVID-19
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada,
+enacts as follows:
+Payments out of C.R.F.
+1 The Minister of Health may make payments, the total
+of which may not exceed $2.5 billion, out of the Consoli-5 dated Revenue Fund for any expenses
+incurred on or af-ter January 1, 2022 in relation to coronavirus disease 2019 (COVID-19) tests.
+Transfers
+2 The Minister of Health may transfer to any province or territory, or to any body or person in
+Canada, any coro-10 navirus disease 2019 (COVID-19) tests or instruments used in relation to those
+tests acquired by Her Majesty in right of Canada on or after April 1, 2021.
+91072
+Published under authority of the Speaker of the House of Commons
+2021-2022 1 70-71 Eliz. II
+Available on the House of Commons website at the following address:www.ourcommons.ca
+Government Bill C-10
+Sponsor: XX
+An Act respecting certain measures related to COVID-19
+Ministries: Health
+Summary:
+Authorizes the Minister of Health to make payments of up to $2.5 billion out of the Consolidated
+Revenue Fund in relation to coronavirus disease 2019 (COVID-19)tests
+It also authorizes the Minister of Health to transfer COVID-19 tests and instruments used in relation to
+those tests to provinces, territories and bodies and persons in Canada
+Minister:
+The Honourable Jean-Yves Duclos (Health)
+Technical Briefing:
+A technical briefing on Bill C-10 was held for all Senators and staff by teleconference on Friday, February
+4th, 2022 at 3:00PM Eastern time (EST).
+Government Rationale:
+The Act Respecting Certain Measures Related to COVID-19 provides the legislation needed to implement
+key campaign commitment of protecting our recovery by finishing the fight against COVID-19, which was
+reiterated in the Fall Economic Statement 2021. Bill C-10 would allow Health Canada to purchase and
+distribute up to $2.5 billion worth ofCOVID-19 rapid tests across the country over the next three
+months.
+Background and Analysis:
+The Government of Canada understands the importance of testing to slow and reduce the spread of
+COVID-19 in Canada. As part of our response, we are purchasingand providing hundreds of millions of
+rapid tests and sending them free of charge to provinces and territories since October 2020, in line with
+the authorization of the first rapid test.
+Bill C-10 would allow Health Canada to purchase and distribute up to$2.5 billion worth of COVID-19
+rapid tests across the country over the next three months.
+This statutory authority would ensure the delivery of hundreds of millions of additional COVID-19 rapid
+tests to provinces and territories and Indigenous communities,free of charge. It would also continue to
+support screening programs, through partners such as the Canadian Red Cross, Canadian Chambers of
+Commerce, and pharmacies, via the Safe Restart Agreement.
+We will continue to work with provinces and territories and the manufacturers to continue to buy and
+distribute rapid tests as fast as possible to meet the new demand.
+Key Messages:
+• Rapid tests have become an important additional layer of protection in the fight against COVID-
+19, with significantly increaseddemand during the Omicron wave.
+• To ensure equal access across all jurisdictions, Minister Duclos introduced Bill C-10, An Act
+respecting certain measures related to COVID-19 in Parliament to provide Health Canada with $2.5
+billion to purchase and distribute rapid tests across the country.
+• This legislation would also give the Government of Canada the authority to transfer inventory
+directly to provinces and territories, speeding up the shipping process.
+• With the additional funding being sought, our Government will be better placed to secure
+consistent, longer-term supply for the coming months, streamlining delivery channels.
+• As our top priority, we will be continuing all efforts to support jurisdictions in their efforts to
+manage COVID-19.
+News Release
+For Immediate Release
+Government of Canada introduces legislation to increase access to rapid testing across the country
+January XX, 2022 Ottawa, ON Health Canada
+Testing and screening, in combination with local public health measures andvaccination, are important
+tools to protect Canadians and limit the spread of COVID-19 and its variants of concern.
+Today, the Honourable Jean-Yves Duclos, Minister of Health, introduced Bill C-10-An Act respecting
+certain measures related to COVID-19 inParliament to provide Health Canada with the statutory
+authority to purchase and distribute across the country up to $2.5 billion worth of COVID-19 rapid tests.
+With this funding, the Government of Canada would put in place critical contracts in a highly
+competitive global market, to purchase sufficient quantities of rapid tests to meet the continued
+demand across the country.
+Bill C-10-An Act respecting certain measures related to COVID-19 would:
+• Build on the commitments in the December 14, 2021, Economic and Fiscal Update, in which the
+Government of Canada proposed $1.7 billion to increase access to COVID-19 rapid testing for everyone
+in Canada;
+• Allow Health Canada and the Public Health Agency of Canada to continue supporting provinces
+and territories by securing the COVID-19 rapid tests they need.
+• Continue to provide additional support to the Canadian Red Cross in their campaign to deliver
+rapid tests–free of charge–to community organizations for those most in need; and
+• Continue to support small, medium and large businesses and organizations, as well as federal
+workplace screening programs through direct delivery and through partners such as Chambers of
+Commerce, and pharmacies.
+Quote
+“As COVID-19 remains a global threat, driven by the highlytransmissible Omicron variant, the demand
+for rapid tests has increased worldwide. Keeping Canadians safe has always been our number one
+priority, and rapid tests are an important part of that strategy. This Bill will allow Health Canada to buy
+the necessary rapid tests so that jurisdictions across the country can identify cases early, break the chain
+of transmissions, and reduce outbreaks.”
+The Honourable Jean-Yves Duclos Minister of Health
+Quick Facts
+• The Government of Canada has provided $3 billion viathe Safe Restart Agreement to provinces
+and territories to increase capacity to conduct polymerase chain reaction (PCR) testing, perform contact
+tracing and share public health data. This funding provided a foundation to help jurisdictions slow the
+spreadof the virus.
+• In addition to providing free COVID-19 rapid tests, the Government of Canada has provided $6.6
+million to the Canadian Red Cross to distribute tests to charities and non-profits for workplace
+screening, and $8.1 million to the Canadian Chamber of Commerce to support distribution to small to
+medium sized businesses through local chambers.
+• Organizations with 200 or more employees, including federally regulated businesses are able to
+receive free COVID-19 rapid tests directly from the Government of Canada.
+• In partnership with provinces and territories, small and medium-sized businesses and
+organizations can also access rapid tests through distribution partners:
+o Independent pharmacies, Rexall, Sobeys and Shoppers Drug Mart locations in Alberta,
+Saskatchewan, Manitoba, Ontario, British Columbia, PEI and Northwest Territories,
+o Chambers of Commerce in Ontario, Alberta, New Brunswick, and Saskatchewan.
+Additional Information
+Where to get tested and how to get rapid tests COVID-19 testing, screening and contact tracing
+COVID-19 rapid testing and screening in workplaces: Get free rapid tests
+Associated Links
+Government of Canada increases access to COVID-19 rapid testing for workers
+Rapid tests for COVID-19 screening in the workplace
+COVID-19 Testing, Screening, and Contact Tracing
+Industry Advisory Roundtable on COVID-19 Testing, Screening, Tracing and Data Management
+Testing and Screening Expert Advisory Panel
+Safe Restart Agreement
+COVID-19: Digital tools and apps for staying healthy
+Coronavirus disease (COVID-19)
+Media Lines
+COVID-19 Rapid Test Supply and Distribution
+Issue Statement: Minister Duclos introduced Bill C-X, An Act respecting certain measures related to
+COVID-19 in Parliament to provide Health Canada with the statutory authority to purchase and
+distribute up to $2.5 billion worth of COVID-19 rapid tests across the country.
+Key Messages:
+• Bill XX would allow Health Canada to purchase and distribute up to $2.5 billion worth of COVID-
+19 rapid tests across the country.
+• This statutory authority would ensure the delivery of hundreds of millions of additional COVID-
+19 rapid tests to provinces and territories and Indigenous communities, free of charge. It would also
+continue to support screening programs, through partners such as the Canadian Red Cross, Canadian
+Chambers of Commerce, and pharmacies, via the Safe Restart Agreement.
+• The Government of Canada has been buying and providing COVID-19 rapid tests free of charge
+to provinces and territories since October 2020, in line with its authorization of the first COVID-19 rapid
+test. With the expedited passage of this Bill, Health Canada would be able to provide hundreds of
+millions more COVID-19 rapid tests to provinces and territories and Indigenous communities over the
+nextthree months.
+Questions and Answers:
+Q1. What is the purpose of this bill and why now?
+Through Bill XX, Health Canada would have the statutory authority to purchase and distribute up to $2.5
+billion worth of COVID-19 rapid tests across Canada over the next three months.
+A critical part of finishing the fight against COVID-19 is continuing to prevent outbreaks. This targeted
+investment will ensure the delivery of hundreds of millions of COVID-19 rapid tests to provinces and
+territories and Indigenous communities, free of charge. It will support workplace screening programs
+through Health Canada, or through one of the Government of Canada’s distribution partners such as the
+Canadian Red Cross, Canadian Chambers of Commerce, and pharmacies, via the Safe Restart
+Agreement.
+Q2. What exactly does the $2.5 billion buy the Government of Canada?
+With this funding, the Government of Canada could put in place critical contracts, in a highly
+competitive global market, to procure COVID-19 rapid tests to meet the anticipated demand to the end
+of April 2022.
+Q3. How are the tests currently being distributed and why the change?
+The National Emergency Strategic Stockpile plays a critical role in supporting provinces and territories
+through the distribution of critical medical supplies and equipment including personal protective
+equipment, vaccine ancillary supplies and COVID-19 testing supplies. The NESS has works closely with
+provinces and territories to coordinate deliveries of inventories and to respond to an array of requests
+for assistance.
+Since March 2020, the NESS has distributed over 115 million surgical masks. 540 million pairs of gloves,
+75 million N95 respirators and equivalents many and 275 million needles and syringes. Given its
+expertise, in the fall of 2020,the Government of Canada decided to include COVID-19 tests in the NESS
+inventory. Over a 13-month period, the NESS distributed 78 million tests.
+However, with the advent of the Omicron variant and in response to the exponential growth in demand
+from the provinces and territories for COVID-19 tests, the Government of Canada aims to procure
+hundreds of millions of more tests for distribution over a three-month period. The volume of tests will
+require considerable additional resources to distribute in this timeframe.
+With this authority, Health Canada would be able to streamline the distribution of COVID-19 rapid tests
+to provinces and territories, as well as to workplace screening programs.
+Q4. Given the varied approaches to testing in provinces andterritories, is the federal government
+considering direct delivery to Canadians like the U.S. is doing?
+COVID-19 continues to be part of our lives, and testing and screening remains an important tool to:
+• rapidly detect and isolate new cases;
+• support follow-up with close contacts; and
+• prevent outbreaks in the community by breaking the chain of transmission.
+The Government of Canada is committed to supporting the provinces’ and territories’ testing strategies.
+The delivery and distribution of COVID-19 rapid tests into and across Canada is a high priority, and is a
+large and complex operation. It is the shared responsibility of federal, provincial, and territorial
+governments.
+The Government of Canada will continue to assess the federal testing strategy as the situation evolves.
+Q5. Why is it harder for people in some provinces and territories to obtain rapid tests than in others?
+In light of the increased demand for COVID-19 rapid tests and in agreement with the provinces and
+territories, allocation hasshifted from a demand basis to a per capita approach as of January 2022 to
+ensure equitable distribution across the country.
+Provinces and territories have jurisdiction over COVID-19 testing and screening approaches in their
+respective regions. Under the Government of Canada’s Safe Restart Program, provinces and territories
+receive free COVID-19 rapid tests directly from the federal government and may use these rapid tests in
+line with their respective plans, priorities and regulations.
+Q6. To date, how many COVID-19 rapid tests have been shipped to the provinces and territories?
+As noted on the Government of Canada website, as of January 21, 2022, more than 168 million COVID-
+19 rapid tests have been shipped, free of charge, to provinces and territories. The Government of
+Canada continues to aggressively procure COVID-19 rapid tests and screening supplies in response to
+provincial and territorial needs.
+Q7. How many rapid tests are currently authorized for sale in Canada?
+As of January 21, Health Canada hasauthorized 107 testing devices, including 10 self-tests and 27 point
+of care tests (often referred to as rapid tests). A complete list is available here.
+Q8. In the event that Parliament doesn’t pass this bill quickly, what will happen?
+If there is a delay in passing the Bill, the Government of Canada may experience difficulty in meeting the
+increasing COVID-19 rapid testing needs of Canadians. The Bill currently under consideration by
+Parliamentarians would allow the Government of Canada to purchase COVID-19 rapid tests for the
+coming months, and meet provincial and territorial needs for the month of February and beyond. Any
+delays in the passing of the Bill could impact the collective effort to keep Canadians safe and healthy.
+Redacted–Confidences of the Queen's Privy Council for Canada (Cabinet Confidences)

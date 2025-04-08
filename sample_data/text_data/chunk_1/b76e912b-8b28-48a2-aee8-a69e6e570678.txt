@@ -1,0 +1,248 @@
+Created: 2025-01-06T21:20:55.014726
+Name: Total_usual_nutrient_intakes_from_foods_and_dietary_supplements_(2015_CCHS_–_Nutrition)
+Original URL: https://open.canada.ca/data/dataset/b76e912b-8b28-48a2-aee8-a69e6e570678/resource/2aeb6471-6c96-4673-a431-743f6b7a195d/download/4-_methodology_document_-_total_ui_en1.pdf
+Package ID: b76e912b-8b28-48a2-aee8-a69e6e570678
+Keywords: ['CCHS', 'Nutrition', 'Nutrient', 'Intake', 'Usual', 'Food', 'Dietary supplements', 'Vitamins', 'Minerals', 'Calcium', 'Folate', 'Iron', 'Vitamin A', 'Vitamin D', '2015']
+Notes: Summary data tables of estimates of total usual nutrient intakes from food and dietary supplements, using data collected from Canadians in the 2015 Canadian Community Health Survey (CCHS) - Nutrition. Data are provided for the household population by 16 age–sex groups at the national level.
+
+Find estimates of usual intakes from food alone for energy, nutrients and other Dietary components (https://open.canada.ca/data/en/dataset/31599960-2c1e-4d90-a9d9-979ad0e1abb4)
+
+Learn about the 2015 CCHS - Nutrition (https://www.canada.ca/en/health-canada/services/food-nutrition/food-nutrition-surveillance/health-nutrition-surveys/canadian-community-health-survey-cchs/2015-canadian-community-health-survey-nutrition-food-nutrition-surveillance.html) 
+-------------------------------
+Extracted Text:
+Total usual nutrient intakes from
+foods and dietary supplements
+(2015 Canadian Community Health
+Survey – Nutrition)
+Methodology document
+Contents
+List of abbreviations ................................................................................................................... 3
+Acknowledgements .................................................................................................................... 3
+1. Introduction ......................................................................................................................... 3
+2. Methodology ....................................................................................................................... 4
+2.1 Data Source ..................................................................................................................... 4
+2.2 Databases ........................................................................................................................ 5
+2.3 Total usual intake estimation ............................................................................................ 5
+2.4 Estimates ..................................................................................................................... 5
+3. Comparability with other published estimates ..................................................................... 6
+Appendix A. Table footnotes ...................................................................................................... 7
+References ................................................................................................................................ 9
+Total usual nutrient intakes from foods and dietary supplements (2015 Canadian Community Health Survey – Nutrition) -
+Methodology document| 2
+List of abbreviations
+BDSKI: Bureau of Data, Science and Knowledge Integration
+CCHS – Nutrition: Canadian Community Health Survey - Nutrition
+DRI: Dietary Reference Intake
+EAR: Estimated average requirement
+FNDDS: Food and Nutrient Database for Dietary Studies
+NCI: National Cancer Institute
+UL: Tolerable upper intake level
+Acknowledgements
+Health Canada would like to acknowledge and thank the individuals who have contributed to
+this work. Subject-matter experts from the Bureau of Data, Science and Knowledge Integration
+(BDSKI) at Health Canada produced the total usual intake data table and this methodology
+document. Experts from the Division of Cancer Prevention at National Cancer Institute (NCI)
+provided guidance and SAS macros essential to this analysis.
+1. Introduction
+Many Canadians consume dietary supplements; based on the 2015 CCHS – Nutrition survey,
+45.6% of Canadians age one and older consume dietary supplements.1 The estimates found in
+the Total usual nutrient intakes from foods and dietary supplements (2015 Canadian Community
+Health Survey – Nutrition) data tables describe Canadians’ overall intakes of nutrients found in
+food and in commonly consumed dietary supplements such as vitamins, minerals, fibre
+supplements, antacids, and fish oils.
+Users are encouraged to refer to the following resources together with this document:
+• Table Footnotes (Appendix A)
+• The Reference Guide to Understanding and Using the Data – 2015 Canadian
+Community Health Survey – Nutrition.2 This reference guide includes an overview of the
+2015 Canadian Community Health Survey (CCHS) – Nutrition, including descriptions of
+the survey sample, how the survey was conducted and survey components. Further, the
+reference guide introduces the Dietary Reference Intakes (DRI), the nutrient reference
+standards used to assess diets by age-sex groups.
+• Methodology document: Usual intakes from food for energy, nutrients and other dietary
+components (2004 and 2015 Canadian Community Health Survey - Nutrition).3 This
+document describes how the NCI method4,5 was used to generate estimates of usual
+intakes from food alone for 2004 and 2015 CCHS – Nutrition.
+Total usual nutrient intakes from foods and dietary supplements (2015 Canadian Community Health Survey – Nutrition) -
+Methodology document| 3
+2. Methodology
+2.1 Data Source
+Total usual intake estimates were calculated using data collected from Canadians in the CCHS
+– Nutrition. Two main components are used in the evaluation of total usual intake estimates:
+intakes from food and intakes from dietary supplements. In order to maintain consistency with
+the previously published Usual Intakes from Food for Energy, Nutrients and Other Dietary
+Components (2004 and 2015 Canadian Community Health Survey – Nutrition), data from both
+the 2004 and 2015 CCHS – Nutrition Share Files were used in the modelling of intakes from
+food. Intake from dietary supplements were available only using the data from the 2015 CCHS –
+Nutrition as respondents in the 2004 survey were not asked about their use of dietary
+supplement during the 24-hour recall portion of the interviews.
+The survey excludes from its target population those living in the three territories, individuals
+living on reserves, residents of institutions, full‐time members of the Canadian Armed Forces
+and residents of certain remote regions.
+The analysis excluded respondents with null intakes (zero total intake from food) and pregnant
+or lactating females (Figure 1).
+2015 Canadian Community Health
+Survey – Nutrition, Share File
+n = 19,673
+Excluded Recalls
+n = 301 pregnant and lactating
+women
+n = 3 no foods reported (fasting)
+Analytical Sample for Total Usual
+Intakes from Food and
+Supplements
+n = 19,369
+Figure 1. Participant flow diagram
+Total usual nutrient intakes from foods and dietary supplements (2015 Canadian Community Health Survey – Nutrition) -
+Methodology document| 4
+2.2 Databases
+The nutrient values used were extracted from the Canadian Nutrient File Version 2015 based on
+USDA Standard Release 23-27 and the recipe database based on Food and Nutrient Database
+for Dietary Studies (FNDDS) 5.0 and some FNDDS 2011-12 to calculate usual intakes from
+food. The Licensed Natural Health Products Database was used to calculate usual intakes from
+dietary supplements.
+2.3 Total usual intake estimation
+A three-part mixed effects model was used to estimate total usual intake as described by
+Verkaik-Kloosterman et al.6 with slight adaptations. This approach is an extension of the NCI
+method used to produce the estimates presented in the Usual intakes from food. The model
+was used to estimate and then combine three usual intake distributions: (1) from food for
+nonusers of dietary supplements; (2) from food for users of dietary supplements; and (3) from
+dietary supplements for users of dietary supplements. Should you require more information,
+please reach out to the surveillance team at: nutrition.surveillance-nutritionnelle@hc-sc.gc.ca.
+To maintain consistency with the analysis of Usual intakes from food, it was assumed that the
+probability of taking a dietary supplement was uncorrelated to the nutrient intake from food. This
+assumption allowed for calculation of usual intake from food based on both 2004 and 2015
+CCHS – Nutrition using the one-part model provided in the NCI method, as well as the
+probability of taking a dietary supplement using the modified two-part model.4,5
+The Verkaik-Kloosterman method6 requires reference values of daily nutrient intake from dietary
+supplements for each individual. Respondents provided information on dietary supplement
+intake on the previous day (24-hr recall) and in the past month. The following approach was
+used to derive these individual-level daily reference values:
+a) For each individual, if dietary supplements were reported on at least one recall day, then
+the amount reported was used as the reference value for daily nutrient intake from
+dietary supplements. If dietary supplements were reported on both recall days, the
+average amount consumed was used as the reference value.
+b) If dietary supplements were not reported for either recall day, the daily amount recorded
+for the past 30 days was used as the reference value.
+2.4 Estimates
+The data tables include estimates for the following nutrients: calcium, folate/folic acid, iron,
+vitamin A and vitamin D. Estimates are calculated at the national-level (Canada, excluding the
+territories) and include prevalence of supplement use, the arithmetic mean and percentiles (i.e.
+P5, P10, P25, P50, P75, P90, P95) of usual intakes for 16 age-sex groups. The percentage of
+the population with intakes above or below the DRIs are presented when applicable. For ease of
+reference, estimates of usual intake from food alone taken from the Usual intakes from food for
+energy, nutrients and other dietary components (2004 and 2015 Canadian Community Health
+Survey - Nutrition) are also included.
+Nutrient-specific considerations include:
+• Folate: The tolerable upper intake level (UL) for folate applies only to synthetic forms
+obtained from dietary supplements, fortified foods, or a combination of the two. The
+prevalence of excessive intakes (% above UL) was estimated based on usual intakes of folic
+acid from foods + dietary supplements.
+Total usual nutrient intakes from foods and dietary supplements (2015 Canadian Community Health Survey – Nutrition) -
+Methodology document| 5
+• Iron: Estimation of iron inadequacy was done using the full probability method as described
+in section 2.3.4 of the Methodology document: Usual intakes from food for energy, nutrients
+and other dietary components.3
+• Vitamin A: No prevalence of intakes above the UL are shown for vitamin A. The UL for
+vitamin A applies to preformed vitamin A only and these intake estimates are not yet
+available.
+• Vitamin A and D: Corrections were made to amend errors of Vitamin A and D values in the
+2015 CCHS – Nutrition dataset due to the way they were documented in the Licensed
+Natural Health Products Database (LNHPD).
+• Vitamin D: All vitamin D supplements from the 2015 CCHS – Nutrition dataset were included
+in the analysis whether available as over the counter or higher-dose prescription vitamin D.
+All estimates were adjusted according to the instructions from Statistics Canada by using the
+sampling weights provided in the 2015 CCHS Nutrition data files in order to reflect the intakes of
+the Canadian population.7
+3. Comparability with other published estimates
+Several methods are available to estimate total usual intakes by incorporating nutrient intakes
+from dietary supplements and foods.8 These methods differ primarily in how they handle
+measurement error and each method will generate slightly different results. BDSKI deemed the
+current approach (i.e., three-part mixed effects model) the most appropriate for analysis of
+CCHS – Nutrition data considering sample characteristics, total sample size and proportion of
+the sample that use dietary supplements. Other factors can affect the results of the analysis of
+total usual intakes including covariates included in the model and data source (i.e., master file
+vs. share file).
+Total usual nutrient intakes from foods and dietary supplements (2015 Canadian Community Health Survey – Nutrition) -
+Methodology document| 6
+Appendix A. Table footnotes
+The following footnotes apply to the data tables:
+1. The survey excludes from its target population those living in the three territories,
+individuals living on reserves, residents of institutions, full‐time members of the
+Canadian Armed Forces and residents of certain remote regions.
+2. The table excludes pregnant and lactating females, subject to another set of nutritional
+recommendations.
+3. Sample size is based on the first 24‐hour recall (first day of interview) only.
+4. The intake distribution was estimated using a three-part mixed effects model (extension
+of the National Cancer Institute (NCI) Method). The model was used to estimate and
+then combine three usual intake distributions: (1) from food for nonusers of dietary
+supplements; (2) from food for users of dietary supplements; and (3) from dietary
+supplements for users of dietary supplements.4,5
+5. Bootstrap weights provided by Statistics Canada were used to produce the coefficient of
+variation (CV) and the standard error (SE).
+6. EAR is the Estimated Average Requirement. In the context of reporting results in a
+population-based survey such as the 2015 CCHS-Nutrition, the primary use of the EAR
+is to estimate the prevalence of inadequacy of some nutrients in a group. For further
+information on EAR and how to interpret the prevalence of inadequacy in a population
+see the Health Canada publication The Reference Guide to Understanding and Using
+the Data - 2015 Canadian Community Health Survey - Nutrition, Section 2.2.2.2
+7. UL is the Tolerable Upper Intake Level. The level of intake at the UL is the highest
+average daily intake level that is likely to pose no risk of adverse health effects to almost
+all individuals in the general population. For further information on UL and how to
+interpret the prevalence of intakes above the UL in a population, see the Health Canada
+publication The Reference Guide to Understanding and Using the Data - 2015
+Canadian Community Health Survey - Nutrition, Section 2.2.5.2 In 2017, the Guiding
+Principles for Developing Dietary Reference Intakes Based on Chronic Disease
+recommended that the UL be retained in the expanded DRI model, but that it should
+characterize toxicological risk.9
+8. For a more detailed understanding of DRIs and their interpretation when assessing
+intakes of particular nutrients, consult the summary of the series of publications on DRIs
+published by the Institute of Medicine: Dietary Reference Intakes: The Essential Guide
+to Nutrient Requirements, (2006).10
+9. In terms of precision, the estimate 0.0 with a standard error of 0.0 refers to a standard
+error smaller than 0.1%.
+10. We assigned the following symbols based on the data release guidelines of Statistics
+Canada:
+a. Data with a coefficient of variation (CV) from 16.6% to 33.3% are identified as
+follows: (E) use with caution.
+Total usual nutrient intakes from foods and dietary supplements (2015 Canadian Community Health Survey – Nutrition) -
+Methodology document| 7
+b. Data with a coefficient of variation (CV) greater than 33.3% with a 95%
+confidence interval entirely between 0 and 3% are identified as follows: <3
+interpret with caution.
+c. Data with a coefficient of variation (CV) greater than 33.3% were suppressed due
+to extreme sampling variability and are identified as follows: (F) too unreliable to
+be published.
+Total usual nutrient intakes from foods and dietary supplements (2015 Canadian Community Health Survey – Nutrition) -
+Methodology document| 8
+References
+1 Statistics Canada. Table 13-10-0773-01 Nutritional supplements - past month consumption, by age
+group and sex, household population aged 1 and over, Canadian Community Health Survey (CCHS) -
+Nutrition, Canada and provinces. DOI: https://doi.org/10.25318/1310077301-eng
+2 Health Canada. Reference Guide to Understanding and Using the Data - 2015 Canadian Community
+Health Survey- Nutrition. 2017. Available at: https://www.canada.ca/en/health-canada/services/food-
+nutrition/food-nutrition-surveillance/health-nutrition-surveys/canadian-community-health-survey-
+cchs/reference-guide-understanding-using-data-2015.html
+3 Health Canada. Methodology document: Usual intakes from food for energy, nutrients and other dietary
+components (2004 and 2015 Canadian Community Health Survey - Nutrition). 2021. Available at:
+https://www.canada.ca/en/health-canada/services/food-nutrition/food-nutrition-surveillance/health-
+nutrition-surveys/canadian-community-health-survey-cchs/compendium-data-tables-intakes-energy-
+nutrients-other-food.html
+4 Tooze JA, Midthune D, Dodd KW, et al.: A new statistical method for estimating the usual intake of
+episodically consumed foods with application to their distribution. J Am Diet Assoc 2006;106: pp. 1575-
+1587
+5 Tooze JA, Kipnis V, Buckman DW, et al.: A mixed-effects model approach for estimating the distribution
+of usual intake of nutrients: the NCI method. Stat Med 2010; 29: pp. 2857-2868
+6 Verkaik-Kloosterman J, Dodd KW, Dekkers ALM, van’t Veer P, Ocke MC. A Three-Part, Mixed-Effects
+Model to Estimate the Habitual Total Vitamin D Intake Distribution from Food and Dietary Supplements in
+Dutch Young Children. J Nutr. 2011;141(11), pp. 2055-2063
+7 Statistics Canada (2017). 2015 Canadian Community Health Survey (CCHS) – Nutrition User Guide.
+Available by request at: Statcan.hd-ds.statcan@statcan.gc.ca
+8 Bailey RL, Dodd KW, Gahche JJ, et al.: Best Practices for Dietary Supplement Assessment and
+Estimation of Total Usual Nutrient Intakes in Population-Level Research and Monitoring. J Nutr. 2019 Feb
+1;149(2):181-197. doi: 10.1093/jn/nxy264. PMID: 30753685; PMCID: PMC6374152.
+9 National Academies of Sciences, Engineering, and Medicine. 2017. Guiding principles for developing
+Dietary Reference Intakes based on chronic disease. Washington, DC: The National Academies Press
+10 Otten JJ, Hellwig JP, Meyers LD. Dietary Reference Intakes. The Essential Guide to Nutrient
+Requirements. 2006. Washington, D.C.: National Academies Press
+Total usual nutrient intakes from foods and dietary supplements (2015 Canadian Community Health Survey – Nutrition) -
+Methodology document| 9

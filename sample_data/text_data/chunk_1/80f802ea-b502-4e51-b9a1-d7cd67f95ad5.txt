@@ -1,0 +1,65 @@
+Created: 2024-02-28T20:01:35.975528
+Name: Tiletamine-Zolazepam_use_in_wildlife_immobilization__(2012-2022)
+Original URL: https://open.canada.ca/data/dataset/80f802ea-b502-4e51-b9a1-d7cd67f95ad5/resource/ab95b41d-01a8-41b0-8228-3d17dc4f05af/download/tz_data_dictionary_en.txt
+Package ID: 80f802ea-b502-4e51-b9a1-d7cd67f95ad5
+Keywords: ['veterinary drugs', 'wildlife', 'immobilization', 'tiletamine', 'zolazepam', 'deer', 'wolves', 'bears', 'moose', 'elk', 'raccoons', 'skunks', 'seals', 'bison']
+Notes: The Veterinary Drugs Directorate has compiled ten years of data on the use of injectable tiletamine-zolazepam products for immobilizing wildlife in Canada. There are no approved tiletamine-zolazepam products in Canada. Access to a foreign authorized tiletamine-zolazepam product is permitted through Experimental Studies Certificates (ESC) or Emergency Drug Release (EDR) authorizations. The data collected from 2012-2022 comes from follow-up reports to authorizations for tiletamine-zolazepam products through these pathways. Follow-up reports are submitted to collect information on the product safety and the effectiveness for its intended use. This dataset compiled from the follow-up reports provides general information about how the products have been used and may be of interest to wildlife conservation officers, researchers or drug manufacturers. The dataset includes the number of animals immobilized, the species, the amount of drug used, and whether there were any adverse events or concerns with the quality of sedation. The data also indicates the province where immobilizations had taken place and any other drugs that were included in the immobilization protocol. This dataset provides information on protocols that have been used in the past, but does not replace the need to consult with a veterinarian with experience in wildlife to design or update immobilization protocols.
+
+-------------------------------
+Extracted Text:
+Column heading or abbreviation	Interpretation
+ID	anonymized tracking number of applicant
+Year Start	calendar year at the start of the authorization
+Year End	calendar year at the end of the follow-up period
+Primary	"brand of tiletamine/zolazepam combination drug used under the authorization, either Telazol or Zoletil 100"
+Secondary	"first concurrent drug used along with tiletamine/zolazepam for immobilization, by active ingredient"
+Tertiary	"second concurrent drug used along with tiletamine/zolazepam for immobilization, by active ingredient"
+Reversal	"type of reversal agent used in the immobilization protocol, by active ingredient"
+Species	Species immobilized under the authorization
+# Animals	number of animals of each species immobilized under the authorization
+TZ	tiletamine-zolazepam
+D	dosage
+min	minimum
+max	maximum
+TZ D min (mg/kg)	minimum dosage of tiletamine/zolazepam in mg per kg bodyweight
+TZ D max (mg/kg)	maximum dosage of tiletamine/zolazepam in mg per kg bodyweight
+Secondary D min (mg/kg)	minimum dosage of first concurrent drug in mg per kg bodyweight
+Secondary D max (mg/kg)	maximum dosage of first concurrent drug in mg per kg bodyweight
+Tertiary D min (mg/kg)	minimum dosage of second concurrent drug in mg per kg bodyweight
+Tertiary D max (mg/kg)	maximum dosage of second concurrent drug in mg per kg bodyweight
+Reversal D min (mg/kg)	minimum dosage of reversal agent in mg per kg bodyweight
+Reversal D max (mg/kg)	maximum dosage of reversal agent in mg per kg bodyweight
+Route	"route of administration, IM or IV"
+IM	intramuscular injection
+IV	intravenous injection
+Location	region where authorized drug was used by province
+AB	Alberta
+BC	British Columbia
+MB	Manitoba
+NB	New Brunswick
+NS	Nova Scotia
+NWT	Northwest Territories
+NU	Nunavut 
+ON	Ontario
+QC	Quebec
+SK	Saskatchewan
+YK	Yukon
+Multiple	authorization spanned more than one province or territory
+ITE	immobilized with the intent to euthanize (death is not an adverse event)
+AR1	"The number of severe adverse reactions (death associated with capture and sedation 
+when euthanization was not intended, unknown if due to TZ)"
+AR2	"The number of moderate adverse reaction (respiratory depression, tachycardia, hyper- or hypothermia
+emesis, excessive salivation, vocalization, muscular twitching or hypertonicity)"
+AR3	The number of mild adverse reaction (insufficient sedation)
+AR desc	"Description of adverse reaction, when available"
+TUR	"The number of top-ups required (additional medication given to prolong procedure, or due to early rousing)"
+R1	The number of unsuccessful recoveries (unable to recover so euthanized)
+R2	The number of poor recoveries (reversed early due to adverse reaction to immobilization)
+R3	The number of prolonged recoveries
+Type	"the type of submission, ESC or EDR"
+ESC	Experimental Studies Certificate
+EDR	Emergency Drug Release
+999	"Missing data, variable was reported but insufficient information given"
+888	"Missing data, variable was not reported"
+777	Not applicable
+666	"Other, multiple doses or dosed as needed"

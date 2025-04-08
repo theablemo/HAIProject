@@ -1,0 +1,8 @@
+Created: 2018-12-07T15:30:34.824805
+Name: Radon_and_Thoron_Data_From_Canadian_Homes_
+Original URL: https://health.canada.ca/apps/open-data/radon-thoron/radon-thoron.csv
+Package ID: 744d8a3b-b9e0-41b8-be5f-5f869a36a221
+Keywords: ['National Radon Program', 'Bq/m³', 'radon', 'Rn-222', 'thoron', 'Rn-220', 'CMA', 'Census Metropolitan Area', 'survey', 'random digit dialing', 'homes', 'radon measurement']
+Notes: Radon (Rn-222) is the second leading cause of lung cancer after tobacco smoking. It can easily move through small spaces in soils and other materials, allowing it to enter buildings and accumulate to levels that can pose a health risk. Health Canada recommends that all Canadians test their home for radon and remediate if levels are higher than 200 becquerels per cubic meter (Bq/m³). 
+
+In order to better understand the risk to Canadians from exposure to radon and thoron, the National Radon Program (NRP) conducted an indoor residential measurement survey in 2012-2013 to gather information on radon and thoron levels across the Census Metropolitan Areas (CMA) in Canada.

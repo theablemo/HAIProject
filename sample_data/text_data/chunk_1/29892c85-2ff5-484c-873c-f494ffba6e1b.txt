@@ -1,0 +1,317 @@
+Created: 2023-03-08T19:28:35.987250
+Name: The_Healthy_Eating_Food_Index_2019_
+Original URL: https://open.canada.ca/data/dataset/29892c85-2ff5-484c-873c-f494ffba6e1b/resource/5a91fd01-db89-4d18-a2e9-fb22de809e30/download/data-dict.txt
+Package ID: 29892c85-2ff5-484c-873c-f494ffba6e1b
+Keywords: ['Healthy Eating Food Index 2019', "Canada's Food Guide", 'Diet Quality Index']
+Notes: Health Canada has developed a series of research tools. These tools assess the extent a group of individuals are following Canada’s food guide:
+
+1.	Healthy Eating Food Index
+2.	Canadian Food Intake Screener
+3.	Canadian Eating Practices Screener 
+
+This page provides detailed information on the Healthy Eating Food Index (HEFI).  The pdf document entitled "Calculating HEFI scores" describes how to calculate HEFI-2019 scores. The accompanying data files provide the user with the SAS macro and the information to apply the SAS macro.
+
+For more information on the screeners, please see: https://open.canada.ca/data/en/info/4f1c44a6-1ecf-4da7-a1da-058b1ff9ce06
+
+-------------------------------
+Extracted Text:
+Please consult the document entitled "Calculating HEFI 2019 Scores.docx"						
+Veuillez consulter le document intitulÃ© Â«Â Calcul de cotes HEFI 2019.docxÂ Â»			
+	
+***
+
+README for the file: "HEFICat_V2" (la version franÃ§aise suit) 
+			
+Version  	File name 	Key changes/Date
+1	HEFI2019Cat.xlsx		
+2	HEFI2019Cat_v2.xlsx	Some recipes that were previously rolled down recipes are now rolled up. As such, more items will be found in this file then in V1 / 16-Nov-2022
+			
+Column names			
+FID_CDE: Food or Recipe code 			
+FDC_DEN: Food or recipe description 			
+FDC_DEN_FR: Food or recipe description in French 			
+RA_g: Reference Amount in grams 			
+HEFI2019Cat: 2019 Healthy Eating Food Index Category			
+Free_Sugars_g: Estimated amounts of free sugars in grams per gram of food 			
+			
+Food categories	Food category description 		
+vegfruits	Vegetables and fruit. Excludes fruit juices		
+wholegrfoods	Whole-grain foods including whole wheat		
+nonwholegrfoods	Non whole-grain foods 		
+profoodsanimal	Animal-based protein foods excluding milk		
+profoodsplant	Plant-based protein foods excluding all plant-based beverages 		
+otherfoods	All other foods  (i.e. anything that is not a vegetable and fruit, grain food, protein food, beverage, fat and oil or culinary ingredient e.g. spices and baking soda)	
+waterhealthybev	Water and other healthy beverages not in unsweetened milks and plant-based protein beverages 		
+unsweetmilk	Unsweetened milks		
+unsweetplantbevpro Unsweetened plant-based protein beverages		
+otherbeverages	Other beverages		
+not considered (e.g. herbs, spices, fats, oils, no RA)	All foods that were not assigned to a food category. Note: These foods will contribute to the HEFI components based on nutrient totals (components 7 - 10).  		
+
+LIREMOI pour le fichier: "HEFI2019Cat_V2_FR"		
+			
+Version  Nom du fichier 	Principaux changements 	Date
+1	HEFI2019Cat_FR.xlsx		
+2	HEFI2019Cat_v2_FR.xlsx	Les ingrÃ©dients de certaines recettes qui Ã©taient, auparavant, considÃ©rÃ©es de maniÃ¨re sÃ©parÃ©e sont maintenant considÃ©rÃ©s comme un ensemble. Ainsi, on trouvera plus dâÃ©lÃ©ments dans ce dossier que dans la V.1 / 16-Nov-2022
+			
+Noms des colonnes			
+FID_CDEÂ : Code de lâaliment ou de la recette. 			
+FDC_DENÂ : Description de lâaliment ou de la recette. 			
+FDC_DEN_FRÂ : Description des aliments ou des recettes en franÃ§ais. 			
+RA_gÂ : QuantitÃ© de rÃ©fÃ©rence de lâingrÃ©dient en grammes. 			
+HEFI2019CatÂ : CatÃ©gorie de lâindice alimentaire pour une alimentation saine (Healthy Eating Food Index [HEFI]) 2019.			
+Sucre_libre_gÂ : QuantitÃ©s estimÃ©es de sucres libres en grammes, par gramme dâaliment. 			
+			
+CatÃ©gories dâaliments	Description de la catÃ©gorie dâaliments 		
+vegfruits	LÃ©gumes et fruits. Ã lâexclusion des jus de fruits.		
+wholegrfoods	Aliments Ã  base de grains entiers, y compris le blÃ© entier.		
+nonwholegrfoods	Aliments qui ne sont pas Ã  grains entiers. 		
+profoodsanimal	Aliments protÃ©inÃ©s dâorigine animale, Ã  lâexclusion du lait.		
+profoodsplant	Aliments protÃ©inÃ©s dâorigine vÃ©gÃ©tale, Ã  lâexclusion de toutes les boissons dâorigine vÃ©gÃ©tale. 		
+otherfoods	Tous les autres aliments (câest-Ã -dire, tout ce qui nâest pas un lÃ©gume et un fruit, des aliments Ã  base de grains, des aliments protÃ©inÃ©s,  une boisson, les gras, les huiles et les ingrÃ©dients de cuisine, par exemple, les Ã©pices et le bicarbonate de soude).
+unsweetmilk	Laits non sucrÃ©s.		
+unsweetplantbevpro Boissons protÃ©inÃ©es dâorigine vÃ©gÃ©tale non sucrÃ©es.		
+otherbeverage	Autres boissons		
+Non considÃ©rÃ©s (par exemple, herbes, Ã©pices, graisses, huiles, aucun QR).	Tous les aliments qui nâont pas Ã©tÃ© attribuÃ©s Ã  une catÃ©gorie dâaliments. NoteÂ : Ces aliments contribueront aux composantes de lâHEFI basÃ©es sur les totaux de nutriments (composantesÂ 7 - 10).  		
+
+***
+
+README for the file: "ASA24_2018_Complete_Database" (la version franÃ§aise suit) 
+
+Last updated: November 14th, 2022
+
+
+Column names
+FoodCode: Food or Recipe code 
+Main_Food_Description: Food or recipe description 
+Type: Either a food or a recipe
+Recipe_Type: For recipes only indicates if the recipe is "rolled-up" (recipe as a whole) or "rolled-down" (separated into its ingredients). "NA" if not a recipe. 
+
+LIREMOI pour le fichier: "ASA24_2018_Base_de_donnÃ©es_complÃ¨tes"
+
+
+DerniÃ¨re mise Ã  jourÂ : 14Â novembre 2022
+
+Noms des colonnes
+FoodCode : Code de lâaliment ou de la recette. 
+Main_Food_DescriptionÂ : Description de lâaliment ou de la recette. 
+TypeÂ : Un aliment ou une recette.
+Recette_TypeÂ : Pour les recettes, indique uniquement sâil sâagit dâune recette dont les ingrÃ©dients sont considÃ©rÃ©s comme un ensemble (recette dans son ensemble) ou sâil sâagit dâune recette dont les ingrÃ©dients sont considÃ©rÃ©s de maniÃ¨re sÃ©parÃ©e (recette dÃ©cortiquÃ©e). "SO" si ce n'est pas une recette.
+
+***
+
+README for the file: "ASA24_Food_HEFI" (la version franÃ§aise suit) 
+
+Last updated: November 7th, 2022	
+	
+	
+Column names	
+FoodCode: Food or Recipe code 	
+Main_Food_Description: Food or recipe description 	
+Main_Food_Description_FR: Food or recipe description in French 	
+RA_g: Reference Amount in grams 	
+HEFI2019Cat: 2019 Healthy Eating Food Index Category	
+Free_sugars_g: Estimated free sugars in grams per gram of food (for more information see: https://www.mdpi.com/2072-6643/13/5/1471) 	
+	
+Food categories	Food category description 
+vegfruits	Vegetables and fruit. Excludes fruit juices
+wholegrfoods	Whole-grain foods including whole wheat
+nonwholegrfoods	Non whole-grain foods 
+profoodsanimal	Animal-based protein foods excluding milk
+profoodsplant	Plant-based protein foods excluding all plant-based beverages 
+otherfoods	All other foods  (i.e. anything that is not a vegetable and fruit, grain food, protein food, beverage, fat and oil or culinary ingredient e.g. spices and baking soda) 
+waterhealthybev	Water and other healthy beverages not in unsweetened milks and plant-based protein beverages 
+unsweetmilk	Unsweetened milks
+unsweetplantbevpro	Unsweetened plant-based protein beverages
+otherbeverages	Other beverages
+not considered (e.g. herbs, spices, fats, oils, no RA)	All foods that were not assigned to a food category. Note: These foods will contribute to the HEFI components based on nutrient totals (components 7 - 10).  
+
+
+LIREMOI pour le fichier:"ASA24_Aliments_HEFI"
+
+DerniÃ¨re mise Ã  jourÂ : 7Â novembre 2022	
+	
+	
+Noms des colonnes	
+FID_CDEÂ : Code de lâaliment ou de la recette. 	
+FDC_DENÂ : Description de lâaliment ou de la recette. 	
+FDC_DEN_FRÂ : Description des aliments ou des recettes en franÃ§ais. 	
+RA_gÂ : QuantitÃ© de rÃ©fÃ©rence de lâingrÃ©dient en grammes. 	
+HEFI2019CatÂ : CatÃ©gorie de lâindice alimentaire pour une alimentation saine (Healthy Eating Food Index [HEFI]) 2019.	
+Sucre_libre_gÂ : QuantitÃ©s estimÃ©es de sucres libres en grammes, par gramme dâaliment. 	
+	
+CatÃ©gories dâaliments	Description de la catÃ©gorie dâaliments 
+vegfruits	LÃ©gumes et fruits. Ã lâexclusion des jus de fruits.
+wholegrfoods	Aliments Ã  base de grains entiers, y compris le blÃ© entier.
+nonwholegrfoods	Aliments qui ne sont pas Ã  grains entiers. 
+profoodsanimal	Aliments protÃ©inÃ©s dâorigine animale, Ã  lâexclusion du lait.
+profoodsplant	Aliments protÃ©inÃ©s dâorigine vÃ©gÃ©tale, Ã  lâexclusion de toutes les boissons dâorigine vÃ©gÃ©tale. 
+otherfoods	Tous les autres aliments (câest-Ã -dire, tout ce qui nâest pas un lÃ©gume et un fruit, des aliments Ã  base de grains, des aliments protÃ©inÃ©s,  une boisson, les gras, les huiles et les ingrÃ©dients de cuisine, par exemple, les Ã©pices et le bicarbonate de soude).
+waterhealthybev	Eau et autres boissons saines sans laits non sucrÃ©s et boissons protÃ©inÃ©es dâorigine vÃ©gÃ©tale. 
+unsweetmilk	Laits non sucrÃ©s.
+unsweetplantbevpro	Boissons protÃ©inÃ©es dâorigine vÃ©gÃ©tale non sucrÃ©es.
+otherbeverage	Autres boissons
+not considered (par exemple, herbes, Ã©pices, graisses, huiles, aucun QR).	Tous les aliments qui nâont pas Ã©tÃ© attribuÃ©s Ã  une catÃ©gorie dâaliments. NoteÂ : Ces aliments contribueront aux composantes de lâHEFI basÃ©es sur les totaux de nutriments (composantesÂ 7 - 10).  
+
+***
+
+
+README for the file: "ASA24_Recipes_HEFI" (la version franÃ§aise suit) 
+
+Last updated: November 17th, 2022
+
+Column names
+FoodCode: Food or Recipe code 
+Main_Food_Description: Food or recipe description 
+Main_Food_Description_FR: Food or recipe description in French 
+Free_sugars_g: Estimated free sugars in grams per gram of recipe. Calculated based on free sugar value of recipe ingredients (for more information see: https://www.mdpi.com/2072-6643/13/5/1471) 
+RA_vegfruits:  number of Reference Amounts of vegetables and fruit per gram of recipe
+RA_wholegrfoods: number of Reference Amounts of whole grain foods  per gram of recipe
+RA_nonwholegrfoods:  number of Reference Amounts of non-whole-grain foods per gram of  recipe
+RA_profoodsanimal: number of Reference Amounts of animal-based protein foods 
+RA_profoodsplant: number of Reference Amounts of plant-based protein foods  per gram of recipe
+RA_otherfoods: number of Reference Amounts of all other foods (i.e. anything that is not a vegetable and fruit, grain foods, protein foods, beverage, fat and oil or culinary ingredient e.g. spices or baking soda) per gram of recipe
+g_waterhealthybev: grams of water and other healthy beverages not in unsweetened milks and plant-based protein beverages per gram of recipe
+g_unsweetmilk: grams of unsweetened milks per gram of recipe
+g_unsweetplantbevpro: grams of plant-based protein beverages per gram of recipe
+g_otherbeverages: grams of other beverages per gram of recipe
+RA_not_considered: number of Reference Amounts of all foods not assigned to a HEFI food category per gram of recipe
+
+
+LIREMOI pour le fichier:"ASA24_Recettes_HEFI"
+
+DerniÃ¨re mise Ã  jourÂ : 17Â novembre 2022
+
+
+Noms des colonnes
+FoodCode : Code de lâaliment ou de la recette. 
+Main_Food_DescriptionÂ : Description de lâaliment ou de la recette. 
+Main_Food_Description_FRÂ : Description des aliments ou des recettes en franÃ§ais. 
+Free_sugars_gÂ : Estimation des sucres libres en grammes, par gramme de recette. CalculÃ© selon la valeur en sucre libre des ingrÃ©dients de la recette (pour plus dâinformations, veuillez consulterÂ : https://www.mdpi.com/2072-6643/13/5/1471) 
+RA_vegfruitsÂ :  Nombre de quantitÃ©s de rÃ©fÃ©rence de lÃ©gumes et de fruits par gramme de recette.
+RA_wholegrfoodsÂ : Nombre de quantitÃ©s de rÃ©fÃ©rence dâaliments Ã  base de grains entiers par gramme de recette.
+RA_nonwholegrfoodsÂ :  Nombre de quantitÃ©s de rÃ©fÃ©rence dâaliments qui ne sont pas Ã  grains entiers par gramme de recette.
+RA_profoodsanimalÂ : Nombre de quantitÃ©s de rÃ©fÃ©rence dâaliments protÃ©inÃ©s dâorigine animale. 
+RA_profoodsplantÂ : Nombre de quantitÃ©s de rÃ©fÃ©rence dâaliments protÃ©inÃ©s dâorigine vÃ©gÃ©tale par gramme de recette.
+RA_otherfoodsÂ : Nombre de quantitÃ©s de rÃ©fÃ©rence de tous les autres aliments   (câest-Ã -dire, tout ce qui nâest pas un lÃ©gume et un fruit, des aliments Ã  base de grains, des aliments protÃ©inÃ©s,  une boisson, les gras, les huiles et les ingrÃ©dients de cuisine, par exemple, les Ã©pices et le bicarbonate de soude).
+g_waterhealthybevÂ : Grammes dâeau et dâautres boissons saines qui ne sont pas contenues dans les laits non sucrÃ©s et les boissons protÃ©inÃ©es dâorigine vÃ©gÃ©tale par gramme de recette.
+g_unsweetmilkÂ : Grammes de laits non sucrÃ©s par gramme de recette.
+g_unsweetplantbevproÂ : Grammes de boissons protÃ©inÃ©es dâorigine vÃ©gÃ©tale par gramme de recette.
+g_otherbeveragesÂ : Grammes dâautres boissons par gramme de recette.
+RA_not_consideredÂ : Nombre de quantitÃ©s de rÃ©fÃ©rence de tous les aliments qui nâont pas Ã©tÃ© attribuÃ©s Ã  une catÃ©gorie HEFI dâaliments par gramme de recette.
+
+
+***
+
+README for the file: "HEFI2019CatCNF" (la version franÃ§aise suit) 
+
+Last updated: October 26, 2022	
+	
+Column names	
+FID_CDE : Food code 	
+FDC_DEN: Food description 	
+FDC_DEN_FR: Food or recipe description in French 	
+RA_g: Reference Amount in grams 	
+HEFI2019Cat: 2019 Healthy Eating Food Index Category	
+Free_Sugars_g: Estimated free sugars in grams per gram of food. 	
+	
+Food categories	Food category description 
+vegfruits	Vegetables and fruit. Excludes fruit juices
+wholegrfoods	Whole-grain foods including whole wheat
+nonwholegrfoods	Non whole-grain foods 
+profoodsanimal	Animal-based protein foods excluding milk
+profoodsplant	Plant-based protein foods excluding all plant-based beverages 
+otherfoods	All other foods  (i.e. anything that is not a vegetable and fruit, grain food, protein food, beverage, fat and oil or culinary ingredient e.g. spices and baking soda) 
+waterhealthybev	Water and other healthy beverages not in unsweetened milks and plant-based protein beverages 
+unsweetmilk	Unsweetened milks
+unsweetplantbevpro	Unsweetened plant-based protein beverages
+otherbeverages	Other beverages
+not considered (e.g. herbs, spices, fats, oils, no RA)	All foods that were not assigned to a food category. Note: These foods will contribute to the HEFI components based on nutrient totals (components 7 - 10).  
+
+
+LIREMOI pour le fichier:"HEFI2019Cat_FCEN"
+
+DerniÃ¨re mise Ã  jourÂ : 26Â octobre 2022	
+	
+Noms des colonnes	
+FID_CDEÂ : Code de lâaliment ou de la recette. 	
+FDC_DENÂ : Description des aliments. 	
+FDC_DEN_FRÂ : Description des aliments ou des recettes en franÃ§ais. 	
+RA_gÂ : QuantitÃ© de rÃ©fÃ©rence de lâingrÃ©dient en grammes. 	
+HEFI2019CatÂ : CatÃ©gorie de lâindice alimentaire pour une alimentation saine (Healthy Eating Food Index [HEFI]) 2019.	
+Free_Sugars_gÂ : Estimation des sucres libres en grammes, par gramme dâaliment. 	
+	
+CatÃ©gories dâaliments	Description de la catÃ©gorie dâaliments 
+vegfruits	LÃ©gumes et fruits. Ã lâexclusion des jus de fruits.
+wholegrfoods	Aliments Ã  base de grains entiers, y compris le blÃ© entier.
+nonwholegrfoods	Aliments qui ne sont pas Ã  grains entiers. 
+profoodsanimal	Aliments protÃ©inÃ©s dâorigine animale, Ã  lâexclusion du lait.
+profoodsplant	Aliments protÃ©inÃ©s dâorigine vÃ©gÃ©tale, Ã  lâexclusion de toutes les boissons dâorigine vÃ©gÃ©tale. 
+otherfoods	Tous les autres aliments  (câest-Ã -dire, tout ce qui nâest pas un lÃ©gume et un fruit, des aliments Ã  base de grains, des aliments protÃ©inÃ©s,  une boisson, les gras, les huiles et les ingrÃ©dients de cuisine, par exemple, les Ã©pices et le bicarbonate de soude).
+unsweetmilk	Laits non sucrÃ©s.
+unsweetplantbevpro	Boissons protÃ©inÃ©es dâorigine vÃ©gÃ©tale non sucrÃ©es.
+otherbeverage	Autres boissons.
+Non considÃ©rÃ©s (par exemple, herbes, Ã©pices, graisses, huiles, aucun QR).	Tous les aliments qui nâont pas Ã©tÃ© attribuÃ©s Ã  une catÃ©gorie dâaliments. NoteÂ : Ces aliments contribueront aux composantes de lâHEFI basÃ©es sur les totaux de nutriments (composantesÂ 7 - 10).  
+
+
+***
+
+
+README for the file: "Recipe_Breakdown" (la version franÃ§aise suit) 
+
+
+Last updated: November 17th, 2022
+
+
+Column names
+FoodCode: Recipe code 
+SeqNum: Ingredient sequence number within a recipe 
+Main_Food_Description: Recipe Description
+IngCode: Ingredient Food code
+Ingredient_description: Ingredient Description
+IngWeight: Weight of ingredient in grams
+TotalRecipeWeight: Total weight of the recipe in grams
+RA_g: Reference Amount in grams 
+HEFI2019Cat: 2019 Healthy Eating Food Index Category
+Free_sugars_g: Estimated free sugars in grams per gram of food (for more information see: https://www.mdpi.com/2072-6643/13/5/1471) 
+Ing_free_sugars: Estimated free sugars in grams per gram of total recipe
+RA_vegfruits:  number of Reference Amounts of vegetables and fruit per gram of recipe
+RA_wholegrfoods: number of Reference Amounts of whole grain foods  per gram of recipe
+RA_nonwholegrfoods:  number of Reference Amounts of non-whole-grain foods per gram of  recipe
+RA_profoodsanimal: number of Reference Amounts of animal-based protein foods 
+RA_profoodsplant: number of Reference Amounts of plant-based protein foods  per gram of recipe
+RA_otherfoods: number of Reference Amounts of all other foods   (i.e. anything that is not a vegetable and fruit, grain food, protein food, beverage, fat and oil or culinary ingredient e.g. spices and baking soda) per gram of recipe
+g_waterhealthybev: grams of water and other healthy beverages not in unsweetened milks and plant-based protein beverages per gram of recipe
+g_unsweetmilk: grams of unsweetened milks per gram of recipe
+g_unsweetplantbevpro: grams of plant-based protein beverages per gram of recipe
+g_otherbeverages: grams of other beverages per gram of recipe
+RA_not_considered: number of Reference Amounts of all foods not assigned to a HEFI food category per gram of recipe
+
+
+LIREMOI pour le ficher: "RÃ©partition_des_recettes"
+
+DerniÃ¨re mise Ã  jourÂ : 17Â novembre 2022
+
+
+Noms des colonnes
+FoodCode : Code de la recette. 
+SeqNum: NumÃ©ro de sÃ©quence de lâingrÃ©dient dans une recette. 
+Main_Food_DescriptionÂ : Description de la recette.
+IngCode : Code dâingrÃ©dient.
+Ingredient_description : Description de lâingrÃ©dient
+IngWeight : Poids de lâingrÃ©dient en grammes.
+TotalRecipeWeight : Poids total de la recette en grammes.
+RA_gÂ : QuantitÃ© de rÃ©fÃ©rence en grammes 
+HEFI2019CatÂ : CatÃ©gorie de lâindice alimentaire pour une alimentation saine (Healthy Eating Food Index [HEFI]) 2019.
+Free_sugars_gÂ : Estimation des sucres libres en grammes par gramme dâaliment (pour plus dâinformations, veuillez consulter le https://www.mdpi.com/2072-6643/13/5/1471) 
+Ing_free_sugarsÂ : Estimation des sucres libres en grammes, par gramme de la recette complÃ¨te.
+RA_vegfruitsÂ :  Nombre de quantitÃ©s de rÃ©fÃ©rence de lÃ©gumes et de fruits par gramme de recette.
+RA_wholegrfoodsÂ : Nombre de quantitÃ©s de rÃ©fÃ©rence dâaliments Ã  base de grains entiers par gramme de recette.
+RA_nonwholegrfoodsÂ :  Nombre de quantitÃ©s de rÃ©fÃ©rence dâaliments qui ne sont pas Ã  grains entiers par gramme de recette.
+RA_profoodsanimalÂ : Nombre de quantitÃ©s de rÃ©fÃ©rence dâaliments protÃ©inÃ©s dâorigine animale. 
+RA_profoodsplantÂ : Nombre de quantitÃ©s de rÃ©fÃ©rence dâaliments protÃ©inÃ©s dâorigine vÃ©gÃ©tale par gramme de recette.
+RA_otherfoodsÂ : Nombre de quantitÃ©s de rÃ©fÃ©rence de tous les autres aliments   (câest-Ã -dire, tout ce qui nâest pas un lÃ©gume et un fruit, des aliments Ã  base de grains, des aliments protÃ©inÃ©s,  une boisson, les gras, les huiles et les ingrÃ©dients de cuisine, par exemple, les Ã©pices et le bicarbonate de soude).
+g_waterhealthybevÂ : Grammes dâeau et dâautres boissons saines qui ne sont pas contenues dans les laits non sucrÃ©s et les boissons protÃ©inÃ©es dâorigine vÃ©gÃ©tale par gramme de recette.
+g_unsweetmilkÂ : Grammes de laits non sucrÃ©s par gramme de recette.
+g_unsweetplantbevproÂ : Grammes de boissons protÃ©inÃ©es dâorigine vÃ©gÃ©tale par gramme de recette.
+g_otherbeveragesÂ : Grammes dâautres boissons par gramme de recette.
+RA_not_consideredÂ : Nombre de quantitÃ©s de rÃ©fÃ©rence de tous les aliments qui nâont pas Ã©tÃ© attribuÃ©s Ã  une catÃ©gorie HEFI dâaliments par gramme de recette.

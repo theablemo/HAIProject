@@ -1,0 +1,8 @@
+Created: 2022-02-10T19:21:20.389691
+Name: Ottawa_Bike_Study_Volatile_Organic_Compound_(VOC)
+Original URL: https://health.canada.ca/apps/open-data/obs-ebo/Ottawa%20Bike%20Study%20VOC%20Dataset%20-%20Eng.csv
+Package ID: ab59fe81-b947-4589-b33d-24a960ceb80d
+Keywords: ['Volatile organic compound', 'Air Quality', 'Bike', 'Cycling', 'VOC', 'Ottawa']
+Notes: A cross-over study was conducted among 42 healthy adults during summer 2010 in Ottawa, Canada. Participants cycled for 1-hour along high and low-traffic routes and volatile organic compound (VOC) exposures were determined along each route.
+
+

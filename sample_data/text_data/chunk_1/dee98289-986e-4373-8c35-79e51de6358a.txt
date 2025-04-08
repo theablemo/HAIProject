@@ -1,0 +1,765 @@
+Created: 2020-07-29T13:01:34.697555
+Name: For_an_appearance_before_the_House_of_Commons_Standing_Committee_on_Health__March_31,_2020
+Original URL: https://open.canada.ca/data/dataset/dee98289-986e-4373-8c35-79e51de6358a/resource/078a56ef-8281-47fa-b468-378bd80c05f6/download/cusersjdavitskdesktophesa-march-31st-english.pdf
+Package ID: dee98289-986e-4373-8c35-79e51de6358a
+Keywords: ['Health Canada', 'Coronavirus', 'Covid-19', 'Deputy Minister', 'Briefing', 'HESA']
+Notes: Briefing Binder used by the Deputy Minister of Health at an appearance before the Standing Committee on Health on March 31, 2020
+-------------------------------
+Extracted Text:
+APPEARANCE OF THE DEPUTY MINISTER
+HESA
+Coronavirus
+March 31, 2020
+TABLE OF CONTENTS
+1. Opening Remarks
+2. Regulatory Review of Drugs and Devices
+3. Drug Shortages
+4. Digital Tools and Apps
+5. Occupational Health and Safety
+6. FPT Engagement
+7. Personal Protective Equipment
+8. HESA Coronavirus Document Request
+Opening Remarks for
+Dr. Stephen Lucas
+Deputy Minister of Health Canada
+For an appearance before
+the House of Commons
+Standing Committee on Health
+COVID-19
+March 31, 2020
+Ottawa, ON
+Allotted speaking time: 10 minutes
+Speech length: 1103 words
+Check against delivery
+1
+Introduction
+Mr. Chair, thank you for the opportunity to speak to the
+Committee today about Health Canada’s role in the
+Government’s response to COVID-19.
+The COVID-19 pandemic is unlike anything we have seen
+in recent history. I can assure you that Health Canada is
+taking all measures we can to protect the health and
+safety of Canadians
+Regulatory reviews of drugs and devices
+Health Canada plays a vital role in the Government’s
+COVID-19 response as the regulator of health products.
+Core to our regulatory mandate is the review of health
+products for safety, quality and efficacy. During this
+critical period, it is very important to get drugs and medical
+supplies quickly to the frontlines.
+We are focused on expediting the review and approval of
+drugs and devices to address COVID-19, while continuing
+to ensure that these products are safe and effective for
+Canadians.
+We are using all tools in our toolkit.
+Just last week, the Government welcomed the passage of
+amendments to the Food and Drugs Act and the Patent
+2
+Act to streamline processes and provide the Government
+with additional powers to:
+ help prevent and mitigate shortages of drugs and
+medical devices;
+ seek additional information from companies to confirm
+that products are safe for Canadians; and
+ make, use, or sell a patented invention, such as a
+medication or a ventilator, that is needed to respond
+to this pandemic.
+These amendments help position us to adapt quickly. Our
+goal is to ensure that Canada is prepared for whatever
+challenges come our way.
+Interim orders
+Another critical regulatory tool we have in our toolkit is the
+use of interim orders.
+An Interim Order is one of the fastest mechanisms
+available to the Government of Canada to help make
+health products available to help address larger-scale,
+public health emergency situations — such as the COVID-
+19 pandemic.
+Earlier this month, the Minister of Health approved an
+Interim Order to allow quicker and more flexible approval
+of the importation and sale of medical devices necessary
+for Canada’s response to COVID-19.
+3
+This Order made two new diagnostic tests immediately
+available to Canadian laboratories, and we continue to
+approve additional tests.
+Drug Shortages
+Despite all of these efforts, we anticipate there will be
+shortages of health products given global demand.
+Health Canada is working proactively to identify and
+mitigate the impact of drug and medical device shortages
+on Canadians and health care professionals during the
+ongoing COVID-19 pandemic.
+We have stepped up our surveillance efforts and as I have
+mentioned, we have adopted new, more agile processes,
+to help ensure Canadians have access to the drugs and
+medical devices they need.
+We have increased the frequency of our engagement with
+industry, provinces and territories, healthcare and patient
+groups and international partners. These efforts are
+leading to earlier signal identification and coordination of
+mitigation efforts.
+Personal Protective Equipment
+As President Namiesniowski mentioned, we are also using
+all the tools at our disposal to expedite supply of safe and
+effective personal protective equipment, or PPE.
+4
+Protecting our front-line workers — those who care for the
+sick and keep our communities running — is one of our
+top priorities. Healthcare workers need a reliable supply
+of appropriate PPE to do their jobs safely.
+We are expediting approvals of licence applications
+related to PPE products, sanitizers and disinfectants and
+facilitating expedited access through interim measures.
+This work is critical to ensure that Canada is able to
+benefit from the latest advancements in research and
+development related to COVID-19 – both domestically and
+abroad.
+Collaboration with PTs and other stakeholders
+As we know, no jurisdiction is immune to the threat and
+impact of COVID-19 and no individual government can
+respond alone. Collaboration and cooperation are critical
+to our response in Canada.
+From the beginning, we have increased the frequency of
+our engagement with provinces and territories, health care
+professionals, patient groups and industry stakeholders.
+The Minister of Health and I speak regularly with our
+counterparts at the provincial and territorial level to ensure
+that we are working together to meet the needs of the
+health care system during this very unique and
+challenging time.
+5
+In addition to regular contact with my provincial and
+territorial counterparts, there is also now a dedicated sub-
+committee of the Conference of Deputy Ministers of Health
+working together to understand where potential pressure
+points will be in the health care system and to mobilize
+resources as needed.
+We know that data and modelling are required elements to
+understand the progression of the COVID-19 pandemic in
+Canada.
+You may be aware that data has been made public
+through daily epidemiological reports on the COVID.ca site
+and yesterday the full detailed data was made available to
+researchers through Statistics Canada.
+Digital Health
+Another key area of collaboration with provinces and
+territories is in the area of digital health.
+Right now, we are asking Canadians to stay at home as
+much as possible and to practice physical distancing. For
+many, this may mean that access to medical professionals
+and social supports is not what it once was.
+The Government is looking at solutions to ensure that
+Canadians have direct access to reliable health
+information no matter where they are.
+This includes online tools.
+6
+The Government of Canada recently launched an online
+self-assessment tool for Canadians who are experiencing
+symptoms of COVID-19. The tool complements those
+already available in some provinces and territories, and
+helps the user determine whether they need further testing
+or medical attention.
+And we are developing an online mental health portal that
+will provide comprehensive psycho-social supports. This
+tool will help Canadians manage their mental health during
+this exceptionally stressful time, with the help of a variety
+of resources.
+Occupational Health and Safety
+Finally, I would like to speak briefly about Health Canada’s
+role in protecting the health of federal employees in the
+workplace.
+Through the Public Service Occupational Health
+Program, and in collaboration with the Chief Human
+Resources Officer, we have advised federal Departments
+and Agencies on how to manage the risk of this novel
+coronavirus in the workplace.
+We have provided general advice and given the wide
+variety of work settings in the federal public service, we
+have developed targeted advice for specific workplaces.
+For example, we have provided specific guidance for
+7
+federal employees supporting repatriation, and guidance
+for those on the frontlines at our border points of entry.
+Conclusion
+At Health Canada, we are committed to doing everything
+we can to protect the health and well-being of all
+Canadians — from healthcare workers, to federal public
+servants, to the people in our communities.
+With the COVID-19 pandemic sweeping the globe, the
+magnitude of this responsibility has never been clearer.
+The Government of Canada is working around the clock to
+protect the health and safety of Canadians.
+Thank you.
+8
+Drugs and Devices
+ The COVID-19 pandemic is unlike anything we have
+seen in recent history. Health Canada is working
+urgently to fight this virus while ensuring the safety of
+Canadians.
+ Health Canada plays a vital role in the Government’s
+COVID-19 response as the regulator of health
+products.
+ With this virus spreading rapidly in our communities, it
+is very important to get drugs and medical supplies
+quickly to the frontlines.
+ We are focused on expediting the review and
+approval of drugs and devices to address COVID-19,
+while continuing to ensure that these products are
+safe and effective for Canadians.
+ That’s why an Interim Order is a critical regulatory tool
+at this time. An Interim Order is one of the fastest
+mechanisms available to the Government of Canada
+to help make health products available to help
+address larger-scale, public health emergency
+situations — such as the COVID-19 pandemic.
+1
+Drugs and Devices
+ Just yesterday, the Minister of Health signed an
+Interim Order to help prevent and alleviate
+shortages. It permits the import and sale of drugs,
+medical devices, and foods for a special dietary
+purpose that are not approved in Canada, subject to
+certain requirements to ensure continued product
+quality and safety. It also provides improved access to
+disinfectants and hand sanitizers.
+ We have also already put in place interim measures
+that will expedite access to imported products to limit
+the spread of COVID-19, such as hand sanitizers, and
+disinfectants.
+ These measures will include giving Canadians access
+to products that are approved or registered in other
+jurisdictions with similar regulatory frameworks and
+quality assurances, but may not fully meet some of
+the regulatory requirements under the Food and
+Drugs Act — such as packaging or labelling
+requirements in both official languages.
+ We are also expediting approval of licences related to
+these products.
+ So far, 11 disinfectants, 107 hand sanitizers and 59
+site licences have been authorized as per interim
+expedited service standards.
+2
+Drugs and Devices
+ Earlier this month, on March 18, the Minister of Health
+approved another Interim Order to allow quicker and
+more flexible approval of the importation and sale of
+medical devices necessary for Canada’s response to
+COVID-19. These devices include personal protective
+equipment for our health care personnel, ventilators
+for patients, and diagnostic tests.
+ This Order has already made 13 devices available,
+including 6 diagnostics tests, 6 masks and 1 thermal
+camera.
+ Another key element of the Government’s response to
+COVID-19 is ensuring we have the authorities and
+tools we need to take appropriate action to protect the
+health and safety of Canadians.
+ The Government of Canada recently welcomed the
+passage of amendments to the Food and Drugs Act
+and the Patent Act that will streamline processes and
+provide the Government with additional powers to:
+o help prevent and mitigate shortages of drugs and
+medical devices;
+o seek additional information from companies to
+confirm that products are safe for Canadians; and
+o make, use, or sell a patented invention, such as a
+medication or a ventilator, that is needed to
+respond to this pandemic.
+3
+Drugs and Devices
+ The health and safety of Canadians remains the top
+priority and Health Canada is closely monitoring the
+COVID-19 situation in Canada. Rest assured Health
+Canada will continue to do all it can to manage this
+situation and adapt quickly.
+IF PRESSED …
+Clinical Trials
+ Health Canada is exploring how best to facilitate
+clinical trials related to COVID-19 in Canada. Clinical
+trials are conducted to determine whether new drugs,
+diagnostics or treatments are both safe and effective
+in human beings. Clinical trials ensure the quality of
+the study product, protection of the patient, and the
+proper collection and retention of outcomes. At the
+same time, clinical trials provide access to trial
+volunteers before new drugs, diagnostics or
+treatments are approved.
+ Clinical trial applications will be reviewed and
+approved by Health Canada in under 30 days. There
+are now 8 clinical trials authorized in Canada with
+treatments targeting COVID-19.
+ Until a vaccine or drug is available on the Canadian
+market, Health Canada's Special Access Program is
+available to practitioners requiring access to drugs
+that provide supportive treatments to the infection.
+4
+Drugs and Devices
+Our goal is to ensure that Canada is prepared for
+whatever challenges come our way.
+ The Special Access Program has authorised access
+to an experimental drug for the treatment of 11
+seriously ill patients infected with COVID-19.
+International Collaboration
+ Health Canada is leveraging its strong international
+partnerships with: the US Food and Drug
+Administration; the European Medicines Agency; the
+International Coalition of Medicines Regulatory
+Authorities; the World Health Organization; the Pan-
+American Health Organization and the Australia,
+Canada, Singapore, Switzerland Consortium. We are
+collaborating with member countries to share
+information and to raise our collective level of
+awareness of evidence-based approaches for
+vaccines and treatment. The objective is to work
+towards alignment on regulatory requirements
+5
+Drugs and Devices
+ Health Canada, through the International Coalition of
+Medicines Regulatory Authorities, known as ICMRA,
+is participating in COVID-19 specific discussions, is
+collaborating with member countries to share
+information and to raise our collective level of
+awareness of evidence-based approaches for
+treatment. The objective is to work towards alignment
+on regulatory requirements for vaccines and
+antivirals. On April 2 we will be discussing the
+treatments that are available and ongoing/planned
+clinical trials in their respective countries.
+BACKGROUND
+Medical Devices: Health Canada reviews all COVID-19-
+related submissions and applications as quickly as
+possible without compromising patient safety. Expedited
+review and reporting processes are now in place. The list
+of COVID-19 Medical Devices authorized for sale in
+Canada, as well as the applications received under the
+Interim Order signed by the Minister on March 18, 2020, is
+available on Health Canada’s website and is updated
+daily.
+Under the Interim Order, manufacturers are required to
+submit an abbreviated application to support the safety,
+effectiveness and quality of their medical device. The fees
+associated with an application through the Interim Order
+pathway will be waived. In addition, manufacturers
+applying through this pathway are not required to hold a
+Medical Device Single Audit Programme certification. This
+is the most efficient pathway manufacturers can follow in
+6
+Drugs and Devices
+order to apply for authorization.
+Healthcare professionals can request access to COVID-19
+related medical devices not yet licensed in Canada, or
+authorized for sale under the Interim Order pathway,
+through Health Canada’s Special Access Program (SAP).
+Drugs: When clinical trials have sufficient evidence to
+support full market authorization, Health Canada will work
+with sponsors to expedite the development and
+authorization of these products. When expediting the
+review of submissions and applications for clinical trials
+with the goal of enabling timely access to vaccines and
+therapeutic products, Health Canada will continue to
+ensure products are supported by sufficient evidence of
+safety, efficacy and quality to merit access to Canadians.
+Special access by Canadian health practitioners to
+unauthorized drugs is intended for serious or life-
+threatening conditions where conventional therapies have
+failed, are unsuitable, or are unavailable either as
+marketed products or through enrollment in clinical trials.
+The regulatory authority supporting the programme is
+discretionary and a decision to authorize or deny a request
+is made on a case-by-case basis by taking into
+consideration the nature of the medical emergency, the
+availability of marketed alternatives and the information
+provided in support of the request regarding the use,
+safety and efficacy of the drug.
+7
+Drug Shortages During the COVID-19 Pandemic
+ The current COVID-19 pandemic is having a major
+impact on Canadians and our health care system.
+ Health Canada is working proactively to identify and
+mitigate the impact of drug and medical device
+shortages on Canadians and health care
+professionals during the ongoing COVID-19
+pandemic.
+ We have stepped up our surveillance efforts and
+adopted new, more agile processes, to help ensure
+Canadians have access to the drugs and medical
+devices they need.
+ We have increased the frequency of our engagement
+with industry, provinces and territories, healthcare and
+patient groups and international partners. These
+efforts are leading to earlier signal identification and
+coordination of mitigation efforts.
+ The Food and Drugs Act was amended last week to
+clarify regulatory-making authorities related to
+shortages.
+Drug Shortages During the COVID-19 Pandemic
+IF PRESSED ON ENHANCED CASE MANAGEMENT APPROACH …
+ When drug and medical device shortages do develop,
+we have implemented a new, more agile process, to
+manage and mitigate the impacts on Canadians,
+where possible.
+ For example, Health Canada has implemented an
+interim approach to facilitate expedited access to
+hand sanitizers, disinfectants and personal protective
+equipment. This approach is proving effective and a
+number of products have already qualified for
+immediate import and sale.
+ Today, the Minister announced an Interim Order to
+support the exceptional importation of drugs and
+medical devices when required to address shortages
+related to COVID-19. The Order also introduces
+mandatory shortage reporting for medical devices
+considered critical during the COVID-19 pandemic.
+This will help the health system to plan for supplies as
+needed to help ensure continued access for
+Canadians.
+IF PRESSED ON EXPANDED ENGAGMENT AND COLLABORATION …
+ Health Canada is now working with provinces and
+territories, industry, healthcare and patient groups
+regularly to identify early shortage signals, potential
+measures to address shortages, and coordinate
+actions.
+Drug Shortages During the COVID-19 Pandemic
+ Health Canada has also increased the frequency of
+engagement with foreign regulatory partners and is
+now meeting weekly with the regulators in the US, the
+UK, the EU, and the World Health Organization to
+discuss actual shortages, emerging signals, global
+concerns and strategic approaches.
+Digital Tools/Apps Assisting with Covid-19
+ The government recognizes the significant health,
+economic and social impact of COVID-19 on
+Canadians, with many experiencing stress and
+anxiety.
+ The government is working in close collaboration with
+provinces and territories to ensure Canadians have
+up-to-date information and evidence-based guidance
+on the COVID-19 pandemic.
+ For example, on March 21, we launched a self-
+assessment tool on Canada.ca which allows
+Canadians to assess their symptoms so that they
+know whether to seek medical help or not.
+ There have been over 3 million visits to the self-
+assessment tool in the first week since it was
+launched.
+ In the coming days the Government will also be
+launching other digital tools to keep Canadians
+informed and safe, including virtual mental health
+supports.
+ The federal government will continue to work with all
+of our partners to ensure that Canadians have access
+to up-to-date information, tools and resources they
+need.
+1
+Digital Tools/Apps Assisting with Covid-19
+IF PRESSED …
+On the mental health tool
+ Health Canada is preparing to launch a single window
+for access to virtual comprehensive psychosocial
+supports to help Canadians with the mental toll that this
+pandemic is having on many of us.
+ These supports will follow a stepped care approach,
+moving from triage and self monitoring tools, to mental
+health promotion tools and resources, to live
+psychosocial supports with providers working at a
+distance.
+ Health Canada is currently in the process of finalizing
+who will provide the services and is working to have
+this in place as soon as possible.
+On self assessment tools
+ The self-assessment tool provides Canadians with
+essential information to help them determine whether
+they may have COVID-19 symptoms, and whether
+they should seek testing or additional medical
+assistance.
+ Canadians using these tools are able to get the
+information and guidance they needed, with the aim
+of reducing pressure on 811 and telehealth lines, and
+for in-person services such as family doctor visits,
+walk-in visits and urgent care centres.
+ We will continue to work closely with provinces and
+2
+Digital Tools/Apps Assisting with Covid-19
+territories, vendor and stakeholders on further tools
+that help Canadians manage their own health and
+stay safe during this pandemic.
+3
+Occupational Health Advice for Federal Employees
+Role
+ Health Canada, on behalf of Treasury Board as the
+Employer, is the occupational health service provider for
+the core public administration (operationally defined as
+Schedules I & IV of the Financial Administration Act).
+ These services are provided by the Public Service
+Occupational Health Program (PSOHP).
+ PSOHP has issued advice and guidance to federal
+departments about appropriate precautions for
+safeguarding employee health. PSOHP works very closely
+with PHAC.
+ Since there is a wide variety of work settings in the federal
+public service, in addition to a General Occupational
+Health Advisory, PSOHP has issued targeted advice for
+specific workplaces. For example, we provided specific
+guidance for federal employees supporting repatriation,
+and guidance for those on the frontlines at our border
+points of entry.
+ PSOHP advice is based on the latest available information
+about the virus and best practices in infection control. As
+information about COVID-19 evolves, occupational health
+advice for departments and employees is updated.
+1
+Client departments
+ Some of PSOHP’s biggest client departments are critical
+for Canada’s response to COVID-19, such as the Canada
+Border Services Agency. Other client departments include,
+Correctional Services Canada, the Canadian Coast
+Guard, Indigenous Services Canada, and the Department
+of National Defence.
+ PSOHP also provides occupational health services and
+advice to Canada-based staff deployed overseas (as well
+their spouses and dependents) for organizations such as
+Global Affairs Canada and Immigration, Refugees and
+Citizenship Canada.
+ Health Canada’s Occupational Health Advisories are
+shared with departments and agencies through the
+Treasury Board Secretariat’s Office of the Chief Human
+Resources Officer. Departments then make decisions
+about what to implement in their own department, while
+working closely with their departmental occupational
+health and safety programs.
+ Should any departments or agencies have specific
+questions or concerns, PSOHP is ready to provide
+occupational health advice and guidance.
+2
+Union notification
+ OCHRO also shares the advisories with Bargaining
+Agents through the National Joint Council’s Service-Wide
+Occupational Safety and Health Committee.
+IF PRESSED on federally regulated workplaces under
+ESDC’s Labour Program…
+ Although only mandated to serve the core public
+administration, PSOHP shares its advisories for use by
+other organizations, including ESDC’s Labour Program.
+ Similarly, we have shared the general Advisory with the
+Senate and House of Commons administration.
+IF PRESSED on alignment with P/T occupational health
+advice….
+ PSOHP does not participate in any formal F/P/T
+mechanisms for occupational health and safety. However,
+our health professionals liaise regularly with their
+occupational health colleagues working in other
+jurisdictions and in other sectors. We are also in regular
+contact with key organizations like the Canadian Centre
+for Occupational Health and Safety.
+ We share all of the Advisories with the Public Health
+Agency of Canada who engages provinces and territories
+through their networks.
+3
+IF PRESSED on PPE requirements for front line medical
+workers?
+ Provincial health systems manage advice for their health
+care workers and are part of the broader F/P/T Public
+health networks led by PHAC.
+ PSOHP is only responsible for providing advice to federal
+public servants. Our colleagues at Indigenous Service
+Canada and Correctional Services Canada have our
+advice and are working with PHAC to ensure appropriate
+guidance for their nurses.
+4
+FPT Engagement
+ We have been working hand-in-hand with provinces
+and territories (PT) on our preparations to combat the
+spread of COVID-19 and to ensure coordination
+across all orders of government.
+ We have been engaging PTs regularly through a
+number of different intergovernmental FPT tables at
+the Minister, Deputy Minister and officials’ levels.
+ On top of the bilateral engagement with her PT
+counterparts, Minister Hajdu is holding weekly
+teleconferences with all her colleagues (often twice a
+week) to inform our respective response efforts.
+ FPT Deputy Ministers of Health are also meeting on a
+regular basis, ~2-3 times each week, as well as
+bilaterally, and jointly with FPT Deputy Ministers
+responsible for intergovernmental affairs, to ensure
+further alignment and coordination.
+o We have struck a sub-committee on health
+services to manage health system pressures
+related to medical supplies and assets, health
+human resources, ICU capacity and other
+challenges facing jurisdictions.
+ Dr. Tam continues to work closely with PT Medical
+officers of health across the country through a
+Special Advisory Committee on COVID-19 to
+1
+FPT Engagement
+ensure there is a consistent, evidence-based public
+health approach to respond to the pandemic.
+ We are also working collaboratively with PT
+governments on virtual care options, including
+scaling up digital tools and virtual care infrastructure
+to reduce the pressures faced by health systems in
+addressing COVID-19.
+ On the issue of collaborative PPE procurement, we
+are in regular contact with PTs and continue to
+explore every possible means to ensure jurisdictions
+will have the critical supplies that they need.
+ To conclude, the collaboration has been exceptional
+with regular information sharing between all
+jurisdictions at these tables – and we will continue to
+ensure all jurisdictions are well prepared to combat
+the spread of COVID-19.
+2
+Personal Protective Equipment
+ Securing the appropriate amount of personal
+protective equipment for our front-line health care
+workers remains our number one priority.
+ These supplies are critical, there are well-documented
+global shortages on these items, intense global
+competition for existing PPE, and suppliers, especially
+those outside of Canada, are dealing with real
+logistical challenges on the delivery side.
+ We are working directly with transportation and
+logistics providers to clear a path for these deliveries,
+and leveraging our embassies around the world to
+facilitate these discussions.
+ Officials are working around the clock to secure
+suppliers and confirm delivery for PPE for a number
+of critical items, based on the transportation
+availability.
+ We are working directly with provinces and territories
+through the Chief Medical Officer of Health’s Strategic
+Advisory Committee to assess the system’s needs,
+respond to requests for assistance by allocating
+supplies from the National Emergency Strategic
+Stockpile, and are buying in bulk to leverage our
+collective buying power.
+ We are also accepting all donations that are offered
+and ramping up domestic industrial capacity to fill
+Personal Protective Equipment
+gaps in what is needed and what is available to
+ensure we have an ongoing supply of critically
+needed PPE. We are assessing all donated PPE to
+ensure it meets Canadian specifications.
+ In addition, Health Canada is expediting the
+regulatory process to ensure we are able to get
+critically needed products into Canadian markets.
+This includes guidance on the use of expired or
+alternative PPE in the context of COVID-19. Guidance
+was just issued to allow the use of expired and non-
+medical grade N95 masks.
+If pressed on when can PTs expect to receive PPE…
+ We are working daily with our suppliers to confirm
+shipments, and working to quickly assess these as
+soon as these are received by the Public Health
+Agency of Canada before distributing them across the
+country.
+ Recognizing the supply challenges with accessing
+PPE globally, Health Canada has provided guidance
+and market authorizations to increase the availability
+of approved products for sale across the country
+(Interim Order, March 18).
+ It should be noted that the federal government has
+taken a proactive approach in ordering PPE in which
+Personal Protective Equipment
+there are greater quantities ordered beyond what has
+been requested by PTs.
+ We are working closely with provinces and territories
+to collect data on the rate at which these supplies are
+being used and modelling rates of usage based on
+international experiences to date. This information will
+enable us to anticipate when orders will be needed
+and secure products before a shortage situation
+occurs. This discussion is led via the Logistical
+Advisory Committee, a joint federal-provincial-
+territorial forum that manages the decisions around
+the allocation of PPE. This committee works directly
+with all jurisdictions to understand governments to
+understand their PPE needs.
+If pressed on why are there still shortages of PPE
+despite numerous Canadian businesses expressing
+interest and/or capacity to help the Government fill the
+void…
+ Demand for PPE is at an all-time high, and global
+manufacturing capacity is currently constrained due to
+economic and transportation challenges. This has led
+to a shortage of PPE on the market.
+Personal Protective Equipment
+ Officials at Innovation, Science and Economic
+Development Canada (ISED) have been evaluating
+the responses received through its “Call to action:
+Canadian manufacturers needed to help combat
+COVID-19” originally issued on March 26.
+ They are working around the clock to determine the
+viability of each proposal, which includes the
+assessment of the manufacturers’ capabilities to
+address the PPE shortages.
+ The close collaboration between ISED and Health
+Canada will ensure that all potential manufacturers
+meet all the regulatory and licensing requirements.
+ Officials are working around the clock to secure PPE
+that is required by PTs to support frontline health care
+workers.
+ Many suppliers domestically and abroad are faced
+with challenges – from maxed out manufacturing
+capacity to delivery logistics – to fill the orders in the
+timeframe required. This is why the government is
+also working with Canadian manufacturers to build
+capacity to fill these orders domestically.
+HESA Coronavirus Documents Motion
+ The Government’s primary objective was to disclose
+as much information as possible that was relevant to
+the Motion.
+ Redactions were made as per the Motion’s
+instructions to exclude matters of Cabinet confidence
+and national security.
+ Redactions were also made to respect the provisions
+of the Privacy Act. The Government has a statutory
+duty to Canadians under the Privacy Act to keep their
+personal information confidential. It is especially
+important that the Government respect this duty and
+maintain the trust of Canadians during the current
+COVID-19 outbreak.
+If Pressed on why the Government made redactions
+instead of relying on the Law Clerk…
+ Again, the Government made every effort to disclose
+as much information as possible.
+ Having seen the nature of the redactions, I do not
+believe that the redactions interfere, in any way, with
+HESA’s ability to understand the early evolution of the
+COVID outbreak through these documents.
+ There is a longstanding difference of views between
+the government and parliamentarians about the
+power of parliamentary committees to compel the
+1
+HESA Coronavirus Documents Motion
+production of information or documents from the
+government.
+ The Government’s view is that the Privacy Act is
+binding on Government officials. The Government has
+also taken the position that other categories of
+redactions can be made (e.g., solicitor-client
+privilege).
+If Pressed on Health Canada’s redactions…
+ The redactions to Health Canada’s documents
+included the removal of Cabinet confidences and one
+document that was covered by Solicitor-client
+privilege.
+ A small amount of personal information was also
+redacted from the Health Canada documents.
+If Pressed on other Government Department’s
+redactions…
+ My colleagues can better speak to their specific
+redactions, but I know that the redactions made to
+protect personal information are few in number, and
+include records related to consular assistance and
+personal medical conditions.
+ Redactions have also been made to avoid injury to
+international relations as well as relations with the
+provinces and territories; to protect information
+2
+HESA Coronavirus Documents Motion
+considered advice to a Minister; and for the protection
+of government assets.
+3

@@ -1,0 +1,6 @@
+Created: 2016-12-01T12:48:31.351032
+Name: National_Anti-Drug_Strategy_(NADS)_Ad_Recall_and_Tracking_Survey_of_Youth__
+Original URL: https://www.hc-sc.gc.ca/data-donnees/por-rop/nads-youth-ad-recall-tracking_3_strat-nationale-antidrogue.csv
+Package ID: 439c6c46-b602-4b01-9f21-e04bf55d7b93
+Keywords: ['health and safety', 'tobacco', 'radon', 'HIV', 'AIDS', 'Nutrition Facts Table', 'marketing', 'health care system', 'youth', 'campaign', 'First Nations', 'obesity', 'drinking water', 'immunization.']
+Notes: A series of health-related data sets from various quantitative public opinion research studies.

@@ -1,0 +1,2967 @@
+Created: 2023-03-30T16:08:11.378461
+Name: Health_Canada_–_Standing_Committee_on_Health_-_Minister_of_health_Financial_Binder_-_Supplementary_Estimates_(B)
+Original URL: https://open.canada.ca/data/dataset/40cc5ffe-766d-4528-bc30-0c837e29d868/resource/990a271f-81c3-4c7a-a782-880d7820df28/download/supp-b-appearance-financial-binder-disclosure-en.pdf
+Package ID: 40cc5ffe-766d-4528-bc30-0c837e29d868
+Keywords: ['Health Canada', 'Health', 'House committee', 'Standing committee on health', 'budget']
+Notes: Financial binder for the Minister of Health's appearance before the standing committee on health on November 29, 2022 concerning the supplementary estimates B. 
+The briefing binder and the Minister of Mental Health and Addiction's binder are available as separate resources
+
+-------------------------------
+Extracted Text:
+HESA Appearance
+Supplementary Estimates (B)
+Minister Duclos and Minister Bennett
+Tuesday, November 29, 2022
+FINANCIALS
+FINANCIAL NOTES
+SUPPLEMENTARY ESTIMATES B
+NOVEMBER 29, 2022
+FINANCIAL OVERVIEWS
+1. Health Canada
+2. Public Health Agency ofCanada
+3. Canadian Food Inspection Agency
+4. Canadian Institutes of Health Research
+FUNDING CROSSWALK
+5. Health Portfolio Supplementary Estimates B Funding Crosswalk
+a. Health Canada
+b. Public Health Agency of Canada
+c. Canadian Food Inspection Agency
+d. Canadian Institutes of Health Research
+Health Canada Overview
+(In dollars)
+Previous estimates to date:
+- Voted: 3,803,963,999
+- Statutory: 163,872,352
+- Total budgetary: 3,967,836,351
+Supplementary estimates (B)
+- Transfers
+o Voted: (19,423,019)
+o Statutory:-
+o Total budgetary: (19,423,019)
+- Adjustments:
+o Voted: 170,395,528
+o Statutory: 1,789,938,360
+o Total budgetary: 1,960,333,888
+Proposed authorities to date:-
+- Voted: 3,954,936,508
+- Statutory: 1,953,810,712
+- Total budgetary: 5,908,747,220
+% changein proposed authorities due to these estimates
+- Voted: 4,0%
+- Statutory: 1,092,3%
+- Total budgetary: 48,9%
+% change in proposed authorities to date this year over last year
+- Voted: (19,6)%
+- Statutory: 948,5%
+- Total budgetary: 15,8%
+Health Canada hasproposed a net increase of $1,940.9M in the 2022-23 Supplementary
+Estimates (B), bringing its proposed authorities to date to $5,908.7M. These Supplementary
+Estimates include:
+Voted Appropriations of $151M:
+New Funding [$95.2M]
+• $69.4M–Funding to improve mental health supports and services (Budget 2022);
+• $12.3M–Funding for addressing the opioid crisis and substance use (Budget 2022);
+• $10.8M–Funding for the construction of plasma collection sites (Budget 2021);
+• $1.7M–Funding for advancing acircular economy for plastics in Canada (Budget 2022);
+and,
+• $0.9M–Funding for the Oceans Protection Plan (Budget 2022).
+Reprofiled Funding [$75.2M]
+• $50.0M–Funding for the continued response to the COVID-19 pandemic (Budget 2022);
+• $7.7M–Funding to strengthen the capacity and transparency of the pesticide review
+process;
+• $5.0M–Funding for medical research (Critical Drug Reserve);
+• $4.1M–Funding for the implementation of greening initiatives;
+• $3.8M–Funding to support access to sexual and reproductive health care information
+and services;
+• $3.7M–Funding for the Canadian Thalidomide Survivors Support Program;
+• $0.6M–Funding to support long-term care, improved access to palliative care, and safe
+access to medical assistance in dying;and,
+• $0.3M–Funding to address anti-Indigenous racism in health care.
+Transfers [-$19.4M]
+Transfers to Health Canada (+$1.2M)
+• $552.5K–From the Department of Indigenous Services to provide microbiological and
+physical-chemical testing of drinking water in First Nation communities;
+• $406.7K–From the Public Health Agency of Canada for Enterprise Service Model
+reallocation; and,
+• $265.7K–From the Department of National Defence to support the Canadian Safety
+and Security Program.
+Transfers from Health Canada (-$20.6M)
+• -$132.6K–to the Public Health Agency of Canada to support the Joint Expert Committee
+on Food Additives to re-evaluate the safety of titanium dioxide as a food additive;
+• -$200.0K–to the Public Health Agency of Canada to support the Organisation for
+Economic Co-operation and Development (OECD) Health Committee;
+• -$200.0K–to the Public Health Agency of Canada to support World Health Organization
+Framework Convention on Tobacco Control;
+• -$200.5K–to the Department of Agriculture and Agri-Food to support the pilot water
+monitoring program for pesticides;
+• -$245.5K–to the Canadian Institutes of Health Research to advance policies that
+promote science and evidence-based decision making;
+• -$332.5K–to the Canadian Institutes of Health Research to evaluate decriminalization
+of personal possession of illicit substances;
+• -$741.9K–to the Public Health Agency of Canada to support the CanCOVID initiative;
+• -$1.3M–to the Public Health Agency of Canada to implement innovative COVID-19
+testing for other communicable diseases;
+• -$5.0M–to the Canadian Institutes of Health Research for a COVID-19 outpatient
+therapeutic study; and,
+• -$12.3M–to the Department of Indigenous Services Canada for the First Nations
+Information Governance Centre.
+StatutoryAppropriations of $1.8B
+• $1,789.9M–Payments for COVID-19 tests pursuant to An Act respecting certain
+measures related to COVID-19; and,
+• $0.8M–EBP amounts related to approved Treasury Board submissions:
+o $286.3K–Funding to improve mental health supports and services;
+o $253.4K–Funding for advancing a circular economy for plastics in Canada;
+o $193.8K–Funding for the Oceans Protection Plan; and,
+o $81.6K–Funding for addressing the opioid crisis and substance use.
+2022-23 Supplementary Estimates (B)
+Public Health Agency of Canada
+Authorities to date:
+- Voted: 10,184,285,266
+- Statutory: 79,345,305
+- Total budgetary:10,263,630,571
+Supplementary estimates (B)
+- Transfers:
+o Voted: (3,838,866)
+o Statutory:-
+o Total budgetary: (3,838,866)
+- Adjustments:
+o Voted: 1,362,767,516
+o Statutory: 1,416,761
+o Total budgetary: 1,364,184,277
+- Total:
+o Voted: 1,358,928,650
+o Statutory: 1,416,761
+o Totalbudgetary: 1,360,345,411
+Proposed authorities to date:
+- Voted: 11,543,213,916
+- Statutory: 80,726,066
+- Total budgetary: 11,623,975,982
+The Public Health Agency of Canada is seeking an increase of $1.36 billion to its reference levels:
+New Funding ($117.7M):
+• To bolster current inventories of medical countermeasures and to enhance diagnostic
+and surveillance activities of monkeypox in Canada ($102.7M);
+• Centre for Aging and Brain Health Innovation ($8.0M);
+• Special Immigration Measures for Ukrainian Nationals ($4.9M);
+• Resettlement commitment for the evacuation and immigration of Afghan nationals to
+Canada ($1.2M);
+• Government advertising programs ($500K); and
+• Reinvestment of royalties from intellectual property ($338K).
+Reprofiles from 2021-22($1.245B):
+• Medical research and vaccine developments (COVID-19) ($696.2M);
+• Border and travel measures and isolation sites (COVID-19) ($400.0M);
+• Logistics for vaccine distribution-medical countermeasures (COVID-19) ($61.3M);
+• Stabilize core capacities for the National Emergency Strategic Stockpile ($50.0M);
+• Innovative research and procurement of testing technologies related to the pandemic
+(COVID-19) ($20.4M);
+• Kids Help Phone and the Centre for Addiction and Mental Health (COVID-19)($13.0M);
+• Indigenous Early Learning and Child Care Framework ($2.4M);
+• Improve mental health supports and services (COVID-19) ($1.0M);
+• Creation of a national autism strategy ($690K); and
+• Prevent diabetes and improve treatments ($158.3K).
+Transfersto/from Other Government Departments (-$3.8M):
+• Transfer from the Department of Health to implement innovative COVID-19 testing for
+other communicable diseases ($1.3M);
+• Transfer from the Department of Health to support the CanCOVID initiative ($742K);
+• Transfer from the Department of National Defence to support the Canadian Safety and
+Security Program ($561K);
+• Transfer from the Department of Health to support the Organisation for economic Co-
+operation and Development (OECD) Health Committee ($200K);
+• Transfer from the Department of Health to support World Health Organization
+Framework Convention on Tobacco Control ($200K);
+• Transfer from Canadian Institutes of Health Research to support the delivery of the
+international AIDS Conference ($200K);
+• Transfer from the Department of Health to support the Joint Expert Committee on Food
+Additives to re-evaluate the safety of titanium dioxide as a food additive ($133K);
+• Transfer to the Treasury Board Secretariat to support the Capacity Accelerator Project(-
+$20K);
+• Transfer to Canadian Institutes of Health Research to support European Union Joint
+Programme-Neurodegenerative Disease Research on the impact of COVID-19 on
+neurodegenerative diseases (-$33K);
+• Transfer to Canadian Institutes of Health Research to support a health system impact
+fellowship (-$47K);
+• Transfer to the Department of Indigenous Services to support the Canadian Aboriginal
+AIDS Network (CAAN) with their Indigenous knowledge facilitation activity for AIDS2022 (-$50K);
+• Transfer to Canadian Institutes of Health Research to support research on priorities
+outlined in Canada’s 2021 Chief Public Health Officer report(-99.5K);
+• Transfer to the Department of Indigenous Services to support the Pan-Canadian Health
+Inequalities Reporting Initiative-Mental Wellness among First Nations Peoples living on reserve
+(-$200K);
+• Transfer to Canadian Institutes of Health Research to support policy research for health
+system transformation (-$300K);
+• Transfer to the Department of Healthfor the Enterprise Service Model reallocation (-
+$406K);
+• Transfer to the Canada Border Services Agency for data integration on border health
+surveillance (-$1.1M);
+• Transfer to the Department of Crown-Indigenous Relations and Northern Affairs to
+supportIndigenous early learning and child care (-$1.9M); and
+• Transfer to Canadian Institutes of Health Research to support pediatric outcome
+improvement through coordination of research networks (-$3.0M).
+Vote Transfers
+Internal Transfers (zero impact on reference levels):
+• From operating to contributions for HIV self tests, monkeypox and myocarditis
+($11.7M);
+• From operating to grants for the Immunization Partnership Fund ($3.0M); and
+• From operating to grants for the World Health Organization’s handbookon health
+inequality monitoring ($180K).
+Canadian Food Inspection Agency Overview
+Supplementary estimates (B)
+- Transfers
+o Voted: 16,353
+o Statutory:-
+o Total budgetary: 16,353
+- Adjustments:
+o Voted: 16,128,427
+o Statutory: 3,372,015
+o Total budgetary: 19,500,442
+- Total:
+o Voted: 16,114,780
+o Statutory: 3,372,015
+o Total budgetary: 19,516,795
+% change in proposed authorities due to supplementary estimates (B)
+- Voted: 2.2%
+- Statutory: 2.2%
+- Total budgetary: 2.2%
+% changein proposed authorities to date this year over last year
+- Voted: 6.1%
+- Statutory: (0.2%)
+- Total budgetary: 5.0%
+Canadian Food Inspection Agency has proposed a net increase of $19.5M in the 2022-23
+Supplementary Estimates (B) based on:
+Voted Appropriations of $16.1M:
+Adjustments–increase of $16.1M
+• $16.1M–Funding to increase food inspection capacity and safeguard the integrity of
+Canada’s food safety system (COVID-19)
+Transfers–net increase of $16.4K
+Transfers to Canadian Food Inspection Agency
+• $58K-From the Department of National Defence to support the Canadian Safety and
+Security Program
+Transfers from Canadian Food Inspection Agency
+• ($16.6K)-To the Department of Foreign Affairs, Trade and Development to provide
+support to departmental staff located at missions abroad
+• ($25K)-To the Department of Agriculture and Agri-Food to cost share the Market
+Access Support System
+Statutory Appropriations of $3.4M:
+Employee Benefit Plan adjustments related to increased Supplementary Estimates (B) salary
+funding for the following:
+• $3.4M– Funding to increase food inspection capacity and safeguard the integrity of
+Canada’s food safety system (COVID-19)
+2022-23 Supplementary Estimates
+Canadian Institutes of Health Research
+ADJUSTMENTS TO CIHR’S AVAILABLE AUTHORITIES (in $ millions)
+Vote 1 operating expenditures:
+- Authorities to date: 68
+- Supplementary estimates (B): 5.3
+- Proposed authorities to date: 73.3
+Vote 5 Grants
+- Authorities to date: 1,169.9
+- Supplementary estimates (B): 99,4
+- Proposed authorities to date: 1,269.3
+Subtotal:
+- Authorities to date: 1,237.9
+- Supplementary estimates (B): 104.7
+- Proposed authorities do date: 1,342.6
+Statutory items
+- Authorities to date: 7.7
+- Supplementary estimates (B): 1.4
+- Proposed authorities to date: 9.1
+Total:
+- Authorities to date: 1,245.6
+- Supplementary estimates (B): 106.1
+- Proposed authorities to date: 1,351.7
+As a result of Supplementary Estimates (B), CIHR’s overall available and statutory authorities for
+2022-23 will increase by approximately $106.1 million to a total of $1,351.7 million.
+Adjustments from Treasury Board Submissions -Increase of $98.7 million
+• $84.7 million for the Clinical Trials Fund (Budget 2021)
+• $10.2 million for the response to monkeypox outbreaks in Canada (horizontal item)
+• $1.3 million to support the study of long-term health impacts of COVID-19 (Budget
+2022)
+• $1.2 million tosupport Canada’s Black students and postdoctoral fellows (Budget 2022)
+(horizontal item)
+• $1.1 million to support a new National Women’s Health Research Initiative to advance
+research in high-priority areas of women’s health
+• $0.2 million for research security and the Research Support Fund (Budget 2022)
+(horizontal item)
+• Transfers from Other Departments and Agencies–Increase of $9.6 million
+o $5.0 million from the Department of Health (HC) for a COVID-19 outpatient therapeutic
+study
+o $3.0 million from the Public Health Agency of Canada (PHAC) to support pediatric
+outcome improvement through coordination of research networks
+o $0.5 million from the Social Sciences and Humanities Research Council to support the
+Race, Gender and Diversity Initiative
+o $0.3 million from HC to evaluate decriminalization of personal possession of illicit
+substances
+o $0.3 million from PHAC to support policy research for health system transformation
+o $0.2 million from HC to advance policies that promote science and evidence-based
+decision making
+o $0.1 million from the Department of Indigenous Services to support the Healthy Youth
+Initiative
+o $0.1 million from PHAC to support research on priorities outlined in Canada’s 2021 Chief
+Public Health Officer report
+o $0.05 million from PHAC to support a health system impact fellowship
+o $0.03 million from PHAC to support European Union Joint Programme-
+Neurodegerative Disease Research on the impact of COVID-19 on neurodegenerative diseases
+Transfers to Other Departments and Agencies–Decrease of $3.7 million
+• $0.1 million to the International Development Research Centre (IDRC) to support the
+mobilizing principles for equitable global health research
+• $0.2 million to PHAC to support the delivery of the international AIDSConference
+• $0.2 million to IDRC to support Phase II of the Joint Canada-Israel Health Research
+Program
+• $1.1 million to the Natural Sciences and Engineering Research Council to explore the
+development of a common grants management solution
+• $2.1 million to IDRC to support women’s health and economic well-being for a post-
+COVID 19 recovery
+Internal Transfer between CIHR's Transfer Payment Programs–Nil Financial Impact
+• Internal reallocation of resources from the Grants for research projects and personnel
+support ($904,208) to the Institute support grants.
+Statutory Authorities –Increase of $1.4 million
+• $1.4 million for contributions to employee benefit plans related to New Voted
+Appropriations, including $1.1 million for the Clinical Trials Fund
+HEALTH CANADA FUNDING CROSSWALK
+Contents
+Funding to improve mental health supports and services
+Funding for the continued response to the COVID-19 pandemic
+Funding for addressing the opioid crisis and substance use (Budget 2022)
+Funding for the construction of plasma collection sites (Budget 2021)
+Funding to strengthen the capacity and transparency of the pesticide review process
+Funding for medical research (Critical Drug Reserve)
+Funding for the implementation of greening initiatives
+Funding to support access to sexual and reproductive health care information and services
+Funding for the Canadian Thalidomide Survivors Support Program
+Funding for advancing a circular economy for plastics in Canada (Budget 2022)
+Funding for the Oceans Protection Plan (Budget 2022)
+Funding to support long-term care, improved access to palliative care, and safe access to
+medical assistance in dying
+Funding to address anti-Indigenous racism in health care
+Payments for COVID-19 tests pursuant to An Act respecting certain measures related to COVID-
+19
+From the Department of Indigenous Services to the Department of Health to provide
+microbiological and physical-chemical testing of drinking water in First Nation communities
+From the Public Health Agency of Canada to the Department of Health for Enterprise Service
+Model reallocation
+From the Department of National Defence to various organizations to support the Canadian
+Safety and Security Program
+From the Department of Health to thePublic Health Agency of Canada to support the Joint
+Expert Committee on Food Additives to re-evaluate the safety of titanium dioxide as a food
+additive
+From the Department of Health to the Public Health Agency of Canada to support the
+Organisation for Economic Co-operation and Development Health Committee
+From the Department of Health to the Public Health Agency of Canada to support the World
+Health Organization Framework Convention on Tobacco Control
+From the Department of Health to the Department of Agriculture and Agri-Food to support the
+pilot water monitoring program for pesticides
+From the Department of Health to the Canadian Institutes of Health Research to advance
+policies that promote science and evidence-based decision making
+From the Department of Health to the Canadian Institutes of Health Research to evaluate
+decriminalization of personal possession of Illicit substances
+From the Department of Health to the Public Health Agency of Canada to support the CanCOVID
+initiative
+From the Department of Health to the Public Health Agency of Canada to support the
+implementation of innovative COVID-19 testing approaches for other communicable diseases
+From the Department of Health to the Canadian Institutes of Health Research on a COVID-19
+Outpatient Therapeutic Study
+From the Department of Health to the Department of Indigenous Services to support the First
+Nations Information Governance Centre
+Health Canada’s 2022-23 Supplementary Estimates (B)
+Funding to improve mental health supports and services
+(Budget 2022)
+Total: $69,680,465
+SPB
+- Key messages:
+o Budget 2022 provided $140M over two years for the extension of the Wellness
+Together Canada (WTC) portal until March 2024 so it can continue to provide
+Canadians with free access 24/7 to services and supports for mild to moderate
+mental health and substance use issues.
+o Since the WTC portal was launched in April 2020, almost 3 million people across
+Canada have accessed free mental health and substance use supports and
+services through the portal. The portal offers immediate access to a variety of
+supports for different levels of need, including self-guided resources, peer
+support programs, and confidential counselling sessions with social workers,
+psychologists and other professionals.
+o Impactdata collected in 2021 and 2022 show that WTC users indicate a positive
+change on all three self-assessment scales–mood, well-being and functioning–
+from the time they first engage with the portal to after using any resource or
+accessing support.
+- Purpose/objectives:
+o The objective is to support Canadians’ wellbeing through the continued
+provision of mental health and substance use supports and services through the
+WTC portal.
+o The portal provides an inclusive experience to all individuals in Canada and
+Canadians abroad, tailored to meet the needs of varying age groups and diverse
+populations.
+- Expected results:
+o Immediate expected results include:
+o Canadians have increased awareness of the WTC portal
+o Intermediate expected results include:
+o WTC clients use services available on the portal (e.g., self-guided courses,
+telephone counselling services)
+o Ultimate expected results include:
+o WTC clients are satisfied with the services available on the portal
+o WTC has a positive impact on the mental health of Canadians
+- Voted:
+o 69,394,150
+- Statutory:
+o 286,315
+Funding for the continued response to the COVID-19 pandemic
+(Budget 2022)
+Total: $50,000,000
+CFOB
+- Key messages:
+o To reprofile $50.0M from2021-22 to 2022-23 in support of Health Canada’s
+continued response to the COVID-19 pandemic.
+- Purpose/objectives:
+o Given the potential for resurgences based on significant regional variability in
+vaccination rates and in provincial/territorial policy approaches, Health Canada
+is extending funding and maintaining critical staffing levels.
+o To support Health Canada’s Regulatory Response and to ensure Canadians and
+the health care system have timely, uninterrupted access to safe and effective
+health products to combat COVID-19 as the virus continues to evolve.
+- Expected results:
+o This initiative would support regulatory review and approval of new products to
+fight the pandemic, thereby addressing unmet health care needs.
+o This initiativealso supports the development of innovative ways to inform
+Canadians on how they can stay safe, provide regular updates on regulatory
+approvals for tests and treatments, and keep Canadians informed on the
+evolving conditions of the pandemic.
+- Voted: 50,000,000
+- Statutory:-
+Funding for addressing the opioid crisis and substance use (Budget 2022)
+Total: $12,412,305
+CSCB
+- Key messages:
+o The Government of Canada recognizes that the overdose crisis has become one
+of the most significant public health crises in a generation.
+o This $12.4 million is part of Budget 2022 that announced an additional $100
+million for the Substance Use and Addictions Program (SUAP) to support harm
+reduction, treatment and prevention initiatives at the community level.
+o The Government of Canada remainsfully committed to addressing the overdose
+crisis and working with partners to save lives. Since 2017, the federal
+government has taken significant actions and made commitments of over
+$815M to address the overdose crisis.
+o This includes nearly $350 million in funding for innovative community-led SUAP
+projects to help address the overdose crisis and broader substance use.
+- Purpose/objectives:
+o Health Canada’s Substance Use and Addictions Program (SUAP) provides
+contribution funding for a wide range of evidence-informed and innovative
+substance use prevention, harm reduction and treatment initiatives across
+Canada.
+o These initiatives target a range of controlled drugs and substances, including
+opioids, stimulants, cannabis, alcohol, tobacco and vaping products.
+- Expected results:
+o Projects funded through SUAP contribute to individual capacity and
+organizational, system and community level program, policy and practice
+change by: preventing and reducing harms related to substance use; facilitating
+treatment and related system enhancements; and, improving awareness,
+knowledge, skills and competencies of targeted stakeholders and Canadians.
+o SUAP funded projects are expected in the short-term to increase access to
+information on substance use and availability of harm reduction services, and in
+the longer-term improve knowledge and skills and positive behavior outcomes.
+Ultimately, SUAP projects contribute to reduced negative health impacts
+experienced by people who use drugs and substances.
+- Voted: 12,330,658
+- Statutory: 81,647
+Funding for the construction of plasma collection sites (Budget 2021)
+Total: $10,817,000
+SPB
+- Key messages:
+o Our Government recognizes the value of domestic plasma collection for the
+security of Canada’s supply of plasma-derived products (PDPs).
+o Greater domestic collection of plasma provides better security of PDP supply for
+patients with life-threatening and other medical conditions, especially where
+PDPs are the only treatment option available.
+o Close federal, provincial and territorial collaboration with the national blood and
+plasma operator is essential to achieving meaningful results in this critical area
+for the health and safety of Canadians.
+- Purpose/objectives:
+o Budget 2021 provided $20 million, which allows Canadian Blood Services (CBS)
+to construct and start-up six new dedicated plasma collection sites across
+Canada (except Quebec) to achieve a greater domestic supply.
+o Funding supports construction and fit-up of sites, purchasing of necessary
+equipment, staff training (but not staff salary) andpublic outreach to secure
+donors.
+o Provinces and territories are responsible for ongoing operational costs of these
+sites through their agreements with CBS.
+- Expected results:
+o Funding will allow three plasma collection sites to be open to public plasma
+donations by the end of 2022-23, and three more will be opened in 2023-24.
+o These sites are expected to help raise Canadian domestic sufficiency (outside
+Quebec) from 15% in 2021-22 to 22% in 2027-28, when all CBS plasma collection
+sites are expected to beworking at full capacity.
+o This increase in plasma sufficiency equates approximately to an additional 150
+000 litres of plasma collected annually.
+- Voted: 10,817,000
+- Statutory:-
+Funding to strengthen the capacity and transparency of the pesticide review process
+Total: $7,653,025
+PMRA
+- Key messages:
+o to 2022-23 needed to support the advancement of transformation activities
+outlined in the Treasury Board (TB) Submission "Strengthening the Capacity and
+Transparency of the Pesticide Review Process".
+o It will enable the Pest Management Regulatory Agency (PMRA) to complete
+necessary activities and deliverables in 2022-23 to strengthen oversight on
+pesticides including the availability of independent data to further support
+pesticide review decisions and the transparency of decision-making.
+- Purpose/objectives:
+o The funding reprofile allows PMRA to double its efforts advancing work to
+support transformation beyond what was originally conceived (e.g. stakeholder
+engagement, long-term funding strategy, risk based prioritization framework,
+and IT Modernization)
+o PMRA is also in a position to now bring in 10 FTEs earlier than anticipated to
+carryout implementation of a pilot program on business process improvements
+- Expected results:
+o Development and implementation of a comprehensive stakeholder engagement
+strategy that is critical to inform the implementation of various proposed
+measures under the Transformation agenda including potential amendments to
+the Pest Control Products Act (PCPA), proposed water monitoring framework,
+and expanded pesticide use.
+o Development of a risk-based workload prioritization model to allocate resources
+based on the classification of pesticide risk
+o Digital Modernization–new IM/IT investments to enable transformation of
+scientific and regulatoryprocesses.
+- Voted: 7,653,025
+- Statutory:-
+Funding for medical research (Critical Drug Reserve)
+Total: $5,000,000
+ROEB
+- Key messages:
+o This funding supported the extension of the Critical Drug Reserve (CDR) for one
+year into 2022-23 through aReprofile.
+o The CDR was established with Provinces and Territories (PTs) to bolster
+collective pandemic preparedness in Canada and was a safety net of twelve
+drugs used in the treatment of COVID-19.
+o The CDR was scheduled to sunset on March 31, 2022. Giventhe fourth and fifth
+waves of COVID-19, the unknown impacts of the Omicron variant, and the need
+for additional time for PTs to absorb drugs into their health care systems, it was
+extended to June 30, 2022.
+- Purpose/objectives:
+o The $5M extension supporteda small number of FTEs (12), to potentially
+purchase new drugs or replenish existing drugs given the uncertainty of the
+pandemic, cover the costs of contract extensions with CDR vendors, and support
+PSPC in the operations of the CDR Single Window Order Desk.
+o The twelve FTEs were responsible for managing the CDR governance, PT
+relations, overseeing orders and inventory levels, providing technical authority
+for contracts, managing vendor issues and staffing the PSPC Single Window
+Order Desk.
+- Expected results:
+o Successfully completed divestment (ordering, shipping and invoicing) of all
+drugs in the Critical Drug Reserve from the vendors to provinces and territories.
+o Continued to support public health measures related to Covid-19 to bolster
+pandemic preparedness.
+o Completed lessons learned report and CDR playbook to better position the
+Government of Canada for future planning during public health emergencies or
+as a mitigation measure within drug shortages management.
+- Voted: 5,000,000
+- Statutory:-
+Funding for theimplementation of greening initiatives
+Total: $4,100,000
+CSB/CFOB
+- Key messages:
+o To implement a project to reduce the department’s environmental footprint in
+support of the Greening Government Strategy.
+o The initiative will reduce HC’s custodial footprint and environmental impacts by
+reducing the department’s overall green house gas emissions.
+- Purpose/objectives:
+o Objective to utilize funding to implement the divestiture of the Environment
+Health Centre (EHC) building in support of the Greening Government Strategy
+(GGS) and reduce the department’s environmental footprint.
+- Expected results:
+o Will contribute to the Government of Canada’s commitment to reduce its
+environmental footprint by 2030 and reduce the department’s green house gas
+emissions
+- Voted: 4,100,000
+- Statutory:-
+Funding to support access to sexual and reproductive health care information and services
+Total: $3,844,508
+SPB
+- Key messages:
+o The Government of Canada firmly believes that all people in Canada should
+have access to a full suite ofsexual and reproductive health care services–
+including abortion–that are safe and stigma-free.
+o Many longstanding factors, including stigma and discrimination, lack of
+specialized training in meeting the needs of some populations, travel time and
+costs,and limitations in availability of culturally safe and relevant health
+services, result in reduced access to quality sexual and reproductive health care.
+This has been exacerbated by the COVID-19 pandemic, which has worsened
+existing gaps in sexual and reproductive health care, stretching previously
+limited resources and affecting services across Canada.
+o The Government of Canada supports projects that improve the availability and
+accessibility of sexual and reproductive health services for all people in Canada,
+while also recognizing and respecting the mandates and jurisdictions of its
+provincial and territorial partners.
+- Purpose/objectives:
+o Budget 2021 committed $45 million over three years, starting in 2021-22, to
+improve access to sexual andreproductive health care support, information,
+and services for people in Canada who face the greatest barriers to access.
+o Of this $45 million commitment, $24.9 million has been allocated to date. Nine
+projects, valued at $15.3 million, are underway.
+o The Sexual and Reproductive Health Fund was created to support a wide range
+of evidence-informed and innovative projects for underserved people in Canada
+who are at increased risk for poorer sexual and reproductive health outcomes,
+including 2SLGBTQI+ people, Indigenous and racialized populations, women and
+youth.
+o Factors contributing to the need for a reprofile were:
+o The fund was established in July of FY 2021-22, and although a targeted Call for
+Proposals was initiated within the same month, projects recommended for
+funding were not approved until late in the fiscal year. The review process and
+approvals took longer than anticipated as this is a new fund with new recipients.
+o In developing the agreement with the Province of Quebec, the Province
+required additional time to confer internally to determine those projects that
+would be best suited to be funded under the SRHF.
+- Expected results:
+o Funding will help remove barriers to abortion for people who would not
+otherwise be able to access abortion services, by covering travel and logistics
+costs.
+o Funding will also contribute to health care practitioners having the knowledge,
+skills and tools required to provide inclusive, respectful, relevant and culturally
+safe sexual and reproductive health care for 2SLGBTQI+, Indigenous, and
+racialized populations, as well as youth and other underserved populations.
+o Underserved populations, including 2SLGBTQI+ communities, Indigenous and
+racialized populations, and youth will also have knowledge, resources, and
+supports to address their specific sexual and reproductive health and care
+needs.
+- Voted: 3,844,508
+- Statutory:-
+Funding for the Canadian Thalidomide Survivors Support Program
+Total: $3,746,184
+SPB
+- Key messages:
+o The Government of Canada is committed tosupporting Canadian thalidomide
+survivors and helping them age with dignity.
+o The Canadian Thalidomide Survivors Support Program (CTSSP) application
+period is open until June 3, 2024.
+o The Program currently supports 123 survivors.
+- Purpose/objectives:
+o The CTSSP provides ongoing financial assistance, and access to an Extraordinary
+Medical Assistance Fund to help pay for home or vehicle adaptations,
+specialized surgeries and other ongoing costs. Newly confirmed survivors also
+receive a one-time ex gratia paymentto assist with immediate health needs.
+o Funding will support newly confirmed thalidomide survivors. $2.99M in Vote 1 is
+for the one-time ex gratia payments made to new survivors and $756K in Vote
+10 is for their ongoing annual funding.
+- Expected results:
+o Canadian thalidomide survivors will be able to access care, treatment, and other
+supports they need.
+o The CTSSP is intended to contribute to meeting the lifetime needs of eligible
+Canadian thalidomide survivors so they may age with dignity.
+- Voted: 3,746,184
+- Statutory:-
+Funding for advancing a circular economy for plastics in Canada (Budget 2022)
+Total: $1,947,216
+HECSB/HPFB
+- Key messages:
+o Health Canada will receive $1,947,216 to implement phase two of the Zero
+Plastics Waste Initiative to provide health research, scientific, program, and
+policy expertise to support actions and policies on plastic pollution and waste.
+o The funding will be used to advance federal action to eliminate plastic waste in
+two key priority areas:
+o Expanding knowledge on plastics in theeconomy and the environment; and
+o Developing, implementing, and updating management measures.
+- Purpose/objectives:
+o The objectives of these investments are to:
+o Conduct internal research, and fund external research through a new
+contribution program to evaluate the human health effects of exposure to
+microplastics;
+o Initiate additional scientific review of recent literature on the effects of
+microplastics on human health and the environment;
+o Identify and prioritize action for existing chemical additives in plastics; and
+o Develop options for the introduction of a mandatory food chemical safety
+program for food packaging and update guidance on use of recycled plastics in
+food packaging application.
+- Expected results
+o This funding will enable:
+o A reliable body of knowledge on plastics and the zero plastic waste agenda to be
+accessible to stakeholders and the public;
+o Government policy-makers to make evidence-based decisions on plastics; and
+o Canadians to be protected by strengthening food chemical safety of food
+packaging materials made from plastics, including recycledplastics.
+- Voted: 1,693,825
+- Statutory: 253,391
+Funding for the Oceans Protection Plan (Budget 2022)
+Total: $1,133,459
+HECSB
+- Key messages:
+o Health Canada will receive $1,133,459 to provide health expertise for chemical
+emergency management in support of enhancing marine safety, as part of the
+second phase of the Oceans Protection Plan.
+o This funding will enable Health Canada to respond to marine pollution incidents,
+which is a responsibility of the Minister of Health under the Emergency
+Management Act.
+- Purpose/objectives
+o The objectives of these investments are to integrate human health
+considerations across three Oceans Protection Plan initiatives:
+o Hazardous and Noxious Substances: to develop and implement a federal
+framework to better prepare for and respond to releases of Hazardous and
+Noxious Substances in the marine environment.
+o Integrated Marine Response Planning: to create a new national program for
+marine spill response planning based on a consistent and risk-based
+methodology.
+o Recovery from EnvironmentalEmergencies Involving Marine Oil Spills: to
+develop a coordinated and sustainable Canadian Recovery Framework, comply
+with guidelines from Public Safety Canada on emergency management, and
+incorporate public input.
+- Expected results:
+o This funding will enable:
+o Integration of health considerations in national policies for industry, response
+partners, government departments and agencies, as well as coastal and
+Indigenous communities;
+o Enhancement of the Government's science and research capacity;
+o Establishment of partnerships with response partners;
+o Integration of federal scientific expertise and health considerations in
+preparedness and in response activities; and
+o Development of human health impact guidance and an inventory of key local
+health authorities and subject matter experts.
+- Voted: 939,617
+- Statutory: 193,842
+Funding to support long-term care, improved access to palliative care, and safe access to
+medical assistance in dying
+(MAID Reprofile)
+Total: $576,561
+SPB
+- Key messages:
+o Expanded access to medical assistance in dying (MAID) (as codified in the new
+legislation) increases the complexity of eligibility assessments and requires the
+administration of the enhanced safeguards aimedat protecting vulnerable
+people who might be induced to seek an assisted death.
+o Budget 2021 provides $13.2 million over six years, beginning in 2021-22, with
+$2.6 million per year ongoing*, to ensure that Canada’s MAID law is
+implemented consistently andwith all appropriate safeguards.
+- Purpose/objectives:
+o This item reprofiles funding from 2021-22 to 2022-23 and outer years in order
+to design a policy-oriented research agenda to address existing qualitative
+knowledge gaps about MAID; establish an advisorynetwork to inform future
+MAID policy and research planning; and, provide sufficient policy support.
+o Factors contributing to the need for a reprofile were:
+o Funds were received late in 2021 leaving only a few months in which to
+undertake consultation, concept development, to launch calls for proposals and
+sign contribution agreements with third-party organizations; and
+o Impacts of the pandemic on timing to do sufficient consulting with
+partners/stakeholders (largely clinicians and other health sector organizations).
+- Expected results:
+o With the increasing complexity in implementing MAID, this and other funding
+from Budget 2021 will enable stronger federal leadership in supporting
+consistent and evidence-informed guidance; increasing the body of knowledge
+on MAID;and establishing an advisory network.
+o All of these activities will lay the groundwork to support future policy decisions
+on MAID.
+- Voted: 576,561
+- Statutory:-
+Funding to address anti-Indigenous racism in health care
+Total: $300,000
+SPB
+- Key messages:
+o Budget 2021 announced an investment of $126.7 million over three years,
+starting in 2021-22, for Indigenous Services Canada and Health Canada to
+address anti-Indigenous racism in Canada’s health systems. Of this funding,
+$14.9M over three years was announced for Health Canada to establish the
+Addressing Racism and Discrimination in Canada’s Health Systems Program,
+with $13.9M in contribution funding ($13M in ProjectStream; $900k in
+Engagement Stream).
+o The Program was established to foster health systems free from racism and
+discrimination, and advances Health Canada’s overall mandate to help everyone
+in Canada maintain and improve their health by striving to ensure high quality
+health services are efficient and accessible, and by reducing health inequities.
+o The Program is a part of the short-term suite of measures developed in
+response to the three National Dialogues to Address Anti-Indigenous Racism in
+Canada’s Health Systems. This Program is also a flagship initiative under the
+Federal Pathway to Address Missing and Murdered Indigenous Women, Girls
+and 2SLGBTQQIA+ People.
+- Purpose/objectives:
+o This item reprofiles $300K originally allocated to 2021-22.
+o The Program provides contribution funding for time-limited projects that
+address systemic racism and discrimination in Canada’s health systems in a way
+that is informed by the lived experiences of Indigenous, racialized and
+marginalized communities. The Program also supports capacity development for
+Indigenous organizations to meaningfully engage on their health priorities.
+o The objectives of the Program are expected to result in:
+o Improved access by individuals living in Canada to appropriate, effective, and
+culturally sensitive health services; and,
+o Better health outcomes for Indigenous, racialized and marginalized populations.
+- Expected results:
+o The Program’s short-term outcomes are that health system partners have
+increased capacity to create and provide culturally safe and inclusive health
+services for racialized and marginalized communities, and that Indigenous
+organizations have increased capacity to engage on health priorities.
+- Voted: 300,000
+- Statutory:-
+Payments for COVID-19 tests pursuant to An Actrespecting certain measures related to COVID-
+19
+Total: $1,789,123,165
+EXEC-Testing Secretariat
+- Key messages:
+o Bill C10 received royal assent March 4, 2022 and provided Health Canada the
+authority and $2.5B in funding to procure and distribute COVID-19 tests.
+o $711M was used in 2021-22 leaving a balance of $1.789B for 2022-23 and
+onward.
+o Based on current forecasts approximately $543M will remain at the end of this
+fiscal year (enough to buy approximately 77M Rapid Antigen Tests at $7/test).
+- Purpose/objectives:
+o Rapid tests remain an important tool to enable Canadians to take responsibility
+and to manage their individual risks.
+o With funding, HC will continue to support jurisdictions in their efforts to manage
+COVID-19 by ensuring widespread distribution of tests across the country.
+o More specifically, funds are used to support procurement, warehousing, and
+distribution of rapid tests.
+- Expected results:
+o Procurement of 205,347,655 tests to date this FY, with an additional 241,008
+tests underway.
+o Establishment of a federal strategic reserve of 55M tests for surge
+requirements.
+o Distribution of rapid tests to PTs, workplaces and vulnerable populations via
+different channels (PT, Canadian Red Cross, Pharmacies, etc.).
+- Voted:-
+- Statutory: 1,789,123,165
+From the Department of Indigenous Services to the Department of Health to provide
+microbiological and physical-chemical testing of drinking water in First Nation communities
+Total: $552,497
+ROEB
+- Key messages:
+o In collaboration with ISC in the Quebec Region, HC supports the delivery of
+clean, safe and reliable drinking water to First Nations communities.
+o This funding supports Health Canada in providing microbiological and physical-
+chemical testing of drinking water in First Nation communities.
+- Purpose/objectives:
+o The purpose of the funding is to allow HC to support the delivery of clean, safe
+and reliable drinking water to First Nations communities, in collaboration with
+ISC in the Quebec Region through:
+o Regular monitoring of all publicly accessible drinking water systems (this
+includes 29 public drinking water systems and 12 semi-public systems in 26 First
+Nations communities in Quebec);
+o Providing well water bacteriological testing services to residents, upon request
+and free of charge.
+- Expected results:
+o The funds allows ROEB laboratories to perform microbiological and physico-
+chemical analyses of drinking water to residents in First Nations Communities to
+ensure clean, safe and reliable drinking water.
+- Voted: 552,497
+- Statutory:-
+From the Public Health Agency of Canada to the Department of Health for Enterprise Service
+Model reallocation
+Total: $406,660
+DTB
+- Key messages:
+o Health Canada delivers IT services to the Public Health Agency of Canada as part
+of a shared services partnership.
+o Anumber of cell phones belonging to PHAC staff were inadvertently charged to
+Health Canada.
+o This transfer ensures expenses are appropriately aligned to the correct
+department.
+- Purpose/objectives
+o Shared Services Canada delivers mobile services to departments.
+o For fiscal 2022-23, they permanently transferred approximately $4.2 M from
+Health Canada and about $500k from PHAC to SCC for a range of IT services
+including mobile devices.
+o On review of the detailed accounts it was determined that a portion of Health
+Canada’s transfer was actually for devices used by PHAC employees.
+- Expected results:
+o Costs for mobile devices are charged to the correct department.
+- Voted: 406,660
+- Statutory:-
+From the Department of National Defence to various organizations to support the Canadian
+Safety and Security Program
+Total: $265,683
+HECSB/HPFB
+- Key messages:
+o Health Canada will receive $265,683 from the Department of National Defence
+under the scrutiny and governance framework of the Canadian Safety and
+Security Program:
+o To purchase laboratory equipment such as an automated micropore and
+physiorption analyzer to enhance Canada’s ability to detect and attribute
+radiological and nuclear incidents and to support national security and public
+health emergency response.
+o To purchase adigital PCR machine for the Diagnostics Lab (RDL) which has the
+mandate of protecting the health of Canadians by researching new, rapid
+techniques for detecting pathogens within food samples. The digital PCR
+machine will complement the workflows involved in this research, enabled
+quantification and therefore validation of all new techniques.
+- Purpose/objectives:
+o The objective of these acquisitions are to:
+o Enhance Canada’s ability to support Canada’s national security interests and
+mandates throughdetecting and attributing radiological and nuclear incidents.
+o Enhance Health Canada’s capabilities for emergency response by providing a
+platform for rapid, high sensitivity pathogen detection to inform intervention,
+and the release of information to the public.
+- Expected results:
+o This funding will strengthen federal emergency preparedness by enhancing
+federal capabilities to support national security and public health emergency
+response.
+o This funding will also help detect pathogens within a food sample, even for
+research purposes, which are laborious and time-consuming. A digital PCR
+instrument not only shortens these timelines, but also adds the element of
+quantification, which will strengthen the quality and reliability of the work
+performed.
+o This technology will have an important impact on the detection and monitoring
+of foodborne viral, bacterial and parasitic pathogens identified as priorities by
+Health Canada.
+- Voted: 265,683
+- Statutory:-
+From the Department of Health to the Public Health Agency of Canada to support the Joint
+Expert Committee on Food Additives to re-evaluate the safety of titanium dioxide as a food
+additive
+Total: ($132,604)
+HPFB
+- Key messages:
+o Recently, the European Commission prohibited the use of titanium dioxide
+(TiO2), a widely usedfood additive internationally, in food, based on a scientific
+opinion by the European Food Safety Authority (EFSA).
+o The Joint WHO/FAO Expert Committee on Food Additives (JECFA) is best placed
+to re-evaluate the safety of TiO2 as a food additive. JECFA intends to hold a
+meeting to establish scientific advice on TiO2, however, funds are needed.
+Funding this initiative will facilitate JECFA’s ability to re-evaluate TiO2 in a timely
+manner.
+o This advice will help inform Canada’s actions and is important to help maintain
+Canadians’ confidence in the Canadian and international food safety systems.
+- Purpose/objectives
+o The purpose of this funding is to:
+o Facilitate a grant payment to the WHO which will be used to establish scientific
+advice through the re-evaluationof the safety of titanium dioxide as a food
+additive, as well as the use of aspartame which will help inform the
+development and update of both domestic and international standards.
+- Voted: (132,604)
+- Statutory:-
+From the Department of Health to the Public Health Agency of Canada to support the
+Organisation for Economic Co-operation and Development Health Committee
+Total: ($200,000)
+SPB
+- Key messages:
+o The work of the OECD Health Committee supports the Government of Canada’s
+health policies andprograms.
+o This work benefits Canada by providing internationally comparable data and
+policy analysis to support improvements in the health system, and allows
+Canadians to more easily measure the performance of Canada’s health system
+against those of otherOECD countries.
+o Funding from Canada supports participation in the Patient Reported Indicators
+Surveys (PaRIS) initiative on patient-reported primary care indicators and will
+position Canada as a more influential member of the Health Committee in terms
+of the selection of priorities for data collection and policy analysis.
+- Purpose/objectives:
+o The transfer from Health Canada to the OECD Health Committee will support its
+work to foster improvements in the performance of member countries’, and as
+appropriate, non-member countries’ health systems, in the areas of financial
+sustainability and efficiency of health and long-term care systems, and the
+provision of high-quality health care to all.
+o The Health Committee’s work is focused on the development of health statistics
+and indicators, and providing analyses of the financial sustainability, efficiency,
+and quality of health and long-term care systems in member countries.
+- Expected results:
+o The Government of Canada contributes to, and regularly uses, OECD reports to
+assess Canada’s health system achievements. The Health Committee’s data and
+policy analysis supports Canada’s health priorities such as post-COVID health
+system resilience and initiatives to improve the health care system such as
+digital health and long-term care.
+o A portion of the funding will be used to pay for Canada’s participation in a major
+new survey (called PaRIS) to collect patient-reported indicators of their
+experience in primary health care.
+o The funding to the Health Committee would also demonstrate Canada’s support
+for the OECD’s work in health, and promote Canada’s continued engagement on
+global health issues related to health system strengthening and universal health
+coverage.
+- Voted: (200,000)
+- Statutory:-
+From the Department ofHealth to the Public Health Agency of Canada to support the World
+Health Organization Framework Convention on Tobacco Control
+Total: ($200,000)
+CSCB
+- Key messages:
+o Canada remains committed to implementing the Framework Convention on
+Tobacco Control (FCTC).Advancing full implementation of the FCTC, both within
+Canada and abroad, will continue to be a priority for the Government of
+Canada.
+o Canada continues to actively participate in regional and international tobacco
+control fora to address the burden of tobacco use.
+o Canada values the collaborative relationship it has with the WHO FCTC
+Convention Secretariat, including providing support to the Secretariat via the
+International Health Grants Program on a regular basis since 2015 for activities
+related to strengthening the implementation of the FCTC regionally and
+internationally.
+- Purpose/objectives:
+o The project aims to support the development of efficiencies in the reporting
+process under the WHO FCTC through, among others, the revision of the
+reporting process, and the implementation of a quality assurance framework
+supporting the collection of timely and quality data.
+o The revised reporting process would seek to better serve the data needs related
+to the monitoring of the indicators of the Global Strategy to Accelerate Tobacco
+Control: Advancing Sustainable Development through the Implementation of
+the WHO FCTC 2019-2025, which was championed by Canada.
+- Expected results:
+o Reduced reporting burden on the Parties, allowing for a smoother analysis of
+data by theConvention Secretariat, resulting in more informative global
+progress reports to be submitted to the Conference of the Parties to the FCTC.
+o The proposed project would not only contribute to reducing the reporting
+burden on under-resourced tobacco control programs, but would also provide
+Parties with informative WHO FCTC progress reports and data analysis to
+strategically inform their domestic tobacco control efforts.
+- Voted: (200,000)
+- Statutory:-
+From the Department of Health to the Department of Agriculture and Agri-Food to support the
+pilot water monitoring program for pesticides
+Total: ($200,500)
+PMRA
+- Key messages:
+o Health Canada’s Pest Management Regulatory Agency is developing a
+framework for a National Water Monitoring Program for Pesticides under the
+Increased Use of Real-world Data and Independent Advice pillar of the agency’s
+Transformation Agenda.
+o The goal is to provide data and advice to better inform pesticide regulatory
+decisions.
+o The PMRA is implementing a 2-year water monitoring pilot programat select
+sites across Canada in partnership with Agriculture and Agri-Food Canada and
+Environment and Climate Change Canada to inform framework development
+- Purpose/objectives
+o This transfer of $200,500 funds to Agriculture and Agri-Food Canada activities
+will support Year 1 of Health Canada’s two-year Pilot Water Monitoring Program
+for Pesticides.
+o Agriculture and Agri-Food Canada and third-party contractors will collect surface
+water samples from across Canada for laboratory analysis of pesticides.
+o Agriculture and Agri-Food Canada will also complete analytical method
+development work for glyphosate and its transformation products in order to be
+considered for Year 2 of the pilot program.
+- Expected results:
+o Results and lessons learned will inform the HealthCanada Pest Management
+Regulatory Agency’s development of a Framework for a National Water
+Monitoring Program for Pesticides.
+- Voted: (200,500)
+- Statutory:-
+From the Department of Health to the Canadian Institutes of Health Research to advance
+policiesthat promote science and evidence-based decision making
+Total: ($245,500)
+SPB
+- Key messages:
+o This funding supports Dr. Cara Tannenbaum, the Scientific Director of the CIHR
+Institute of Gender and Health, in her role as Health Canada’sDepartmental
+Science Advisor (DSA). Her role has been extended to two days a week until
+September 30th, 2023.
+o As the DSA, Dr. Tannenbaum will continue to provide advice on strengthening
+science input to Health Canada’s priorities and signature initiatives,including
+policy and regulatory development.
+- Purpose/objectives:
+o Dr. Tannenbaum is working to strengthen implementation of Health Canada’s
+science priorities, as well as elevating the voice of science and scientists in
+decision-making, as appropriate.
+o Leading the Science and Research Integration Network, science priorities
+outlined in Health Canada’s Framework for Science and Research Excellence will
+be implemented.
+o Dr. Tannenbaum represents Health Canada and brings forward the
+department’s progress tothe Federal Departmental Science Advisors Network
+chaired by Dr. Nemer, Canada’s Chief Science Advisor.
+- Expected results:
+o Integration of science advice will be advanced, as appropriate, across Health
+Canada including in relevant policy and regulations.
+o Working with colleagues, the DSA will strive to accelerate systematic integration
+of science advice across Health Canada at policy, program and horizontal levels.
+o Department-and government-wide horizontal science priorities including
+application of sex and gender-based Plus (SGBA Plus) analysis, including with
+respect to disaggregated data, will be expanded and measured.
+- Voted: (245,500)
+- Statutory:-
+From the Department of Health to the Canadian Institutes of Health Research to evaluate
+decriminalization of personal possession of Illicit substances
+Total: ($332,500)
+CSCB
+- Key messages:
+o The Government of Canada is committed to evidence-informed policy making. A
+strong evidence base forms the foundation of the Canadian Drugs and
+Substances Strategy (CDSS). To that end, the Government of Canada continues
+to invest in research and evaluation through the Canadian Institute of Health
+Research (CIHR) to generate evidence to help ensure that Canada's drug policies
+better protect and promote the health and safety of Canadians.
+o Funding through Health Canada’s Substance Use and Addictions Program will be
+provided to the CIHR to issue grant funding for a third-party evaluation of an
+exemption issued to BC under the Controlled Drugs and Substances Act,
+removing the criminalpenalties for the possession of small amounts of certain
+controlled substances for personal use by adults 18 years of age and older.
+- Purpose/objectives:
+o The purpose of the evaluation is to rigorously assess the impact of the
+exemption on people who use drugs, the general population, the criminal
+justice system (including police services and correctional systems), economic
+consequences and return on investment.
+- Expected results:
+o The evaluation will measure progress towards the objectives of the exemption,
+intended outcomes, unintended consequences and other potential risks, on an
+ongoing basis. Ultimately, the findings from the evaluation will help to inform
+next steps with respect to the exemption as well as any potential future national
+approach.
+- Voted: (332,500)
+- Statutory:-
+From the Department of Health to the Public Health Agency of Canada to support the CanCOVID
+initiative
+Total: ($741,853)
+SPB
+- Key messages:
+o CanCOVIDsupports the federal COVID-19 scientific effort by fostering
+collaboration to enable knowledge mobilization and science-to-policy action.
+o It maintains an on-line collaboration platform, hosts Speaker Series and
+conducts literature reviews to respond to targeted pandemic-related questions.
+o Health Canada has an opportunity to engage CanCOVID and benefit from its
+research, through an existing contribution agreement between CanCOVID and
+the Public Health Agency of Canada.
+- Purpose/objectives:
+o Under a renewed contribution agreement, CanCOVID will research a range of
+topics for Health Canada including the effectiveness of interventions as well as
+the broader impacts of COVID-19 including on health systems, public health
+measures, and vulnerable populations.
+o All resources, including literature, social media, interviews with key informants
+and expert panel discussions will be used to cover 5-6 topics of Health Canada’s
+choice, and distilled into reports and rapid reviews for use by Health Canada
+(and in most cases available to the public).
+o The objective is to answer crucial questions where Health Canada lacks internal
+research capacity.
+- Expected results:
+o Health Canada will leverage pandemic related information gathered by
+CanCOVID to inform policy making, adjust policy positions and for future
+planning and preparedness in both pandemic and non-pandemic matters.
+o The reports and rapid reviews generated will inform policy discussion and
+ultimately decision making at Health Canada.
+- Voted: (741,853)
+- Statutory:-
+From the Department of Health to the Public Health Agency of Canada to support the
+implementation of innovative COVID-19 testing approaches for other communicable diseases
+Total: ($1,259,689)
+EXEC-Testing Secretariat
+- Key messages:
+o Funds used to support British Columbia Centre for Disease Control initiative on
+enhancing testing across northern, remote and isolated (NRI) communities.
+o Planning began in February 2022 with the objective to fund the initiative under
+the COVID-19 SRA Contribution Program of Health Canada.
+o To increase efficiency, funds are being transferred to the Public Health Agency
+of Canada (PHAC) through the Estimates process
+- Purpose/objectives:
+o This project is aligned with the priorities of the SRA Program, particularly its
+focus on expanding access totesting across NRI communities, and its expansion
+of testing beyond COVID-19 and screening for communicable diseases.
+- Expected results:
+o Over the course of the pandemic, COVID-19 molecular testing platforms were
+implemented in health facilities in First Nations communities across British
+Colombia as a means of improving access to testing and turn-around times for
+results in remote communities. BCCDC plans to build upon these established
+community based testing system to identify priority tests to run on these
+platforms for other infectious diseases.
+o This initiative will help pivot community-based testing to other infectious
+diseases, andwill serve as a model for other community-based testing programs
+across Canada. Beyond testing for Sexually Transmitted and Blood Borne
+Infections (STBBI), TB and other infectious diseases, this work will form the
+foundation for current and future pandemic preparedness throughout NRI
+communities.
+o Beyond supporting the expansion of community-based testing in NRI
+communities, this project will also expand the optimal use of these new testing
+technologies by working hand in hand with wastewater surveillance(WWS)
+networks. In expanding testing in NRIs alongside WWS, these monitoring
+systems will ensure health authorities keep apprised of viral loads and variants
+of concern within NRI communities.
+- Voted: (1,259,689)
+- Statutory:-
+From the Department of Healthto the Canadian Institutes of Health Research on a COVID-19
+Outpatient Therapeutic Study
+Total: ($5,000,000)
+EXEC-Taskforce
+- Key messages:
+o HC and CIHR, in collaboration with PHAC, have funded a large pan-Canadian
+study of COVID-19 treatments administeredto non-hospitalized patients.
+o This study was funded in June 2022 ($10M total over one year-$5M each from
+HC and CIHR), and was part of the Government of Canada’s continued rapid
+response to address the health challenges of the COVID-19 pandemic.
+- Purpose/objectives:
+o Canada has invested substantially in COVID-19 therapeutics alongside its
+portfolio of vaccines, screening approaches, and broader public health
+measures.
+o Toward the end of 2021, the Government of Canada announced purchase
+agreements to accessemerging antiviral medications as treatment options for
+patients who present with mild to moderate COVID-19 and who are at high risk
+of developing serious disease.
+o To effectively roll out these new antiviral medications, there is a pressing need
+to further study the outcomes, including effectiveness, comparative
+effectiveness, and cost effectiveness of administering these treatments-as well
+as any other therapeutics which may become available-to non-hospitalized
+patients in the Canadian health care system.
+- Expected results:
+o Provide evidence regarding the clinical and cost-effectiveness, practical
+challenges, and outcomes of administering therapeutics for COVID-19 to non-
+hospitalized patients in Canadian healthcare settings
+o Generate evidence on treatment effectiveness in diverse populations. These can
+include: communities marginalized by race; First Nations, Inuit, Métis and Urban
+Indigenous Peoples; communities historically excluded from research; those
+experiencing health inequities; persons with disabilities and individuals across
+diverse health status (e.g. vaccination status, high risk populations, individuals
+with comorbid conditions); those experiencing gendered impacts of the
+pandemic; and those in life stages that have been underrepresented in research
+and
+o Provide rapid evidence to inform clinical and health system management and
+public health response, and/or decision-making and planning within and across
+jurisdictions in Canada and internationally.
+- Voted: (5,000,000)
+- Statutory:-
+From theDepartment of Health to the Department of Indigenous Services to support the First
+Nations Information Governance Centre
+Total: ($12,335,213)
+EXEC-Testing Secretariat
+- Key messages:
+o Funds used to support to the First Nations Information Governance Centre
+(FNIGC)
+o More specifically to support the Regional Health Survey (RHS) and Regional and
+National COVID-19 Data Management Capacity and Infrastructure Building
+projects across 2021-22 and 2022-23.
+o To increase efficiency, funds are being transferred to Indigenous Services
+Canada (ISC) through the Estimates process
+- Purpose/objectives:
+o This project is aligned with the priorities of the SRA Program, particularly its
+focus on modernizing health data management,
+o FNIGC is a mechanism that rights-holding First Nationscan use to assert
+sovereignty over their data and information.
+o FNIGC supports First Nations communities in building data and statistical
+capacities, and assists in the provision of credible and relevant information on
+First Nations.
+- Expected results:
+o Launch of a fourth wave of the First Nations Regional Health Survey (RHS 4)
+which is the only national First Nation health survey. The survey will address
+gaps in national-level health data for First Nation communities.
+o Development, modernization and oversight of data management infrastructure,
+systems, and capacity building projects within FNIGC’s 10 member regions.
+o Development of appropriate and consistent standards to support COVID-19
+adapted data collection, management & usage methodologies.
+- Voted: (12,335,213)
+- Statutory:-
+Public Health Agency of Canada-2022-23 Supplementary Estimates (B)
+PUBLIC HEALTH AGENCY OF CANADA’S FUNDING CROSSWALK
+Contents
+NEW FUNDING
+Funding to bolster current inventories of medical countermeasures and to enhance diagnostic
+and surveillance activities of monkeypox in Canada
+Funding for the Centre for Aging and Brain Health Innovation
+Funding for Special Immigration Measures for Ukrainian Nationals
+Funding for the resettlement commitment for the evacuation and immigration of Afghan
+nationals to Canada (horizontal item)
+Funding for government advertising programs (horizontal item)
+Reinvestment of royalties from intellectual property
+Total New Funding
+REPROFILES
+Funding for medical research and vaccine developments (COVID-19)
+Funding for border travel measures and isolation sites (COVID-19)
+Funding for medical countermeasures (COVID-19)
+Funding to stabilize core capacities for the National Emergency Strategic Stockpile
+Funding for innovative research and procurement of testing technologies related to the
+pandemic
+(COVID-19)
+Funding for mental health and to address substance use (COVID-19)
+Funding for the Indigenous Early Learning and Child Care Framework
+Funding to improve mental health supports and services (COVID-19)
+Funding to create a national autism strategy
+Funding to prevent diabetes and improve treatments
+Total Reprofiles
+TRANSFERS
+Transfer from the Department of Health to implement innovative COVID-19 testing for other
+communicable diseases
+Transfer from the Department of Health to support the CanCOVID initiative
+Transfer from the Department of National Defence to support the Canadian Safety and Security
+Program
+Transfer from the Department of Health to support the Organisation for economic Co-operation
+and Development (OECD) Health Committee
+Transfer from the Department of Health to support World Health Organization Framework
+Convention on TobaccoControl
+Transfer from the Canadian Institutes of Health Research to support the delivery of the
+international AIDS Conference
+Transfer from the Department of Health to support the Joint Expert Committee on Food
+Additives to re-evaluate the safety of titanium dioxide as a food additive
+Transfer to the Treasury Board Secretariat to support the Capacity Accelerator Project
+Transfer to Canadian Institutes of Health Research to support EU Joint Programme-
+Neurodegerative Disease Research on the impact of COVID-19 on neurodegenerative diseases
+Transfer to Canadian Institutes of Health Research to support a Health System Impact
+Fellowship
+Transfer to the Department of Indigenous Services to support the Canadian Aboriginal AIDS
+Network (CAAN) with their Indigenous
+Transfer to Canadian Institutes of Health Research to support research on priorities outlined in
+Canada’s 2021 Chief Public Health Officer (CPHO) report
+Transfer to Canadian Institutes of Health Research to support Policy Research for Health System
+Transformation
+Transfer to the Department of Health for the Enterprise Service Model (ESM) reallocation
+Transfer to the Canada Border Services Agency for data integration on border health
+surveillance
+Transfer to the Department of Crown-Indigenous Relations and Northern Affairs to support
+Indigenous early learning and child care
+Transfer to Canadian Institutes of Health Research to support Pediatric Outcome Improvement
+through Coordination of Research Networks
+Total Transfers
+INTERNALREALLOCATIONS
+Internal reallocation of resources from operating to contributions in support of HIV self tests,
+monkeypox and myocarditis
+Internal reallocation of resources to support booster campaign uptake through the
+Immunization Partnership Fund (IPF)
+Internal reallocation of resources in partnership with the WHO, for new tools for advanced
+monitoring and reporting on health inequities
+Net Internal Reallocations
+NEW FUNDING
+Funding to bolster current inventories of medical countermeasures and to enhance diagnostic
+and surveillance activities of monkeypox in Canada
+- Key messages:
+o The Public Health Agency of Canada (PHAC) is closely monitoring the
+monkeypox situation in Canadaand has developed a national strategy to
+prepare for and mount a response to monkeypox.
+o PHAC Strategies developed for monkeypox include the following: Public Health
+Measures, Surveillance Epidemiological Analysis, Health System, Vaccines and
+Treatments,and Research and Development.
+o Federal-Provincial-Territorial (FPT) public health officials are working
+collaboratively through the Public Health Network to coordinate the pan-
+Canadian public health response to monkeypox, including prevention and
+treatmentapproaches.
+- Purpose/objectives:
+o New funding will support the following two specific initiatives:
+o $94.4M to bolster current inventories of medical countermeasures suitable for
+prevention and treatment of monkeypox and maintain smallpox preparedness
+in Canada; and
+o $8.3M for the National Microbiology Laboratory to enhance its capacity for
+diagnostic surge and coordination as well as genomic surveillance activities for
+monkeypox.
+- Expected results
+o Investments will support:
+o Effective and timely outbreak management for monkeypox, strengthen
+Canada’s security of supply and maintain our current level of smallpox
+preparedness.
+o Improve our understanding of the virus transmission dynamics and support case
+identification and surveillance of monkeypox in Canada to better inform
+national and global decision-making and public health action.
+- Voted: 102,704,797
+- Statutory: 0
+Funding for the Centre for Aging and Brain Health Innovation
+- Key messages:
+o Budget 2022 provided $30M over 3 years,starting in 2022-23 for the Centre for
+Aging and Brain Health Innovation (CABHI) to help accelerate innovative
+solutions in brain health and aging.
+o Through a contribution agreement with PHAC, CABHI will be the sole recipient
+of contribution funding, including $8M in 2022-23, $11M in 2023-24, and
+$11M in 2024-25.
+o CABHI is a unique collaboration of health care, science, industry, not-for-profit
+and government partners whose aim is to help improve quality of life for the
+world’s aging population, allowing older adults of all backgrounds and abilities
+to age safely in the setting of their choice while maintaining their cognitive,
+emotional, and physical well-being.
+- Purpose/objectives:
+o The purpose of this funding is to:
+o Help advance the health and wellbeing of older adults at home, in the
+community, and in care settings;
+o Build a skilled workforce and system-level capacity in older adult care that
+mobilizes knowledge and innovation through a suite of programs, and;
+o Build amore resilient, sustainable, and competitive economy by providing
+tailored acceleration services for commercialization and wide-scale adoption of
+innovations.
+- Expected results:
+o Increased and accelerated development, validation and scaling of solutions that
+enable older adults and people living with brain health issues, including
+dementia, to live in the setting of their choice and remain active in their
+communities;
+o Improved products, programs and services that support dementia prevention
+and enhance the quality of life of people living with dementia and caregivers;
+o Expanded delivery of high-quality, accessible virtual care for physical, mental,
+and cognitive health services and supports; and
+o Enhanced knowledge mobilization related to aging and brain health.
+- Voted: 8,000,000
+- Statutory: 0
+Funding for Special Immigration Measures for Ukrainian Nationals
+- Key messages:
+o Ukrainians are expected to arrive at various air and land ports of entry across
+Canada at any time of the day/night. As such, PHAC will berequired to provide
+physical and virtual health assessments at various air and land ports of entry.
+o This additional funding will support PHAC’s ports of entry (POEs) to conduct
+health screening and assessments of these travellers pursuant to the
+requirements of the Quarantine Act.
+- Purpose/objectives:
+o The purpose of this funding is to:
+o Support presence at the ports of entry to conduct health screening and
+assessments of Ukrainian travellers pursuant to the requirements of the
+Quarantine Act.
+- Expected results:
+o Effectively support the volume of incoming Ukrainian nationals at the varying
+entry points that are expected to be used (via air or land border) in different
+locations at any time of the day.
+o Physical and virtual health assessment will be conducted for incoming Ukrainian
+nationals.
+- Voted: 4,990,485
+- Statutory: 1,160,964
+Funding for the resettlement commitment for the evacuation and immigration of Afghan
+nationals to Canada (horizontal item)
+- Key messages:
+o PHAC’s physical presence is particularly required for incoming Afghan nationals.
+Virtual assessments (by phone) would not be possible, as most travellers will
+require an interpreter on site, and large families will be travelling together.
+o The funding will ease the impact on PHAC to deploy staff at many ports of entry
+used to receive Afghan nationals.
+- Purpose/objectives:
+o The purpose of this funding is to:
+o Support presence at the ports of entry to conduct health screening and
+assessments of Afghan Nationals pursuant to the requirements of the
+QuarantineAct.
+- Expected results:
+o Effectively support the volume of incoming Afghan nationals at the varying entry
+points that are expected to be used (via air or land border) in different locations
+at any time of the day.
+o Physical health assessment will be conductedfor incoming Ukrainian nationals.
+- Voted: 1,203,375
+- Statutory: 255,106
+Funding for government advertising programs (horizontal item)
+- Key messages:
+o Each year, departments under Schedules I, I.I, and II of the Financial
+Administration Act submit advertising expenditure forecasts to the Privy Council
+Office (PCO) for review.
+o To gain access to the central fund, departments submit advertising proposals to
+PCO, which are typically based on priorities set out in the Speech from the
+Throne, Budget and Mandate Letters.
+- Purpose/objectives
+o The purpose of this funding is to:
+o Financegovernment advertising programs (horizontal item)
+- Expected results:
+o The primary objective of the childhood vaccination campaign is to:
+o Increase Canadians’ awareness and uptake of childhood vaccination information
+in an effort to counter vaccination hesitancy;
+o Help parents make informed choices concerning their children’s health, thereby
+contributing to PHAC’s mission of health promotion and prevention of diseases
+for Canadians.
+- Voted: 500,000
+- Statutory: 0
+Reinvestment of royalties from intellectual property
+- Key messages
+o PHAC collects licensing revenues and processes awards to inventors in a manner
+that is consistent with federal policies and with Section 10 of the Public Servants
+Invention Act.
+o Proceeds collected in fiscal year 2021-2022 totalled $338,368. The majority of
+this funding returns to PHAC to reinvest in research and innovation; the
+remaining 35% is shared among eight inventors (current and former public
+servants).
+- Purpose/objectives
+o The purpose of this funding for:
+o The reinvestment of royalties from licensing of Intellectual Property.
+o Pursuant to the 1993 decision of the Treasury Board respecting the retention of
+royalties and fees from the licensing of Crown-owned intellectual property,
+PHAC is authorized to receive, throughSupplementary Estimates, an annual
+appropriation equal to all such revenues that PHAC had remitted to the
+Consolidated Revenue Fund in the previous year.
+- Expected results:
+o Facilitate and promote a culture of innovation and research by the
+reinvestments inlaboratory programs.
+- Voted: 337,677
+- Statutory: 691
+Total new funding
+- Voted: 117,736,334
+- Statutory: 1,416,761
+REPROFILES
+Funding for medical research and vaccine developments (COVID-19)
+- Key messages:
+o Early evidence suggests Canada may require a regular supply of COVID-19
+vaccine through 2024 to address waning immunity and to protect against
+variants of concern. COVID-19 vaccines will also be required for unvaccinated
+cohorts such as newly arrived immigrants and visiting workers, and children
+under theage of 5, pending product authorization.
+o Vaccine suppliers are developing new formulations that may offer greater
+protection against the Omicron variant and potentially broaden protection
+against other potential variants.
+o In an effort to maximize vaccinesupply and minimize wastage, vaccine
+deliveries from Canada’s purchase agreements have been spread out across
+multiple years.
+- Purpose/objectives
+o The purpose of this reprofile request is to:
+o Provide the funding to support the continued contractual commitments related
+to COVID-19 vaccine doses that were unavailable or unneeded in previous years
+and were therefore shifted into future years.
+o It will also allow Canada the necessary flexibility and agility to rapidly secure
+additional doses of new formulation, if needed, to provide Canadians with
+vaccines that provide the best protection against COVID-19 and the cover to
+secure additional doses into 2024, if recommended by scientific evidence and
+expert advice.
+- Expected results
+o The Government of Canada will beable to continue to protect the population
+against COVID-19 through timely access to vaccines.
+o As variants of concern spread globally, timely access to additional boosters and
+new formulations will allow eligible individuals to build on the protection
+received through the initial vaccination campaign.
+o In addition to greater efficacy and durability against variants, new and improved
+formulations may be more effective at reducing the transmission of the SARS
+CoV-2 virus.
+- Voted: 696,179,267
+- Statutory: 0
+Funding for border travel measures and isolation sites (COVID-19)
+- Key messages:
+o Reprofiled funding will be for PHAC to support its ports of entry to conduct
+testing, health screening and assessments of travellers pursuant to the
+requirementsof the Quarantine Act.
+o Designated quarantine facilities must meet public health guidelines for the
+purposes of accommodating travellers who may be COVID-19 positive,
+symptomatic, or do not have a suitable place to quarantine or isolate.
+o However, in lightof the Government of Canada's recent decision to drop COVID-
+19 measures at borders as of October 1st, 2022, the funding of $400M, initially
+intended to provide border screening and quarantine capacity until the end of
+the year, will be used for the close-out costs for the border and quarantine
+program up until September 30th, 2022.
+- Purpose/objectives
+o The purpose of the funding is:
+o To sustain the cost of service provider contracts that support the coordination,
+processing, logistics and data transfer for COVID-19 testing of international
+travellers entering Canada up until September 30, 2022.
+o To maintain the operation of the designated quarantine facilities in 14 cities
+across Canada to accommodate travellers who may be COVID-19 positive,
+symptomatic, or donot have a suitable place to quarantine up until September
+30, 2022.
+o To sustain capacity for continued oversight, development, implementation and
+monitoring of border measures up until September 30, 2022.
+- Expected results
+o As Canada continues to move towards a recovery, there is a need to ensure
+balanced border measures and continued readiness to react. It is important to
+support critical needs to ensure that key programs that protect the health and
+safety of Canadians are in place.
+o This funding will ensure the Agency has the resources to close out the border
+operations and to have funding available should a future border travel measure
+response be necessary in the future.
+- Voted: 400,000,000
+- Statutory: 0
+Funding for medical countermeasures (COVID-19)
+- Keymessages:
+o Reprofiled logistics funding will support the distribution of COVID-19 vaccines
+and will also support F/P/T inventory management and supply/demand
+forecasting through the Vaccine Connect platform, as well as enhanced supply
+chain security through implementation of approaches such as Track and Trace
+technology.
+o Reprofiled primary packaging funds will support outstanding contracting costs
+and potential new purchases associated with the Government of Canada's
+commitment to procure massvaccination supplies needed for the continued
+administration of COVID-19 vaccines.
+- Purpose/objectives
+o The purpose of this reprofile is to:
+o Support the continued distribution of COVID-19 vaccines to provinces and
+territories through logistical support and inventory management;
+o Fulfill contractual commitments and provide flexibility to purchase additional
+supplies necessary for the production and administration of COVID-19 vaccines;
+o Ensure provinces and territories (P/Ts) have the support to effectivelyroll-out
+COVID-19 vaccines across Canada.
+- Expected results
+o PHAC will continue protecting the population against COVID-19 through
+providing timely access to vaccines for P/Ts and relevant federal departments
+and agencies.
+o Canada will fulfil its contractual obligations on the purchase of primary
+packaging and mass vaccination materials, maintaining positive relationships
+with key health product suppliers.
+o Canada will have the flexibility to secure additional supplies to quickly and
+effectively support P/Ts in their ongoing vaccine campaigns, including a planned
+fall booster campaign, and the timely roll-out of vaccines for kids under the age
+of five.
+- Voted: 61,250,000
+- Statutory: 0
+Funding to stabilize core capacities for the National Emergency Strategic Stockpile
+- Key messages:
+o As a result of emerging COVID-19 variants such as Omicron, the risks posed by
+waning vaccine immunity, and the combined impact of COVID-19, seasonal flu
+and other respiratory viruses, there continues to be uncertainty about the
+impactthat the ongoing COVID-19 pandemic will have on the need for and
+available supply of key medical supplies.
+o Reprofile funding will allow PHAC to maintain an 8 week stockpile of personal
+protective equipment (PPE), to complete existing contract obligations,and
+remaining funds to procure PPE and other medical supplies and equipment as
+needed when other emergencies or events occur.
+- Purpose/objectives
+o The purpose of this reprofile is to:
+o Provide the funds needed to maintain an 8 week stockpile and to pay for
+delayed delivery of PPE orders due to strained global supply chains, etc.;
+o It will also allow PHAC to have sufficient funding and be prepared for emerging
+requirements not previously anticipated.
+- Expected results
+o PHAC would be prepared to support its leadership role in providing surge
+capacity to P/Ts to support public health emergency management for the
+ongoing COVID-19 response.
+- Voted: 50,000,000
+- Statutory: 0
+Funding for innovative research and procurement of testing technologies related to the
+pandemic (COVID-19)
+- Key messages
+o Reprofile funding will support the development of initiatives and services that
+have been funded via the 2020 Fall Economic Statement (FES) “Innovative
+Research and Support for New Testing Approaches and Technologies” envelope.
+o It will also ensure that public health partners and Canadians alike continue to
+receive the services and intelligence these initiatives provide.
+- Purpose/objectives
+o The purpose of this reprofile is to:
+o Support the continuation and expansion of initiatives and services that were
+instrumental to Canada’s COVID-19 pandemic response; and
+o Specifically, the expansion of wastewater surveillance programming and
+genomics sequencing as well as the replacement of the aging mobile laboratory.
+- Expected results
+o Deliver innovative approaches to address COVID-19 and provide mobile
+laboratory services to public health partners.
+- Voted: 20,353,667
+- Statutory: 0
+Funding for mental health and to address substance use (COVID-19)
+- Key messages:
+o Reprofiled funding will support two existing, large scale funding agreements
+with high capacity organizations (Kids Help Phone and the Centre for Addiction
+and Mental Health) to address the surge and increased complexity of demand
+for crisis services during and following the pandemic.
+o Based on evidence, this need for mental health and suicide-related crisis
+support is expected to remain heightened over the next two years, during
+pandemic recovery.
+o Funds would be administered through the Centre for Addiction and Mental
+Health (CAMH), whichis overseeing Talk Suicide Canada, formally known as the
+Canada Suicide Prevention Service, and has the capacity to address recruitment
+and virtual training needs through its established relationships with distress
+centres across Canada.
+o The distress linesector are the backbone of suicide and mental health crisis
+support in Canada, and will form the foundation of the network upon which a
+national three-digit number for suicide prevention and crisis support will need
+to be build.
+- Purpose/objectives
+o The reprofiled funds will enable two projects:
+o Crisis supports to children and youth; and
+o Resources to help distress centres address complex needs to continue serving
+the needs of distress centres and of children and youth in crisis.
+- Expected results
+o Thisreprofile will address:
+o Urgent needs for crisis and distress support, including the de-escalation of
+mental health crisis, referrals to resources, curated resources for diverse
+populations, and connection to emergency services.
+o Centre for Addiction and Mental Health (CAMH) to support the capacity of the
+distress centre sector, addressing recruitment and virtual training for
+responders and responder supervisors, and helping to fully meet unmet
+demand, including during pandemic recovery.
+o Building a strong foundation in the distress line sector prior to the introduction
+of a national three-digit number for suicide prevention and crisis support.
+- Voted: 13,000,000
+- Statutory: 0
+Funding for the Indigenous Early Learning and Child Care Framework
+- Key messages:
+o TheFall Economic Statement (FES) 2020 committed ongoing funding to support
+Aboriginal Head Start in Urban and Northern Communities (AHSUNC)
+programming in fiscal year 2021-22, as part of the broader investments towards
+the Indigenous Early Learning and ChildCare (IELCC) Transformation Initiative.
+o In line with the goals of the IELCC Framework, AHSUNC’s Indigenous-led
+approach relies on the National Aboriginal Head Start Council (NAHSC) to
+determine strategic investment priorities. Over the past year NAHSC hasworked
+to ratify a number of governance decisions including an allocation methodology
+for distribution of funds across existing AHSUNC sites.
+o Due to the delayed finalization of this methodology as well as significant
+administrative capacity challenges forsites associated with the COVID-19
+pandemic NAHSC has indicated a need to reprofile the $2.4M into next fiscal
+year (2022-23) as a means to adequately allocate and manage the FES 2020
+investments.
+- Purpose/objectives
+o PHAC has reprofiled the one-time contributions investments of $2.4M from
+Aboriginal Head Start in Urban and Northern Communities (AHSUNC) program.
+o AHSUNC provides funding and support to 133 sites which offer early-
+intervention programming for approximately 4,300 Indigenous children each
+year and empowers the National Aboriginal Head Start Council to make
+decisions and provide advice on strategic priorities, funding allocations, and
+other needs identified by the project sites across all regions.
+- Expected results
+o By reprofiling this funding into 2022-23, NAHSC will be able to:
+o Properly implement the new methodology and determine the appropriate
+allocation amounts for each project site;
+o Work with sites to plan ahead for next fiscal year, rather than rushing into
+commitments for this year, including determining the best use of the FES 2020
+funds based on the unique needs of each region;
+o Ensure that the funding is used appropriately in 2022-23 to address ongoing
+operational pressures.
+o Reprofiling this funding will continue AHSUNC’s relationship with NAHSC as part
+of the Agency’s commitment to a self-determined IELCC system.
+- Voted: 2,400,000
+- Statutory: 0
+Funding to improve mental health supports and services (COVID-19)
+- Key messages:
+o Budget 2021 provided time limited funding to PHAC for grant and contribution
+programming to promote mental health and prevent mental illness, and address
+post-traumatic stress disorder (PTSD) and trauma, in priority populations.
+o Given the time required in year one to obtain Treasury Board approval to
+implement these new initiatives, and to solicit and review funding requests,
+PHAC did not expend all funds available in 2021-22.
+o Reprofile funding through the Supporting the Mental Health of those Most
+Affected by the COVID-19 Pandemic (COVID MH) program, to support additional
+projects and activities, and ensure equitable reach to priority populations.
+- Purpose/objectives
+o The purpose of this reprofile is to:
+o Support enhanced programming to address the mental health needs of
+populations most affected by the pandemic.
+o The funds will be used to support new projects identified through targeted
+solicitations to addressgaps in current programming, including projects
+reaching Indigenous organizations and front line service providers; in addition to
+supporting enhancements to existing successful projects.
+- Expected results
+o Programming will achieve equitable reach to diversepopulations whose mental
+health has been disproportionately affected by the pandemic.
+o Projects will promote mental health, prevent mental illness and PTSD, enhance
+professional capacity, and build knowledge about effective practices in the
+pandemic and recovery context.
+- Voted: 1,000,000
+- Statutory: 0
+Funding to create a national autism strategy
+- Key messages
+o The reprofiled funding will support the initiatives and services that have been
+funded via Budget 2021 to continue the development of the National Austim
+Strategy (NAS) and continue providing community-based funding as part of the
+Autism Spectrum Disorder (ASD) Strategic Fund Initiative.
+o This would allow PHAC to meet various commitments for the creation of a NAS,
+including hosting a national autism conference and engaging with National
+Indigenous Organizations (NIOs) to build consensus on the priorities for action
+as well as finalizing specific surveillance enhancement deliverables in
+partnership with the P/Ts and other data partners, and finally IT infrastructure
+to inform decision making through the responsible and strategic use of data.
+- Purpose/objectives
+o The purpose of this reprofile is to:
+o Support the continuation and expansion of initiatives and services that are
+instrumental to the creation of a National Autism Strategy.
+o Specifically, this means the continuation of the Autism Spectrum Disorder
+Strategic Fund Initiative, and the engagementprocesses to develop a National
+Autism Strategy, specifically with P/Ts, with families, and with Indigenous
+People.
+o Additionally, the continuation of activities related to enhancing surveillance of
+autism, including the initiation of new data collection and testing the feasibility
+of expanding existing surveillance infrastructure.
+o The funds will also be geared towards the Agency’s centre of expertise on data
+lifecycle management, infrastructure, security, policy, innovation, analytics and
+talent to ensureIT capacity for this initiative.
+- Expected results
+o Hosting a national autism conference is a pivotal milestone to reach a consensus
+on the priorities towards a National Autism Strategy, as well as finalizing specific
+surveillance enhancement deliverables in partnership with P/Ts and other data
+partners, and IT infrastructure.
+o The collaboration and engagement of stakeholders, including Indigenous
+People, families and other stakeholders is essential to ensuring a national
+autism strategy is created and implemented as planned in spring/summer 2023.
+- Voted: 690,000
+- Statutory: 0
+Funding to prevent diabetes and improve treatments
+- Key messages
+o Funding will support the implementation and more accurate representation of
+the National Diabetes Framework.
+- Purpose/objectives
+o The purpose of this reprofile is to:
+o Support the successful implementation of the National Diabetes Framework;
+and
+o Allow PHAC to deliver on its policy requirements to develop a national
+framework for diabetes, based on engagement with multi-sectoral stakeholders,
+and then support activities to advance it.
+- Expected results
+o To support healthy living and chronic disease prevention and effectively
+research, design and deliver a National Diabetes Framework in support of
+diabetes prevention and improved health outcomes among Canadians.
+- Voted: 158,248
+- Statutory: 0
+Total reprofiles:
+- Voted: 1,245,031,182
+- Statutory: 0
+TRANSFERS
+Transfer from the Department of Health to implement innovative COVID-19 testing for other
+communicable diseases
+- Key messages
+o The funding will allow PHAC to proceed with a Contribution Agreement with the
+BC Centre for Communicable Disease, to support their proposal to implement a
+number of innovative community-based sexually transmitted and blood-borne
+infections (STBBI) testing approaches across British Columbia.
+- Purpose/objectives
+o The purpose of this funding is to:
+o Evaluate testing innovations developed or used for COVID-19 testing, to
+determine if and how they could be applied to testing for other communicable
+disease such as STBBI;
+o Focus the application of these innovations in rural, remote and Indigenous
+communities and populations;
+o Strengthen collaborative relations across public health, community, and
+laboratory service providers to continue enhancing community-based testing in
+the province of British Columbia.
+- Expected results
+o The project will result in an evaluated series of effective community-based
+STBBI testing approaches that could then be scaled up in British Columbia, with
+potential application in other jurisdictions in Canada.
+- Voted: 1,259,689
+- Statutory: 0
+Transfer from the Department of Health to support the CanCOVID initiative
+- Keymessages:
+o Funding will support a Program of Work between Health Canada and CanCOVID
+for the period of April 1, 2022 to March 31, 2023.
+o PHAC holds and manages a contribution agreement with CanCOVID in support
+of a Program of Work, which acts to advance an evidence-informed public
+health response to the pandemic and post-pandemic period.
+- Purpose/objectives
+o The purpose of this funding is to:
+o Optimize external health science advice related to COVID-19.
+o CanCOVID links over 2,400 members of Canada’s researchcommunity to
+collaborate across critical research and development areas, providing
+information, synthesis and input on the state of knowledge respect to key issues
+stemming from COVID-19 and its aftermath.
+o CanCOVID conducts a number of exchanges on emerging COVID-19 issues,
+facilitating seminar style presentations on science topics, along with in-camera
+expert panel discussions that provide a forum for academic and governmental
+science and policy experts to openly engage with top national and international
+scientists on priority topics. Information is synthesized and made public on the
+CanCOVID website.
+- Expected results
+o Regular sentinel intelligence exchanges with scientific experts held on a variety
+of COVID-19 topics, with summaries to be made public on the CanCOVID
+website;
+o Reports on a variety of topics related to the pandemic (e.g. Rapid Testing and
+Screening, COVID-19 vaccine safety, COVID‑19 Disinformation/Misinformation
+Among Black Canadians) disseminated on the CanCOVIDwebsite and promoted
+through social media and weekly newsletters.
+o Strengthened science and research community engagement through
+workshops, website platform and social media.
+- Voted: 741,853
+- Statutory: 0
+Transfer from the Department of National Defence tosupport the Canadian Safety and Security
+Program
+- Key messages
+o This transfer is for the acquisition of various scientific equipment that;
+o Detects respiratory pathogens such as SARS CoV-2;
+o Builds upon the existing laboratory-based surveillance program for SARS CoV-2,
+and;
+o Produces high-quality DNA profiles.
+- Purpose/objectives
+o The purpose of this funding is to support scientific technology acquisition for the
+National Microbiology Laboratory;
+o Testing equipment that support emergency preparedness and strengthen
+resilience against biological threats;
+o Equipment to automate the analysis of substances to determine its composition
+and downstream analysis; and
+o Instruments to build capacity in Canada for forensics investigation of
+contaminated evidence and potential attribution.
+- Expected results
+o The acquired scientific equipment will result in;
+o Increased diagnostic capacity for rare diseases;
+o Automation of thesurveillance program which will improve efficiency and
+reduce impact on staffing resources;
+o The use of DNA signatures from contaminated evidence in court for attribution.
+- Voted: 561,000
+- Statutory: 0
+Transfer from the Department of Health to support the Organisation for economic Co-operation
+and Development (OECD) Health Committee
+- Key messages
+o The work of the Organisation for Economic Co-operation and Development
+(OECD) Health Committee supports the Government of Canada’s health policies
+and
+o programs.
+o Thiswork benefits Canada by providing internationally comparable data and
+policy analysis to support improvements in the health system, and allows
+Canadians to more easily measure the performance of Canada’s health system
+against those of other OECD countries.
+o Funding from Canada supports our participation in the Patient-Reported
+Indicator Surveys (PaRIS) initiative on patient reported primary care indicators
+and will position Canada as a more influential member of the Health Committee
+in terms of the selection of priorities for data collection and policy analysis.
+- Purpose/objectives
+o The purpose of this funding is to:
+o Facilitate a grant payment to the OECD Health Committee which will support its
+work to foster improvements in the performance of member countries’, and as
+appropriate, non-member countries’ health systems, in the areas of financial
+sustainability and efficiency of health and long-term care systems, and the
+provision of high-quality health care to all.
+o The OECD Health Committee’s work is focused on the development of health
+statistics and indicators, and providing analyses of the financial sustainability,
+efficiency, and quality of health and long-term care systems in member
+countries.
+- Expected results
+o The OECD Health Committee’s data and policy analysis supports Canada’s health
+priorities such as post-COVID health system resilience and initiatives to improve
+the health care system such as digital health and long-term care.
+o A portion of the funding will be used to pay for Canada’s participation in a major
+new survey (called PaRIS)
+o to collect patient-reported indicators of their experience in primary health care.
+o The funding to the OECD Health Committee would also demonstrate Canada’s
+support for the OECD’s work inhealth, and promote Canada’s continued
+engagement on global health issues related to health system strengthening and
+universal health coverage.
+- Voted: 200,000
+- Statutory: 0
+Transfer from the Department of Health to support World Health Organization Framework
+Convention on TobaccoControl
+- Key messages
+o Canada remains committed to implementing the Framework Convention on
+Tobacco Control (FCTC). Advancing full implementation of the FCTC, both within
+Canada and abroad, will continue to be a priority for the Government of
+Canada, aswill participating in regional and international tobacco control fora to
+address the burden of tobacco use.
+o A collaborative relationship exists with the World Health Organization (WHO)
+FCTC Convention Secretariat, including providing support to the Secretariat via
+the international health grants program (IHGP) on a regular basis since 2015 for
+COP-related (Conference of the Parties) activities.
+- Purpose/objectives
+o The purpose of this funding is to:
+o Facilitate a grant payment to the WHO FCTC.
+o The grant is toassist in improving data collection, analysis and the impact of
+Party reports in strengthening the WHO FCTC.
+- Expected results
+o A reduced reporting burden on the Parties, would allow for a smoother analysis
+of data by the Convention Secretariat, resulting inmore informative global
+progress reports to be submitted to the COP.
+o The proposed project would not only contribute to reducing the reporting
+burden on under-resourced tobacco control programs, but would also provide
+Parties with informative WHO FCTC progress reports and data analysis to
+strategically inform their domestic tobacco control efforts.
+- Voted: 200,000
+- Statutory: 0
+Transfer from the Canadian Institutes of Health Research to support the delivery of the
+international AIDS Conference
+- Key messages
+o Funding provided by CIHR to support the development of future research
+agendas, knowledge mobilization, and Canadian and international researcher
+and knowledge user engagement at AIDS 2022.
+- Purpose/objectives
+o The purpose of this funding is to:
+o Augment the Government of Canada support for AIDS 2022, through an existing
+PHAC funding arrangement with the International AIDS Society.
+- Expected results
+o The funding will support the increased participation of Canadian researchers
+through the conferencescholarship program.
+- Voted: 200,000
+- Statutory: 0
+Transfer from the Department of Health to support the Joint Expert Committee on Food
+Additives to re-evaluate the safety of titanium dioxide as a food additive
+- Key messages
+o Recently, the European Commission prohibited the use of titanium dioxide
+(TiO2), a widely used food additive internationally, in food, based on a scientific
+opinion by the European Food Safety Authority (EFSA).
+o The Joint WHO/FAO Expert Committee on Food Additives (JECFA) is best placed
+to re-evaluate the safety of TiO2 as a food additive. JECFA intends to hold a
+meeting to establish scientific advice on TiO2, however, funds are needed.
+Funding this initiative will facilitate JECFA’s ability to re-evaluate TiO2 in a timely
+manner.
+o Thisadvice will help inform Canada’s actions and is important to help maintain
+Canadians’ confidence in the Canadian and international food safety systems.
+- Purpose/objectives
+o The purpose of this funding is to:
+o Facilitate a grant payment to the WHO which will be used to establish scientific
+advice through the re-evaluation of the safety of titanium dioxide as a food
+additive, as well as the use of aspartame which will help inform the
+development and update of both domestic and international standards.
+- Expectedresults
+o This work will enable the assessment of the safety of TiO2 (titanium dioxide) as
+a food additive and supports discussions around international standards.
+o It will also inform Canada’s domestic actions with respect to TiO2, as well as our
+discussions with foreign regulatory partners.
+o This work may also be useful in informing the evaluation of other uses of TiO2
+(such as cosmetics, foods, natural health products, prescription and non-
+prescription drugs, medical devices, consumer products).
+- Voted: 132,604
+- Statutory: 0
+Transfer to the Treasury Board Secretariat to support the Capacity Accelerator Project
+- Key messages
+o This transfer will fund operational costs for an internal audit community
+initiative called the Capacity Accelerator Project, managed by the Internal Audit
+Sector within the Office of Comptroller General (OCG-IAS).
+o The OCG-IAS is responsible for implementing the Government’s renewed vision
+for internal audits, which aims to provide timely and credible advice to
+management that is tailored to the organization’s strategy, objectives, and
+tolerance for risk.
+o This funding is required to meet increased demand for internal audit services
+and to continue developing a sustainable, diverse, and professional internal
+audit community.
+- Purpose/objectives
+o The purpose of this funding is for:
+o The Office of Audit and Evaluation (OAE) which asked to financially contribute to
+internal audit community services and initiatives to help develop and maintain
+the OCG-IAS which in turn will provide OAE with support, guidance and best
+practices.
+- Expectedresults
+o OCG-IAS is to provide the following services:
+o Provide ongoing advice and support in the areas of learning, recruitment, and
+retention.
+o Oversee the development and implementation of a community diversity and
+inclusion action plan.
+o Lead the development of Interdepartmental Standardized Work Descriptions
+and develop guidance and tools to support the conversion of various position
+classifications.
+o Lead the implementation of and ongoing support for the Community Data
+Strategy, including the establishmentof an enterprise solution for TeamMate+.
+o Make best practices and tools available to the community via established
+platform
+o Manage and fund IIA memberships for all eligible internal auditors.
+- Voted: (20,000)
+- Statutory: 0
+Transfer to Canadian Institutesof Health Research to support EU Joint Programme-
+Neurodegerative Disease Research on the impact of COVID-19 on neurodegenerative diseases
+- Key messages
+o The EU Joint Programme-Neurodegenerative Disease Research (JPND)
+announced an international call to establish expert working groups on the
+impact of COVID-19 on neurodegenerative diseases.
+o PHAC and CIHR signed an MOU on July 27, 2022in order to co-fund one expert
+working group that will address priority data gaps around COVID and dementia
+and support the implementation of the ‘Dementia Strategy for Canada:
+Together We Aspire’.
+- Purpose/objectives
+o The purpose of this funding is for:
+o PHAC/CIHR collaboration which aims to support international work through the
+EU Joint Programme-Neurodegenerative Disease Research (JPND) that will help
+advance research and/or surveillance on the impacts of COVID-19 on the
+development and progression ofneurological diseases, supporting the
+implementation of the national dementia strategy.
+- Expected results
+o The selected expert working group will assess research and/or surveillance
+strategies to understand the impacts of COVID-19 on the development and
+progression of neurological diseases.
+o A white paper will be drafted to summarize the findings of this work.
+o This work will help address a priority data gap and advance dementia research
+and surveillance.
+- Voted: (33,235)
+- Statutory: 0
+Transfer to Canadian Institutes of Health Research to support a Health System Impact
+Fellowship
+- Key messages
+o This funding will fulfill PHAC’s commitment to support a post-doctoral fellow
+funded by the CIHR Health System Impact (HIS) Fellowship Scheme.
+o By this scheme, CIHR provides 70% of the fellowship costs and a partner
+organisation (in this case PHAC) provides 30% to the host organisation
+(University of Ottawa).
+o Legal counsel has identified barriers to PHAC directly funding the University in
+the context of this fellowship.
+- Purpose/objectives
+o The purpose of this funding is to:
+o Allow PHAC operating dollars to be used to honour PHAC’s commitment to the
+funding of a post-doctoral fellow at University of Ottawa in the context of the
+HIS fellowship scheme.
+o HC-PHAC legal have identified significant barriers to other forms of transfer of
+funds.
+- Expected results
+o Funds transferred from PHAC to CIHR will be used by CIHR to transfer to
+University of Ottawa the PHAC component of the support for the fellow.
+o The fellow is undertaking research on West Nile virus and other emerging/re-
+emerging mosquito-borne diseases in Canada to support our adaptation to
+anticipated impacts of climate change on the risk to Canadians from these
+diseases.
+- Voted: (46,500)
+- Statutory: 0
+Transfer to the Department of Indigenous Services to support the Canadian Aboriginal AIDS
+Network (CAAN) with their Indigenous Knowledge Facilitation activity for AIDS2022
+- Key messages
+o The national Indigenous organization, Communities Alliances and Network
+(CAAN) sought financial support from the Government of Canada to facilitate an
+Indigenous Knowledge aspect for the 24th International AIDS Conference held in
+Montreal.
+o PHAC agreed to provide CAAN a sum of $50,000 through Indigenous Services
+Canada, as thelatter holds a block contribution agreement with CAAN.
+- Purpose/objectives
+o The purpose of this funding is to:
+o Provide to the Canadian Aboriginal AIDS Network (CAAN) to support the
+inclusion of Indigenous elders throughout the AIDS 22 conference, and for the
+inclusion of Indigenous elders to provide land acknowledgements and
+ceremonial prayers at the Opening and Closing Ceremonies.
+- Expected results
+o The 24th International AIDS Conference demonstrated the meaningful involved
+of Indigenous peoples throughoutthe programme, acknowledging that the
+event was taking place on their traditional lands, and in the context of an
+infectious disease that disproportionately affects Indigenous peoples across
+Canada.
+- Voted: (50,000)
+- Statutory: 0
+Transfer to Canadian Institutes of Health Research to support research on priorities outlined in
+Canada’s 2021 Chief Public Health Officer (CPHO) report
+- Key messages
+o PHAC is partnering with CIHR on their Funding Opportunity: CPHO Report 2021:
+o Future of Public Health. Researchers have submitted research proposals that
+address at least one of the priorities for transformational change to the public
+health system, identified in the 2021 Chief Public Health Officer (CPHO) report.
+o PHAC will fund one proposal that fills important knowledge gaps related to
+PHAC’s mandate and goals.
+- Purpose/objectives
+o The purpose of this funding is so:
+o PHAC funds support research relevant to the priority area identified in the 2021
+CPHO Annual Report: “Evaluate the effectiveness of public health measures
+implemented during the COVID-19 pandemic”, specifically focused on mask
+wearing, quarantine and isolation, or physical distancing
+- Expected results
+o With these funds CIHR will:
+o Support one high-quality research project aligned with priorities identified in
+theCPHO’s 2021 Annual Report that evaluate the effectiveness of public health
+measures implemented during the COVID-19 pandemic.
+o Administer the grants to successful applicants, including payment and
+monitoring the use of grant funds.
+- Voted: (99,500)
+- Statutory: 0
+Transfer to the Department of Indigenous Services to support the Pan-Canadian Health
+Inequalities Reporting Initiative-Mental Wellness among First Nations Peoples living on reserve
+- Keymessages
+o First Nations Information Governance Centre (FNIGC), ISC (Indigenous Services
+Canada) and PHAC will collaborate on a project entitled “Pan-Canadian Health
+Inequalities Reporting Initiative (HIRI)–Mental Wellness among First Nations
+Peoples living on reserve and in northern communities” to advance health
+equity reporting among Indigenous population groups.
+o The report will be led by the First Nations Information Governance Centre
+(FNIGC) over 2 years and will strengthen the measurement, monitoring and
+reporting of inequalities in relation to mental wellness experienced by First
+Nations Peoples living on reserve and in northern communities. The report will
+draw from the data in FNIGC’s Regional Health Survey.
+- Purpose/objectives
+o The purpose of this funding is to:
+o Support the development of an Indigenous-led report that will explore
+inequalities in relation to the various dimensions that encompass mental
+wellness as experienced by First Nations Peoples living on reserve and in
+northern communities.
+- Expected results
+o The development of this Indigenous-led report will make it possible to explore
+inequalities in the various dimensions that encompass mental wellness to
+achieve the following objectives:
+o Understand how and why inequalities in mental wellness occur among First
+Nations Peoples living on reserve andhow to prevent them.
+o Advance population health monitoring strategy as well as a dialogue around
+mental wellness that centers on equity and social justice, bridging various forms
+of knowledge.
+o Guide and catalyze inter-sectoral policy and programs to reduce health
+inequalities.
+- Voted: (200,000)
+- Statutory: 0
+Transfer to Canadian Institutes of Health Research to support Policy Research for Health System
+Transformation
+- Key messages
+o PHAC is partnering with CIHR on their Funding Opportunity: Policy Research for
+Health System Transformation. Researchers have been invited to submit
+research proposals that generate evidence to inform macro-level policies to
+support high-performing healthcare and public health systems in Canada with
+the aim of advancing the Quadruple Aim–improved population health
+outcomes, better patient and provider experience, and increased value –and
+health equity.
+o PHAC will fund two proposals thatfill important knowledge gaps related to
+PHMGD’s mandate and goals.
+- Purpose/objectives
+o The purpose of this funding is to:
+o Support two research proposals that generate evidence to inform macro-level
+policies to support high-performing health care and public health systems in
+Canada with the aim of advancing the Quadruple Aim–improved population
+health outcomes, better patient and provider experience, and increased value –
+and health equity.
+- Expected results
+o With these funds CIHR will:
+o Support two high-quality research projects that evaluate the effectiveness of
+public health measure policies implemented during the COVID-19 pandemic.
+o Administer the grants to successful applicants, including payment and
+monitoring the use of grant funds.
+- Voted: (300,000)
+- Statutory: 0
+Transfer to the Department of Health for the Enterprise Service Model (ESM) reallocation
+- Key messages
+o In 2021-22, Shared Services Canada (SSC) implemented the Enterprise Service
+Model (ESM). Through ESM, certain services provided by SSC would be funded,
+on an ongoing basis, from appropriations rather than through cost recovery
+from SSC to participating departments.
+o In ARLU of 2022-23, HC made a permanent transfer to SSC for mobile telephone
+services as part of ESM.
+o This amount included, in error, a number of mobile devices that belonged to
+PHAC. This Supplementary Estimates (B) transfer is to reimburse HC for the
+overpayment it made to SSC.
+- Purpose/objectives
+o The purpose of this funding is to:
+o Reimburse HC for the overpayment it made to SSC on behalf of PHAC for Mobile
+Telephony Services related to Enterprise Service Model (ESM). PHAC will now
+reflect an accurate cost and inventory of mobile telephony services delivered
+through the (ESM).
+- Expected results
+o A reimbursement of $406,660 will be processed to Health Canada for the
+overpayment it made from PHAC’s Corporate Reserve to HC via 2022-23
+Supplementary Estimates (B).
+o Subsequently, a permanent transfer from PHAC to HC for $406,660 is required
+in ARLU of 2023-24
+- Voted: (406,660)
+- Statutory: 0
+Transfer to the Canada Border Services Agency for data integration on border health
+surveillance
+- Key messages
+o While ownership of ArriveCAN is with Canada Border Services Agency (CBSA),
+PHAC still requires the data for border health surveillance and evidence-based
+decision-making.
+o PHAC has agreed to pay CBSA this fiscal year for the preliminary data integration
+that CBSA does before the data comes to PHAC.
+- Purpose/objectives
+o The purpose of this funding is for:
+o Border SQL (structured query language) database management and analytics is
+a core responsibility of the Data Science team and requires this information
+from CBSA to continue to support PHAC program areas.
+- Expected results
+o As data continues to be received from CBSA, the Data Management Innovation
+and Analysis centre within PHAC will continue to support PHAC programs
+(Regional Operation, National Microbiology Laboratory (NML) Testing
+Directorate, Modelling, NML Genomics Surveillance, CBTH, DTB) through
+analytics of border data and senior management dashboards and briefing tools.
+- Voted: (1,078,000)
+- Statutory: 0
+Transfer to the Department of Crown-Indigenous Relations and Northern Affairs to support
+Indigenous early learning and child care
+- Key messages
+o This funding transfer involves:
+o the Kativik Regional Government (KRG) PHAC and;
+o the Government of Nunatsiavut (GN) PHAC;
+o under the Aboriginal Head Start in Urban and Northern Communities (AHSUNC)
+program to Crown-Indigenous Relations and Northern Affairs Canada (CIRNAC)
+with the administration ofa transfer through a new comprehensive Federal
+Fiscal Funding Arrangement (FFA) to support the implementation of the
+Indigenous Early Learning and Child Care (IELCC).
+o PHAC and CIRNAC have collaborated on the development of an
+Interdepartmental Letter ofAgreement (ILA). Under this approach, PHAC will
+delegate all authority of the Financial Administration Act (FAA) to CIRNAC, to
+enable them to make program payments and administer the AHSUNC funding.
+- Purpose/objectives
+o The purpose of this funding is to:
+o Support the Federal government’s commitment to reconciliation and recognizes
+the Inuit peoples’ right to be active and full partners in the management of
+federal funding related to Inuit early learning and childcare.
+o Guided by the Indigenous Early Learningand Child Care (IELCC) Framework, the
+IELCC Transformation Initiative supports the development of flexible and
+responsive funding agreements for Indigenous-led regional bodies and their
+recipients across federal government departments.
+- Expected results
+o An Indigenous led approach to streamlining the administration of IELCC funding
+under a single grant agreement.
+- Voted: (1,900,117)
+- Statutory: 0
+Transfer to Canadian Institutes of Health Research to support Pediatric Outcome Improvement
+through Coordinationof Research Networks
+- Key messages
+o Transfer to Canadian Institutes of Health Research to support Pediatric Outcome
+Improvement through Coordination of Research Networks
+- Purpose/objectives
+o The purpose of this funding is to:
+o Support a research study todetermine the proportion of children with positive
+antibodies to SARS-CoV-2 according to age and geographic region over time, as
+an estimate of recent infection.
+o Leftover blood samples collected in Emergency Department visits will be used to
+test for past COVID-19 infection and immunity.
+- Expected results
+o The purpose of this funding is to:
+o Support a research study to determine the proportion of children with positive
+antibodies to SARS-CoV-2 according to age and geographic region over time, as
+an estimateof recent infection.
+o Leftover blood samples collected in Emergency Department visits will be used to
+test for past COVID-19 infection and immunity.
+- Voted: (3,000,000)
+- Statutory: 0
+Total transfers
+- Voted: (3,383,866)
+- Statutory: 0
+INTERNALREALLOCATIONS
+Internal reallocation of resources from operating to contributions in support of HIV self tests,
+monkeypox and myocarditis
+- Key messages
+o This funding in the amount of $11,668,122, which will be reallocated from
+Operating funding to Contribution funding, will be used to:
+o Support the procurement and distribution of HIV self-tests kits across Canada
+($8,000,000); and
+o Support the study of post-vaccination myocarditis and/or pericarditis
+($1,668,122); and support public health research on the current Canadian
+monkeypox outbreak ($2,000,000).
+- Purpose/objectives
+o This is a conversion of $11,668,122 from Operating to Contributions
+- Expected results
+o This contribution funding will allow:
+o Community based organizations to procure the self-test kits and provide the
+necessary support services to their client base;
+o The Canadian Cardiovascular Society to undertake a robust national, Canada-
+focussed surveillance study to collect Canadian data on post-vaccination
+myocarditis and/or pericarditis (MYCOVAX); and
+o Collaborative public health research studies on the current Canadian
+monkeypox outbreak in order to address critical knowledge gaps and support
+community organizations for prevention, awareness, anti-stigma type activities.
+- Voted: 0
+- Statutory: 0
+Internal reallocation of resources to support booster campaign uptake through the
+Immunization Partnership Fund (IPF
+- Key messages
+o This funding, which will be reallocated from Operating funding to Grant funding
+from the Medical Countermeasures, Phase 3, Part A–VaccineEnvelope will be
+used by the Immunization Partnership Fund for projects to support vaccine
+confidence and uptake of COVID-19 boosters.
+o This supports PHAC’s efforts to help finish the fight against COVID-19 with
+communities across Canada and within priority populations, and to continue the
+fight against vaccine mis-and dis-information.
+- Purpose/objectives
+o This is a conversion of $3,000,000 from Operating to Grants.
+- Expected results
+o The IPF will fund some new projects with priority populations, andprovide
+additional funding to existing projects, in support of a fall/winter 2022 COVID-19
+booster/vaccination efforts.
+o Funding will assist vaccination stakeholders and community partners by
+increasing their capacity to provide evidence-based, equity-driven, and
+culturally-safe vaccination information and supports.
+o This funding will also increase vaccine confidence and ultimately support
+residents of Canada in their choice to be vaccinated in order to protect
+themselves and others from COVID-19.
+- Voted: 0
+- Statutory:0
+Internal reallocation of resources in partnership with the WHO, for new tools for advanced
+monitoring and reporting on health inequities
+- Key messages
+o This funding, which will be reallocated from Operating funding to Grant funding,
+will be used to make a payment to the World Health Organization.
+o This item is required in these estimates to obtain authority to list the related
+grant. It will help the WHO to develop an updated and expanded set of health
+inequality monitoring tools, including anew and expanded edition of the
+“Handbook on health inequality monitoring”, incorporating the latest
+developments in the health inequality monitoring science field since he first
+edition.
+- Purpose/objectives
+o This is a conversion of $180,000 from Operating to Grants.
+- Expected results
+o An updated and expanded set of monitoring tools, including a revised edition of
+the handbook, will contribute towards advancing health equity by providing
+new tools to support decision-makers with an enhanced evidence base for
+formulating equity-oriented policies, programmes and practices. The new and
+expanded edition of the “Handbook on health inequality monitoring”, will
+incorporate
+o recent developments in the field, including:
+o Considerations for health inequality monitoring in high-income countries.
+o Considerations for monitoring of inequalities in the context of a pandemic and
+other health emergencies (including, but not limited to, COVID-19)
+o Recent improvements in data collection methods, monitoring tools and
+methodologies
+o The use of inequality monitoring data to inform equity-oriented decision-making
+(knowledge translation)
+- Voted: 0
+- Statutory: 0
+Net internal reallocations
+- Voted: 0
+- Statutory: 0
+Canadian Food Inspection Agency-2022-23 Supplementary Estimates (B)
+CFIA’S FUNDING CROSSWALK
+Contents
+Name
+TOTAL SUPPLEMENTARY ESTIMATES ‘B’
+Funding to increase food inspection capacity and safeguard the integrity of Canada’s food safety
+system (COVID-19)
+Transfer from the Department of National Defence to various organizations to support the
+Canadian Safety and Security Program
+Transfer from Canadian Food Inspection Agency to Foreign Affairs, Trade and Development to
+provide support to departmental staff located at missions abroad
+Transfer from Canadian Food Inspection Agency to the Department of Agriculture and Agri-Food
+to cost share the Market Access Support System.
+TOTAL SUPPLEMENTARY ESTIMATES ‘B’
+Total: $19,516,795
+- Key messages
+o For Supplementary Estimates (B), CFIA has an increase of $19.5 million for the
+following:
+o $16.1 million in Voted Appropriations which includes $16.1 million in new
+funding and $16.4K for transfers with Other Government Departments.
+o $3.4 million in statutory appropriations for the employee benefit plans.
+- Purpose/objectives:-
+- Expectedresults:-
+- Voted: 16,144,780
+- Statutory: 3,372,015
+Funding to increase food inspection capacity and safeguard the integrity of Canada’s food safety
+system (COVID-19)
+Total: $19,500,442
+- Key messages
+o Funding of $19.5M in 2022-23 to continue torespond to the unprecedented
+impacts of COVID-19 on Canada’s food production / supply chain, as well the
+economic implications stemming from disruptions in employment (public and
+private sectors).
+- Purpose/objectives
+o Respond to the unprecedented impacts of COVID-19 on Canada’s food
+production / supply chain, as well the economic implications stemming from
+disruptions in employment (public and private sectors).
+- Expected results
+o This investment will allow CFIA to maintain reliable services (e.g. inspection,
+laboratory testing and other enabling functions) paramount to ensuring that
+Canadians have continued access to safe, high-quality food to feed their
+families.
+- Voted: 16,128,427
+- Statutory: 3,372,015
+Transfer from the Department of National Defence to various organizations to support the
+Canadian Safety and Security Program
+Total $58,000
+- Key messages
+o Transfer from Department of National Defence to CFIA in the amount of $58.0K
+to support the Canadian Safety and Security Program (CSSP).
+- Purpose/objectives
+o The CSSP provides science and technology solutions, support and advice for
+responding to the Government of Canada's public safety and security policy
+imperatives.
+- Expected results
+o The transfer of funds will enable the CFIA to enhance its science and technology
+capabilities for public safety and security through strategic acquisition of
+technologies.
+- Voted: 58,000
+- Statutory:-
+Transfer from Canadian Food Inspection Agency to Foreign Affairs, Trade and Development to
+provide support to departmental staff located at missions abroad
+Total: ($16,647)
+- Key messages
+o Transfer from CFIA to Foreign Affairs, Trade and Development in the amount of
+$16.6K for funding mainly related to the foreign service directive allowance and
+mission locally employed staff reclassification.
+- Purpose/objectives
+o Support CFIA staff located in missions aboard.
+- Expected results
+o CFIA staff located in missions aboard are adequately supported.
+- Voted: (16,647)
+- Statutory:-
+Transfer from Canadian Food Inspection Agency to theDepartment of Agriculture and Agri-Food
+to cost share the Market Access Support System.
+Total: ($25,000)
+- Key messages
+o Transfer from CFIA to the Department of Agriculture and Agri-Food in the
+amount of $25.0K to cost-share development andmaintenance of International
+Affairs Branch's (IAB's) Market Access Support System (MASS), including MASS's
+CFIA-specific modules.
+- Purpose/objectives
+o Cost-share development and maintenance of International Affairs Branch's
+(IAB's) Market Access Support System (MASS), including MASS's CFIA-specific
+modules.
+- Expected results
+o Cost-share development and maintenance of International Affairs Branch's
+(IAB's) Market Access Support System (MASS), including MASS's CFIA-specific
+modules.
+- Voted: (25,000)
+- Statutory:-
+CIHR’s 2022-23 Supplementary Estimates (B)
+CIHR’S FUNDING CROSSWALK
+Contents
+Clinical Trials Fund (Budget 2021)
+Funding to support the response to monkeypox outbreaks in Canada
+Funding to support the study of long-term health impacts of COVID-19
+Funding to support Canada’s Black students and postdoctoral fellows
+Funding to support a new National Women’s Health Research Initiative to advance research in
+high-priority areas of women’s health
+Funding for research security and the Research Support Fund
+Funding for a COVID-19 outpatient therapeutic study
+Funding to support pediatric outcome improvement through coordination of research networks
+Funding to support the Race, Gender and Diversity Initiative
+Funding to evaluate decriminalization of personal possession of illicit substances
+Funding to support policy research for health system transformation
+Funding to advance policies that promote science and evidence-based decision making
+Funding to support the Healthy Youth Initiative
+Funding to support research on priorities outlined in Canada’s 2021 Chief Public Health Officer
+report
+Funding to support a health system impact fellowship
+Funding to support European Union Joint Programme-Neurodegenerative Disease Research on
+the impact of COVID-19 on neurodegenerative diseases
+Funding to support the Mobilizing Principles for Equitable Global Health Research
+Funding to support the delivery of the international AIDS Conference
+Funding to support Phase II of the Joint Canada-Israel Health Research Program
+Funding to explore the development of a common grants management solution through the Tri-
+Agency Grants Management Initiative
+Funding to support women's health and economic well-being for a post-COVID-19 recovery
+Clinical TrialsFund (Budget 2021)
+Total: $85,820,817
+Budget 2021
+- Key messages
+o The Government of Canada through the Canadian Institutes of Health Research
+(CIHR) is committed to supporting the health of all Canadians with innovative
+new treatments and medicines by supporting the clinical trials pipeline from
+discovery to implementation.
+o Through Budget 2021, the Government of Canada announced $250 million over
+three fiscal years to create a new Clinical Trials Fund, through CIHR, which will
+support research teams and infrastructure across the country to conduct clinical
+trials.
+- Purpose/objectives
+o This funding allows for the implementation of the Clinical Trials Fund to
+reinforce Canada’s clinical trials ecosystem by investing in three funding streams
+including a Pan-Canadian Clinical Trials Consortium, clinical trials training
+platforms and clinical trials projects.
+- Expected results
+o These important investments will stimulate innovation across the country and
+ultimately lead to better health care systems and services for all Canadians.
+- Voted: 84,721,744
+- Statutory: 1,099,073
+Funding to support the response to monkeypox outbreaks in Canada
+Total: $10,279,200
+Horizontal Item
+- Key messages
+o The Government of Canada is working to support a rapid response to outbreaks
+of Monkeypox.
+o This investment will support the rapid research response to be led by CIHR, in
+collaboration with the Public Health Agency of Canada.
+- Purpose/objectives
+o To provide rapid evidence to inform clinical and health system management and
+public health response, and/or decision-making and planning within and across
+jurisdictions in Canada and internationally.
+- Expected results
+o Timely evidence to support decision-making andplanning within Canada and
+internationally in light of the Monkeypox outbreak.
+- Voted: 10,236,000
+- Statutory: 43,200
+Funding to support the study of long-term health impacts of COVID-19
+Total: $1,376,600
+Budget 2022
+- Key messages
+o Our government recognizes the emerging long-term impacts that COVID-19 has
+had on the lives of many Canadians, including those with long-term
+complications due to the virus, and that multi-year studies are now critical as
+this pandemic persists into its third year.
+o That is why Budget2022 committed $20 million over five years, for the
+Canadian Institutes of Health Research to support additional research on the
+long-term effects of COVID-19 infections on Canadians.
+- Purpose/objectives
+o Establish an integrated, interdisciplinary, and equitable Canadian Post COVID-19
+Condition Research This network will Network.
+o This network will provide a platform to strengthen Canada’s capacity to
+undertake and contribute to ongoing non-duplicative research, enable
+comprehensive and timely understandingof the health impacts of post-COVID-
+19, engage relevant stakeholders, knowledge users and partners and swiftly
+mobilize high-quality research evidence
+- Expected results
+o Timely evidence to inform policies and practices and to support communities as
+partof an equitable response to the post COVID-19 condition.
+- Voted: 1,328,000
+- Statutory: 48,600
+Funding to support Canada’s Black students and postdoctoral fellows
+Total: $1,275,800
+Budget 2022
+Horizontal Item
+- Key messages
+o Fostering equity, diversity and inclusion in academia and the skilled workforce
+remains a priority for Canada. To achieve world-class research, we must address
+systemic barriers that limit the full participation of all talented individuals.
+o The Government of Canada through Budget 2022 was proud to announce $40.9
+million over five years, starting in 2022-23, and $9.7 million ongoing to the
+federal granting councils to support targeted scholarships and fellowships for
+promising Black student researchers.
+- Purpose/objectives
+o To address the underrepresentation of Black researchers and trainees among
+the applicants and awardees of the federal granting agencies programs.
+o To increase meaningful participation of Black research trainees in Canada to
+contribute to skills development and improving employment options and to
+promote the funding within relevant stakeholders, partner organizations, and
+the academic community
+- Expected results
+o This funding will increase the number and proportion of Black research trainees
+directly supported by agencies’ scholarships and fellowships at the
+undergraduate, master, doctoral and post-doctoral stages.
+o Contributing to making Canada’s research culture more equitable, diverse, and
+inclusive, and augmenting Canada’s innovation potential.
+- Voted: 1,238,000
+- Statutory: 37,800
+Funding to support a new National Women’s Health Research Initiative to advance research in
+high-priority areas of women’s health
+Total: $1,221,510
+Budget 2021
+- Key messages
+o Our government is committed to fostering research excellence regarding the
+influence of sex and gender on health and to apply these findings to identify and
+address pressing health challenges facing men, women, girls, boys and gender-
+diverse people.
+o The Government of Canada, through Budget 2021, committed $20 over 5 years
+to support a new National Women’s Health Research Initiative.
+o This new initiative will advance research in high priority areas and ensure new
+evidence improves women's and gender-diverse people's care and health
+outcomes.
+- Purpose/objectives
+o The National Women's Health Research Initiative will advance a coordinated
+research program that addresses under-researched and high-priority areas of
+women's health and will ensure new evidence improves women's and gender-
+diverse people's care and health outcomes. It will also promote an
+intersectional lens to research and care to tackle persistent gaps for all women,
+including for Indigenous, Black, and racialized women, women with disabilities,
+and members of Two-Spirit, lesbian, gay, bisexual, transgender, queer, intersex,
+and additional sexually and gender diverse (2SLGBTQI+) communities.
+- Expected results
+o Increasing research in women’s health and promoting the use of an
+intersectional lens to address gaps in current research streams.
+o Maximizing research impact within and beyond toensure evidence is integrated
+into health policy, decision making, and planning to support community,
+regional, provincial, territorial, and /or federal efforts regarding women's
+health.
+o Building capacity for the next generation of women's health researchers to
+support the development of a sustainable women's health research ecosystem
+in Canada.
+- Voted: 1,056,000
+- Statutory: 165,510
+Funding for research security and the Research Support Fund
+Total: $188,941
+Budget 2022
+Horizontal Item
+- Key messages
+o Our government is committed to ensuring that Canadian research and
+intellectual property remains secure from foreign intelligence agencies looking
+to advance their own economic, military, or strategic interests.
+o That is why the Government of Canada was proud toannounce through Budget
+2022 $159.6 million, starting in 2022-23, and $33.4 million ongoing for the
+Research Support Fund to build capacity within post-secondary institutions to
+identify, assess, and mitigate potential risks to research security; and to
+enhance Canada’s ability to protect our research, and to establish a Research
+Security Centre that will provide advice and guidance directly to research
+institutions.
+- Purpose/objectives
+o This funding will be used to increase federal capacity for research security
+including sustaining and expanding the implementation of the National Security
+Guidelines for Research Partnerships. All operating funding, including 2 new
+permanent FTEs.
+- Expected results
+o These investments will contribute to a safer Canadian research ecosystem
+where Canadian researchers are equipped with the tools to safeguard
+intellectual property from theft and foreign intelligence agencies looking to
+advance their own strategic interests.
+- Voted: 155,363
+- Statutory: 33,578
+Funding fora COVID-19 outpatient therapeutic study
+Total: $5,000,000
+Transfer from HC
+- Key messages
+o Research is central to our domestic and international efforts to address COVID-
+19 and the Canadian research community has risen to the challenge at an
+unprecedented pace.
+o Through CIHR, our government has been working hand in hand with domestic
+and international partners including on research to evaluate the safety and
+effectiveness of novel therapeutic treatments for COVID-19.
+- Purpose/objectives
+o Toward the end of 2021, the Government of Canada announced purchase
+agreements to access emerging antiviral medications as treatment options for
+patients who present with mild to moderate COVID-19 and who are at high risk
+of developing serious disease.
+o To effectively roll out these new antiviral medications, there is a pressing need
+to further study the outcomes, including effectiveness, comparative
+effectiveness, and cost effectiveness of administering these treatments-as well
+as any other treatments which may become available-to non-hospitalized
+patients in the Canadian health care system.
+o The total value of the collaboration is $11.25 million, with $5 million from the
+Department of Health and $6.25 million from CIHR, all in 2022-23.
+o This transfer from Health Canada will help support the Operating Grant: COVID-
+19 Outpatient Therapeutic Studies with the following objectives:
+o Support an adaptive platform trial to evaluate the effectiveness, practical
+challenges, and outcomes of administering therapeutics for COVID-19 to non-
+hospitalized patients in Canadian healthcare settings.
+o Generate evidence on treatment effectiveness in diverse populations.
+o Provide rapid evidence to inform clinical and health system management and
+public health response, and/ordecision-making and planning within and across
+jurisdictions in Canada and internationally.
+- Expected results
+o Allow for the effective roll out of new antiviral medications with timely research
+evidence on effectiveness, comparative effectiveness, and cost effectiveness of
+administering these treatments-as well as any other therapeutics which may
+become available-to non-hospitalized patients in the Canadian health care
+system.
+- Voted: 5,000,000
+- Statutory:-
+Funding to support pediatric outcome improvement through coordination of research networks
+Total: $3,000,000
+Transfer from PHAC
+- Key messages
+o The Government of Canada recognizes the importance of investing in research
+to inform the response to the COVID-19pandemic.
+o Through the Canadian Institutes of Health Research, investments in the
+Pediatric Outcome imProvement through COordination of Research Networks
+(POPCoRN) are establishing central coordination and collaboration activities
+with collaborating sites located across Canada to increase the availability of
+high-quality and real-time evidence to support research on the effectiveness
+and relative safety of the COVID-19 vaccines in children and youth.
+o This additional investment leverages this research platform that is monitoring
+COVID-19 infections, vaccination, and social impacts among children and youth
+to also initiate a serosurvey study on children and youth.
+- Purpose/objectives
+o The COVID-19 Immunity Task Force, through PHAC, identified the POPCoRN to
+receive supplementary funding of $3,000,000 in 2022-23 to rapidly initiate a
+serosurvey study on children and youth.
+o This transfer from PHAC will help support a research network that brings
+together pediatric health researchers from 16 research sites across Canada. The
+evidence generated will help protect children and youth against the serious
+health effects of the pandemic.
+- Expected results
+o This important initiative will continue providing the evidence required to
+support the health and wellbeing of young Canadians in light of the current and
+future impacts of COVID-19.
+- Voted: 3,000,000
+- Statutory:-
+Funding to support the Race, Gender and Diversity Initiative
+Total: $485,174
+Transfer from the Social Sciences and Humanities Research Council
+- Key messages
+o Fostering equity, diversity and inclusion in academia and the skilled workforce
+remains a priority for Canada. To achieve world-class research, we must address
+systemic barriers that limit the full participation of all talented individuals.
+o CIHR iscommitted to fostering an equitable, diverse, and inclusive health
+research ecosystem that values the perspectives and contributions of all and
+promotes research excellence.
+- Purpose/objectives
+o The purpose of this transfer is to return unused funds for theSSHRC-led Race,
+Gender and Diversity Initiative.
+o CIHR originally transferred $3.6 million to SSHRC for the initiative. SSHRC will
+return a total of $635,174 to CIHR as follows: $485,174 in 2022-23 and $150,000
+in 2023-24.
+o The main goal of the Race, Gender and Diversity Initiative is to fund community-
+based and community-led research partnerships with postsecondary institutions
+that are grounded in the lived experience of underrepresented and/or
+marginalized groups and that analyze the causes and persistence of systemic
+racism and discrimination.
+- Expected results
+o Support for social sciences and humanities projects on the themes of race,
+gender and diversity with a focus on health.
+o Contributing to making Canada’s research culture more equitable, diverse, and
+inclusive, and augmenting Canada’s innovation potential.
+- Voted: 485,174
+- Statutory:-
+Funding to evaluate decriminalization of personal possession of illicit substances
+Total: $332,500
+Transfer from HC
+- Key messages
+o Our government continues torecognize the importance of funding innovative
+and timely research that will improve health outcomes for people experiencing
+challenges related to mental health and substance use.
+o This includes a funding opportunity launched by CIHR to support an
+independent evaluation of the impacts of the recent exemption in British
+Columbia granted under the Controlled Drugs and Substances Act, removing the
+criminal penalties for the possession of small amounts of certain controlled
+substances for personal use by adults18 years of age and older. This represents
+an investment of $2.85 million over 5 years.
+- Purpose/objectives
+o The purpose of the transfer is to provide grant funding for the evaluation of the
+impacts of the exemption in British Columbia on people who use drugs, the
+general population, police forces and the criminal justice system, as well as an
+evaluation of the economic consequences.
+o This transfer represents the first year of a six-year transfer from HC for a total of
+$2,850,000 from 2022-23 to 2027-28.
+- Expected results
+o This activity will evaluate the impacts of the exemption in BC on people who use
+drugs, the general population, police forces and the criminal justice system, as
+well as an evaluation of the economic consequences.
+o The findings from the evaluation will help build the evidence base related to
+harm reduction policies related to substance use.
+- Voted: 332,500
+- Statutory:-
+Funding to support policy research for health system transformation
+Total: $300,000
+Transfer from PHAC
+- Key messages
+o Our government is committed to supporting a strong and vibrant health
+research ecosystem.
+o That is why, through CIHR, in partnership with the Ontario Ministry of Health,
+the New Brunswick Health Research Foundation, and the Saskatchewan Health
+Research Foundation, we are providing ongoing support for policy research to
+help transform the research health system.
+- Purpose/objectives
+o The purpose of this transfer is to fund two policy research projects (up to
+$150,000 for each project for one year) that are designed to generate policy
+research aligned to decision makers’ evidence needs to inform macro-level
+policies to support high-performing health care and public health systems and
+advance the Quadruple Aim (improved population health outcomes, better
+patient and provider experience, and increased value) and health equity in
+Canada.
+- Expected results
+o This funding opportunity is expected to generate evidence to inform macro-
+level policies to support high-performing health care and public health systems
+in Canada with the aim of advancing the Quadruple Aim–improved population
+health outcomes, better patient and provider experience, and increased value –
+and health equity.
+o It will also foster the creation of new or strengthening of existing partnerships
+and collaborations between researchers, policymakers and knowledge users
+with lived experience to align research with policy priorities and work together
+in pursuit of evidence-informed health systems transformation.
+- Voted: 300,000
+- Statutory:-
+Funding to advance policies that promote science and evidence-based decision making
+Total: $245,500
+Transfer from HC
+- Key messages
+o Our government is committed to funding a strong research ecosystem in order
+to support evidence-based decision making.
+- Purpose/objectives
+o The funding will support the generation of advice on complex science issues,
+championing science for researchers, support specific flagship science initiatives
+and participation in the Network of Departmental Science Advisors.
+- Expected results
+o Produce the requiredpolicy research to allow decision makers to make
+informed decisions about the health care and public health systems in Canada
+- Voted: 245,500
+- Statutory:-
+Funding to support the Healthy Youth Initiative
+Total: $100,000
+Transfer from theDepartment of Indigenous Services
+- Key messages
+o Our government understands the impact that the COVID-19 pandemic has had
+on youth in Canada.
+o We are dedicated to ensuring that the supports youth need are both available
+and accessible across the country.
+o Our government is committed to supporting the health and wellness of youth,
+in order to help them achieve their full potential.
+- Purpose/objectives
+o The purpose of this transfer is to support the Healthy Youth Catalyst Grants
+funding opportunity to support generation of key evidence to promote the
+health and wellness of youth, supporting them to achieve their full potential.
+The funding from ISC-FNIHB is to fund 1 grant for 1 year in the priority area of
+Indigenous youth.
+o This funding will help identify and develop emerging research foci relevant to
+Canada’s Youth Policy
+o It will help foster networking and collaboration across the health research
+ecosystem.
+o It will build capacity for youth engagement in healthresearch.
+- Expected results
+o Increased research on the health and wellness of youth across the country.
+o Stronger youth engagement in health-related research.
+o Increased health related data on youth across the country, enabling better
+informed policy decisions impacting youth.
+- Voted: 100,000
+- Statutory:-
+Funding to support research on priorities outlined in Canada’s 2021 Chief Public Health Officer
+report
+Total: $99,500
+Transfer from PHAC
+- Key messages
+o Our government understands that the COVID-19 pandemic has been the biggest
+public health crisis that our country has confronted in a century.
+o We are committed to continuing to address the repercussions of the pandemic
+while ensuring that our public health system is better equipped to protect all
+people living in Canada from future challenges.
+o These investments will help to ensure that our post-pandemic future is different
+than our pre-pandemic past.
+- Purpose/objectives
+o This funding will support research on priorities outlined in Canada’s 2021 Chief
+Public Health Officer report.
+o The research supported by this transfer will help ensure that the conditions are
+in place for Canada to be ready for current and future public health challenges.
+- Expected results
+o This funding will help ensure that public health systems are better equipped to
+capably address the complex challenges facing the sector.
+- Voted: 99,500
+- Statutory:-
+Funding to support a health system impact fellowship
+Total: $46,500
+Transfer from PHAC
+- Keymessages
+o Our government understands the value of a strong research ecosystem in
+Canada and is committed to providing meaningful opportunities for researchers
+throughout the health system
+o We are committed to investing in doctoral trainees and post-doctoralfellows
+given their important role in creating a strong health system
+- Purpose/objectives
+o The purpose of this transfer is to support the Health System Impact Fellowship
+which provides doctoral and post-doctoral awardees with a paid experiential
+learning opportunity within health system and related organizations where they
+will dedicate the majority of their time towards a program of work that
+advances the organization’s impact goals and contributes to improved health
+system performance.
+o Thisfellowship will create a platform for collaboration and interdisciplinary
+training in public health and AI approaches.
+o This will facilitate a community of practice across Canada at provincial and
+federal public health agencies to understand and apply AI approaches to
+address public health challenges.
+- Expected results
+o This Fellowship will allow doctoral trainees and post-doctoral fellows to apply
+their research and analytic talents to critical health system challenges outside of
+the traditional scholarly setting.
+o This will provide an enriched training environment for PhDs and post-doctoral
+fellows through experiential training and networking opportunities.
+- Voted: 46,500
+- Statutory:-
+Funding to support European Union Joint Programme-Neurodegenerative Disease Research on
+the impact of COVID-19 on neurodegenerative diseases
+Total: $33,235
+Transfer from PHAC
+- Key messages
+o The Government of Canada is committed to understanding the full impact of
+COVID-19 on the health of all Canadians.
+o Through this transfer, the Government of Canada is proud to support the work
+of the European Union Joint Programme-Neurodegenerative Research on the
+impact of COVID-19 on neurodegenerative diseases.
+- Purpose/objectives
+o The purpose of this transfer is to support a funding opportunity to develop, as
+part of the EU Joint Programme-Neurodegenerative Disease Research (JPND)
+call, an expert working group on the impact of COVID-19 on neurodegenerative
+diseases.
+o PHAC’s Centre for Surveillance and Applied Research (CSAR) is supportive of the
+JPND call since it will promote an international perspective to advance the
+surveillance and data pillar of the National Dementia Strategy and explore the
+emerging need to examine the impact of COVID-19 on neurological diseases and
+health, including dementia.
+- Expected results
+o This investment will support collaborative research in the field of
+neurodegenerative diseases and ultimately lead to better understanding of the
+overall impact of COVID-19 on the health of Canadians.
+- Voted: 33,235
+- Statutory:-
+Funding to support the Mobilizing Principles for Equitable Global Health Research
+Total: $93,600
+Transfer from CIHR to the International Development Research Centre (IDRC)
+- Key messages
+o Our government continues to contribute to an equitable and just world through
+collaborative research opportunities.
+o As a means of continuing this work, CIHR is collaborating with IDRC to integrate
+principles in the Canadian research system to promoteequitable global health
+research.
+- Purpose/objectives
+o The purpose of this transfer is to support the funding opportunity Mobilizing
+Principles for Equitable Global Health Research, aimed at integrating equitable
+global health research principles across theCanadian research system and
+ensuring that global health research is practiced in an equitable way.
+o The total value of collaboration is $624,000 over four years from 2022-2023 to
+2025-2026 and this is the first of four-year transfers to IDRC. CIHR'sshare totals
+$312,000 (same for IDRC).
+- Expected results
+o The investment will contribute to adherence to principles of equitable global
+health research in practice and strengthen the quality and impact of Canadian
+global health research.
+- Voted:(93,600)
+- Statutory:-
+Funding to support the delivery of the international AIDS Conference
+Total: $200,000
+Transfer from CIHR to the Public Health Agency of Canada (PHAC)
+- Key messages
+o Our government committed to the fight against HIV/AIDS and continues to
+invest in a comprehensive approach to addressing this issue, including through
+research and public awareness programs.
+o Our role as hosts of a major global platform on HIV/AIDS for the first time since
+2006 will allow us to highlight Canada’s progress onglobal HIV targets and align
+the agenda with the our work and that of global stakeholders.
+- Purpose/objectives
+o The purpose of this transfer is to support the delivery of the major international
+AIDS conference.
+o The Centre for Communicable Diseases and Infection Control of the PHAC will
+be leading the delivery process through the AIDS 2022 Interdepartmental
+Working Group.
+o The conference is major global platform on HIV and hosting it is an opportunity
+to highlight Canada’s progress towards meeting global HIV targets.
+o This transfer, and total value of the collaboration, is for 2022-23 only.
+- Expected results
+o The funding will contribute to hosting a major global HIV/AIDS conference in
+Canada and highlight the county’s progress towards ending the epidemic.
+- Voted: (200,000)
+- Statutory:-
+Funding to support Phase II of the Joint Canada-Israel Health Research Program
+Total: $210,603
+Transfer from CIHR to the International Development Research Centre (IDRC)
+- Key messages
+o Our government supports efforts to addressglobal health security priorities,
+including infectious disease prevention and response.
+o We understand the pivotal role of fundamental research in addressing the
+health issues of people in Canada and abroad
+o That is why our government, through the work of CIHR, is pleased to support
+the initiative attracting global talent for cutting-edge biomedical and global
+health research, focused on the intersection of non-communicable diseases and
+infectious diseases.
+- Purpose/objectives
+o The purpose of this transfer isto support the Phase II of the Joint Canada-Israel
+Health Research Program 2021 Funding Opportunity, delivered in collaboration
+with IDRC and the Azreili Foundation.
+o The objective of Phase II is to support fundamental biomedical science and
+global health research at the intersection between non-communicable chronic
+diseases and infectious diseases.
+o The total value of collaboration for CIHR is $1.5 million over 5 years and this
+represents the first transfer.
+- Expected results
+o The transfer will support the world-class biomedical and global health research
+on the intersection of non-communicable diseases and infectious diseases.
+- Voted: (210,603)
+- Statutory:-
+Funding to explore the development of a common grants management solution through the Tri-
+Agency GrantsManagement Initiative
+Total: $1,140,433
+Transfer from CIHR to the Natural Sciences and Engineering Research Council
+- Key messages
+o Our government understands the importance of harmonizing and modernizing
+its systems to support a vibrant research ecosystem.
+o Through this transfer, we are taking steps to modernize the grants management
+system for CIHR, the Natural Sciences and Engineering Research Council
+(NSERC), and the Social Sciences and Humanities Research Council (SSHRC)
+through the Tri-AgencyGrants Management Initiative.
+o This transfer will help provide NSERC the with the required funding to enable
+this important work on CIHR’s behalf.
+- Purpose/objectives
+o The purpose of this transfer is to support the work on exploring the
+development of a common grants management solution for CIHR, the NSERC,
+and SSHRC through the Tri-Agency Grants Management Initiative.
+- Expected results
+o The purpose of this transfer is to support the work on exploring the
+development of a common grants managementsolution for CIHR, the NSERC,
+and SSHRC through the Tri-Agency Grants Management Initiative.
+- Voted: (1,140,433)
+- Statutory:-
+Funding to support women's health and economic well-being for a post-COVID-19 recovery
+Total: $2,080,000
+Transfer from CIHR to theInternational Development Research Centre (IDRC)
+- Key messages
+o The Government of Canada through the Canadian Institutes of Health Research
+(CIHR) is committed to understanding the full impact of COVID-19 on the health
+of all Canadians and developing strategies for effective and equitable responses
+to health emergencies.
+- Purpose/objectives
+o The funding will support actionable research on the way women’s health and
+work intersect and interact in the context of preparation, response, and
+recovery from major health emergences such as COVID-19 globally.
+o This represents the second installment of a total $11.08 million contribution of
+CIHR over four years from 2021-2022 to 2024-2025.
+- Expected results
+o This transfer will support global health research to generate evidence to
+understand how women’s health and work intersect and interact in preparation,
+response and recovery from health emergencies such as COVID-19 and
+development of recommendations for increased health and economic well-
+being.
+- Voted: (2,080,000)
+- Statutory:-

@@ -38,3 +38,12 @@ chroma_db/
 .coverage
 htmlcov/
 data/
+health_data/
+*.wav
+*.mp3
+*.m4a
+*.mov
+*.avi
+*.mkv
+*.mp4
+*.webm

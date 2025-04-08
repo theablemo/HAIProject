@@ -1,0 +1,9 @@
+Created: 2018-04-10T13:40:22.808802
+Name: The_Canadian_Radiological_Monitoring_Network_–_Targeted_Environmental_Assessments
+Original URL: https://health.canada.ca/apps/open-data/precipitation/inform_bc_mushrooms.csv
+Package ID: df70f3b9-b21b-4dcf-a1e5-37044fcd3f33
+Keywords: ['Radioactivity', 'radiation', 'environmental radiation', 'environmental radioactivity monitoring', 'radiation monitoring', 'Canadian Radiological Monitoring Network', 'Health Canada', 'Radiation Protection Bureau', 'National Monitoring Section', 'water', 'drinking water', 'uranium', 'radium', 'radionuclide', 'CRMN']
+Notes: Health Canada’s Canadian Radiological Monitoring Network (CRMN) is a national network that routinely collects environmental samples for radioactivity analysis. More information about the CRMN can be found here: https://www.canada.ca/en/health-canada/services/environmental-workplace-health/environmental-contaminants/environmental-radiation/canadian-radiological-monitoring-network.html
+In addition to regular monitoring and analysis, the CRMN also conducts some non-routine studies. Samples for these studies typically will come from short-term research and development projects and collaborations, as well as unforeseen and unique opportunities.  The sample types can include food, vegetation, soil, and consumer goods samples. These studies serve to provide a more complete picture of environmental radiation in Canada, and they help us to understand how this fits into a global perspective. 
+This dataset provides the results of each of these projects. Each project will have its own data file. 
+You can contact the National Monitoring Section at HC.rpb-brp.SC@canada.ca for more information about each project.

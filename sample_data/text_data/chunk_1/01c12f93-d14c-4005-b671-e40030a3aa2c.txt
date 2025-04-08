@@ -1,0 +1,17 @@
+Created: 2021-01-06T17:52:00.656181
+Name: The_Canadian_Laboratory_Information_Network_(CANLINE)
+Original URL: https://clin-rcil.hc-sc.gc.ca/clin-rcil/
+Package ID: 01c12f93-d14c-4005-b671-e40030a3aa2c
+Keywords: ['contaminants', 'chemicals', 'pathogens', 'microbiology', 'nutrition', 'nutrients', 'surveillance', 'food safety', 'foods', 'market basket survey', 'TDS', 'Total Diet Study', 'Mycotoxins', 'Melamine', 'Ochratoxin', 'Acrylamide', 'Bisphenol A', 'BPA', 'Trace elements', 'Elements', 'Arsenic', 'Lead', 'Potassium', 'Dioxins', 'Furans', 'PCB', 'Nitrosamine', 'Mercury', 'Radionuclides', 'DEHA', 'DEHP', 'Phthalates', 'VOC', 'Infant formula', 'Dairy', 'Egg', 'Soy', 'Grains', 'Chocolate', 'Rice']
+Notes: CANLINE is the Food Directorate's (Health Canada) searchable database for chemical, nutritional, and microbiological laboratory surveillance data. This includes data from Canada's Total Diet Study and other targeted surveillance data on contaminants in food. 
+
+CANLINE data can be searched by sample characteristics, food category, contaminant, pathogen, nutrient, geographical details, and date, or combinations of the above. Search results can be exported in various formats.
+
+Please note that new data is added to CANLINE on an on-going basis.
+
+The glossary and instructions are available on the CANLINE website.
+
+
+-------------------------------
+Extracted Text:
+Home Skip to main content Skip to "About government" / Gouvernement du Canada Search Search Canada.ca Search Menu Main Menu Jobs and the workplace Immigration and citizenship Travel and tourism Business and industry Benefits Health Taxes Environment and natural resources National security and defence Culture, history and sport Policing, justice and emergencies Transport and infrastructure Canada and the world Money and finances Science and innovation You are here: Canada.ca Home From Health Canada Search Analyte Results Search Pathogen Results Search Project List Analyte Results Search through 105,173 results Pathogen Results Search through 2,099 results Project Details Search through 119 results Application information Instructions Glossary Contact us Contact Administrator Report a problem or mistake on this page "Page details" Date modified: 2019-03-01 About this site Government of Canada All contacts Departments and agencies About government Themes and topics Jobs Immigration and citizenship Travel and tourism Business Benefits Health Taxes Environment and natural resources National security and defence Culture, history and sport Policing, justice and emergencies Transport and infrastructure Canada and the world Money and finance Science and innovation Indigenous peoples Veterans and military Youth Government of Canada Corporate Social media Mobile applications About Canada.ca Terms and conditions Privacy

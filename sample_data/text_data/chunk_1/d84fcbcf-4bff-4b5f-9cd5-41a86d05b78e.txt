@@ -1,0 +1,2630 @@
+Created: 2022-07-25T16:24:46.528374
+Name: Briefing_binder_of_the_Deputy_Minister_of_Health_before_the_Standing_Committee_on_Health_on_Public_Accounts_(PACP)_–_Natural_health_products
+Original URL: https://open.canada.ca/data/dataset/d84fcbcf-4bff-4b5f-9cd5-41a86d05b78e/resource/f9febd7a-5c87-4155-ad34-fd71993ad09e/download/briefing-binder-of-the-deputy-minister-of-health-before-the-standing-committee-on-health-on-publ.pdf
+Package ID: d84fcbcf-4bff-4b5f-9cd5-41a86d05b78e
+Keywords: ['Parliamentary Committee appearance', 'legislation', 'health', 'natural health products']
+Notes: Briefing binder of the Deputy Minister of Health before the Standing Committee on Health on Public Accounts (PACP) – Natural health products
+-------------------------------
+Extracted Text:
+HEALTH CANADA APPEARANCE BEFORE THE STANDING COMMITTEE ON PUBLIC ACCOUNTS (PACP)
+2021 REPORT OF THE CESD ON NATURAL HEALTH PRODUCTS MARCH 24, 2022
+Remarks
+1. Opening Remarks
+Context
+2. Scenario Note and Context / Official Notice
+3. DepartmentalStatement on Health Canada Website
+4. Management Response Action Plan (MRAP)
+Q&As / QP Notes
+5. Q&A Document
+6. QP Note-CESD’s 2021 Audit of the NHP Program
+Background Documents
+7. CESD 2021 Audit on Natural Health Products / Survey
+8. Communications Plan
+9. Media lines
+10. Departmental Audit Committee (DAC) Overview Presentation
+11. REDACTED–Confidence of the Queen’s Privy Council
+12. PACP Committee Member Information
+Opening Remarks
+DM Health Canada Dr. Stephen Lucas
+House ofCommons Standing Committee on Public Accounts (PACP)
+Report 2—Natural Health Products—Health Canada March 24, 2022
+11:00 am to 1:00 pm
+I would like to thank the Committee members for the opportunity to appear before them today.
+I am pleased to have beeninvited, alongside my colleagues Jerry DeMarco, Commissioner of the
+Environment and Sustainable Development, and Heather Miller, Assistant Auditor General, from the
+Office of the Auditor General.
+Joining me today is Pam Aung-Thin, Associate Assistant Deputy Minister of the Health Products and
+Food Branch at Health Canada. The branch is responsible for product and site licensing, as well as
+advertising monitoring. Also joining me today is Linsey Hollett, Director General of Health Product
+Compliance for theRegulatory Operations and Enforcement Branch at Health Canada. The branch is
+responsible for compliance and enforcement activities.
+Natural health products are used by Canadians daily to care for themselves and their families. This
+includes vitamin supplements, minerals, probiotics, herbal remedies, homeopathic products, and
+traditional products, such as traditional Chinese medicines. Natural health products also include
+frequently used products such as toothpaste, mouthwash and sunscreen. Particularly relevant in the
+context of COVID-19, natural health products include alcohol-based hand sanitizers.
+In Canada, these products are regulated under the Food and Drugs Act and the Natural Health Products
+Regulations. Through the Natural Health Products Program,Health Canada provides oversight to ensure
+that the natural health products available for sale in Canada are safe and effective.
+In April 2021, the Commissioner of the Environment and Sustainable Development tabled an audit
+report of the Natural HealthProducts Program. The objective of the audit was to determine whether
+Health Canada ensures that the natural health products available for sale in Canada are safe and
+accurately represented to consumers. During the course of the audit, the scope was expanded to
+include Health Canada’s response to COVID-19 specific to the Natural Health Products Program.
+Overall, the audit identified both strengths and areas for improvement. The audit found that Health
+Canada licensed products appropriately, based on evidence of safety and efficacy. The audit also found
+that when an issue was brought to Health Canada’s attention, immediate action was taken.
+Additionally, the audit established that Health Canada’s approach to increase the supply of alcohol-
+based hand sanitizers during the pandemic was appropriate.
+The audit also identified areas for improvement, such as:
+• the need for increased oversight of the quality of natural health products,
+• greater monitoring of labels and advertising (including online),
+• improvedlabelling, and
+• proactive risk-based compliance and enforcement activities.
+The recommendations validated key gaps that the Department had already identified and started
+working to address. The audit supports the direction Health Canada has been taking over the past six
+years to strengthen oversight of these products.
+To address the recommendation to improve quality oversight, Health Canada has taken steps to require
+site licence applicants to demonstrate compliance with Good Manufacturing Practices, such as by
+requiring test results instead of relying on an attestation-based approach.
+In March 2021, Health Canada launched the Natural Health Products Good Manufacturing Practices
+Inspection Pilot to promote and verify industry compliance with regulatory requirements through
+inspections of licence holders across Canada. Results of the pilot to date are demonstrating a high rate
+of non-compliance and a need for further industry education as well as ongoing proactive risk-based
+oversight. In this vein, HealthCanada is on track to implement a permanent NHP Good Manufacturing
+Practices inspection program to help increase oversight of NHPs and better protect Canadians.
+The Department is building on work that began during the pandemic to expand its oversight of online
+advertising of natural health products, to ensure advertisements are consistent with the product license.
+Additionally, the Department recently consulted on a regulatory proposal to improve product labelling,
+with the objective to ensure labels are clear, consistent and legible for consumers to support safe use of
+these products.
+In the response to the audit, Health Canada indicated its intent to propose new tools to strengthen the
+Department’s ability to deter and address non-compliance, notably theextension of powers under the
+Protecting Canadians from Unsafe Drugs Act to natural health products. Known as
+Vanessa’s Law and introduced in 2014, this law strengthened Health Canada’s ability to collect
+information and take quick and appropriate actionwhen a serious health risk is identified. These
+authorities exist for drugs and medical devices, but not for natural health products.
+As a result, Health Canada lacks the authority to force a recall or a label change of a product, even in the
+case of a serious health risk such as contamination.
+In our Departmental response to the audit findings, Health Canada reaffirmed the need for sustainable
+and predictable funding through fees charged to industry to support increased oversight of these
+products. Natural health products are the only line of health products for which all regulatory activities
+are funded by the public.
+Revenues from fees would support pre-and post-market regulatory activities, including inspections of
+the facilities that make them.
+In closing, Health Canada’s priority is the health and safety of Canadians. For many Canadians, natural
+health products are an important part of maintaining a healthy lifestyle. Health Canada welcomes the
+Commissioner’s recommendations and is committed to the continuous improvement of our Natural
+Health Products Program to help ensure that products sold in Canada are safe and effective.
+Again, I would like thank the Committee for inviting me. I will be pleased to answer any questions you
+may have.
+SCENARIO NOTE
+APPEARANCE BEFORE THE STANDING COMMITTEE ON PUBLIC ACCOUNTS (PACP)–2021 REPORT 2 OF
+THE COMMISSIONER OF THE ENVIRONMENT AND SUSTAINABLE DEVELOPMENT
+March 24, 2022
+MEETING CONTEXT
+• On March 24, 2022, you are invited to appear for 2 hours (from 11:00 AMto 1:00 PM) at the
+Standing Committee on Public Accounts (PACP).
+• You will be appearing before the Committee in view of its study of Report 2 of the
+Commissioner of the Environment and Sustainable Development on Natural Health Products.
+MEETING SCENARIO
+• At this meeting you, Pamela Aung-Thin (HPFB), and Linsey Hollett (ROEB) will be on a panel with
+the following officials:
+o Jerry V. DeMarco, Commissioner of the Environment and Sustainable Development.
+o Heather Miller, Assistant Auditor General, Officeof the Auditor General
+• The Committee meeting will open with the Commissioner of the Environment and Sustainable
+Development providing opening remarks. You will then provide your 5-minute opening remarks.
+• You and other officials will then take questions from Committee members for the remainder of
+the time.
+o The first round of questions are generally 6 minutes in length in the following order:
+Conservative Party, Liberal Party, Bloc Québécois, NDP.
+o The second and subsequent round(s), the order and time of questioning is as follows:
+Conservative Party (5 minutes), Liberal Party (5 minutes), Bloc Québécois (2.5 minutes), NDP (2.5
+minutes), Conservative Party (5 minutes), Liberal Party (5 minutes)
+COMMITTEE CONTEXT
+• The Commissioner of the Environmentand Sustainable Development (CESD) conducted a
+performance audit focused on Health Canada’s oversight of natural health products. The CESD
+concluded that Health Canada is unable to ensure that natural health products available in the Canadian
+marketplaceare safe, effective, and accurately represented to consumers. The Audit was tabled April
+22, 2021.
+• When the Speaker tables a report by the Auditor General in the House of Commons, it is
+automatically referred to the Public Accounts Committee. The Committee selects the chapters of the
+report it wants to study and calls the CESD and senior public servants from the audited organizations to
+appear before it to respond to the Commissioner’s findings.
+• Government policy, and the extent to which policy objectives are achieved, are generally not
+examined by the Public Accounts Committee. Instead, the Committee focuses on government
+administration–the economy and efficiency of program delivery as well as the adherence to
+government policies, directives and standards. The Committee seeks to hold the government to account
+for effective public administration and due regard for public funds.
+• At the conclusion of a study, the Committee may present a report to the House of Commons
+that includes recommendations to thegovernment for improvements in administrative and financial
+practices and controls of federal departments and agencies.
+• Owing to its unique mandate, there is an expectation at PACP that all questions and answers
+during an appearance remain within the bounds of the study at hand.
+• In the context of the upcoming meeting, the members of PACP will focus their questions on the
+Auditor General’s report and the Department’s Management Response and Action Plan (MRAP). The
+following are the recommendations in the report that has been addressed in the MRAP:
+ Health Canada should obtain
+ sufficient evidence to verify that licensed sites follow good manufacturing practices before
+products are released on the market
+ nformation about which natural health products are available on the market
+- Health Canada should, for licensed natural health products on the market, including on the
+Internet, take a risk-based approach to
+ ensure that product labels are readable
+ monitor product label and advertisement information to ensure that they contain accurate
+and complete product information, consistent with their licence conditions
+o Health Canada should develop a risk-based monitoring and inspection program that establishes
+the scope and frequency of inspections and that considersrisks related to products, sites, and problems
+raised from its follow-up activities.
+o Health Canada should develop a risk-based monitoring program to
+-identify unlicensed products and take appropriate action so that they are not available for sale to
+consumers in Canada
+-identify unauthorized activities and take appropriate action so that labelling and advertisements meet
+product-licence conditions
+o Health Canada should develop a risk-based monitoring program to identify unlicensed products
+and take appropriate action so that they are not available for sale to consumers in Canada identify
+unauthorized activities and take appropriate action so that labelling and advertisements meet product-
+licence conditions
+PACP COMMITTEE MEETING
+Notices ofMeeting include information about the subject matter to be examined by the committee and
+date, time and place of the meeting, as well as a list of any witnesses scheduled to appear. The Evidence
+is the edited and revised transcript of what is said before acommittee. The Minutes of
+are the official record of the business conducted by the committee at a sitting.
+For an advanced search, use Publication Search tool.
+If you have any questions or comments regarding the accessibility of this publication, please contact us
+ataccessible@parl.gc.ca.
+NOTICE OF MEETING
+Standing committee on Public Accounts (PACP)
+44thparliament, 1stsession
+Meeting 10
+- Thursday, March 24, 2022, 11:00 am to 1:00 pm
+Report 2, Natural Health Products–Health Canada, by the Commissionerof the Environment and
+Sustainable Development
+Department of Health Canada-Santé Canada
+- Dr. Stephen Lucas, Deputy Minister
+- Pamela Aung-Thin, Associate Assistance Deputy Minister
+- Lindsey Hollett, Director General, Health Product Compliance
+Office of theAuditor General
+- Jerry V. DeMarco, Commissioner of the Environment and Sustaineble Development
+- Heather Miller, Assistant Auditor General
+Clerk of the Committee
+- Angela Crandall
+Health Canada responds to the Spring
+2021 Report of theCommissioner of the Environment and Sustainable Development
+From: Health Canada
+Statement
+April, 22, 2021 | Ottawa, ON | Health Canada
+Today, the Commissioner of the Environment and Sustainable Development tabled his spring report and
+presented the results of the audit on Health Canada’s Natural Health Products Program. The audit
+focussed on natural health products available for sale in Canada to ensure that they are safe, effective
+and accurately represented to consumers.
+Canada has one of the best regulatory systems in the world for natural health products, with some of
+the most stringent requirements. Health Canada recognizes the importance of ensuring that natural
+health products available for sale in Canada are safe and effective.
+Overall, the audit identified both strengths and areas for improvement within the Program. It found that
+Health Canada licensed natural health products appropriately, based on evidence of safety and efficacy.
+The audit also found that when an issue was brought to Health Canada’s attention, immediate action
+was taken. Additionally, the audit established that Health Canada’s approach to increase the supply of
+hand sanitizers–a natural health product–available to Canadians during the COVID-19 pandemic was
+appropriate. Canada was experiencing an unprecedented demand for these products, which was on
+average six-fold higher than the previous year.
+The audit also identified areas for improvement. We welcome the Commissioner’s recommendations to
+increase the oversight of natural health products. Our department is already working to address all of
+the recommendations and is taking steps to accelerate its efforts to strengthen the natural health
+products program, including increased oversight of quality, advertising and labelling. Thisincludes
+strengthening the oversight of online advertising to ensure that Canadians have accurate and reliable
+information to inform their choices, launching an inspection pilot program intended to inform the
+development of a permanent inspection program,bringing forward a regulatory proposal to improve
+labelling so product labels are clear, consistent and legible for consumers, and helping ensure that the
+department has the tools to protect the health and safety of Canadians when a serious health risk arises.
+Health Canada’s priority is the health and safety of Canadians. For many Canadians, natural health
+products are an important part of maintaining a healthy lifestyle. Health Canada is committed to the
+continuous improvement of its natural health products program to help ensure that products sold in
+Canada are safe and effective.
+HEALTH CANADA MANAGEMENT RESPONSE AND ACTION PLAN (MRAP)
+In response to the recommendations of the Natural Health Product Program of the Spring 2021 Report
+of the Commissioner of the Environment and Sustainable Development to the Parliament of Canada
+Note: The MRAP has certain dependencies on undertaking legislative and/or regulatory changes. In
+recognition of these dependencies, the key milestones have been divided into two parts to reflect
+milestones that fall within and outside the existing NHP program’s framework. Actions listed as within
+the existing framework would not require legislative and/or regulatory changes to implement.
+Report Ref.: Para 24
+- OAGrecommendations
+o Health Canada should obtain
+o Sufficient evidence to verify that licensed sites followed GMPs before products were
+released on the market.
+o Information about which NHPs are available on the market.
+- Departmental Response
+o Agreed. Health Canada notes its limited regulatory authorities to compel companies to
+provide information on quality as part of the product license submission process.
+Applicants are only required to provide an attestation that their product will meet the
+prescribed quality requirements. To improve its pre-market quality oversight of NHPs,
+the Department has been using information gathered through two Compliance
+Monitoring Projects and a paper-based audit of Good Manufacturing Practices (GMP) at
+a number of manufacturing sites.The Department also acknowledges that NHPs are the
+only line of health products for which all regulatory activities are funded by the public.
+The absence of a stable funding framework combined with the limited regulatory
+authorities for quality has placedsignificant pressure on the Department to perform its
+regulatory activities and efficiently respond to the increasingly high number and
+scientific complexity of product submissions. In response to this recommendation,
+Health Canada will:
+o Establish fully costed options for a risk-based approach to quality oversight prior to the
+issuance or renewal of licenses and determine the full regulatory and operational
+implications of these options;
+o Explore mechanisms to obtain information about which products are available on the
+market; and
+o Take steps to propose user fees to NHPs to offset the costs of licensing and post-market
+activities.
+- Description of Final Expected Outcome/Result
+o Health Canada has appropriate requirements in place to ensure oversight of quality
+prior to the issuance or renewal of licences, which includes information about which
+NHPs are available on the Canadian market.
+- Expected Final Completion Date
+o November 2024 for improved quality oversight (if regulatory change is advanced as part
+of the approved recommendation(s))
+- Key Interim Milestones (Description\Dates)
+o Within existing framework
+o Assess the capacity and tools required in the pre-market functions associated with
+quality review to effectively deliver mandated program activities, identify gaps, and
+develop an options analysis report with recommendations, which are expected to
+include proposed regulatory amendments. (January 2022)
+o Based on the approved recommendation(s), develop a multi-year implementation plan,
+to improve the pre-market oversight of the quality of NHPs. (September 2022)
+o Signal to industry the Department’s intention to implement fees for NHPs to provide
+stable funding for key regulatory activities and develop a fee proposal for consultation
+(October 2021)
+o Consult on a cost recovery proposal (April 2022
+o Amend the Fees Order to include NHPs (October 2023).
+o Outside existing framework
+o Dependent on the approved recommendation(s), seek regulatory amendments to
+improve the oversight of the quality of NHPs (Timelines will be based on the
+implementation plan)
+Report Ref.: Para 33
+- OAG recommendations
+o Health Canada should, for licensed natural health products on the market, including the
+internet, take a risk-based approach to:
+o ensure that product labels are readable
+o monitor product labeland advertisement information to ensure that they contain
+accurate and complete product information, consistent with their license conditions
+- Departmental Response
+o Agreed. The department has started to take steps through extensive stakeholder
+engagement and the development of a regulatory proposal to improve the labelling of
+NHPs, to make them easier to read, understand and compare with other similar
+products. Health Canada will:
+o Continue to pursue regulatory and policy changes to improve labelling of NHPs;
+o Explore options to require licence holders to display a Canadian label, including an NPN,
+in advertisements targeted to Canadians;
+o Take steps to implement a comprehensive proactive monitoring strategy to ensure that
+labels and advertising of NHPs are consistent with the product licence.
+- Description of Final Expected Outcome/Result
+o Health Canada has a regulatory framework in place to ensure clear labelling of NHPs.
+Health Canada has implemented proactive monitoring of labelling and advertising
+information of NHPs to ensure information is consistent with licensing conditions.
+- Expected final Completion Date
+o June 2022 for improved labelling in Canada Gazette Part II;
+o October 2022 to implement proactive monitoring of NHP advertising
+- Key interim Milestones (Description/Dates)
+o Within existing framework
+o Pilot an approach, analyze the pilot and develop a multi-year implementation plan to
+expand proactive monitoring of advertising to NHPs, including full costing and the
+identification of Artificial Intelligence toolsneeded for the expanded approach (February
+2022)
+o Conduct a feasibility study to expand proactive monitoring oversight to online
+monitoring of NHP labels (June 2022)
+o Begin implementation of the approved approach for the expansion of proactive
+monitoring ofadvertising of NHPs (October 2022)
+o Complete an analysis on the display format of a Canadian label online, including
+presentation of the NPN, to identify recommended options and a critical path forward
+(December 2022)
+o Evaluate lessons learned to determine feasibility of expanded proactive monitoring of
+NHPs and make necessary modifications as per an internal proactive monitoring process
+review (September 2023)
+o Outside existing framework
+o Publish proposed amendments to the Natural Health Products Regulations (NHPR) in
+Canada Gazette I to improve the labelling of NHPs with a product facts table and
+minimum font size, for formal consultation (targeting June 2021)
+o Dependent on the above, publish final regulatory amendments to the NHPR in Canada
+Gazette II to improve the labelling of NHPs (targeting June 2022)
+Report Ref.: Para 45
+- OAG recommendations
+o Health Canada should develop a risk-based monitoring and inspection program that
+establishes the scope and frequency of inspections and that considers risks related to
+products, sites and problems raised from its follow-up activities.
+- Departmental Response
+o Agreed. Health Canada recognizes that NHPs are the only line of health products for
+which there is no ability to mandate a recall or to impose terms and conditions to
+mitigate safety risks associated with these products. The Department has completed a
+numbercompliance monitoring projects to gather information on quality oversight of
+NHPs and recognizes the need to expand its activities into a more robust inspection
+program. Health Canada will:
+o Implement a pilot NHP Good Manufacturing Practices (GMP) inspection program to
+promote and verify compliance of the NHP industry through inspections of licence
+holders across Canada, and take further actions based on the outcomeof this pilot;
+o Take steps to propose new tools to strengthen Health Canada’s ability to deter and
+address non-compliance which include moving forward with a proposal to extend the
+use of Vanessa’s Law powers to NHPs;
+o Establish fully costed options for a risk-based approach to inspections; and
+o Take steps to propose the expansion of user fees to NHPs to offset the costs of post-
+market activities.
+- Description of Final Expected Outcome/Result
+o Health Canada has an effective risk-based approach to monitoring andinspection to
+manage the post marketrisk related to products and sites
+- Expected final Completion Date
+o April 2023 for risk-based monitoring plan; November 2022 for Vanessa Law powers
+- Key interim Milestones (Description/Dates)
+o Within existing framework
+o Launch a pilot NHP GMP inspection program (March 2021)
+o Assess the results of the pilot and identify options for a risk-based NHP inspection
+program, which includes full costing (April 2022)
+o Complete consultations with stakeholders on a recommendation for a future risk-based
+NHP inspection program (August 2022)
+o See interim milestones for recommendation 24 regarding fees
+o Based on the approved recommendation(s) and existing resources, determine next
+steps to implement an effective risk-based approach to monitoring compliance and
+inspections (April 2023)
+o Outside existing framework
+o Seek authority to introduce legislative amendments to the Food and Drugs Act with a
+view to expand the Vanessa’s Law powers to NHPs (October 2021)
+o Dependent on obtaining authority,consult stakeholders on the policy and
+implementation to extend the use of
+o Vanessa’s Law powers to NHPs (January 2022)
+o Dependent on obtaining authority, start to develop regulations to extend the full suite
+of Vanessa’s Law authorities to NHPs (November 2022)
+Report Ref.: Para 49
+- OAG recommendations
+- Health Canada should develop a risk-based monitoring program to:
+- Identify unlicensed products and take appropriate action so that they are not available for sale
+to consumers in Canada
+- Identify unauthorizedactivities and take appropriate action so that advertisements meet
+product license conditions
+- Departmental Response
+- Agreed. Health Canada does maintain a complaint-based program for regulatory advertising
+compliance oversight but recognizes that an additional risk-based approach is required to
+ensure unauthorized activities are prevented and/or stopped. Health Canada will:
+- Implement a risk-based approach to monitoring of advertising; and
+- Take steps to propose new tools to strengthen its ability to deter and address non-compliance,
+which include moving forward with a proposal to
+- extend the use of Vanessa’s Law powers to NHPs.
+- Description of Final Expected Outcome/Result
+- Health Canada has a comprehensive risk-based approach applied to NHP advertising incidents
+- Expected final Completion Date
+- January 2022 for risk-based monitoring of advertising; November 2022 for Vanessa’s Law
+powers
+- Key interim Milestones (Description/Dates)
+- Within existing framework
+- Develop and launch a risk-based approach formonitoring NHP advertising incidents, via a tool
+which will classify advertising incidents based on level of risk (January 2022)
+- Assess the feasibility of partnering with other government departments (OGDs) to address non-
+compliance in NHP advertising. This will also include the development of costing assumptions
+(January 2022)
+- Subject to approval, implement a collaboration approach jointly with OGDs and
+- the Department to allow OGDs to use existing enforcement powers for serious non-compliance
+incidents inadvertising of NHPs (April 2022)
+- Outside existing framework
+- See interim milestones for recommendation 45 regarding Vanessa’s Law
+Report Ref.: Para 54
+- OAG recommendations
+o Health Canada should, in cases of products suspected of causing serious health risk,
+o Obtain the information it needs to verify and ensure that these products are not
+available for sale to consumers in Canada
+- Departmental Response
+o Agreed. In addition to the immediate steps Health Canada already takes to protect the
+health and safety of Canadians when a serious risk to health is identified, Health Canada
+will:
+o Take steps to propose new tools to strengthen its ability to deter and address non-
+compliance, which include moving forward with a proposal to
+o extend the use of Vanessa’s Law powers toNHPs; and
+o Take steps to propose the expansion of user fees to NHPs to offset the costs of licensing
+and post-market activities.
+- Description of Final Expected Outcome/Result
+o Health Canada has strengthened tools to, in cases of products suspected of causing
+serious health risk, obtain information and ensure the products are not available to
+consumers.
+- Expected final Completion Date
+o November 2022 for Vanessa’s Law powers
+- Key interim Milestones (Description/Dates)
+o Within existing framework
+o See interimmilestones for recommendation 24 regarding fees
+o Outside existing framework
+o See interim milestones for recommendation 45 regarding Vanessa’s Law
+Question & Answers
+Health Canada Appearance at the Standing Committee onPublic Accounts (PACP)
+Study of the Commissioner of the Environment and Sustainable Development’s (CESD) 2021 Audit on
+Natural Health Products
+March 24, 2022
+TABLE OF CONTENTS
+INDEX OF QUESTIONS
+1.1 OVERVIEW OF AUDIT OBJECTIVE AND SCOPE
+1.2 GENERAL QUESTIONS ON THE NHP PROGRAM
+1.3 AUDIT RECOMMENDATIONS ON QUALITY
+1.4 AUDITRECOMMENDATIONS ON LABELLING
+1.5 AUDIT RECOMMENDATIONS ON ADVERTISING
+1.6 AUDIT RECOMMENDATIONSON MONITORING AND COMPLIANCE
+1.7 HC RESPONSE: COST RECOVERY FOR NHPs
+1.8 HCRESPONSE: VANESSA’S LAW
+1.9 COVID-19: HC’S OVERSIGHT OF ONLINE MARKETING
+1.10 COVID-19: MODIFIEDAPPROACH FOR HAND SANITIZERS
+INDEX OF QUESTIONS
+INDEX OF QUESTIONS
+1.1 OVERVIEW OF AUDIT OBJECTIVE AND SCOPE
+Q1. What was the objective of the audit?
+Q2. What findings and recommendations did the audit report include, and howis the Department
+responding?
+Q3. Have you encountered delays in implementing the CESD audit recommendations?
+1.2 GENERAL QUESTIONS ON THE NHP PROGRAM
+Q4. Are the natural health products on the market safe to use? Should Canadians be concerned that
+Health Canada’s lack of oversight is putting them at risk?
+Q5. Why do these gaps exist in the oversight of natural health products? Why has Health Canada not
+already taken more action to improve its regulatory approach?
+1.3 AUDIT RECOMMENDATIONS ON QUALITY
+Q6. What steps is Health Canada taking to strengthen its oversight of the quality of natural health
+products?
+Q7. How will Health Canada identify which natural health productsare available on the market?
+1.4 AUDITRECOMMENDATIONS ON LABELLING
+Q8. Why is Health Canada proposing amendments for natural health product labels?
+Q9. What is the proposal to improve labellingfor natural health products?
+Q10. What is the currentstatus of this proposal?
+Q11. Has Health Canada engaged in meaningful consultations withstakeholders on this proposal?
+Q12. Aren’t new labelling requirements for natural health products going to create unnecessary and
+costly burden for industry?
+1.5 AUDIT RECOMMENDATIONSON ADVERTISING
+Q13. What regulatory activities specific to advertising were subject to the audit?
+Q14. What were the key challenges in regulatory advertising oversight identified by the audit?
+Q15. What were the audit’s key findingsrelated to advertising oversight of NHPs
+Q16. What is Health Canada doing to address these gaps/challenges as identified in the audit report?
+Q17. What is the status of this commitment?
+1.6 AUDIT RECOMMENDATIONSON MONITORING AND COMPLIANCE
+Q18. Canadians rely on Health Canada to ensure that the health products they consume are safe and
+effective. The 2021 CESD audit clearly indicates that your department has fallen short of that objective.
+What do you say to Canadians about the lack of proper oversight of natural health products, and the
+health risk this creates for them?
+Q19. What kind of non-compliance exists at NHP facilities? How serious is it and what isHealth
+Canada doing about it?
+Q20. How do you address non-compliance? Especially cases of repetitive non-compliance?
+Q21. Natural health products and over-the-counter (OTC) drugs are sold side-by-side on drug store
+shelves. To most people, they are indistinguishable. The maximum fine for an infraction is $5,000 for a
+NHP and $5 million for an OTC drug. Why such a large difference? Why are the penalties for violations of
+the NHP regulations so light?
+Q22. How many NHP manufacturing facilities are inspected annually? How many of these are planned
+inspections versus inspections that respond to industrywhistleblowers or informants?
+Q23. The audit identified the absence of a routine inspection program as an oversight gap. What
+steps has HC taken to address this absence? What future stepsHC intends to take and when?
+Q24. Why does HC not conduct monitoring of all licensed products and manufacturers, given the
+potential risk that non-compliance poses to Canadians?
+Q25. What is the status of the commitments Health Canada made under the MRAP, related to
+compliance and enforcement, specifically
+Q26. Can you describe the key findings of the oversight pilot?
+Q27. Why has the department not yet put in place stable funding for the inspection program to
+addressthe audit’s recommendations?
+Q28. Does the department plan to consider some of the lessons learned during the COVID-19
+pandemic to improve the oversight of NHPs?
+1.7 HC RESPONSE: COST RECOVERY FOR NHPs
+Q29. How will implementing fees on the Natural Health Products industry contribute to improve the
+compliance and enforcement mechanisms to ensure thesafety of Canadian consumers?
+Q30. How will Health Canada make sure that the new fees do not become a deterrent for Canadian
+innovation in the Natural Health Products industry?
+Q31. If fees to regulate Natural Health Products are implemented, how is Health Canada going to
+minimize the impact to small businesses?
+1.8 HC RESPONSE: VANESSA’S LAW
+Q32. The Departmental response to the audit included an indication that it would be seeking
+Vanessa’s Law powers for natural health products, despite this not being a recommendation made
+through the audit. Why are these measures necessary? Are there gaps in Health Canada’sability to
+take action when safety issues emerge?
+Q33. According to the timelines set by the Department in the MRAP, you should have already sought
+these authorities last fall and would be in the process of consulting stakeholders on the implementation
+of these measures. What is the status of Health Canada’s proposal to extend
+Vanessa’s Law authorities to apply to natural health products?
+1.9 COVID-19: HC’SOVERSIGHT OF ONLINE MARKETING
+Q34. Why did it take a global pandemic for the department to effectively monitor NHPs(e.g.,
+proactive monitoring)?
+Q35. With regards to COVID-19 advertising monitoring, what were the activities reviewed by the
+CESD audit during themonths of April and May 2020?
+Q36. What were the audit findings related to this work carried out starting in April and May? 26
+Q37. What did the audit recommend?
+Q38. What other keyinformation should be noted?
+1.10 COVID-19: MODIFIEDAPPROACH FOR HAND SANITIZERS
+Q39. What actions did Health Canada take to increase the supply of hand sanitizers in response to the
+COVID-19 pandemic?
+Q40. What activities were reviewed during the audit and what were the key findings related to this
+work?
+Q41. How did Health Canada ensure the safety of hand sanitizers under these interim measures?
+Q1. What was the objective of the audit?
+The focus of the audit was to determine whether Health Canada ensures that the natural health
+products available for sale in Canada are safe and accurately represented to consumers. During the
+course of theaudit, the scope was expanded to include Health Canada’s response to COVID-19 specific
+to the Natural Health Products Program.
+Q2. What findings and recommendations did the audit report include, and how is theDepartment
+responding?
+Overall areas of strength:
+• The audit found that Health Canada licensed natural health products appropriately, based on
+evidence of safety and efficacy.
+• The audit also found that when an issue was brought to Health Canada’s attention, appropriate
+action was taken.
+• Additionally, the audit established that Health Canada’s approach to increase the supply of hand
+sanitizers available to Canadians during the COVID-19 pandemic was appropriate.
+Quality:
+• In response, Health Canada will explore options to strengthen its oversight of the quality of
+natural health products, and mechanisms to obtain information about which natural health products are
+on the market.
+• Health Canada also reaffirmed the need for sustainable and predictable funding through user
+fees to support increased oversight of these products. Natural health products are the only line of health
+products for which all regulatory activities are funded by the public.
+Compliance and enforcement:
+• The audit recommended that Health Canada develop proactive risk-basedactivities, including
+inspections, as part of its compliance and enforcement approach.
+• The audit also noted that when an issue was brought to the Department’s attention, compliance
+could not always be achieved.
+• In March 2021, Health Canada launched apilot inspection program of site licence holders in
+order to promote and verify industry compliance.
+• The Department also intends to take steps to propose new tools to strengthen its ability to
+deter and address non-compliance. This includes extending theauthorities under the Protecting
+Canadians from Unsafe Drugs Act (also known as Vanessa’s Law) to natural health products. These
+authorities currently exist for all drugs and medical devices, but not for natural health products. As a
+result, Health Canadamust rely on the goodwill of companies to conduct a product recall or make label
+changes, such as adding key warnings, to respond tocases of serious health risks
+Labelling and advertising:
+• The audit recommended increased monitoring of labels and advertising (including online
+advertising) to ensure that they contain accurate product information.
+• The audit also recommended that Health Canada ensure that product labels are readable.
+• The Department will be taking steps to implement a comprehensiveproactive monitoring
+strategy to ensure that labels and advertising are consistent with the terms of the product licence.
+• The Department has already started to pursue regulatory and policy changes to make labels
+easier to read, understand and compare with other similar products. This proposal was brought forward
+for formal public consultation via Canada Gazette, Part 1 in June 2021.
+Q3. Have you encountered delays in implementing the CESD audit recommendations?
+• In response to the recommendations in the report, Health Canada is taking action to establish a
+stronger and more robust Natural Health Products Program. The Department has already taken steps to
+begin to address all of the audit recommendations as outlined in the Management Response Action Plan
+(MRAP). In specific cases, advancing the Department’s response requires undertaking legislative and/or
+regulatory changes.
+• Initial timelines were set out in the MRAP, recognizing the some of these actions do not fall
+solely within the Department’s authority. There are some cases where we have not been able to meet
+the initial timelines set out in the MRAP--for example, the commitment to introduce legislative
+amendments to the Food and Drugs Act to support the extension of Vanessa's Law powers.
+• For all of these commitments, we continue to actively work in collaboration with our key partner
+towards completion of all of the elements on the action plan.
+Q4. Are the natural health products on the market safe to use?
+Should Canadians be concerned that Health Canada’s lack of oversight is putting them at risk?
+• For many Canadians, natural health products are an important part of maintaining a healthy
+lifestyle. While manufacturers are ultimately responsible for ensuring the safety of the natural health
+products they sell in Canada, Health Canada regulates these products so that Canadians can have
+confidence that the products they use are safe, effective and of high quality.
+• Through its regulatory role, Health Canada provides oversight for safety, efficacy and quality for
+natural health products. Before products can be sold in Canada, products are assessed by Health Canada
+before a licence is provided. This assessment includes a review of the types of ingredients, dosage, and
+health claims, to determine if the product can be safely used by consumers.
+• While the audit identified areas for improvement, it is important to note that Health Canada’s
+approach to assessing safety and efficacy of natural health products prior to licensing was found to be
+appropriate. The audit also found that when an issue was brought to Health Canada’s attention, the
+Department took appropriate action to mitigate risks to Canadians.
+• The Department has accepted all of the recommendations made in the audit and has already
+taken steps to address them. Health Canada remains committed to the continuous improvement of its
+Natural Health Products program to help ensure that products sold in Canada are safe and effective.
+Q5. Why do these gaps exist in the oversight of natural healthproducts? Why has Health Canada not
+already taken more action to improve its regulatory approach?
+• Health Canada is committed to the continuous improvement of its natural health products
+program to ensure that products sold in Canada are safe and effective. The Department is taking steps
+to address all of the recommendations in the audit report.
+• The Natural Health Products Program has evolved substantially since the Natural Health
+Products Regulations came into force in in 2004. To date, almost 120,000product licences have been
+issued, representing over 200,000 products approved. Additionally,there are currently approximately
+800 active site licenses. All current oversight activities are performed within existing budgets, without
+additional funding through fees.
+• Natural health products are currently the only line of health products in Canada for which all
+regulatory activities are funded solely by the Department’s operating budget. Health Canada will be
+introducing industry fees that would help offsetthe costs of licencing products and the sites that
+manufacture them, and provide the means to scale-up licensing, monitoring, compliance and
+enforcement activities.
+• Health Canada has already made efforts to take more proactive steps to monitoring natural
+health products. For example, in March 2021, the Department launched a pilot inspection program to
+proactively assess the compliance of companies with Good Manufacturing Practices requirements. The
+objective of the pilot program is to strengthen compliance of the natural health products industry.
+Increased compliance with regulatory requirements protects the health and safety of Canadians by
+ensuring these products are safe, effective and of high quality.
+Q6. What steps is Health Canada taking tostrengthen its oversight of the quality of natural health
+products?
+• The audit found that the department relied on natural health product manufacturers’
+attestations and did not verify key types of evidence demonstrating that natural health product sites
+followed Good Manufacturing Practices (GMP).
+• To address this finding, the Department has taken steps to require site licence applicants to
+demonstrate GMP compliance, such as by providing test results, instead of simply attestation. This first
+step waslaunched in July 2021 through the transition of the temporary COVID-19 site licences for hand
+sanitizers. The Department will be looking to extend this increased oversight to all site licence applicants
+in the coming year. The timing of this extended phasewill be dependent on completing the transition of
+the temporary COVID-19 site licences and assessing our lessons from that first phase.
+• The Department’s longer-term response to this audit recommendation is to introduce a pre-
+market quality review for higher-risk products. The timing of this action, along with other additional
+options for increasing quality oversight of these products are still being developed, including potential
+regulatory changes.
+Q7. How will Health Canada identify which natural health products are available on the market?
+• The audit acknowledged that, unlike for drugs, Health Canada is not informed when natural
+health products will be released on the market. This is a known gap in the Natural Health Products
+Regulations¸ one thatwas previously identified by the Department and has been part of planned
+improvements under existing regulatory modernization work through the Self-Care Framework.
+• To address this finding in the short term, Health Canada is actively working to launch a survey in
+the coming weeks to gather information on the market status of licenced natural health products.
+• Based on the information received through this survey, the Department will take steps to
+update the online database (specifically, the Licensed Natural Health Products Database), to reflect the
+market status accordingly to ensure that the most accurate and up to date information is captured.
+• The Department is exploring options to enable it to subsequently maintain and update the
+information on whichNHPs are being sold to Canadians.
+Q8. Why is Health Canada proposing amendments for natural health product labels?
+• Key information on natural health product labels is not presented in a clear, consistent and
+legible format, which makes it difficultfor consumers and health professionals to locate, read and
+compare important safety information. In addition, warning information relating to contraindications or
+allergens may easily be missed, leading to preventable harms, such as anaphylactic reactions.
+• The audit noted examples of product label information, such as safety warnings, printed very
+small–for example, in a 4-point font. Additionally, through the results of a survey that the OAG
+undertook, Canadians indicated that natural health products were minimally easy to read, despite labels
+being one of the most important factors influencing their decision to purchase the product.
+• The proposed changes would make it easier for consumers to compare products, select the best
+one for their needs and use it safely.
+- Proposed amendments related to contact information may also increase the rate of reporting of
+adverse reactions to manufacturers and, in turn, to Health Canada. This will expand Health Canada’s
+ability to use real-world evidence to monitor the safety and effectiveness of natural health products and
+to mitigate any identified risks.
+Q9. What is the proposal to improve labelling for natural health products?
+• Health Canada is proposing four new labelling requirements for natural healthproducts to help
+Canadians make informed decisions when selecting and using these products:
+o A product facts table: Important product information, such as warnings and directions for use,
+would be required in a standardized table.
+o Clearly and prominently displayed label text: Rules would be introduced to improve natural
+health product label legibility and readability (e.g., improved colour contrast and a minimum font size
+requirements) and to require the use of plain, consistent language on labels.
+o Labelling of food allergens, gluten and aspartame: Priority food allergens, added sulphite,
+aspartame and gluten would be identified in the warning section of the label.
+o Modernized contact information: A manufacturer can display either an email address, telephone
+number or website instead of a postal address, as is currently required.
+• The current proposal builds on labelling best practices used for other products in Canada, such
+as non-prescription drugs and food, as well as in the United States for food, non-prescription drugs and
+dietary supplements.
+Q10. What is the current status of this proposal?
+• On June 26, 2021, Health Canada published the regulatory proposal to amend the Natural
+Health Products Regulations in the Canada Gazette, Part I (CGI)for a 90-day comment period. The
+Department received 139 submissions from a range of stakeholders including consumers, industry
+groups, patient advocacy groups, healthcare professional associations and academics.
+• The Department recently held a stakeholder engagement session to provide updates on key
+changes to the proposal as a reflection of the feedback received through the formal consultation
+process. Health Canada is continuing to develop key elements of the proposal in response to
+stakeholder feedbackand will look to advance final regulations to Canada Gazette, Part II (CGII).
+Q11. Has Health Canada engaged in meaningful consultations with stakeholders on this proposal?
+• Health Canada has engaged in extensive and meaningful consultation with stakeholders on this
+proposal over the last six years.
+• In 2016, Health Canada published a White Paper on its proposed Self-Care Framework and
+received over 3,500 responses.
+• Since then, Health Canada has met with more than 4,500 consumers, academics, health
+professionals. Health Canada also held more than 70 one-on-one meetings with industry members, 6
+technical sessions, 6 Task Force sessions dedicated to labelling and numerous bilateral meetings with
+key industry associations.
+• Health Canada formally consulted on proposed regulatory changes published in Canada Gazette,
+Part I in June 2021, along with the associated guidance document, and received over 130 submissions.
+Most recently, the Department held a stakeholder engagement session to provide updates onkey
+changes to the proposal following analysis of the feedback received through this formal consultation
+process.
+• Stakeholder input has been considered by Health Canada at all stages throughout the
+development of this proposal.
+Q12. Aren’t new labelling requirements for natural health products going to create unnecessary and
+costly burden for industry?
+• Labelling is an effective mechanism to protect consumer health and safety. This proposal
+ensures that required information is provided in a consistentand common format so that the
+information on the label can be understood by the consumer to support safe choice and error-free use.
+• The changes will also bring natural health products more in line with requirements for products,
+both domestically and internationally–foods, for example, which include a nutrition facts table, and
+non-prescription drugs, which include a drug facts table.
+• The inclusion of allergens was identified by consumers as one of the most important aspects on
+labels. According tofood allergy prevalence estimates, as of April 2020, approximately 2.1 million
+Canadians (or 6.1% of the total population) have food allergies.
+• Several flexibilities will be introduced in the regulations to minimize burden for industry and
+potential impact on the environment, including allowing certain point-of-use information to be moved
+to an insert, leaflet or website to avoid the need to increase package sizes to accommodate the changes.
+Q13. What regulatory activities specific to advertising weresubject to the audit?
+• The audit reviewed Health Canada’s regulatory activities and oversight of advertising of natural
+health products targeted to Canadians, which included the Department’s effectiveness in detecting false
+and misleading health claims of NHPs on the Canadian market.
+Q14. What were the key challenges in regulatory advertising oversight identified by the audit?
+• The report indicated that the Department’s monitoring activities were a complaints-based
+program, which resulted in the Department’s inability to address high-risk incidents of NHP advertising
+claims.
+Q15. What were the audit’s key findings related to advertising oversight of NHPs.
+• The Department’s monitoring of NHPs focused on reacting to complaints brought to its
+attention. When action was taken after an advertising problem was identified, Health Canada’s response
+was not always successful in resolving the problem.
+• The audit also found that the Department carried out limited monitoring of advertisements
+containing misleading information related to high risk claims such as cancer claims.
+Q16. What is Health Canada doing to address these gaps/challenges as identified in the audit report?
+• The Department has made a commitment in the MRAP to implement a risk-based approach for
+advertising oversight of authorized NHPs making unauthorized claims. In September 2021, Health
+Canada launched a risk-based approach for advertisingoversight, which supports the Department in
+focusing on high-risk advertising incidents that can potentially pose a significant risk to the health and
+safety of Canadians.
+• Building on successes of the work carried out to support proactive monitoring of advertising of
+health products making COVID-19 claims, the Department committed to implement a proactive
+monitoring approach to advertising of NHPs. In December 2021, the Department completed a 6-month
+pilot using an enhanced artificial intelligence tool, which proactively monitored the internet for NHPs
+making cancer claims. Through the results of thispilot the department will design a framework for an
+expanded risk-based proactive monitoring program.
+• We are also developing for implementation a stakeholder Outreach and Education Strategy for
+NHPs.
+Q17. What is the status of this commitment?
+• InSeptember 2021, Health Canada launched a risk-based approach for advertising oversight,
+which supports the department in focusing on high-risk advertising incidents that can potentially pose a
+significant risk to the health and safety of Canadians.
+• In July 2021, the Department launched a six-month pilot of online proactive monitoring of NHP
+advertising making cancer claims using the same tool applied for COVID-19 proactive advertising
+monitoring. The pilot came to an end on December 2, 2021.
+• The pilot program is currently undergoing an evaluation and the outcome will inform the
+expansion and implementation of proactive monitoring program for NHP advertising oversight.
+Q18. Canadians rely on Health Canada to ensure that the health products they consume are safe and
+effective. The 2021 CESD audit clearly indicates that your department has fallen short of that objective.
+What do you say to Canadians about the lack of proper oversight of natural health products, and the
+health risk this creates for them?
+• Health Canada always takes action when health risks are identified, to protect the health and
+safety of Canadians. The Department has already taken concrete steps to address the recommendations
+in the audit report and is on track to implement furthermeasures to enhance our current oversight.
+• The department identifies potential non-compliance through consumer or industry complaints,
+referrals of shipments at the border, international regulatory partners, or proactive compliance
+monitoring activitiessuch as market surveys.
+• When potential non-compliance is confirmed, Health Canada takes action taken based on the
+potential risk to health posed to the public. Actions can include directing companies to correct the
+issues, stop sales, recalls, public advisories, product seizures and issuing site and product licence
+suspensions.
+• In early 2021, Health Canada launched the NHP Good Manufacturing Practices (GMP) Pilot to
+proactively verify industry compliance with safety and quality requirements through inspections of
+licence holders across Canada.
+• The Department is on track to conduct stakeholder consultation in order to determine next
+steps with regards to a potential permanent inspection program.
+Q19. What kind of non-compliance exists at NHP facilities? How serious is it and what is Health Canada
+doing about it?
+• Issues found at NHP facilities varied in severity and have included:
+o Deficient quality assurance processes;
+o Insufficient information to determine a product’s expiry date;
+o Lack of product testing to demonstrate that it contains what the label says it does;
+o Inadequate or no system in place for handling complaints and/or returned goods;
+o Deteriorating premises or lack of property maintenance; or,
+o Sanitation issues that lead to productcontamination concerns.
+• Health Canada’s compliance and enforcement actions are proportional to the level of risk posed
+to the public. When possible, companies may be asked to voluntarily correct issues identified during the
+site visits before escalatingcompliance and enforcement actions are taken.
+• In serious cases, in order to mitigate risk, Health Canada has directed companies to stop selling
+products, requested recalls, seized products, issued public communications, and suspend or cancel
+product orsite licences.
+Q20. How do you address non-compliance? Especially cases of repetitive non-compliance?
+• Several compliance and enforcement options are available to correct non-compliance. These
+include:
+o Suspending or cancelling licences for sites orproducts;
+o Directing a stop sale of products;
+o Seizing products;
+o Requesting voluntary product recalls; and
+o Issuing public alerts and advisories on the Health Canada website.
+• Repetitive non-compliance is a factor considered when determining the appropriate compliance
+and enforcement response. Other factors include the risk to health, the company’s willingness to
+comply, compliance history, and any corrective and preventative actions already taken. In all cases,
+Health Canada has taken appropriate action to address the risk to human health and safety.
+Q21. Natural health products and over-the-counter (OTC) drugs are sold side-by-side on drug store
+shelves. To most people, they are indistinguishable. The maximum fine for an infraction is $5,000 for a
+NHP and $5 million for an OTC drug. Why such a large difference? Why are the penalties for violations of
+the NHP regulations so light?
+• When Vanessa's Law was adopted, the legislation imposed tough new penalties for unsafe
+drugs, including jail time andnew fines of up to $5 million, instead of $5,000.
+• The Department has indicated its intention to bring forward legislative amendments so that
+Vanessa's Law powers would apply to NHPs, including tougher fines and penalties that would serve as a
+more effective deterrent for non-compliance.
+Q22. How many NHP manufacturing facilities are inspected annually? How many of these are planned
+inspections versus inspections that respond to industry whistleblowers or informants?
+• Historically, the compliance andenforcement approach for NHPs has been largely reactive.
+Health Canada can be alerted to potential issues via number of different means, including industry or
+consumer complaints.
+• When issues are brought to Health Canada’s attention, compliance and enforcement actions can
+include such things as virtual or onsite visits. Between April 1, 2021–February 28, 2022, approximately
+750 cases were referred to Health Canada. 748 such files involving natural health products were
+opened, with varying issues including labelling errors, quality issues and advertising violations.
+• Health Canada began bolstering its proactive inspection activity in 2017-18 with a compliance
+monitoring project (CMP) that included on-site visits for a subset of NHP facilities to verifycompliance
+with select NHPR GMPs. This was followed by CMPs in 2017-18 and 2019-20, each of which included 23
+site visits.
+• In 2021-22, Health Canada launched an inspection pilot to conduct comprehensive inspections
+and verification of the compliance of the Natural Health Products Regulations of 36 site licence holders.
+• Health Canada is on track to conduct stakeholder consultation in order to determine next steps
+with regards to a potential permanent NHP GMP inspection program in 2023-24, which will increases
+NHP oversight and help protect the health and safety of Canadians.
+Q23. The audit identified the absence of a routine inspection program as an oversight gap. What steps
+has HC taken to address this absence? What future steps HC intends to take andwhen?
+• The audit recommended the development of proactive risk-based activities, including
+inspections, as part of a more robust post-market compliance and enforcement regime.
+• Following an internal evaluation of the Natural Health Products, publishedin 2016, Health
+Canada expanded proactive post-market activities, such as conducting on-site inspections. The
+department also initiated three compliance monitoring pilot projects (CMPs) for NHP GMP, in 2017-18,
+2018-19 and 2019-20, that featured on-site visits for a subset of NHP facilities, with the goal to verify
+compliance with selected NHPR GMPs.
+• In March 2021, the department introduced a pilot program to inspect 36 NHP facilities and to
+promote and verify complianceof the NHP industry in Canada.
+• Health Canada is on track to conduct stakeholder consultation in order to determine next steps
+with regards to a potential permanent NHP GMP inspection program in 2023-24, which will increases
+NHP oversight and help protect the health and safety of Canadians.
+Q24. Why does HC not conduct monitoring of all licensed products and manufacturers, given the
+potential risk that non-compliance poses to Canadians?
+• Health Canada has adopted a risk-based approach to monitoring licensed products. It allocates
+moreresources where the risk to the health and safety of Canadians is higher.
+• If pressed: Health Canada does not currently impose fees to NHPs and the sites that
+manufacture them, to offset the costs of the regulatory activities it carries out on these products and
+sites. These activities are funded solely by the department’s operating budget. Health Canada intends to
+introduce fees that would offset some of these costs. Introducing such fees would provide the means to
+scale-up post-market monitoring, compliance and enforcement activities where needed.
+Q25. What is the status of the commitments Health Canada made under the MRAP, related to
+compliance and enforcement, specifically:
+A. Launch an oversight pilot NHP GMP inspection program by March 2021.
+B. Assess the results of the pilot and identify options for a risk-based NHP inspection program,
+including full costing, by April 2022.
+C. Complete stakeholder consultations on a recommendation for a future risk-based NHP
+inspection program by August 2022.
+D. Determine next steps to implement an effective risk-based approach to monitoring compliance
+and inspections by April 2023.
+• A. Launch of oversight pilot inspection program: In March 2021, Health Canada launched the
+NHP GMP Pilot to promote and assess industry compliance with quality requirements through routine
+inspections of licence holders across Canada. [see Q13]
+• B. Assess the results of the pilot and identify options: The department expects to complete pilot
+inspections by end of March 2022, and a pilot report will be available in fall 2022. [see Q13]
+• C. Complete stakeholder consultations: NHP industry stakeholders have, and continue to be,
+engaged through activities such as multilateral meetings, compliance promotion webinars and surveys.
+Stakeholder input will help inform next steps for post-market inspection activities related to NHPs.
+Health Canada strives to increase oversight in order to reduce health and safety risks for Canadians
+while minimizing negative impacts on Industry.
+• D. Determinenext steps: Health Canada is on track to conduct stakeholder consultation in order
+to determine next steps with regards to a potential permanent NHP GMP inspection program in 2023-
+24, which will increases NHP oversight and help protect the health and safety of Canadians.
+Q26. Can you describe the key findings of the oversight pilot?
+• To date, Health Canada has identified a relatively high rate of non-compliance and a need for
+higher industry awareness of regulatory requirements.
+• The most common issuesobserved during inspections under the pilot include:
+o Inadequate or incomplete finished product specifications available for products;
+o The stability program was incomplete or inadequate or there was insufficient stability data to
+establish product shelf life;
+o The quality assurance person was not adequately trained or released finished product was not
+tested according to finished product specifications;
+o There was a failure to maintain master production documents at the importing site or evidence
+of incomplete records; and,
+o There were cases where written standard operating procedures were incomplete or did not
+reflect current practices.
+o In serious cases, in order to mitigate risk, Health Canada has directed companies to stop selling
+products, requested recalls, seized products, issued public communications, and suspend or cancel
+product or site licenses
+• If pressed: The department identified compliance issues during all 18 inspections of importers,
+including:
+o Eight cases where compliance issues were serious enough that companies were notified that
+Health Canada was considering suspending the site or product licences;
+o Four cases where Health Canada directed companies to stop the sale of products;
+o Two cases that led to ceasing of importation; and,
+o One case where unauthorized claims were made on a product label and company website
+(which were corrected by the company).
+• If pressed: Compliance issues were also identified at all 14 manufacturer inspections, including:
+o Two cases where compliance issues were serious enough that companies were notified that the
+department was considering suspending the site or product licences; and,
+o One case where the department directed a company to stop the sale of products.
+Q27. Why has the department notyet put in place stable funding for the inspection program to address
+the audit’s recommendations?
+• NHPs are currently the only line of health products in Canada for which all regulatory activities
+are funded solely by the department’s operating budget.Health Canada is taking steps introduce cost
+recovery fees that would help offset the costs of licensing products and the sites that manufacture
+them. Such fees would provide the means to scale-up post-market monitoring, compliance and
+enforcement activities.
+Q28. Does the department plan to consider some of the lessons learned during the COVID-19 pandemic
+to improve the oversight of NHPs?
+• Yes, during the COVID-19 pandemic, the department implemented strategies for completing
+inspections remotely.Remote inspections were also conducted successfully during the pilot, and the
+department is considering a hybrid combination of remote and on-site inspections.
+• In addition, the department is conducting an evaluation of the NHP GMP Pilot soliciting
+feedback on the following: Whether internal/external stakeholder communications about the pilot were
+adequate.
+o Findings from this evaluation will allow the department to identify future improvements to the
+oversight regime of NHPs.
+Q29. How will implementing fees on the Natural Health Products industry contribute to improve the
+compliance and enforcement mechanisms to ensure the safety of Canadian consumers?
+• The implementation of fees will allow Health Canada to offset the costs of licencing natural
+health products and the sites that manufacture them, and provide the means to also scale-up post-
+market monitoring, compliance and enforcement activities. This will allow the Department to
+strengthen and enhance its compliance and enforcement mechanisms, for example, with the
+implementation of a permanent inspection program that will monitor places where natural health
+products are manufactured, packaged and labelled to ensure they meet Good Manufacturing Practices
+(GMPs).
+• Revenues from natural health productfees will help Health Canada step up its compliance and
+enforcement activities to reduce illegal NHP activity domestically, including products promoted and sold
+online.
+• Health Canada is committed to strengthening the oversight of natural health productsthrough
+revenues from fees.
+Q30. How will Health Canada make sure that the new fees do not become a deterrent for Canadian
+innovation in the Natural Health Products industry?
+• As pointed out in the recommendations laid in the audit report, Health Canada needs to
+strengthen its oversight of the natural health products industry to ensure the safety of Canadian
+consumers, making sure that low quality or harmful products are not available on the market. This not
+only benefits the health and safety of consumers, but also protects the industry from bad actors that can
+damage consumer confidence in the natural health products market. Fees will also act as a deterrent to
+companies seeking to manufacture or import these products, who may lack the commitment to meet
+the standards to which these products are held.
+• Consumers and industry will both benefit from a safer market where consumers trust the
+products they purchase.
+Q31. If fees to regulate Natural Health Products are implemented, how is Health Canada going to
+minimize the impact to small businesses?
+• Health Canada has implemented small business mitigation measures in 2020 for the other
+health products subject to fees, assisting small business owners by providing discounted fees for
+regulatory activities. For example, fees for the review of pre-market submissions are reduced by 50%,
+and other fees are reduced by 25%. This confirms the federal government’s commitment to create a
+more accessible marketplace where small businesses can remain competitive while meeting their
+obligations. The options being explored by Health Canada to introducing fees for Natural Health
+Products include small business mitigation strategies.
+Q32. The Departmental response to the audit included an indication that it would be seeking Vanessa’s
+Law powers for natural health products, despite this not being a recommendation made through the
+audit. Why are these measures necessary? Are there gaps in Health Canada’s ability to take action when
+safety issues emerge?
+• Overall, theaudit confirmed that when an issue was brought to Health Canada’s attention,
+appropriate action was taken. However, the audit also noted that compliance could not always be
+achieved.
+• The audit also acknowledged that Health Canada does not have the authority to order a change
+to a label or force a mandatory recall of a natural health product for any reason, including when a
+product presents a serious or imminent risk of injury to health.
+• In three of the recommendations (2.47 2.51 and 2.), the audit urgedHealth Canada to take steps
+to strengthen the department’s ability to deter and address non-compliance. In its response, the
+department identified that it would seek to extend to natural health products the authorities already in
+place for other health products under Vanessa’s Law.
+• Extending these powers to apply to natural health products will improve Health Canada's ability
+to collect safety information about products once they are on the market, and take appropriate action
+when a serious risk to health is identified. This includes requiring label change/package modifications
+and, if needed, the recall of unsafe products. It is important to note that the Department’s intentions in
+this area precede the findings of this audit. In fact, as part of broaderconsultations of regulatory
+modernization, Health Canada has regularly indicated to stakeholders our intention to pursue this
+legislative amendment. The findings of the audit further reinforced the need for Health Canada to take
+action in this area.
+Q33. According to the timelines set by the Department in the MRAP, you should have already sought
+these authorities last fall and would be in the process of consulting stakeholders on the implementation
+of these measures. What is the status of Health
+Canada’s proposal to extend Vanessa’s Law authorities to apply to natural health products?
+• As stated in the audit, Health Canada committed to take steps to propose new tools to
+strengthen Health Canada’s ability to deter and address non-compliance which include moving forward
+with a proposal to extend the use of Vanessa’s Law powers to NHPs.
+• While our initial plan has been to bring this proposal forward last fall as part of a larger
+legislative package, this did not advance as planned. We are actively workingto pursue further
+opportunities to bring this proposal forward to Parliament for its consideration.
+• If pressed on logistics: At this time, the Department is consulting internally to triage a range of
+mechanisms available to federal institutions to bringforward legislative amendments of this nature,
+with a view identifying the mechanism that will support the timely and efficient adoption of this
+recommendation.
+Q34. Why did it take a global pandemic for the department to effectively monitor NHPs (e.g.,proactive
+monitoring)?
+• The department conducted proactive monitoring activities for NHPs well before the COVID-19
+pandemic, including three compliance monitoring pilot projects in 2017-18, 2018-19, and 2019-20 (this
+last project was completed in March2020).
+• The NHP GMP Pilot Inspection Program’s development and implementation was initiated in May
+2020, after assessment of the results of the previous compliance monitoring projects and preliminary
+results from the audit were available.
+Q35. With regards to COVID-19 advertising monitoring, what were the activities reviewed by the CESD
+audit during the months of April and May 2020?
+• The audit reviewed Health Canada’s proactive monitoring activities of online advertising of
+health products (including NHPs) during the months of April and May. Applying a manual approach to
+proactive monitoring of advertising, the Department reviewed health product advertising that were
+making unsubstantiated claims of the mitigation, prevention, treatment, diagnosis or cure of COVID-19.
+Q36. What were the audit findings related to this work carried out starting in April and May?
+• The audit found that the department increased its oversight of health product advertising and
+found many advertisements making COVID-19claims, on which the Department took action.
+Q37. What did the audit recommend?
+• The audit found that in spite of increasing its oversight of advertising through proactive
+monitoring, NHPs were still making unauthorized claims at the time of the audit,underscoring the need
+for the Department to implement a risk-based approach to advertising oversight.
+Q38. What other key information should be noted?
+• The online proactive monitoring during the months of April and May, was carried out manually.
+By July 2021, the department commenced applying an enhanced AI tool for proactive monitoring of
+advertisements making COVID-19 claim, leading to a significant increase in activity and non-compliance
+detected in comparison to April and May of the same year.
+Q39. What actions did Health Canada take to increase the supply of hand sanitizers in response to the
+COVID-19 pandemic?
+• At the onset of the COVID-19 pandemic, Health Canada introduced a number of interim policies
+and regulatory flexibilities to maximizethe supply of hand sanitizers and disinfectants for Canadians.
+These actions included, but were not limited to:
+o Accelerating timelines for authorizing hand sanitizers, as well as for issuing site licences for the
+manufacture or import of these products.For example, at the outset of the pandemic, expedited
+product licensing of 24 hours was put in place (compared to 60 days). The Department closely
+monitored the market and returned to standing timelines in July 2020 as supply of hand sanitizers
+stabilized.
+o Providing flexibilities to acceptable Good Manufacturing Practices–such as accepting those
+suitable for food production. This flexibility was lifted in July 2020 as the market continued to stabilize.
+o Approving the temporary use of certain authorizedsources technical grade ethanol in the
+production of hand sanitizers and disinfectants. We are discontinuing the interim measure as the supply
+of ethanol has stabilized and the demand for technical-grade ethanol has decreased, with the final
+deadline formanufacturers to stop using technical grade ethanol as of March 31, 2022.
+• Health Canada also brought together industry partners through the Hand Sanitizer
+Manufacturing Exchange to facilitate the supply of key ingredients and to maximize the domestic
+production of hand sanitizers and disinfectants, and companies who do not typically operate in health
+product manufacturing such as distilleries, breweries and refineries.
+Q40. What activities were reviewed during the audit and what were the key findings related to this
+work?
+• The audit examined Health Canada’s modified approach to licensing new products and sites for
+alcohol-based hand sanitizers in April and May 2020.
+• Health Canada’s priority was to address an urgent need in the market for products tohelp limit
+the spread of COVID-19,while ensuring consumer safety.
+• The audit found that Health Canada exercised due diligence in implementing a risk-based
+approach to speed up the licensing of these products, to help limit the spread of COVID-19.
+• There were no recommendations made by the auditors related to this work.
+Q41. How did Health Canada ensure the safety of hand sanitizers under these interim measures?
+• In implementing temporary measures to address hand sanitizer scarcity, the Department
+continued to review product applications prior to issuing licences to ensure they met the established
+requirements for this type of product.,
+• Health Canada closely monitored the market and took necessary compliance and enforcement
+action to address identified risks, such as requesting recalls and informing the public in a timely manner
+when potential risks were present.
+• For example, certain lots of hand sanitizers have been recalled because they did not meet
+Health Canada requirements and may pose health risks. These issues have been communicated to
+Canadians via our safety alerts on our website.
+THE COMMISSIONER OF THE ENVIRONMENT AND SUSTAINABLE DEVELOPMENT’S AUDIT OF THE
+NATURAL HEALTH PRODUCTS PROGRAM
+ISSUE
+• On April 22, 2021, the Commissioner ofthe Environment and Sustainable Development tabled
+an audit report of the Natural Health Products Program. Health Canada agrees with the findings and
+recommendations, and is committed to implementing measures to improve the oversight of natural
+health products and implement proactive risk-based compliance monitoring activities.
+KEY FACTS
+• Health Canada regulates natural health products sold in Canada to ensure they are safe and
+effective. Natural health products include products such as vitamins and minerals, herbal remedies,
+homeopathic products, traditional products (such as traditional Chinese medicines), and probiotics.
+Particularly relevant in the context of COVID-19, natural health products also include alcohol-based hand
+sanitizers.
+• The auditorsmade five recommendations, all of which the Department has accepted. The
+recommendations support the direction that the Department has been taking to improve the oversight
+of these products.
+KEY MESSAGES
+• Health Canada’s top priority is the health and safety of Canadians.
+• Health Canada recognizes the importance of ensuring that natural health products available for
+sale in Canada are safe and effective.
+• The audit focussed on natural health products available for sale in Canada to ensure that they
+aresafe, effective and accurately represented to consumers.
+• The audit found that Health Canada licensed natural health products appropriately, based on
+evidence of safety and efficacy prior to licensing. It also found that when an issue was brought to Health
+Canada’s attention, immediate action was taken.
+• It also concluded that Health Canada acted appropriately to increase the supply of alcohol-based
+hand sanitizers in response to the COVID-19 pandemic.
+• The audit also identified areas for improvement. Health Canada agrees with the
+recommendations from the Commissioner.
+• The Department is already working to address all of the recommendations and is taking steps to
+accelerate its efforts to strengthen the Natural Health Products Program. This includes increased
+oversight of quality, advertising and labelling, enhanced compliance and enforcement efforts, and
+ensuring that the department has the tools to protect the health and safety of Canadians when a serious
+health risk arises.
+IF PRESSED NATURAL HEALTHPRODUCTS ON THE MARKET
+• Canada has one of the best regulatory systems in the world for natural health products, with
+some of the most stringent requirements.
+• For many Canadians, natural health products are an important part of maintaining a healthy
+lifestyle.
+• While manufacturers are ultimately responsible for ensuring the safety of the natural health
+products they sell in Canada, Health Canada assesses the products for safety, efficacy and quality prior
+to issuing a license for sale in Canada.
+IFPRESSED AUDIT RECOMMENDATIONS AND THE DEPARTMENTAL RESPONSE
+• The audit recommendations include; increased oversight of the quality of natural health
+products, greater monitoring of labels and advertising, improved product labelling, developing a risk-
+based inspection program, and introducing proactive risk-based activities for compliance and
+enforcement.
+• Health Canada’s response focuses on strengthening the oversight of online advertising to ensure
+that Canadians have accurate and reliable information to inform their choices, launching an inspection
+pilot program intended to inform the development of a permanent inspection program, and bringing
+forward a regulatory proposal to improve labelling so product labels are clear, consistent and legible for
+consumers.
+• The Department will work to ensure it has the tools to protect the health and safety of
+Canadians when a serious health risk arises by considering the expansion of Vanessa’s law authorities to
+natural health products.
+• Health Canada is also working on stabilizing funding by developing a proposal to implement cost
+recovery for key regulatory activities related to natural health products in order to sustain increased
+oversight of these products, including through inspections of the facilities that make or import them.
+IF PRESSED….HOW LONG WILL IT TAKE HEALTH CANADA TO IMPLEMENT THE RECOMMENDED
+CHANGES?
+• In many of the areas of recommendation, work to address gaps has already begun. For example:
+o An inspection pilot program was launched in spring2021 to promote and verify compliance of
+site license holders across Canada.
+The Department is also expanding its oversight of online advertising of natural health products through
+a pilot program to ensure advertisements are providing Canadians with accurate and reliable
+information to inform their choices.
+o In June 2021, the Department published a regulatory proposal to improve the labelling of
+natural health products for consultation, and is currently considering changes to its proposal based on
+the feedback received.
+• Other elements of the Department’s response will take more time to implement, such as the
+Department’s plans to take steps to propose fees for natural health products and expanding Vanessa’s
+Law to natural health products. To implement this, the Department will develop a proposal which will be
+subject to stakeholder consultation prior to implementation.
+BACKGROUND
+In 2019, the Commissioner of the Environment and Sustainable Development (CESD) began an audit of
+Health Canada’s Natural Health Products Program. The period covered by the audit is from January 2017
+to May 2020. The purpose of the audit was to determine whether Health Canada ensured that natural
+health products available for sale in Canada are safe and accurately represented toconsumers. In June
+2020, the audit scope was expanded to include Health Canada’s response to the COVID-19 pandemic
+specific to the Natural Health Products Program.
+Health Canada regulates natural health products sold in Canada to ensure they are safe andeffective.
+Natural health products include products such as vitamins and minerals, herbal remedies, homeopathic
+products, traditional products (such as traditional Chinese medicines), and probiotics. Particularly
+relevant in the context of COVID-19, natural health products also include alcohol-based hand sanitizers.
+The auditors made five recommendations, all of which the Department has accepted. The
+recommendations support the direction that the Department has been taking to improve the oversight
+of these products. Work to address many of these areas had already begun. The Department has
+developed a detailed action plan in response to the audit, which is expected to be implemented over the
+next three years.
+The Department is committed to addressing the audit findings by implementing measures to improve
+the oversight of natural health products, including enhanced enforcement tools and more proactive risk-
+based monitoring activities.
+Report 2
+Reports of the Commissioner of theEnvironment and Sustainable Development to the Parliament of
+Canada
+Natural Health Products–Health Canada
+Independent Auditor’s Report: 2021
+2021
+Reports of the Commissioner of the Environment and Sustainable
+Development to the Parliament of Canada
+Independent Auditor’s Report
+REPORT 2
+Natural Health Products—Health Canada
+Performance audit reports
+This report presents the results of a performance audit conducted by the Office of the Auditor
+General of Canada (OAG) under the authority of the Auditor General Act.
+A performance audit is an independent, objective, and systematic assessment of how well government
+is managing its activities, responsibilities, and resources. Audit topics are selected on the basis of their
+significance. While the OAG may comment on policy implementation in a performance audit, it does not
+comment on the merits of a policy.
+Performance audits are planned, performed, and reported in accordance with professional auditing
+standards and OAG policies. They are conducted by qualified auditors who
+• establish audit objectives and criteria for the assessment of performance
+• gather the evidence necessary to assess performance against the criteria
+• report both positive and negative findings
+• conclude against the established audit objectives
+• make recommendations for improvement when there are significant differences
+between criteria and assessed performance
+Performance audits contribute to a public service that is ethical and effective and a government that is
+accountable to Parliament and Canadians.
+This publication is available on our website at www.oag-bvg.gc.ca.
+Cette publication est également offerte en français.
+© Her Majesty the Queen in Right of Canada, as represented by the Auditor General of Canada, 2021.
+Cat. No. FA1-26/2021-1-2E-PDF ISBN 978-0-660-38238-8
+ISSN 2561-1801
+Cover and title page photos: Life andTimes/Shutterstock.com
+Table of Contents
+Introduction
+Background
+Focus of the audit
+Findings, Recommendations, and Responses
+Safety and efficacy of naturalhealth products
+Health Canada did not verify that facilities followed good manufacturing practices
+before products arrived on the market
+Reliance on manufacturers’ attestations
+Health Canada left natural health products unchecked after they entered themarket and was
+not always successful in responding to serious problems
+Poor information for consumers on licensed products
+Limited monitoring of licensed products and manufacturers
+Limited monitoring of unlicensed products and unauthorized activities
+Partial success in resolving serious problems with products
+Health Canada responded effectively to natural health products related to COVID-19
+Successful approach for licensing hand sanitizers
+Proactive monitoring of COVID-19 product advertising
+Conclusion
+About the Audit
+List of Recommendations
+Introduction
+Background
+Natural health products
+2.1 Natural health products are a type of self-care product made from naturally occurring
+ingredients and used for general healthmaintenance. Such products include
+• vitamins, minerals, and probiotics
+• homeopathic medicines
+• traditional medicines like Chinese and Ayurvedic (East Indian) medicines that are based on the
+theories, beliefs, and experiences of different cultures and used in the ancient practice of medicine for
+the maintenance of health
+• non-traditional products making health claims, such as claims about managing weight or aiding
+sleep
+• alcohol-based hand sanitizers
+• certain sunscreens, toothpastes, and shampoos withhealth claims
+2.2 According to a 2010 public opinion poll on natural health products, about 70% of Canadians
+regularly used such products to maintain
+their health and prevent minor health problems. In a 2016 survey, more than half of the Canadian
+participants said they used vitamins and minerals weekly.
+2.3 There is a perception that because natural health products are made from ingredients found in
+nature, they are safe. However,
+some products can cause negative effects when combined with other medicationsor when not used as
+directed. There have been cases
+of people experiencing serious and unexpected adverse reactions to authorized and unauthorized
+natural health products. Such reactions have included septic shock, jaundice, and disruption of liver
+function; some adverse reactions required hospitalization.
+2.4 The regulation of natural health products in Canada began in 2004. The federal government
+wanted to balance consumer safety with consumers’ freedom of choice and access to traditional
+medicines. To be sold in Canada, natural health products must be licensed by Health Canada to ensure
+that they are safe and effective. The department considers a natural health product to be safe if its
+benefit outweighs
+the risk when the product is used as intended andaccording to directions. The department considers a
+natural health product to be effective if evidence supports that the product will provide the benefits
+described in the claims. Since 2004, Health Canada has issued more than 91,000 licences for natural
+health products.
+2.5 Natural health products are regulated differently from over-the-counter drugs (manufactured
+drugs that can be sold without a prescription) and cosmetics (Exhibit 2.1). They sit side by side in
+pharmacies where Canadians most often buythem.
+Exhibit 2.1 How natural health products are regulated compared with over-the-counter drugs and
+cosmetics
+Natural health products
+- Accepted ingredients
+o Naturally occurring ingredients, their extracts, and synthetic duplicates
+- Health claims permitted by Health Canada
+o Pain and symptom relief, treatment of certain diseases
+- Evidence required to show safety and efficacy
+o Scientific evidence from traditional use orhomeopathic prqactices
+- Health Canada is notified when a product enters the market
+o No
+- Health Canada can force a recall
+o No
+- Health Canada charges product application fees
+o No
+- Fine issued for violation of the law
+o Maximum $5,000
+Over-the counter drugs
+- Accepted ingredients
+o Synthetic ingredients only
+- Health claims permitted by Health Canada
+o Pain and symptom relief, treatment of certain diseases
+- Evidence required to show safety and efficacy
+o Scientific evidence
+- Health Canada is notified when a product enters the market
+o Yes
+- Health Canada can force a recall
+o Yes
+- Health Canada charges product application fees
+o Yes: between $1,616 and $400,288
+- Fine issued for violation of the law
+o Maximum $5,000,000
+Cosmetics
+- Accepted ingredients
+o Natural or synthetic ingredients
+- Health claims permitted by Health Canada
+o None
+- Evidence required to show safety andefficacy
+o Evidence may be requested
+- Health Canada is notified when a product enters the market
+o Yes
+- Health Canada can force a recall
+o No
+- Health Canada charges product application fees
+o No
+- Fine issued for violation of the law
+o Maximum $5,000
+Roles and responsibilities
+2.6 Health Canada is responsible for administering the Natural Health Products Regulations, which
+govern the safety and efficacy of natural health products. Before products go on the market, the
+department licenses products and the sites that manufacture them. The department is responsible for
+overseeing products and sites after the products appear on the market. However, the primary
+responsibility for the safety and efficacy of products and manufacturing sites rests with the industry.
+2.7 HealthCanada can enforce product and site-licence conditions for natural health products by,
+for example,
+• suspending or cancelling licences
+• directing a stop sale of products
+• seizing products
+• requesting voluntary product recalls
+• issuing public alertsand advisories on the Health Canada website
+2.8 Health Canada does not have the authority to order a change to a label or force a mandatory
+recall of a natural health product for any
+reason, including when a product presents a serious or imminent risk of injury to health.
+Focus of the audit
+2.9 This audit focused on whether Health Canada ensured that natural health products available for
+sale in Canada are safe and accurately represented to consumers.
+2.10 This audit is important because many Canadians use natural health products. They expect these
+products to be safe and effective, and they expect to be properly informed about them.
+2.11 More details about the audit objective, scope, approach, and criteria are in About the Audit at
+the end of this report(see pages 20–23).
+Findings, Recommendations, and Responses
+Overall message
+2.12 Overall, Health Canada’s oversight of natural health products available for sale in Canada fell
+short of ensuring that products were safe and effective. The department didapprove products on the
+basis of evidence that they were safe and effective. However, gaps in the oversight of manufacturing
+sites and in the monitoring of products once on the market left consumers exposed to potential health
+and safety risks because products were not always manufactured or marketed according to licence
+conditions.
+2.13 The absence of routine inspections did not allow Health Canada to ensure that manufacturing
+sites were following good manufacturing
+practices. The department also did not monitor product label information to ensure that products were
+as described on the label or licensed for sale. When licence conditions are not followed, products may
+not deliver the promised health benefits or may cause adverse reactions ranging from mild to severe.
+Though Health Canada investigated products suspected of causing serious health risks, such as adverse
+reactions, and took immediate action to address such risks, the department’s approach was reactive and
+not always successful in having all products pulled from the shelves.
+2.14 During the coronavirus disease (COVID-19) pandemic, the department successfully modified its
+approach to licensing hand sanitizers. This helped to address market shortages of sanitizing products
+that curb the spread of thecoronavirus. Health Canada also proactively monitored the advertising of
+natural health products making health claims related to COVID-19. It took action when it identified false
+claims, though we found that many licensed and unlicensed natural health products were still making
+unauthorized claims at the time of the audit.
+Safety and efficacy of natural health products
+Context
+2.15 Natural health products are a subset of drugs under the Food and Drugs Act. They are regulated
+by the Natural Health Products Regulations, which govern their manufacturing, packaging, labelling,
+importation, distribution, storage, and sale. Every natural health product sold in or imported to Canada
+must have a product licence from Health Canada and be manufactured in a facility with a site licence
+from
+the department.
+2.16 Exhibit 2.2 summarizes how Health Canada’s system is designed to issue a natural health
+product licence and a site licence for manufacturing natural health products.
+Product licensing
+- 1. Company has an ideafor a specific natural health product
+- 2. Company applies for a product licence
+- 3. Company provides evidence to demonstrate that the product contains accepted substances
+and to show its safety and efficacy
+- 4. Health Canada reviews the application to verifythe product’s safety and efficacy and
+determine whether the benefits outweigh the risks
+o 5.a Health Canada refuses a product licence
+o 5.b Health Canada grants a product licence and issues a natural product number
+ 6.b The product licence holder must find a site-licence holder to make the
+product
+ 7.b The product in now eligible to be sold in Canada
+o 5.c Health Canada requires more information
+ 6.b Return to step 3: company provides evidence to demonstrate that the
+product contains accepted substances and to showits safety and efficacy
+- Health Canada monitors the product-licence requirements
+Site licensing
+- 1. Company wants to legally produce a natural health product for sale in Canada
+- 2. Company applies for a site licence
+- 3. Company provides information desmonstratig that the facility will meet good manufacturing
+practices, such as product testing, and the it can comply with requirements
+- 4. Health Canada reviews the company’s application and attestation
+o 5.a Health Canada refuses a site licence
+o 5.b Health Canada issues a site licence to the manufacturer
+ 6.b Site-licence holder is now eligible to manufacture the licensed natural health
+product
+ 7.b Manufacturer periodically reapplies to renew the site licence
+ 8.b Return to stem 3: Company provides informationdemonstrating that the
+facility will meet good manufacturing practices, such as product testing, and
+that it can comply with requirements
+o 5.c Health Canada requires more information
+ 6.c return to step 3: company provides information demonstrating that the
+facility will meet good manufacturing practices, such as product testing, and
+that it can comply with requirements
+- Health Canada monitors the site-licence requirements
+Health Canada did not verify that facilities followed good manufacturing practices before products
+arrived on the market
+What we found
+2.17 We found that Health Canada did not always verify that manufacturing facilities followed good
+manufacturing practices before natural health products were marketed for sale in Canada. The
+department relied on manufacturers’ attestations that their facilities followed good manufacturing
+practices.
+2.18 The analysis supporting this finding discusses the following topic:
+• Reliance on manufacturers’ attestations
+Why this finding matters
+2.19 This finding matters because Health Canada is responsible for verifying that natural health
+products are made in facilities that follow good manufacturing practices. These practices help ensure
+that products are safe and effective as described.
+Recommendation
+2.20 Ourrecommendation in this area of examination appears at paragraph 2.26.
+Analysis to support this finding
+Reliance on manufacturers’ attestations
+2.21 Health Canada requests that site-licence applicants attest, by means of written declaration, that
+they follow good manufacturing practices. We found that the department relied on natural health
+product manufacturers’ attestations that their facilities followed these practices and had not conducted
+an inspection before the products went on the market. We notedthat the department takes a different
+approach with drug manufacturers—that is, it does an initial inspection before those products arrive on
+the market. Good manufacturing practices are key controls to ensure that natural health products
+• include theright medicinal ingredients at the right dosage
+• are free from microbial and chemical contamination
+• remain active and stable until their expiry date
+• are processed by qualified personnel, using equipment in facilities that follow good sanitation
+practices
+2.22 We reviewed a sample of 25 (out of 250) active site licences for Canadian manufacturing sites
+and foreign sites of Canadian importers that Health Canada approved between 2017 and 2019, along
+with their first licence renewal. We examined whether, before products went on the market, Health
+Canada had verified that these sites followed good manufacturing practices.
+2.23 In 13 of the 25 sites in our sample, Health Canada relied on inspections, such as drug
+inspections, performed by domestic and regulatory authorities from other countries when licensing
+these sites. However, we found that the department did not have assurance that 10 of these 13 sites
+followed good manufacturing practices because the department did not have evidence that these
+inspections included the natural health product lines.
+2.24 For the remaining 12 sites in our sample, Health Canada obtained some site information before
+issuing a licence. However, it did not verify one or more of the following key types of evidence
+demonstrating that the sites followed good manufacturing practices:
+• evidence that the facility’s quality assurance official had the necessary qualifications
+• adequate standard operating procedures for product testing, sanitation, quality assurance,
+premises, and equipment
+• product testing results showing that the product specifications were met
+2.25 Health Canada cannot verify certain good manufacturing practices, such as product testing, until
+after production has started. In addition, the department is not told whennatural health products will
+be released on the market, unlike for drugs, which the department is notified about when products are
+sold. Therefore, Health Canada could not verify that natural health products sold to Canadian consumers
+were manufactured insites that complied with good manufacturing practices before they went on the
+market.
+2.26 Recommendation. Health Canada should obtain
+• sufficient evidence to verify that licensed sites follow good manufacturing practices before
+products are released onthe market
+• information about which natural health products are available on the market
+The department’s response. Agreed. Health Canada notes its limited regulatory authorities to compel
+companies to provide information on quality as part of the product-licence submission process.
+Applicants are required to provide only an attestation that their product will meet the prescribed quality
+requirements. To improve its pre-market quality oversight of natural health products, the department
+has been using information gathered through 2 compliance monitoring projects and a paper-based audit
+of good manufacturing practices at a number of manufacturing sites. The department also
+acknowledges that natural health products are the only line of health products for which all regulatory
+activities are funded by the public. The absence of a stable funding framework combined with the
+limited regulatory authorities for quality has placed significant pressure on the department to perform
+its regulatory activities and efficiently respond to the increasingly high number and scientific complexity
+of product submissions. In response to this recommendation, the department will
+• establish fully costed options for a risk-based approach to quality oversight prior to the issuance
+or renewal of licences and determine the full regulatory and operational implications of these options
+• explore mechanisms to obtain information about which products are available on the market
+• take steps to propose user fees to natural health products to offset the costs of licensing and
+post-market activities
+Health Canada left natural health products unchecked after they entered the market and was not always
+successful in responding to serious problems
+What we found
+2.27 We found that Health Canada didlittle to prevent poor information from being given to
+consumers about licensed natural health products.
+It did limited monitoring of licensed products and manufacturers and of unlicensed products, such as
+checking whether product labels and advertising contained misleading information. The department’s
+monitoring of products focused on reacting to complaints brought toits attention. When it did take
+action after finding problems with natural health products, Health Canada’s response was not always
+successful in resolving the problems.
+2.28 The analysis supporting this finding discusses the following topics:
+• Poor information for consumers on licensed products
+• Limited monitoring of licensed products and manufacturers
+• Limited monitoring of unlicensedproducts and unauthorized activities
+• Partial success in resolving serious problems with products
+Why this finding matters
+2.29 This finding matters because products should not be on the market unless they are safe and the
+information provided to consumers is accurate and complete.
+Recommendations
+2.30 Our recommendations in this area of examination appear at paragraphs 2.35, 2.47, 2.51, and
+2.56.
+Analysisto supportthis finding
+Poor information forconsumers on licensed products
+2.31 We examined whether, before approving natural health products, Health Canada ensured that
+there was appropriate evidence to demonstrate the products’ safety and efficacy. We found that the
+department did approve natural health products according to appropriate safety evidence. The Natural
+Health Products Regulations require that this product safety and efficacy information be disclosed on
+the product label to help consumers make informed choices. The specific product safety and efficacy
+information that must be disclosedto consumers is part of the product’s licence conditions.
+2.32 We found that Health Canada did not sufficiently monitor whether product label information
+and advertisements met the product-licence conditions. We found that the department monitored
+productlabels and advertisements in response to complaints instead of monitoring the market using a
+risk-based approach. To gain an understanding
+of the market, we examined a sample of 75 licensed products for sale on Canadian websites. We found
+that 88% of theseproducts were advertised with misleading product information. Also, 56% of the
+products we examined were marketed with misleading label
+information—label information that included one or more of the following problems:
+• health claims not authorized by Health Canada because they might not have been proven, such
+as claims to relieve fatigue, enhance endurance, or burn fat
+• an erroneous statement that the product was recommended for children of ages 3 and older
+when it was authorized only for adolescents and adults
+• an incomplete list of risks and authorized ingredients
+• the wrong dosage of medicinal ingredients
+• product label information, such as safety warnings, printed very small (that is, in a 4-point font);
+on paper, font sizes under 8 points are difficult to read without magnification; according to Health
+Canada, poor readability of the printed label information contributes to incorrect product use
+In response to our findings, during our audit, Health Canada initiated follow-up on some of the
+advertisements and product labels that contained misleading information.
+2.33 We also found that more than one quarter of the 75 licensed products that we examined did not
+show if they had a natural product number issued by Health Canada. This finding is important because
+the department recommends that consumers buy only products
+with this number on the label, because it means that the department has assessed these products for
+safety and efficacy. Although the regulations require that the natural product number appear on
+product labels or packaging, there is no such requirement for the number to appear in online
+information.
+2.34 Consumers can get information on natural health products from Health Canada’s online
+Licensed Natural Health Products Database. We found that the database included all safety information
+from the product licences we examined, except for the source of medicinal ingredients and the
+recommended duration of use. This safety information is important for consumers to make sure that
+they use the products as recommended.
+2.35 Recommendation. Health Canada should, for licensed natural health products on the market,
+including on the Internet, take a risk-based approach to
+• ensure that product labels are readable
+• monitor product label andadvertisement information to ensure that they contain accurate and
+complete product information, consistent with their licence conditions
+The department’s response. Agreed. Health Canada has started to take steps through extensive
+stakeholder engagement and the development of a regulatory proposal to improve the labelling of
+natural health products, to make them easier to read, understand, and compare with other similar
+products. The department will
+• continue to pursue regulatory and policy changes to improve labelling of natural health products
+• explore options to require licence holders to display a Canadian label, including a natural
+product number, in advertisements targeted to Canadians
+• take steps to implement a comprehensive proactive monitoring strategy to ensure that
+advertising of natural health products is consistent with the product licence
+Limited monitoring of licensed products and manufacturers
+2.36 We found that Health Canada did not have a program to conduct routine on-site inspections of
+manufacturing sites fornatural health products on an established cycle. We noted that health regulatory
+agencies in Australia and Europe, for example, have a cycle for conducting routine inspections of
+manufacturing sites over a 4-year period.
+2.37 We found that Health Canada did identify sites it considered high risk, but it identified only
+those that manufactured sterile products, such as eye care products. It did not identify which licensed
+sites were making other types of high-risk natural health products, such as:
+• products for vulnerable populations, such as children and pregnant or breastfeeding women
+• products making claims for specific health conditions, such as diabetes
+• products with a compliance history of having substituted ingredients, such as those targeting
+weight loss and sexual enhancement
+2.38 We found that Health Canada faced challenges in monitoring licensed products in part because
+of the large number of licensed products. Since 2004, the department has licensed 91,000 natural health
+products, yet by its own estimates, only half of them went to the Canadian market. In addition, the
+number of applications for natural health products was 10 times higher than the number for over-the-
+counter drugs, and many applications were redundant.Factors that contributed to the large number of
+natural health product-licence applications included the following:
+• Companies have been able to submit multiple applications for hypothetical products that have
+not been developed.
+• Applicants have not been required to pay a fee to apply for a product licence or a site licence,
+unlike for all other health products regulated by Health Canada.
+2.39 We found that Health Canada did not know where all licensed products were manufactured.
+Natural health product-licence holders are required to tell the department which licensed facilities
+manufactured their products before selling them. However, fewer than 5% of all active product-licence
+holders did so. The department did not enforce that requirement or contact product-licence holders to
+get the information. In addition, the department was not required to be notified when licensed products
+entered and exited the Canadian market. This made it challenging to identify high-risk manufacturing
+sites in order to focus its monitoring resources.
+2.40 We found that Health Canada did limited monitoring of licensed manufacturers. In 2016, the
+department piloted on-site inspections to determine whether the sites followed good manufacturing
+practices. Between 2017 and 2019, it inspected around 6% of the 766 activelicensed companies. The
+department chose domestic sites either randomly or because they had poor compliance history. It also
+chose all sites that manufactured sterile products because they were considered the highest-risk
+products. Although Health Canada had information about the type of manufacturing processes at the
+sites, it did not have information about the products made at all sites. Therefore, it could not identify
+and inspect all high-risk sites.
+2.41 When HealthCanada did inspections, there was a high level of industry non-compliance with
+product manufacturing and product quality. On-site inspections found product quality problems at all
+sites.
+In nearly half of the 46 sites it inspected between 2017 and 2019, the department took regulatory action
+because it identified significant health risks. Such regulatory actions included cancelling 7 site licences
+and suspending or cancelling 5 product licences.
+2.42 We examined the files for 7 of the 46 site inspections todetermine whether Health Canada
+verified that the companies had corrected the problems it identified before renewing their site licences.
+For 2 of the sites, the department determined that the companies did not have an acceptable action
+plan and refused to renew their licences. However,
+we found that 1 of these companies was still selling its products online without a licence in October
+2020.
+2.43 In the 5 other site-inspection files, we found that Health Canada verified information supporting
+the productexpiry date and certain product testing results. However, we found that it renewed these 5
+site licences without verifying that the companies met other important good manufacturing practices,
+such as confirming the absence of chemical contaminants.
+2.44 Wealso examined a sample of 25 initial site-licence renewals approved by Health Canada after
+products were on the market. We found that in 22 of the 25 samples, the department did not verify that
+all sites followed good manufacturing practices. Without always verifying that product testing results
+meet specifications or that key documented procedures comply with good manufacturing practices, the
+department cannot be sure that products were safe and effective. We found that even after their first
+site-licencerenewal, most companies still had not demonstrated full compliance with good
+manufacturing practices. For example, we found the following:
+• Nine companies had one or more incomplete standard operating procedures for product
+testing, sanitation, quality assurance, premises, or equipment.
+• Seventeen companies did not provide product testing results that confirmed the identity and
+quantity of medicinal ingredients, the product expiry date, and the absence of chemicals and microbial
+contaminants.
+• Seven companies did not provide evidence that their quality assurance official had the necessary
+qualifications.
+2.45 Health Canada conducted other activities to gather compliance information, which also exposed
+quality problems with certain manufacturers. For example, in 2019, the department reviewed 35
+companies’ testing results for 2 products that each
+company had recently released for sale. The department found problems at all sites, including the use of
+expired raw materials, unacceptable amounts of contaminants, and product tests that did not confirm
+the product expiry date. For half of the 35 companies, Health Canada took regulatory action, such as
+issuing a notice of intent to suspend the site licence, because the problems were serious.
+2.46 In our opinion,Health Canada’s findings illustrate the risks of the department relying on
+manufacturers to attest that their sites follow good manufacturing practices when it approves site
+licences. Some of the department’s findings could have been avoided if the department had performed
+more verification of good manufacturing practices when it issued and renewed site licences.
+2.47 Recommendation. Health Canada should develop a risk-based monitoring and inspection
+program that establishes the scope and frequency of inspections and that considers risks related to
+products, sites, and problems raised from its follow-up activities.
+The department’s response. Agreed. Health Canada recognizes that natural health products are the only
+line of health products for which there isno ability to mandate a recall or to impose terms and
+conditions to mitigate safety risks associated with these products. The department has completed a
+number of compliance monitoring projects to gather
+information on quality oversight of natural health products and recognizes the need to expand its
+activities into a more robust inspection program.
+The department will
+• implement a pilot program for inspecting the good manufacturing practices of natural health
+products to promote and verify compliance of the natural health product industry through inspections
+of licence holders across Canada and take further actions on the basis of the outcome of this pilot
+• take steps to propose new tools to strengthen the department’s ability to deter and address
+non-compliance, which include moving forward with a proposal to extend to natural health products the
+use of powers under the Protecting Canadians from Unsafe Drugs Act (Vanessa’s Law)
+• establish fully costed options for a risk-based approach
+to inspections
+• take steps to propose the expansion of user fees to natural health products to offset the costs of
+post-market activities
+Limited monitoring of unlicensed products and unauthorized activities
+2.48 We found that Health Canada monitored alerts from other international regulators and opened
+cases when it became aware of serious issues with a non-compliant product. A non-compliant
+product is either an unlicensed product or a licensed product involved in an unauthorized activity. We
+found that Health Canada did not
+have a program to actively monitor high-risk unlicensed products on the market. Despite a growing
+number of such products for sale in Canada, particularly online, the department did little monitoring of
+non-compliant products.
+2.49 We examined whether Health Canada monitored high-risk products identified by organizations
+in Canada and other countries that specialize in testing and label reviews of natural health products.
+These products were suspected of containing substituted ingredients or substances such as stimulants
+and other toxic substances that could pose serious health risks. We found that Health Canada did not
+follow up to determine if any such products were available for sale in Canada with the same substances.
+In our review of 61 suspected high-risk products, we found that 38 of them were sold online in Canada
+without a product licence.
+2.50 Claims to cure and treat cancer are forbidden under the Food and Drugs Act. Some claims of a
+product preventing cancer are allowed under the Natural HealthProducts Regulations, subject to a
+product’s licence conditions. We reviewed advertisements for 48 products
+online that made cancer claims. We found that none of these claims were authorized by Health Canada
+and that 4 of these products were not licensed.
+2.51 Recommendation. Health Canada should develop a risk-based monitoring program to
+• identify unlicensed products and take appropriate action so that they are not available for sale
+to consumers in Canada
+• identify unauthorized activities and take appropriate action so that labelling and advertisements
+meet product-licence conditions
+The department’s response. Agreed. Health Canada does maintain a complaint-based program for
+regulatory advertising compliance oversight but recognizes that an additional risk-based approach is
+required to ensure unauthorized activities are prevented or stopped. The
+department will
+• implement a risk-based approach to monitoring advertising
+Unlicensed product—A natural health product that is available for sale but does nothave a product
+licence from Health Canada.
+Unauthorized activity—A labelling or advertising activity for a licensed natural health product from
+Health Canada that does not meet regulatory requirements.
+• take steps to propose new tools to strengthen itsability to deter and address non-compliance,
+which include moving forward with a
+proposal to extend to natural health products the use of powers under the Protecting Canadians from
+Unsafe Drugs Act (Vanessa’s Law)
+Partial success in resolving serious problems with products
+2.52 Natural health product-licence holders are required to report serious adverse reactions to
+Health Canada under the Natural Health Products Regulations. Other groups—such as hospitals and the
+public—can file a complaint when a licensed or unlicensed product is suspected of causing an adverse
+reaction, such as a serious health effect or disability. In response to these reports, the department will
+open a
+case to investigate products suspected of posing a serious health risk. Between2017 and 2019, the
+department opened a total of 40 cases—each case involved one or more products.
+2.53 In most of the cases that we reviewed, when Health Canada found serious problems, such as
+product-or site-quality issues or adverse reactions involvinghospitalization, we found that it initiated
+immediate action to address serious health risks. The department responded by communicating with
+the public, for example, and where necessary,
+by taking enforcement actions. These enforcement actions included directing a stop sale of products
+and requesting a voluntary product recall. Health Canada’s actions successfully got the products off the
+market in 36 of the 40 total cases of serious health risks. However, on average, it took close to 3 months
+for the department to verify that these products were no longer marketed for sale. For voluntary recalls,
+it took around 6 months to verify that product recalls were completed.
+2.54 For the other 4 cases of products with serious health risks, the department’s actionswere not
+successful in getting them off the market for one of the following reasons:
+• The company did not comply with the department’s notice of seizure. (Exhibit 2.3 details the
+department’s actions in this case.)
+• The department did not receive sufficient information to demonstrate that the recalled
+products had been recovered, destroyed, or removed from the market.
+• The department did not receive sufficient information to demonstrate that the company had
+stopped the sale and import of the products andhad disposed of all products from its inventory.
+• The Internet domain hosting the advertising did not comply with the department’s request to
+remove the advertising for the unlicensed product.
+Exhibit 2.3 Health Canada was not able to have a natural health product containing pharmaceutical
+ingredients removed from the market
+The following is the timeline of Health Canada’s response to a reported health problem in 1 case
+involving 3 related products that were sold by 1 importer.
+Action taken by Health Canada or by the importer
+- April 2017:Adverse reaction report—Health Canada received an adverse reaction report
+involving hospitalization of a person who took 1 or more of these 3 products. The report
+included testing results from a poison centre that foundthat the products contained
+pharmaceutical ingredients that could cause miscarriages.
+- May 2017:Product seizure—The department placed the 3 products under seizure from the
+Canadian facility where they were stored.
+- August 2017:Product testing—Afterin-depth product testing, the department found that 1 of
+the 3 products (“product A”) contained pharmaceutical ingredients that could cause
+miscarriages and birth defects.
+- October 2017:Voluntary recall request—The department requested that the importer recall
+product A.
+- November 2017:Border alert and public advisory—The department issued a border alert to
+prevent the importation of product A. It also issued a public advisory.
+- December 2017:Unannounced on-site visit—The department did an unannounced visitto the
+facility. It found that some quantities of the products under seizure had been removed from the
+facility. The department immediately suspended the 3 product licences.
+- January 2018:Importer’s acknowledgement of possible product contamination—The importer
+acknowledged the possibility that these products had been contaminated with pharmaceutical
+ingredients that could cause miscarriages and birth defects.
+- June 2018:Cancellation and lifting of suspension of licences—Health Canada cancelled the
+productlicence for product A and lifted the suspension of the other 2 product licences.
+- October 2018:Continued marketing of product online—Product A was still marketed for sale on
+the company’s Canadian website despite the product being unlicensed.
+2.55 As ofOctober 2020, we found that products in 2 of these 4 cases involving serious health risks
+were still marketed for sale online by the same retailer. In addition, of the products in the 36 cases that
+Health Canada successfully got off the market between 2017 and 2019, the products in 7 of these cases
+had re-entered the market.
+2.56 Recommendation. Health Canada should, in cases of products suspected of causing serious
+health risk, obtain the information it needs to verify and ensure that these products are not available for
+sale to consumers in Canada.
+The department’s response. Agreed. In addition to the immediate steps Health Canada already takes to
+protect the health and safety of Canadians when a serious risk to health is identified, the department
+will
+• take steps to propose new tools to strengthen its ability to deter and address non-compliance,
+which include moving forward with a proposal to extend to natural health products the use of powers
+under the Protecting Canadians from Unsafe Drugs Act (Vanessa’s Law)
+• take steps to propose the expansion of user fees to natural health products to offset the costs of
+licensing and post-market activities
+Health Canada responded effectively to natural health products related to COVID-19
+What we found
+2.57 We found that Health Canada used a risk-based approach to speed up the licensing of the
+applications it received in spring 2020 for products to help limit the spread of COVID-19. The
+department put
+in place effective temporary measures to meet the urgent needfor products facing shortages, such as
+alcohol-based hand sanitizers. The department provided flexibility to Canadian manufacturers by
+temporarily waiving compliance with specific regulatory requirements
+without increasing the risk of serious safety concerns. The department also increased its oversight of the
+products marketed for COVID-19.
+2.58 The analysis supporting this finding discusses the following topics:
+• Successful approach for licensing hand sanitizers
+• Proactive monitoring of COVID-19 productadvertising
+Why this finding matters
+2.59 This finding matters because Health Canada needed to address an urgent need in the market for
+COVID-19 products while ensuring consumer safety.
+Recommendations
+2.60 We made no recommendations in this area ofexamination.
+Analysis to support this finding
+Successful approach for licensing hand sanitizers
+2.61 In spring 2020, the COVID-19 pandemic created shortages of products in Canada, such as
+alcohol-based hand sanitizers to curb the spread of the virus. To meet the urgent need for these
+products, some of which are considered natural health products, Health Canada made temporary
+regulatory and policy changes to speed up their licensing. The interim measures gave flexibility to
+Canadian manufacturers by waivingcompliance with a few regulatory requirements during a short
+period of time while maintaining due care for safety.
+2.62 We found that Health Canada exercised due diligence in implementing a risk-based approach for
+licensing new sites, which helped to deliver on the increased demand for hand sanitizers. Although the
+department’s approach was practical in the circumstances, in our view the Minister of Health should
+have made an interim order under section 30.1 of the Food and Drugs Act and tabled it in Parliament.
+Such an interim order would have been the proper way to proceed for temporarily waiving and changing
+mandatory regulatory requirements. We noted that the department made such interim orders for
+regulatory changes for other health products used during the COVID-19 pandemic, but not for natural
+health products.
+2.63 During April and May 2020, Health Canada approved more than 2,500 natural health product
+licences for hand sanitizers.
+On 13 July 2020, the department cancelled some of the interim measuresand resumed its normal
+licensing process because it had evidence that manufacturers had the capacity to meet the demand for
+the upcoming year.
+Proactive monitoring of COVID-19 product advertising
+2.64 During April and May 2020, Health Canada proactivelymonitored the advertising of many types
+of natural health products to ensure they did not claim to mitigate, prevent, treat, diagnose, or cure
+COVID-19. The department found a total of 80 such instances, including false claims that some
+mushrooms would prevent COVID-19 and boost the immune system and that oil of oregano stopped the
+growth of multiple bacteria. Health Canada resolved many of these instances by contacting the
+companies and working with them to remove the advertising. We looked at a sample of25 of these
+advertisements and found that 3 of them were still online at the time of the audit despite Health
+Canada’s efforts.
+2.65 At the same time that Health Canada was monitoring the online market, we also searched
+Canadian websites to determine whether products were making claims to prevent COVID-19 or protect
+against it or were making unauthorized antiviral claims. We examined 30 websites that advertised such
+products and found that 25 of them made unauthorized claims. Although the department actively
+monitored the COVID-19 market, we found that many licensed and unlicensed natural health products
+were still making unauthorized claims at the time of the audit. In a pandemic, it is even more important
+that consumers use only products that have been licensed by Health Canada. As we stated in our
+recommendation in paragraph 2.51, a risk-based monitoring program to identify unauthorized activities
+and take appropriate action would ensure that misleading information is not marketed to consumers in
+Canada.
+Conclusion
+2.66 We concluded that Health Canada did not ensure that natural health products offered to
+Canadians were safe, effective, and accurately represented on the basis of appropriate evidence. The
+department approved products on the basis of evidence that they were safe and effective. However, its
+oversight of manufacturing sites and monitoring of products once on the market left consumers
+exposed to potential health and safety risks because products were not always manufactured or
+marketed according to licence conditions. Although Health Canada investigated products that were
+suspected of causing serious health risks and took immediate action to address such risks, the
+department’s approach was reactive and not always successful in having the products pulled from the
+shelves.
+2.67 During the early stages of the COVID-19 pandemic, Health Canada acted quickly to license
+alcohol-based hand sanitizers to help address market shortages. The department proactively monitored
+natural health products that had claims related to COVID-19 and took action when it identified false
+claims. Despite the department’s proactive monitoring, natural health products were still making
+unauthorized claims at the time of the audit.
+About the Audit
+This independentassurance report was prepared by the Office of the Auditor General of Canada on
+natural health products. Our responsibility was to provide objective information, advice, and assurance
+to assist Parliament in its scrutiny of the government’s management of resources and programs, and to
+conclude on whether Health Canada’s oversight of natural health products complied in all significant
+respects with the applicable criteria.
+All work in this audit was performed to a reasonable level of assurance in accordancewith the Canadian
+Standard on Assurance Engagements (CSAE) 3001—Direct Engagements, set out by the Chartered
+Professional Accountants of Canada (CPA Canada) in the CPA Canada Handbook—Assurance.
+The Office of the Auditor General of Canada applies the Canadian Standard on Quality Control 1 and,
+accordingly, maintains a comprehensive system of quality control, including documented policies and
+procedures regarding compliance with ethical requirements, professional standards, and applicable legal
+and regulatory requirements.
+In conducting the audit work, we complied with the independence and other ethical requirements of the
+relevant rules of professional conduct applicable to the practice of public accounting in Canada, which
+are founded on fundamental principles of integrity, objectivity, professional competence and due care,
+confidentiality, and professional behaviour.
+In accordance with our regular audit process, we obtained the following from entity management:
+• confirmation of management’s responsibilityfor the subject under audit
+• acknowledgement of the suitability of the criteria used in the audit
+• confirmation that all known information that has been requested, or that could affect the
+findings or audit conclusion, has been provided
+• confirmation that the audit report is factually accurate
+Audit objective
+The objective of this audit was to determine whether Health Canada ensured that natural health
+products offered to Canadians are safe and accurately represented on the basis of appropriate evidence.
+Scope and approach
+We examined Health Canada’s pre-market licensing for approving the sale of natural health products
+and post-market activities for monitoring industry compliance and product risks and issues. When the
+COVID-19 pandemic started, we expanded our audit scope to cover the department’s licensing and
+product monitoring targeted to COVID-19.
+In pre-market licensing, we examined product and site licensing to determine whether Health Canada
+obtained adequate evidence that natural health products are safe, accurately represented, and of
+quality before they enter the market. In post-market monitoring, we examined whether Health Canada’s
+oversight was sufficient to determine industry compliance with the Natural Health Products Regulations
+and whether the department took actions to mitigate higher health risks and problems.
+The following areas were excluded from the audit:
+• compounding of natural health products by health care professionals
+• other health care products, such as supplemented food, consumer products, cosmetics, and
+pharmaceutical drugs
+• classification of self-care products
+• the Self-Care Framework
+• substances in Schedule 2 of the Natural Health Products Regulations
+We examined a sample of product licences approved in 2018 and 2019 and site licences approved
+between 2017 and 2019, along with their first licence renewals, and health risks and problems with
+natural health products that were raised during that period. We also examined the department’s
+modified approach to licensing new products and sites for hand sanitizers in April and May 2020 and
+Health Canada’s monitoring of the market during that period.
+Criteria
+We used the following criteria to determine whether Health Canada ensured that natural health
+products offered to Canadians are safe and accurately represented on the basis of appropriate evidence:
+- Criteria:Health Canada approves natural health products that are safe and free from false or
+misleading information, on the basis of appropriate evidence.
+o Source: Food andDrugs Act
+o Natural Health Products Regulations
+o Compendium of Monographs, Health Canada, 2013
+o Pathway for Licensing Natural Health Products Used as Traditional Medicines, Health
+Canada, 2012
+o Pathway for Licensing Natural Health Products Making Modern HealthClaims, Health
+Canada, 2012
+o Evidence for Homeopathic Medicines, Health Canada, 2015
+o Natural Health Products Management of Applications Policy, Health Canada, 2019
+- Criteria:Health Canada assesses that manufacturers and foreign sites of importers comply with
+key good manufacturing practices before the natural health product enters the Canadian
+market.
+o Sources: Natural Health Products Regulations
+o Good Manufacturing Practices Guidance Document, Health Canada, 2015
+o Quality of Natural Health Products Guide, Health Canada, 2015
+- Criteria:Health Canada’s level of oversight is sufficient to conclude on industry compliance with
+the Natural Health Products Regulations to fulfill its regulatory responsibilities.
+o Sources: Natural Health Products Regulations
+o Site Licensing Guidance Document, Health Canada, 2015
+o Compliance and Enforcement Policy for Health Products, Health Canada, 2005 and 2018
+o OECD Best Practice Principles for Regulatory Policy: Regulatory Enforcement and
+Inspections, Organisation for Economic Co-operation and Development, 2014
+o Manufacturer Inspections: A Risk-Based Approach to Frequency, Department of Health,
+Therapeutic Goods Administration, Australian Government, 2016
+o Guideline on Good Pharmacovigilance Practices, Module III—Pharmacovigilance
+inspections, European Medicines Agency and Heads of Medicines Agencies, 2014
+- Criteria:Health Canada monitors Canadian markets to identify unauthorized natural health
+products and false or misleading advertisements or product labels, or both.
+o Sources: Food and DrugsAct
+o Natural Health Products Regulations
+- Criteria:Health Canada takes timely actions in response to unauthorized natural health products
+and licensed products that contain false or misleading product labels or pose health risks to
+consumers
+o Sources: Foodand Drugs Act
+o Natural Health Products Regulations
+o Compliance and Enforcement Policy for Health Products, Health Canada, 2005 and 2018
+Period covered by the audit
+The audit covered the period from February 2017 to December 2019 for all of the auditcriteria. This is
+the period to which the audit conclusion applies. However, to gain a more complete understanding of
+the effects of the COVID-19 pandemic on natural health products, we also examined new product and
+site licences approved in April and May2020 and the online marketing of natural health products during
+those 2 months.
+Date of the report
+We obtained sufficient and appropriate audit evidence on which to base our conclusion on 3 December
+2020, in Ottawa, Canada.
+Audit team
+Principal: Heather Miller
+Director: Lucie Talbot
+Erin Brown
+Audrey Garneau
+Aliya Haji
+Ashley Urban
+Leendert van Beerschoten
+List of Recommendations
+The following table lists the recommendations and responses found in this report. The paragraph
+number preceding the recommendation indicates the location of the recommendation in the report,
+and the numbers in parentheses indicate the location of the related discussion.
+- Safety and efficacy of natural health products
+o Recommendation
+ 2.26 Health Canada should obtain
+ Sufficient evidence to verify that licensed sites follow good manufacturing
+practices before products are released on the market
+ Information about which natural health products are available on the market
+ 2.21-2.25
+o Response
+ The department’s response. Agree. Health Canada notes its limited regulatory
+authorities to compel companies to provide information on quality as part of
+the product-licence submission process applicants are required to provide only
+an attestation that their product will meet the prescribed quality requirements.
+To improve its pre-market quality requirements. To improve its pre-market
+quality oversight of natural health products, the department has been using
+information gathered through 2 compliance monitoring projects and a paper-
+basedaudit of good manufacturing practices at a number of manufacturing
+sites. The department also acknowledges that natural health products are the
+only line of health products for which all regulatory activities are funded by the
+public. The absence of a stable funding framework combined with the limited
+regulatory authorities for quality has placed significant pressure on the
+department to perform its regulatory activities and efficiently respond to the
+increasingly high number and scientific complexity of product submissions. In
+response to this recommendation, the department will
+ establish fully costed options for a risk-based approach to quality oversight prior
+to the issuance or renewal of licences and determine the full regulatory and
+operational implications of these options
+ explore mechanisms to obtain information about which products are available
+on the market
+ take steps to propose user fees to natural health products to offset the costs of
+licensing and post-market activities
+o Recommendation
+ 2.35Health Canada shoul, for licensed natural health products on the market,
+incluing on the Internet, take a risk-based approach to
+ Ensure that product labels are readable
+ Monitor product label and advertisement information to ensure that they
+contain accurate andcomplete product information, consistent with their
+licence conditions
+ 2.31-2.34
+o Response
+ The department’s response. Agreed. Health Canada has started to take steps
+through extensive stakeholder engagement and the development of a regulatiry
+proposal to improve the labelling of natural health products, to make them
+easier to read, understand, and compare with other simila products. The
+department will
+ Continue to pursue regulatory and policy changes to improve labelling
+of natural health products
+ explore options to require licence holders to display a Canadian label,
+including a natural product number, in advertisements targeted to
+Canadians
+ take steps to implement a comprehensive proactive monitoring strategy
+to ensure that advertising of natural healthproducts is consistent with
+the product licence
+o recommendation
+ 2.47 HealthCanada should develop a risk-based monitoring and inspection
+program that establishes the scope and frequency of inspections and that
+considers risks related to products, sites, andproblems raised from its follow-up
+activites
+ 2.36-2.46
+o Response
+ The department’s response. Agree. Health Canada recognizes that natural
+health products are the only line of health products for which there is no ability
+to mandate a recall or to impose terms and conditions to mitigate safety risks
+associated with these products. The department has completed a number of
+compliance monitoring projects to gather information on quality oversight of
+natural health products and recognizes the need to expand its activities into a
+more robust inspection program. The department will
+ implement a pilot program for inspecting the good manufacturing
+practices of natural health products to promote and verify compliance
+ of the natural health product industry through inspections of licence
+holders across Canada and take further actions on the basis of the
+outcome of this pilot
+ take steps to propose new tools to strengthen the department’s ability
+to deter and address non-compliance, which include moving forward
+with a proposal to extend to natural health products the use of powers
+under the Protecting Canadians from Unsafe Drugs Act (Vanessa’s Law)
+ establish fully costed options for a risk-based approach to inspections
+ take steps to propose the expansion of user fees to natural health
+products to offset the costs of post-market activities
+o recommendation
+ 2.51 Health Canada should develop a risk-based monitoring program to
+ Identify unlicensed products and take appropriate action so that they
+are not available for sale to consumers in Canada
+ Identify unauthorized activities and take appropriate action so that
+labelling and advertisements meet product-licence conditions
+ 2.48-2.5
+o Response
+ The department’s response. Agreed. Health Canada does maintain a complaint-
+based program for regulatory advertising compliance oversight but recognizes
+that an additional risk-based approach is required to ensure unauthorized
+activities are prevented or stopped. The department will
+ Implement a risk-based approach to monitoring advertising
+ Take steps to propose new tools to strengthen its ability to deter and
+address non-compliance, which include moving forward with a proposal
+to extend to natural health products the use of powers under the
+Protecting Canadians from Unsafe Drugs Act (Vanessa’s Law)
+ Recommendation
+ 2.56 Health Canada should, in cases of products suspected of causing
+serious health risk, obtain the informationit needs to verify and ensure
+that these products are not available for sale to consumers in Canada
+ 2.52-2.55
+ Response
+ The department’s response. Agreed. In addition to the immediates
+steps Health Canada already takes to protect the health and safety of
+Canadians when a serious risk to health is identified, the department
+will
+o Take steps to propose new tools to strengthen its ability to
+deter and address non-compliance, which include moving
+forward with a proposal to extend to natural health products to
+use of powers under the Protecting Canadians from Unsafe
+Drugs Act (Vanessa’s Law)
+o Take steps to propose the expansion of user fees to natural
+health products to offset the costs of licensing and post-market
+activities
+Survey Results on Natural Health Products
+As part of our audit work, we asked Canadians about their experiences with natural health products.
+These are the results of that survey.
+- Do you believe that the Government of Canada assesses all natural health products sold in
+Canada for both safety and efficacy
+o Yes: 25%
+o No: 75%
+- How much do you trust the advertising for natural health products
+o Very much trust: 6%
+o Moderately trust: 13%
+o Neither trust nor distrust: 13%
+o Moderately distrust: 23%
+o Very much distrust: 45%
+- How easy is it to read natural health product labels
+o Minimally easy
+- In order of importance, which factors most influence your decision to purchase natural health
+products?
+o Very important to not important
+ A credible source that indicates that the product has benefits
+ Label information
+ Recommended use
+ Where the product is made
+ Statements about health benefits
+ Advertising
+ Other
+ Recommendations from social media
+- Where do you most often purchase your natural health products?
+o Dollar stores and other discount retailers: 0%
+o Online: non-Canadian retailers: 2%
+o Health care professionals: 3%
+o Online: Canadian retailers: 4%
+o Large retail and grocery stores: 16%
+o Storesspecializing in natural health products: 24%
+o Pharmacies: 51%
+- Have you purchased any natural health products to help prevent or treat COVID-19
+o Yes: 14%
+o No: 86%
+- 99% of respondents were Canadian residents
+These results are based on an internet plll that appeared on the OAG internet page. They are not
+intended to be statistically representative of all consumers but rather represent only these views on the
+respondents themselves.
+Communications Approach
+Natural Health Product Program Audit
+Communications Sensitivity Level: MEDIUM
+LOW: Little to no file sensitivities, minimal risk concerns, or factual in nature, or expected to generate a
+neutral to positive response from the audience.
+MEDIUM: Some sensitivity or complexity to the issue or initiative, and a heightened risk perception.
+Scrutiny from certain audiences is possible.
+HIGH: Sensitive file or issue, and/or high-risk perception, and/or complex in nature. Significant
+stakeholder or media reaction is possible.
+ISSUE
+This spring, the Auditor General of Canada will release its audit of the Natural Health Products Program.
+The focus of the audit was to determine whether the Department ensures that the natural health
+products available for sale in Canada are safe and accurately representedto consumers.
+The key findings of the report were:
+• Health Canada approved NHPs based on evidence that they were safe and effective,
+• some gaps in oversight of quality and monitoring of marketed NHPs were identified, and
+• Health Canada’s COVID-19 response to ensure the supply of hand sanitizers was successful.
+In response to the recommendations put forward, Health Canada, is preparing a plan to put in place a
+stronger and more robust Natural Health Products Program. This includes the introduction of legislative
+and regulatory changes, as well as enhanced compliance and enforcement efforts, including the use of
+proactive monitoring.
+STRATEGIC CONSIDERATIONS
+- Health Canada may not have enough resources to undertake all of the activities outlined in its
+response to the recommendations
+o Mitigation strategy: As part of the Management Response and Action Plan (MRAP), the
+Department is proposing a new cost recovery measure that could add financial
+resources to its efforts in the future.
+In the meantime, theMRAP will address what tasks are required as well as what
+resources are necessary to accomplish them. The Department will take a scalable
+approach that is dependant on resources and outcomes. Media lines will address this.
+- Stakeholders may not respond positively to new strengthen regulatory, compliance and
+enforcement and cost recovery measures
+o Mitigation strategy: Program will proactively engage stakeholders to communicate the
+objectives of these measures, which is to better protect the health and safety of
+Canadians. Communications will emphasize that additional oversight will be
+advantageous for compliant companies and will also respond to previous calls from
+stakeholders for stronger action to address non-compliance.
+Program will also give stakeholdersthe opportunity to provide feedback on both the
+new regulatory measures and proposed fees through consultations.
+The natural health products industry has been very publicly vocal of its concerns
+regarding regulatory changes in the past.
+Communications willdevelop robust Media Lines / Q&As to address possible questions
+and concerns, and may consider other proactive communications strategies, if
+necessary.
+- Consumers of natural health products may become apprehensive about taking natural health
+products, while others may doubt the validity of the report’s findings
+o Mitigation strategy: Public outreach initiatives, including social media posts, will
+reiterate Health Canada’s efforts to protect health and safety as well as educating
+consumers to make informed natural health product choices by reading labels
+AUDIENCE
+• Stakeholders and Industry
+• General Public (outreach initiatives–following tabling)
+OBJECTIVES
+• Demonstrate Health Canada’s commitment to helping Canadians maintain and improve their
+health, including through the effective oversight of natural health products.
+• Communicate Health Canada’s role and responsibilities in the health and safety of natural health
+products.
+• Respond to potential questions and concerns regarding Health Canada’s proposedmeasures,
+and demonstrate their value and necessity.
+• Help consumers of natural health products make informed choices about the products they use.
+KEY MESSAGES
+• Health Canada recognizes the importance of NHPs for the health of Canadians.
+• Protecting the health and safety of Canadians is Health Canada’s top priority.
+• Health Canada is committed to implementing measures to improve the oversight of NHPs and
+implement proactive risk-based activities.
+• The Department understands the importance of naturalhealth products for Canadians and is
+preparing a plan to put in place a stronger and more robust Natural Health Products, including increased
+oversight of their quality, advertising and labelling.
+• In early 2021, Health Canada implemented the Natural Health Products Good Manufacturing
+Practices inspection pilot to promote and verify industry compliance through routine inspections of
+licence holders across Canada.
+• Health Canada’s recommendations in response to the CESD report are as follows:
+o Strengthening its oversight of the online advertising of natural health products to ensure they
+provide Canadians with accurate and reliable information to inform their choices.
+o Bringing forward a regulatory proposal to improve the labelling of natural health products to
+ensure information on the product label is clear, consistent and legible for consumers.
+o Pursuing additional post-market powers, including mandatory recall powers, to ensure it has the
+necessary tools to protect the health and safety of Canadians when a serious health risk arises.
+o Working on establishing a user-fee program for natural health products to sustain increased
+oversight for these products as it already does for other health products.
+ROLLOUT PLAN
+• Final CESD report is expected to be tabled in Parliament Spring 2021. Health Canada is
+recommending a low profile approach to accompany the release of the report as the subject matter of
+the audit mainly impacts stakeholders and industry.
+RECOMMENDED TACTICS
+Before tabling
+• Media Lines / Q&As
+After tabling
+• Web, public outreach and social media content that focuses on encouraging informed decisions
+and safe use by consumers including:
+o Reading labels and making informed purchasing choices (especially online)
+EVALUATION
+• Web and social media analytics
+APPROVALS & CONSULTATIONS
+Amanda Moir, Director, NNHPD (reviewed/commented, 2021-03-04)
+Hamida Rahim, Director, HPFB (reviewed/commented, 2021-03-04)
+Alain Lumbroso, Director, HPFB (reviewed/commented, 2021-03-04)
+Mary Morgan, A/Director, ROEB (reviewed/commented, 2021-03-04)
+Natalie Page (DG, NNHPD) (approved, 2021-03-08)
+Kelly Robinson (DG, MHPD) (approved, 2021-03-09)
+Shannon Laforce for Etienne Ouimette (DG, RMOD) (approved, 2021-03-08)
+Linsey Hollett (DG, ROEB) (approved, 2021-03-09)
+Marilyne Nahum, Communications Executive (approved, 2021-03-09)
+Cathy Lafkas, CPAB Director (approved, 2021-03-10)
+Sara MacKenzie, CPAB DG (FYI)
+Program & CPAB ADMs (FYI)
+Media Lines
+Natural Health Product Program Audit
+Issue Statement:
+On April 22,2021, at 10 a.m. EDT, the Commissioner of the Environment and Sustainable
+Development will table an audit report of the Natural Health Products Program. The focus of the audit
+was to determine whether Health Canada ensures that the natural health productsavailable for sale in
+Canada are safe and accurately represented to consumers. In response to the recommendations in the
+report, Health Canada is preparing a plan to establish a stronger and more robust Natural Health
+Products Program. This may include the proposal of legislative and regulatory changes, as well as
+enhanced compliance and enforcement efforts, including a greater use of proactive monitoring.
+Key Messages:
+- Health Canada recognizes the importance of ensuring that natural health products available for
+sale in Canada are safe and effective.
+- Overall, the audit by the Auditor General of Canada of the Natural Health Products Program
+identified both strengths and areas for improvement within the Program.
+- It is worth noting that the audit found thatHealth Canada licensed natural health products
+appropriately, based on evidence of safety and efficacy.
+- It also concluded that Health Canada acted appropriately to successfully increase the supply of
+alcohol-based hand sanitizers in response to theCOVID-19 pandemic.
+- In response to the audit recommendations, Health Canada is preparing a plan to establish a
+stronger and more robust Natural Health Products Program, including increased oversight of
+quality, advertising and labelling.
+- Health Canada’s response to the audit recommendations include:
+o Strengthening the oversight of online advertising of natural health products to ensure that
+Canadians have accurate and reliable information to inform their choices.
+o Bringing forward a regulatory proposal toimprove the labelling of natural health products
+to ensure information on product labels is clear, consistent and legible for consumers.
+o Considering additional post-market powers, including mandatory recall powers, to ensure
+Health Canada has the tools to protect the health and safety of Canadians when a serious health risk
+arises.
+o Working on stabilizing funding by developing a proposal to charge fees to industry for key regulatory
+activities related to natural health products in order to sustain increased oversight of these products,
+including through inspections of the facilities that make or import them.
+- In early 2021, Health Canada launched the Natural Health Products Good Manufacturing
+Practices Inspection Pilot to promote and verify industry compliance with quality requirements through
+routine inspections of licence holders across Canada. The results ofApril 12, 2021 this pilot will inform
+next steps for post-market inspection activities related to natural health products (NHPs).
+Principaux messages:
+- Santé Canada reconnait l’importance de veiller à ce que les produits de santé naturels envente
+au Canada sont sûrs et efficaces.
+- En général, la vérification du Programme des produits de santé naturels effectué par la
+vérificatrice générale du Canadaa révélé les points forts et les points à améliorer du
+programme.
+- Il convient de noter que la vérification a révélé que Santé Canada a homologué des produitsde
+santé naturels de façon appropriée, selon des preuves en matière d’innocuité etd’efficacité.
+- Il convient de noter que la vérification a révélé que Santé Canada a homologué des produitsde
+santé naturels de façon appropriée, selon des preuves en matière d’innocuité etd’efficacité.
+- Pour donner suite aux recommandations découlant de la vérification,Santé Canada prépareun
+plan qui permettra de solidifier le Programme des produits de santé naturels, quicomprend une
+surveillance accrue en matière de qualité, de publicité et d’étiquetage.
+- En réponse aux recommandations, Santé Canada suggère :
+o Améliorer la surveillance de la publicité enligne sur les produits de santénaturels afin de s’assurer que
+les Canadiens disposent de renseignementsprécis et fiables qui éclaireront leurs choix.
+o Présenter une proposition réglementaire qui vise à améliorer l’étiquetage des produits de santé
+naturels, afin d’assurerque les renseignements sur lesétiquettes sont clairs, cohérents et lisibles pour
+les consommateurs.
+o Acquérir des pouvoirs supplémentaires aprèsla mise en marché, tels que lepouvoir d’effectuer des
+rappels obligatoires; Santé Canada disposera ainsi desoutils nécessaires à la protection de la santéet la
+sécurité des Canadienslorsqu’une menace à la santé survient.
+o Stabiliser le financement par l’entremise de frais imputés à l’industrie en matièred’activités clés en
+réglementation liées aux produits de santé naturels, afin demaintenir la surveillance accrue des
+produits,notamment par l’inspection desinstallations qui les fabriquent ou qui les importent.
+Questions and Answers:
+Q1. Are thenatural health products on the market safe to use?
+For many Canadians, natural health products are an important part of maintaining a healthy
+lifestyle. While manufacturers are ultimately responsible for ensuring the safety of the natural health
+productsthey sell in Canada, Health Canada regulates these products so that Canadians can have
+confidence that the products they use are safe, effective and of high quality. April 12, 2021
+Through is regulatory role, Health Canada provides oversight for safety, efficacy and quality for natural
+health products (NHPs). Before products can be sold in Canada, products are assessed by Health Canada
+before a licence is provided. This assessment includes a review of the types of ingredients, dosage, and
+health claims, todetermine if the product can be safely used by consumers. While the audit identified
+areas for improvement, it is important to note that, overall, Health Canada’s approach to assessing
+safety and efficacy of NHPs prior to licensing is appropriate. The audit also found that when an issue was
+brought to Health Canada’s attention, the Department took appropriate action to mitigate any risks to
+Canadians.
+Q2. What findings and recommendations did the audit report include, and how is the
+Department responding?
+Areas of strength
+- The audit found that Health Canada licensed natural health products (NHPs) appropriately,
+based on evidence of safety and efficacy.
+- The audit also found that when an issue was brought to Health Canada’s attention, appropriate
+action wastaken.
+- Additionally, the audit established that Health Canada’s approach to increase the supply of hand
+sanitizers available to Canadians during the COVID-19 pandemic was appropriate.
+-
+Quality
+- The audit found that the Department relied too heavily on attestations from manufacturers that
+they met the Department’s quality standard. Additionally, it was noted that Health Canada lacks
+information about what products are available on the market.
+- In response, Health Canada will explore options to strengthen its oversight of the quality of
+NHPs, and mechanisms to obtain information about which NHPs are on the market. Health
+Canada will also explore options to introduce fees for regulatory services associated with NHPs,
+as currently exist for drugs and medical devices.
+Compliance and Enforcement
+- The audit recommended that Health Canada develop proactive risk-based activities, including
+inspections, as part of its compliance and enforcement approach.
+- The audit also noted that when an issue was brought to the Department’s attention, compliance
+could not always be achieved.
+- In response, the Department intends to take steps to propose new tools to strengthen its ability
+to deter and address non-compliance. This includes considering extending the use of the
+Protecting Canadians from Unsafe Drugs Act (Vanessa’s Law) powers to natural health products,
+including the authority to order a recall. These authorities currently exist for all drugs and
+medical devices, but not for NHPs. As a result, Health Canada must rely on the goodwill of
+companies to conduct a product recall in cases of serious health issues.
+- Health Canada recently launched a pilot inspection program of site licence holders in order to
+promote and verify industry compliance.
+Labelling and Advertising
+- The audit recommended increased monitoring of labels and advertising (including online
+advertising) to ensure that they contain accurate product information.
+- The audit also recommended improved labelling requirements to ensure consumers can easily
+read and understandkey product information provided to protect their health, such as warning
+statements and conditions for use.
+- The Department has already started to pursue regulatory and policy changes to make labels
+easier to read, understand and compare with other similar products. This proposal is expected
+to be brought forward for pre-publication in Canada Gazette Part 1 this spring.
+- The Department will also be taking steps to implement a comprehensive proactive monitoring
+strategy to ensure that labels and advertisingare consistent with the terms of the product
+licence.
+-
+Q3. Why do these gaps exist in the oversight of natural health products? Why is Health
+Canada not already taking more action to improve its regulatory approach?
+Health Canada is committed to the continuous improvement of its natural health products program to
+help ensure that products sold in Canada are safe and effective and is taking steps to address the
+recommendations in the audit report.
+The Natural Health Products Program has evolved substantiallysince the Natural Health
+Products Regulations came into force in in 2004. To date, over 100,000 products have been licensed and
+there are currently approximately 750 active site licenses. All current oversight activities are performed
+within existing budgets, without additional funding through fees.
+Natural health products are currently the only line of health products in Canadafor which all regulatory
+activities are funded solely by the Department’s operating budget. Health Canada is exploring options
+forintroducing industry fees that would help offset the costs of licencing products and the sites that
+manufacture them, and provide the means to scale-up post-market monitoring, compliance and
+enforcement activities.
+Health Canada has already made efforts to take more proactive steps to monitoring natural health
+products. For example, earlier this year, the Department launched a pilot inspection program to
+proactively assess the compliance of companies with good manufacturing practices requirements. The
+objective of the pilot program is to strengthen compliance of the natural health products industry.
+Increased compliance with regulatory requirements protects the health and safety of Canadians by
+ensuring these products are safe, effective and of high quality.
+Q4. How long will it take Health Canada to implement the recommended changes?
+In many of the areas of recommendation, work to address gaps has already begun. For
+example:
+- An inspection pilot program was recently launched to promote and verify complianceof licence
+holders across Canada.
+- The Department is also expanding its oversight of online advertising of natural health products
+through a pilot program to ensure advertisements are providing Canadians with accurate and
+reliable information to inform their choices.
+- The Department is on track to publish a regulatory proposal to improve the labelling of natural
+health products for consultation later this spring.
+Other elements of the Department’s response will take more time to implement, such as the
+Department’s plans to take steps to propose user fees for NHPs. In order to implement this, the
+Department will develop a proposal which will be subject to comprehensive stakeholder consultation
+prior to implementation.
+Q5. How do you expect industry and stakeholders to react to the audit recommendations and the
+Department’s response?
+Key stakeholders are aware of this audit and areas of focus.
+Following the publication of the audit report, the Department will engage with key partners and
+stakeholders on steps toaddress the findings/recommendations of the audit
+Overview of the Natural Health Products Program and Update on the Commissioner of the Environment
+and Sustainable Development’s Audit
+Departmental Audit Committee
+May28, 2021
+Purpose
+Provide an overview of:
+• Health Canada’s Natural Health Products (NHP) Program; and
+• Recent audit by the Commissioner of the Environment and Sustainable
+Development (CESD), recommendations and departmental response
+• Next steps
+Consumers Use Natural Health Products Daily
+• NHPs include a broad range of products such as vitamin and mineral supplements, probiotics,
+toothpaste, sunscreen, herbal preparations, homeopathic remedies, and traditional products (e.g.,
+traditional Chinese medicines, Ayurvedic medicines).
+• More than 73% of Canadians buy NHPs regularly (Ipsos-Reid survey, 2010)
+• Consumers purchase and use NHPs with no intervention by a healthcare practitioner
+• Sold side-by-side with over-the-counter drugs, with little distinctionbetween product types,
+despite differences in regulatory oversight and evidence
+Natural Health Products Come With Risk
+Incorrect dosage: Consumer selected incorrect product and accidentally gave her newborn a very high
+dose of Vitamin D (14,400 units vs400 units)
+Unintended product selection: Chemotherapy patient with nausea advised to take Gravol, reported
+worsening of condition as she took an NHP which does not contain dimenhydrinate
+Undisclosed allergens: NHPs containing undisclosed milk ingredientscan cause mild to severe allergic
+reactions such as breathing difficulties, and could be life threatening
+Incorrect use:
+Data from Canadian Poison Centres showed hand sanitizer incidents were up to 4.5 fold higher from
+March to September 2020 compared to 2019
+Overview of the Natural Health Products Program
+- Minister of Health
+- Deputy Minister
+- Health Product and Food Branch (HPFB)
+o Natural and Non-prescription Health Products Directorate
+ Clinical trials
+ Product licensing
+ Site licensing
+ Post-market risk management
+o Marketed Health Products Directorate
+ Adverse reaction reporting
+ Advertising monitoring
+ Safety reviews
+ Drug incident analysis
+ Risk communications
+- Regulatory Operations and Enforcement Branch (ROEB)
+o Health Product Compliance Directorate
+ Proactive and reactive compliance and enforcement
+ Risk management
+Program Improvements Began in 2017
+- 2016/17
+o Paper applications
+o Extensive efforts to assist the applicant get a license
+o Refusal rate of 2-3%
+o Service standards of 10 and 30 days for monograph applications isinsufficient
+o Reliance on sponsor attestation to issue a license
+o Up to 50% of applications fail to meet all safety and efficacy requirements
+o Reactive compliance and enforcement
+- 2019/20–ongoing
+o Electronic applications only
+o Online web application
+o Health Canada is stricter on review
+o Higher refusal rate-currently at 30%
+o Service standards of 60 and 90 days for monograph applications provides sufficient time
+for full review
+o Full review
+o All licensed products meet all safety and efficacy requirements
+o Mix of proactive and reactive compliance and enforcement
+Further program improvements planned: self-care framework
+- Oversight proportional to risk
+o Similar evidence for similar claims
+o Informed consumer choice
+o Risk-based post-market oversight
+- Cost recovery for allproducts modern business systems
+Regulatory proposal to address labelling challenges
+- Current: unreadable labels with no standard layout
+- Proposed: 6 point front size minimum, high contrast (black on white), requiring a Product Facts
+Table
+Overview of theCESD Audit
+Objective:
+– Determine “whether Health Canada ensured that NHPs available for sale in Canada are
+safe and accurately represented to consumers”
+Scope and Period:
+– Health Canada’s pre-market licensing activities and post-market compliance and
+monitoring activities for NHPs from January 2017 to December 2019
+– Expanded to include Health Canada’s response to the COVID-19 pandemic specific to the NHP
+Program from April and May 2020
+Key Findings:
+– Health Canada licensed NHPs appropriately, based on evidence of safety and efficacy
+– When an issue was brought to Health Canada’s attention, immediate action was taken
+– Gaps identified in oversight of quality, monitoring of labels and advertising, and compliance and
+enforcement of marketed NHPs
+– Product label information was not easy to read
+– Health Canada acted appropriately to successfully increase the supply of alcohol-based
+hand sanitizers
+Recommendations and Departmental Response
+Health Canada accepts CESD’s five recommendations and has developed anaction plan
+- Quality:
+o Audit recommendations:
+ Increased oversight of the quality of NHPs, to reduce reliance on company
+attestations
+o Department’s response
+ Develop fully costed options for risk-based
+ approach to quality oversight
+ Explore mechanisms to obtain information about which products are available
+on the market
+ Pursue the expansion of fees to NHPs
+- Labelling and advertising
+o Audit recommendations
+ Greater monitoring of labels and advertising (including online advertising)
+ Improved labelling to ensure product labels can be read by consumers
+o Department’s response
+ Develop a multi-year implementation plan to expand proactive monitoring of
+advertising to NHPs
+ Continue to advance regulatory proposal to improve the labelling of NHPs
+- Monitoring and compliance
+o Audit recommendations
+ Risk-based inspection program
+ Risk-based monitoring program to address unlicensed products and
+unauthorized labelling and advertising
+ Improved enforcement to achieve full compliance in cases of serious health risks
+o Department’s response
+ Continue implementation of pilot NHP Good Manufacturing Practices inspection
+program (launched in March 2021)
+ Develop and launch risk-based approach for monitoring NHP advertising
+incidents via a tool which will classify advertising incidents based on level of risk
+ Take steps to strengthen ability to deter and address non-compliance by
+pursuing the expansion of Vanessa’s Law powers to NHPs
+ Pursue the expansion of fees to NHPs
+ Pursue the expansion of Vanessa’s Law powers to NHPs
+Next Steps
+• Management Response and Action Plan (MRAP) has been finalized
+• Work to address many of the areas identified in the report are already underway, including:
+– Establishing options to strengthen oversight of quality and advertising
+– Continuing to implement the pilot inspection program to promote and verify compliance with
+good manufacturing practices
+– Proposing regulatory and policy changes to improve labelling of NHPs
+– Taking steps to pursue cost recovery for NHPs
+– Taking steps to propose new tools to address non-compliance, including moving forward with a
+proposal to expand Vanessa's Law powers to these products
+• Updates on the Department’s progress on implementing the MRAP will be provided to DAC on a
+periodic basis, starting October 2021
+This audit is an importantmilestone for the NHP Program
+REDACTED–CONFIDENCE OF THE QUEEN’S PRIVY COUNCIL
+Master overview of the committee
+Standing committee on public accounts (PACP)
+Mandate of the Committee
+When theSpeaker tables a report by the Auditor General in the House of Commons, it is automatically
+referred to the Public Accounts Committee. The Committee selects the chapters of the report it wants to
+study and calls the Auditor General and senior public servants from the audited organizations to appear
+before it to respond to the Office of the Auditor General’s findings. The Committee also reviews the
+federal government’s consolidated financial statements–the Public Accounts of Canada–and examines
+financialand/or accounting shortcomings raised by the Auditor General. At the conclusion of a study,
+the Committee may present a report to the House of Commons that includes recommendations to the
+government for improvements in administrative and financial practices and controls of federal
+departments and agencies.
+Government policy, and the extent to which policy objectives are achieved, are generally not examined
+by the Public Accounts Committee. Instead, the Committee focuses on government administration–the
+economy and efficiency of program delivery as well as the adherence to government policies, directives
+and standards. The Committee seeks to hold the government to account for effective public
+administration and due regard for public funds.
+Pursuant to Standing Order 108(3) of the House of Commons, the mandate of the Standing Committee
+on Public Accounts is to review and report on:
+• The Public Accounts of Canada;
+• All reports of the Auditor General of Canada;
+• The Office of the Auditor General’s Departmental Plan and Departmental Results Report; and,
+• Any other matter that the House of Commons shall, from time to time, refer to the Committee
+The Committee also reviews:
+• The federal government’s consolidated financial statements;
+• The Public Accounts ofCanada;
+• Makes recommendations to the government for improvements in spending practices;
+• Considers the Estimates of the Office of the Auditor General.
+Other Responsibilities:
+• The economy, efficiency and effectiveness of government administration;
+• The quality of administrative practices in the delivery of federal programs; and,
+• Government’s accountability to Parliament with regard to federal spending.
+Committee Members
+CHAIR:
+- John Williamson, Conservative, New Brunswick Southwest, PACP member since February 2022
+VICE-CHAIRL
+- Jean Yip, Liberal, Scarborough—Agincourt, PACP member since January 2018
+- Nathalie Sinclair-Desgagné Critic for Public Accounts; Pandemic Programs; Economic
+Development Agencies, Bloc Québécois, Terrebonne, PACP member since December 2021
+MEMBERS
+- Eric Duncan, Conservative, Stormont—Dundas—South Glengarry, PACP member since February
+2022
+- Jeremy Patzer, Conservative, Cypress Hill—Grasslands, PACP member sinceFebruary 2022
+- Phillip Lawrence Critic for Federal Economic Development Agency for Eastern, Central and
+Southern Ontario, Conservative, Northumberland—Peterborough South, PACP member since
+October 2020
+- Blake Desjarlais, Critic for TBS; Diversity and Inclusion; Youth; Sport and PSE, New Democratic
+Party, Edmonton Greisbach, PACP member since December 2021
+- Valerie Bradford, Liberal, Kitchener South–Hespeler, PACP member since December 2021
+- Han Dong, Liberal, Don Valley North, PACP member since December 2021
+- Peter Fragiskatos, Parliamentary Secretary National Revenue, Liberal, London North Centre,
+PACP member since December 2021
+- Brenda Shanahan, Liberal, Châteauguay—Lacolle, PACP member since December 2021; and Jan
+2016–Jan 2018
+Bios ofthe Committee Members
+- John Williamson (New Brunswick Southwest)
+o Conservative
+o Chair
+o Elected as MP for New Brunswick Southwest in 2011, he was then defeated in 2015 and
+re-elected in 2019 & 2021.
+o Currently also serves as a Member of the Liaison Committee
+o Previously served on many committees, including PACP for a brief time in 2013
+o Prior to his election, M. Williamson occupied different positions. He was an editorial
+writer for the National Post from 1998 to 2001, then joined the Canadian Taxpayers
+Federationuntil 2008. In 2009, he was hired by Stephen Harper as director of
+communications in the PMO.
+- Jean Yip (Scarborough-Agincourt)
+o Liberal
+o First Vice-Chair
+o Elected as MP for Scarborough—Agincourt in a by-election on December 11, 2017, and
+re-elected in 2019 & 2021.
+o Has served on Public Accounts (since 2018), as well as Government Operations and
+Canada-China committees in the past.
+o Before her election, Ms. Yip was an insurance underwriter and constituency assistant.
+- Nathalie Sinclair-Desgagné (Terrebonne)
+o Bloc Québécois
+o Second vice-chair
+o Elected as MP for Terrebonne in the 2021 federal election.
+o BQ Critic for Public Accounts; Pandemic Programs; and Federal Economic Development
+Agencies.
+o Worked at the European Investment Bank and at PWC London.
+o Return toQuebec in 2017 to pursue a career in the Quebec business world.
+- Eric Duncan (Stormont-Dundas-South Glengarry)
+o Conservative
+o Member
+o Elected as MP for Stormont-Dundas-South Glengarry in 2019, and re-elected in 2021.
+o Vice-Chair of Procedure and House AffairsCommittee
+o Has served on COVID-19 Pandemic, Procedure and House Affairs and Library of
+Parliament committees in the past.
+o Prior to his election, Mr. Duncan was one of the youngest elected officials in Canadian
+History as a municipal Counsellor in North Dundas at the age of 18, and was elected
+mayor at the age of 22 (from 2010 to 2018).
+- Jeremy Patzer (Cypress Hills-Grasslands)
+o Conservative
+o Member
+o Elected as MP for Cypress Hills-Grasslands in 2019, and re-elected in 2021.
+o Member of the Standing Committee on International Trade.
+o Has served on Natural Resources, Industry, Science and Technology and COVID-19
+Pandemic committees in the past.
+o Prior to his election, Mr. Patzer worked in the telecommunications industry for ten
+years.
+- Phillip Lawrence (Northumberland—Peterborough South)
+o Conservative
+o Member
+o Elected as MP for Northumberland—Peterborough South in 2019, and re-elected in
+2021.
+o CPC Critic for the Federal Economic Development Agency for Eastern, Central and
+Southern Ontario.
+o Has served on Public Accounts (since 2020), as well as the Justice committees in the
+past.
+o Prior to his election, Mr. Lawrence received his BA from Brock University in Political
+Science, he attended Osgoode Hall Law School and the Schulich School of business to
+obtain his law degree andMBA, and volunteered at the Financial Planning Standards
+Council.
+- Blake Desjarlais (Edmonton Greisbach)
+o NDP
+o Member
+o Elected as MP for Edmonton Greisbach in 2021.
+o NDP Critic for Treasury Board; Diversity and Inclusion; Youth; Sport; and Post-secondary
+Education.
+o First openly Two-Spirit person and Alberta’s only Indigenous Member of Parliament.
+- Valerie Bradford (Kitchener South–Hespeler)
+o Liberal
+o Member
+o Elected as MP for Kitchener South–Hespeler in 2021.
+o Also sits on the Science and Research committee.
+o Prior to her election, Ms. Bradford worked as an economic development professional for
+the City of Kitchener.
+- Han Dong (Don Valley North)
+o Liberal
+o Member
+o Elected as MP for Don Valley North in 2019, and re-elected in 2021.
+o Also sits on the Industry and Technology committee.
+o Has served on the Ethics, and Human Resources committees in the past.
+o Prior to his election, Mr. Dong worked with Toronto-based high-tech company
+dedicated to building safer communities and served as the leader of the Chinatown
+GatewayCommittee established by Mayor John Tory.
+- Peter Fragiskatos (London North Centre)
+o Liberal
+o Member
+o Parliamentary Secretary to the Minister of National Revenue
+o Elected as MP for London North Centre in 2015, and re-elected in 2019 & 2021.
+o Serves as Parliamentary Secretary to the Minister of National Revenue.
+o Has served on the Finance, Canada-China, Human Resources, Public Safety, and Foreign
+Affairs committees in the past.
+o Served as a member of the National Security and Intelligence Committee of
+Parliamentarians (NSICOP).
+o Prior to his election, Mr. Fragiskatos was a political science professor at Huron
+University College and King’s University College, as well as a frequent media
+commentator on international issues.
+- Brenda Shanahan (Châteauguay—Lacolle)
+o Liberal
+o Member
+o Elected as MP for Châteauguay—Lacolle in 2015, and re-elected in 2019 & 2021.
+o Has served on Public Accounts (2016-2018), as well as Ethics, Government Operations,
+and MAID committees in the past.
+o Has served as a member of the NationalSecurity and Intelligence Committee of
+Parliamentarians (NSICOP).
+o Prior to her election, Ms. Shanahan was a banker and social worker, who has also been
+involved in a number of organizations such as Amnesty International and the Canadian
+Federation of University Women.

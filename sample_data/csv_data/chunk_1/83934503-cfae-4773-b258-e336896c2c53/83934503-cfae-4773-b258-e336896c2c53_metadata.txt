@@ -1,0 +1,22 @@
+Created: 2022-02-08T19:21:04.412454
+Name: Canadian_Total_Diet_Study_-_Trace_Elements_1993-2018
+Original URL: https://health.canada.ca/apps/open-data/stud-etud-diet-alim-total/te-me/Total%20Diet%20Study%20Trace%20Elements%20results%201993-2018.csv
+Package ID: 83934503-cfae-4773-b258-e336896c2c53
+Keywords: ['Total', 'Diet', 'Foods', 'Composites', 'market basket survey', 'TDS', 'Total Diet Study', 'contaminants', 'trace elements', 'Aluminum', 'Arsenic', 'Barium', 'Beryllium', 'Bismuth', 'Cadmium', 'Cesium', 'Chromium', 'Cobalt', 'Copper', 'Lanthanum', 'Lead', 'Manganese', 'Nickel', 'Rubidium', 'Selenium', 'Strontium', 'Thallium', 'Thorium', 'Uranium', 'Vanadium', 'Zinc']
+Notes: The determination of the trace element concentrations in food is important for consumer safety. Trace elements are metals that are present in low concentrations in air, water and soil. Thirty-four trace elements are commonly measured in TDS food sample composites. Although mercury and fluoride measurement results are not available on the open data portal, they can be found in the references below. Health Canada’s Bureau of Chemical Safety, Food Directorate leads the Canadian TDS program.
+
+References
+
+1.	R. W. Dabeka, A. D. McKenzie & P. Bradley (2003) Survey of total mercury in total diet food composites and an estimation of the dietary intake of mercury by adults and children from two Canadian cities, 1998-2000, Food Additives & Contaminants, 20:7, 629-638.
+
+2.	Robert W. Dabeka, Arthur D. McKenzie. (1995) Survey of Lead, Cadmium, Fluoride, Nickel, and Cobalt in Food Composites and Estimation of Dietary Intakes of These Elements by Canadians in 1986-1988. JAOAC Int. 78(4), 897-909.
+
+3.	R.W. Dabeka, A.D. McKenzie, H.B. Conacher, D.C. Kirkpatrick. (1982) Determination of fluoride in Canadian infant foods and calculation of fluoride intakes by infants. Can. J. Public Health 73(3), 188-191.
+
+This dataset includes the following years of surveillance results: 1993-2012, 2016-2018
+
+Learn about the Canadian Total Diet Study (https://www.canada.ca/en/health-canada/services/food-nutrition/food-nutrition-surveillance/canadian-total-diet-study.html)
+
+Search through Health Canada's food contaminant data on CANLINE (https://open.canada.ca/data/en/dataset/01c12f93-d14c-4005-b671-e40030a3aa2c) 
+
+

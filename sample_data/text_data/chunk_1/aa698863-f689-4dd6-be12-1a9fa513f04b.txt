@@ -1,0 +1,93 @@
+Created: 2022-06-27T19:16:49.739877
+Name: Airborne_Radionuclide_Concentrations_Dataset
+Original URL: https://open.canada.ca/data/dataset/aa698863-f689-4dd6-be12-1a9fa513f04b/resource/ee9874c6-b38b-42c8-9be7-3d1158778e0e/download/arc_dataset_dictionary-english.txt
+Package ID: aa698863-f689-4dd6-be12-1a9fa513f04b
+Keywords: ['Airborne radioactivity', 'environmental radioactivity monitoring', 'radiation monitoring', 'Health Canada', 'Radiation Protection Bureau', 'Ionizing radiation protection', 'Activity concentration', 'air particulate', 'Noble gas', 'IRIX format', 'Beryllium', 'Lead', 'Cesium', 'Iodine', 'Xenon', 'Comprehensive Nuclear Test-Ban Treaty (CTBT)', 'Canadian Radiological Monitoring Network (CRMN)']
+Notes: The Airborne Radionuclide Concentrations (ARC) Dataset is a general dataset of airborne radionuclide concentrations analyzed at the Radiation Protection Bureau (RPB). The RPB is responsible for delivering Health Canada’s program in the area of ionizing radiation protection. This dataset includes radionuclide concentrations at locations in RPB’s Canadian air monitoring networks including its Comprehensive Nuclear Test-Ban Treaty (CTBT) stations and the Canadian Radiological Monitoring Network (CRMN). The dataset may also include additional airborne radionuclide concentration data from other networks, fieldwork and any additional data collected during emergencies.
+
+The dataset shows concentrations of airborne radionuclides that were targeted for analysis and detected, for example, Beryllium-7 (7Be), Lead-210 (210Pb), Cesium-134 (134Cs), Cesium-137 (137Cs), Iodine-131 (131I), Xenon-133 (133Xe), and Xenon-135 (135Xe), among others. The data is presented in xml file format, selected to conform to the International Atomic Energy Agency’s (IAEA) International Radiological Information Exchange (IRIX) Format. The IRIX format is used to facilitate the exchange of web-based emergency data and information to help organizations respond to radiological incidents and emergencies. The dataset will be updated annually and occasionally more frequently. For example, the data will be revised from time to time to include historic data.
+
+-------------------------------
+Extracted Text:
+Airborne Radionuclide Concentrations Data Dictionary
+
+Airborne Radionuclide Concentrations (ARCs)
+- The activity of radionuclides found in the air, measured in Becquerel per unit of cubic meter (Bq/m3).
+
+Becquerel (Bq)
+- The International System of units (SI) for radioactivity, used to measure the rate of radioactive decay. One Becquerel is defined as one decay per second.
+
+Beryllium-7 (7Be)
+- A naturally occurring radionuclide that is produced in the earths upper atmosphere when cosmic rays bombard oxygen and nitrogen.
+
+Bq/m3
+ - Becquerel per cubic metre. The units used to report radioactivity concentration in air.
+
+Cesium-134 (134Cs)
+- An activation product with a half-life of 2.06 years. 134Cs decay is accompanied by beta particle and gamma ray emission. 134Cs can be present in the environment as a nuclear activation product.
+      
+Cesium-137 (137Cs)
+- A fission product with a half-life of 30.17 years. 137Cs decay is accompanied by strong gamma ray emission. 137Cs can be present in the environment as a nuclear fission product.
+      
+Geographic Coordinates
+- The latitude and longitude of location, using the WGS84 Coordinate Systems.
+
+Iodine-131 (131I)
+- has a half-life of eight days and can be present in the environment as a nuclear fission product.
+
+IRIX format
+- International Radiological Information Exchange Format. It is an xml file format developed by International Atomic Energy Association (IAEA) to facilitate the data report and exchange for the international radiological community. The data in IRIX format is self-explained, machine and human readable, easy to share and use. 
+
+Lead-210 (210Pb)
+- A a naturally occurring radioisotope that results from the decay of uranium found in the earths crust.
+
+Lead-212 (212Pb)
+- A naturally occurring radioisotope that results from the decay of thorium-232 found in the earths crust.
+
+Location
+- The geographical location of interest, such as a monitoring station. It may include the name of the location (e.g. name of the city, town or facility), geographical coordinates, name of the containing municipality, administrative unit, region as well as country.
+
+Measurement Start Time (UTC)
+- the data and time when the measurement starts, in Coordinated Universal Time (UTC). The format is in yyyy-mm-ddThh:mm:ssZ, which is the Date/Time string format used by the IRIX reports. Character T is used to separate date and time; and character Z is the end of the date/time string.
+
+Measurement End Time (UTC)
+- the data and time when the measurement ends, in Coordinated Universal Time. The format is in yyyy-mm-ddThh:mm:ssZ.
+       
+MDC
+- Minimum Detectable Concentration. The smallest concentration of radioactivity that can be reliably detected in a sample, for a given time of measurement.
+
+Reference Date and Time (UTC)
+- The date and time to which the concentrations are decay corrected, in Coordinated Universal   Time. The format is yyyy-mm-ddThh:mm:ssZ .
+
+Radionuclides
+- Radioactive forms of elements are called radionuclides. Some occur naturally in the environment, while others are man-made, either deliberately or as by-products of nuclear reactions.   
+
+Sampling Start Time (UTC)
+- In general, it is the date and time when the sample collection starts, in Coordinated Universal Time. The format is in yyyy-mm-ddThh:mm:ssZ.  For the air filter sample, it is the time when the filter was installed in the air sampler for collection; for noble gas sample it is the time when sampling starts. 
+     
+Sampling End Time (UTC)
+- In general, it is the date and time when the sample collection ends, in Coordinated Universal Time. The format is in yyyy-mm-ddThh:mm:ssZ.  
+
+Sodium-22 (22Na)
+- A cosmogenic radionuclide with a half-life as of 2.603 years, produced by cosmic rays which induce spallation of atmospheric argon. It can also be produced by atmospheric nuclear weapon test. The concentration level of 22Na from the natural production is very low and can not be always detected.
+
+Spallation
+- The process in which a target nucleus struck by a high-energy particle emits numerous nucleons and becomes a product nucleus lighter than the original nucleus. 
+
+Uncertainty
+- The amount that the calculated value may vary from the true value.
+
+Volume (m3)
+- The total volume of air that is drawn through the air sampler during the total collection time, in units of cubic metres.
+
+Xenon-133 (133Xe)
+- Xenon is a noble gas. Radioactive isotope Xe-133 (133Xe) has a half-life of 5.2474 days and can be present in the environment as a nuclear fission product. It can be released from nuclear explosions and also from some civilian sources, such as nuclear reactors and medical isotopes production facilities.
+
+Xenon-135 (135Xe)
+- Xenon is a noble gas. Radioactive isotope Xe-135 (135Xe) has a half-life of 9.14 hours and can be present in the environment as a nuclear fission product. It can be released from nuclear explosions and also from some civilian sources, such as nuclear reactors and medical isotopes production facilities.
+
+Xenon-131m (131mXe)
+- Xenon is a noble gas. Radioactive isotope Xe-131m (131mXe) has a half-life of 11.962 days and can be present in the environment as a nuclear fission product. It can be released from nuclear explosions and also from some civilian sources, such as nuclear reactors and medical isotopes production facilities.
+
+Xenon-133m (133mXe)
+- Xenon is a noble gas. Radioactive isotope Xe-133m (133mXe) has a half-life of 2.198 days and can be present in the environment as a nuclear fission product. It can be released from nuclear explosions and also from some civilian sources, such as nuclear reactors and medical isotopes production facilities.

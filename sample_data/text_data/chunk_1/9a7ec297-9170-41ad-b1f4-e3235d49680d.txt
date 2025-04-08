@@ -1,0 +1,4848 @@
+Created: 2019-12-13T23:31:53.853873
+Name: Health_Canada_-_Fees_Report_-_Fiscal_year_2018_to_2019
+Original URL: https://open.canada.ca/data/dataset/9a7ec297-9170-41ad-b1f4-e3235d49680d/resource/4e2f90b9-f472-4c4a-a6a8-1220f59b1879/download/2018-to-2019-user-fee-report-health-canada.pdf
+Package ID: 9a7ec297-9170-41ad-b1f4-e3235d49680d
+Keywords: ['Fees Report']
+Notes: Health Canada’s report on fees for fiscal year 2018 to 2019 is the second annual report under the Service Fees Act. This year’s report provides more detail on each fee, such as the type and rate of adjustment, the service standard and the performance result. This information provides additional context on each fee, in the spirit of open and transparent fee management.
+
+-------------------------------
+Extracted Text:
+Health Canada
+Fees Report
+Fiscal year 2018 to 2019
+[Minister’s name]
+[Minister’s title]
+Fees Report for Fiscal Year 2018 to 2019
+Health Canada is the federal department responsible for helping the people of Canada maintain and
+improve their health. Health Canada is committed to improving the lives of all of Canada's people and to
+making this country's population among the healthiest in the world as measured by longevity, lifestyle and
+effective use of the public health care system.
+Également disponible en français sous le titre :
+Rapport sur les frais - Exercice 2018 à 2019
+To obtain additional information, please contact:
+Health Canada
+Address Locator 0900C2
+Ottawa, ON K1A 0K9
+Tel.: 613-957-2991
+Toll free: 1-866-225-0709
+Fax: 613-941-5366
+TTY: 1-800-465-7735
+E-mail: hc.publications-publications.sc@canada.ca
+© Her Majesty the Queen in Right of Canada, as represented by the Minister of Health, 2019
+Publication date: December 2019
+This publication may be reproduced for personal or internal use only without permission provided the source
+is fully acknowledged.
+Cat.: H1-9/35E-PDF
+ISBN: 2562-3346
+Pub.: 190480
+This document is available on the Government of Canada website at www.canada.ca
+This document is available in alternative formats upon request.
+Health Canada Fees Report Fiscal year 2018 to 20192
+Fees Report for Fiscal Year 2018 to 2019
+Table of contents
+Minister’s message ................................................................................5
+About this report ...................................................................................6
+Remissions ...........................................................................................6
+Overall totals, by fee type ......................................................................7
+Totals for fees set by act, regulation or fees notice, by fee grouping ............7
+Details on each fee set by act, regulation or fees notice ..................................... 10
+Fees for Right to Sell Drugs ....................................................... 11
+Fees for Right to Sell a Licensed Class II, III or IV Medical Device ...... 15
+Fees for Examination of a Submission — Drugs for Human Use ........ 17
+Certificate of Supplemental Protection Application Fees .................. 32
+Fees for Examination of an Application for a Medical Device Licence . 33
+Fees for Examination of a Submission — Drugs for Veterinary Use
+Only ..................................................................................... 45
+Drug Establishment Licensing Fees ............................................ 67
+Drug Establishment Licensing Fees - Dealer’s Licences .................. 73
+Medical Device Establishment Licensing Fees ............................... 75
+Fees to be Paid for the Examination of an Application in Respect of a
+Pest Control Product ............................................................... 76
+Annual Charge (for a registered Pest Control Product) .................. 117
+Fees Charged for Filing a Claim for Exemption Under the Hazardous
+Materials Information Review Act.............................................. 118
+Cannabis Fees ...................................................................... 120
+Health Canada Fees Report Fiscal year 2018 to 2019 3
+
+Fees Report for Fiscal Year 2018 to 2019
+Minister’s message
+On behalf of Health Canada, I am pleased to present our report on
+fees for fiscal year 2018 to 2019, my organization’s second annual
+report under the Service Fees Act.
+The act provides a modern legislative framework that enables cost-
+effective delivery of services and, through better reporting to
+Parliament, improves transparency and oversight.
+Last year, a detailed listing of individual fees under the department’s
+authority, along with anticipated increases, was added to the
+reporting requirements.
+This year’s report provides more detail on each fee, such as the type and rate of
+adjustment, the service standard and the performance result. This information provides
+additional context on each fee, in the spirit of open and transparent fee management.
+Additionally, this report includes the revision of the fees in respect of drugs and medical
+devices. In 2017, Health Canada began engaging with stakeholders to revise fees for
+regulatory activities related to human drugs, veterinary drugs, and medical devices and
+effective April 1, 2020, fees, where indicated, will be repealed from the Financial
+Administration Act and set under the authority of the Food and Drugs Act. In some
+instances, new fees are being introduced and some fees are being discontinued.
+Cannabis fees were introduced on October 17, 2018 to support the legalization, strict
+regulation and restriction on access to cannabis under the Cannabis Act.
+I welcome the increased transparency and oversight that the Service Fees Act’s reporting
+regime embodies, and I am fully committed to transitioning my department to this
+modern framework. I look forward to continuing to advance my key mandate priorities
+through collaboration and evidence-based decision-making that will maintain and
+improve the health and safety of all Canadians.
+The Honourable Patty Hajdu
+Minister of Health
+Health Canada Fees Report Fiscal year 2018 to 2019 5
+Fees Report for Fiscal Year 2018 to 2019
+About this report
+This report, which is tabled under section 20 of the Service Fees Act and section 4.2.8 of
+the Directive on Charging and Special Financial Authorities, contains information about
+the fees that Health Canada had the authority to charge in the 2018 to 2019 fiscal year.
+This report contains information about all fees that are under Health Canada’s authority,
+even if some or all of the fees are collected by another department.
+The information reported includes fees that:
+ fall under the Service Fees Act
+ are exempt from the Service Fees Act
+The information covers fees set by:
+ contract
+ market-base, auction or both
+ act, regulation or fees notice
+For fees set by the following mechanisms, the report provides totals only:
+ contract
+ market-base, auction or both
+For fees set by act, regulation or fees notice, the report provides totals for fee groupings,
+as well as detailed information for each individual fee.
+Although the fees charged by Health Canada under the Access to Information Act are
+subject to the Service Fees Act, they are not included in this report. Information on Health
+Canada’s access to information fees for fiscal year 2018 to 2019 can be found in our
+access to information report, which is posted on https://www.canada.ca/en/health-
+canada/corporate/about-health-canada/reports-publications.html.
+Remissions
+A remission is a partial or full return of a fee to a fee payer who paid for a service for
+which a department deemed that the service standard was not met.
+Under the Service Fees Act, departments must develop policies for determining whether a
+service standard has been met and for determining how much of a fee will be remitted to
+a fee payer. This requirement does not take effect until April 1, 2020. This report
+Health Canada Fees Report Fiscal year 2018 to 2019 6
+Fees Report for Fiscal Year 2018 to 2019
+therefore includes only those remissions issued under Health Canada’s enabling
+legislation. It does not include remissions issued under the Service Fees Act.
+Overall totals, by fee type
+The following table presents the total revenue, cost and remissions for all fees that Health
+Canada had the authority to charge in fiscal year 2018 to 2019, by fee type.
+Overall totals for fiscal year 2018 to 2019, by fee type
+Fee type Revenue ($) Cost ($) Remissions ($)
+Fees set by 7,851,760 9,193,525 Remissions do not apply to
+contract * fees set by contract.
+Fees set by 0 0 Remissions do not apply to
+market base, fees set by market base,
+auction or both auction or both.
+Fees set by act, 120,090,045 439,609,891 0
+regulation or fees
+notice
+Total 127,941,805 448,803,416 0
+*Fees set by contract include National Dosimetry Services, Drug Master Files and Certificate of
+Pharmaceutical Products
+Totals for fees set by act, regulation or fees notice,
+by fee grouping
+The following tables present, for each fee grouping, the total revenue, cost and
+remissions for all fees that Health Canada had the authority to charge in fiscal year 2018
+to 2019 that are set by any of the following:
+ act
+ regulation
+ fees notice
+A fee grouping is a grouping of all of the fees that a department has the authority to
+charge for activities relating to a single business line, directorate or program.
+Fees for the Right to Sell Drugs: totals for fiscal year 2018 to 2019
+Health Canada Fees Report Fiscal year 2018 to 2019 7
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for the Right to Sell Drugs
+Revenue ($) Cost ($) Remissions ($)
+12,115,915 72,993,018 0
+Fees for the Right to Sell Licensed Class II, III, or IV Medical Devices: totals for fiscal year
+2018 to 2019
+Fee grouping Fees for the Right to Sell Licensed Class II, III, or IV Medical
+Devices
+Revenue ($) Cost ($) Remissions ($)
+8,607,115 23,128,668 0
+Fees for Examination of a Submission — Drugs for Human Use: totals for fiscal year 2018
+to 2019
+Fee grouping Fees for Examination of a Submission — Drugs for Human Use
+Revenue ($) Cost ($) Remissions ($)
+47,907,159 108,715,232 0
+Certificate of Supplementary Protection Application Fees: totals for fiscal year 2018 to
+2019
+Fee grouping Certificate of Supplementary Protection Application Fees
+Revenue ($) Cost ($) Remissions ($)
+229,981 728,757 0
+Fees for the Examination of Medical Device Licence Applications: totals for fiscal year
+2018 to 2019
+Health Canada Fees Report Fiscal year 2018 to 2019 8
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for the Examination of Medical Device Licence Applications
+Revenue ($) Cost ($) Remissions ($)
+6,132,439 22,607,534 0
+Fees for Examination of a Submission — Drugs for Veterinary Use Only: totals for fiscal
+year 2018 to 2019
+Fee grouping Fees for Examination of a Submission — Drugs for Veterinary
+Use Only
+Revenue ($) Cost ($) Remissions ($)
+582,022 6,139,407 0
+Drug Establishment Licensing Fees: totals for fiscal year 2018 to 2019
+Fee grouping Drug Establishment Licensing Fees
+Revenue ($) Cost ($) Remissions ($)
+16,798,078 32,885,388 0
+Medical Devices Establishment Licensing Fees: totals for fiscal year 2018 to 2019
+Fee grouping Medical Devices Establishment Licensing Fees
+Revenue ($) Cost ($) Remissions ($)
+8,241,721 9,938,932 0
+Fees to be Paid for the Examination of an Application in Respect of a Pest Control
+Product: totals for fiscal year 2018 to 2019
+Fee grouping Fees to be Paid for the Examination of an Application in Respect
+of a Pest Control Product:
+Revenue ($) Cost ($) Remissions ($)
+5,397,880 36,746,746 0
+Health Canada Fees Report Fiscal year 2018 to 2019 9
+Fees Report for Fiscal Year 2018 to 2019
+Annual Charge (for a registered Pest Control Product): totals for fiscal year 2018 to 2019
+Fee grouping Annual Charge (for a registered Pest Control Product)
+Revenue ($) Cost ($) Remissions ($)
+9,342,992 30,211,129 0
+Fees charged for filing a claim for exemption under the Hazardous Materials Information
+Review Act: totals for fiscal year 2018 to 2019
+Fee grouping Fees charged for filing a claim for exemption under the
+Hazardous Materials Information Review Act
+Revenue ($) Cost ($) Remissions ($)
+458,994 3,246,547 0
+Cannabis Fees: totals for fiscal year 2018 to 2019
+Fee grouping Cannabis Fees
+Revenue ($) Cost ($) Remissions ($)
+4,185,748 92,268,533 0
+Details on each fee set by act, regulation or fees notice
+This section provides detailed information on each fee that Health Canada had the
+authority to charge in fiscal year 2018 to 2019 and that was set by any of the following:
+ act
+ regulation
+ fees notice
+In most cases, the Department does not currently report revenue collections at the
+individual fee level. Health Canada is working to implement financial system changes to
+enable lower-level fee reporting in the future.
+Health Canada Fees Report Fiscal year 2018 to 2019 10
+Fees Report for Fiscal Year 2018 to 2019
+Fees for Right to Sell Drugs
+Health Canada monitors human and veterinary drugs on the Canadian market through post-
+market surveillance and compliance and enforcement activities. Industry pays an annual fee for
+the right to maintain and sell human and veterinary drugs in Canada.
+Fee grouping Fees for Right to Sell Drugs
+Fee Human drugs
+Fee-setting authority: 2018  Financial Administration Act (FAA)
+to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 2019 to 2020: same as 2018 to 2019
+and onwards
+2020 and onwards: fee discontinued April 1 2020
+Year introduced 1995
+Last year fee-setting 2011
+authority was amended
+Fee type Other Authorization
+Fee amount ($) 1,176
+Total fee revenue ($) No data available at this time
+Adjustment type Not applicable, fee discontinued as of April 1 2020
+Adjustment rate Not applicable, fee discontinued as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) Not applicable, fee discontinued as of April 1 2020
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, fee discontinued as of April 1 2020
+Fee-adjustment authority Not applicable, fee discontinued as of April 1 2020
+Service standard 120 days to update the Drug Product Database following
+receipt of a complete Annual Notification Package
+Performance result 100% completed on time
+Fee grouping Fees for Right to Sell Drugs
+Fee Human drugs - Disinfectant (item 1)
+Fee-setting authority: Not applicable, new fees as of April 1 2020
+2018 to 2019
+Fee-setting authority: 2020 and onwards:
+2019 and onwards
+ Food and Drugs Act (FDA)
+Health Canada Fees Report Fiscal year 2018 to 2019 11
+Fees Report for Fiscal Year 2018 to 2019
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 2019
+Last year fee-setting Not Applicable
+authority was amended
+Fee type Other Authorization
+Fee amount ($) Not applicable, new fee as of April 1 2020
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, new fee as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount 1,285
+($)
+Future fee-adjusted Not applicable
+amount ($)
+Adjustment date Not applicable, new fee as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over four years as well as the annual CPI
+adjustment.
+Service standard 20 days to update the Drug Product Database following
+receipt of a complete Annual Notification Package
+Performance result Not applicable, new fee as of April 1 2020
+Fee grouping Fees for Right to Sell Drugs
+Fee Human drugs - Non-prescription (item 2)
+Fee-setting authority: Not applicable, new fees as of April 1 2020
+2018 to 2019
+Fee-setting authority: 2020 and onwards:
+2019 and onwards
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 2019
+Last year fee-setting Not Applicable
+authority was amended
+Fee type Other Authorization
+Fee amount ($) Not applicable, new fee as of April 1 2020
+Health Canada Fees Report Fiscal year 2018 to 2019 12
+Fees Report for Fiscal Year 2018 to 2019
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, new fee as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount 1,623
+($)
+Future fee-adjusted Not applicable
+amount ($)
+Adjustment date Not applicable, new fee as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over four years as well as the annual CPI
+adjustment.
+Service standard 20 days to update the Drug Product Database following
+receipt of a complete Annual Notification Package
+Performance result Not applicable, new fee as of April 1 2020
+Fee grouping Fees for Right to Sell Drugs
+Fee Human drugs - Prescription (drug other than one referred to
+in item 1 or 2)
+Fee-setting authority: Not applicable, new fees as of April 1 2020
+2018 to 2019
+Fee-setting authority: 2020 and onwards:
+2019 and onwards
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 2019
+Last year fee-setting Not Applicable
+authority was amended
+Fee type Other Authorization
+Fee amount ($) Not applicable, new fee as of April 1 2020
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, new fee as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount 1,836
+($)
+Health Canada Fees Report Fiscal year 2018 to 2019 13
+Fees Report for Fiscal Year 2018 to 2019
+Future fee-adjusted Not applicable
+amount ($)
+Adjustment date Not applicable, new fee as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over four years as well as the annual CPI
+adjustment.
+Service standard 20 days to update the Drug Product Database following
+receipt of a complete Annual Notification Package
+Performance result Not applicable, new fee as of April 1 2020
+Fee grouping Fees for Right to Sell Drugs
+Fee Veterinary Drugs
+Fee-setting authority: 2018  Financial Administration Act (FAA)
+to 2019  Authority to Sell Veterinary Drug Fees Regulations
+Fee-setting authority: 2019 2019 to 2020: same as 2018 to 2019
+and onwards
+2020 and onwards:
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices
+Order
+Year introduced 1995
+Last year fee-setting 2019
+authority was amended
+Fee type Other Authorization
+Fee amount ($) 250
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) 312
+Future fee-adjusted Not applicable
+amount ($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Health Canada Fees Report Fiscal year 2018 to 2019 14
+Fees Report for Fiscal Year 2018 to 2019
+Fees phased in over four years as well as the annual CPI
+adjustment.
+Service standard 120 days to update the Drug Product Database following
+receipt of a complete Annual Notification Package
+* As of April 1 2020 will be 20 days
+Performance result 100% completed on time
+Fees for Right to Sell a Licensed Class II, III or IV Medical Device
+Health Canada monitors medical devices on the Canadian market through post-market
+surveillance and compliance and enforcement activities. There is an annual fee for the right to
+sell a Class II, III, IV medical device.
+Fee grouping Fees for Right to Sell a Licensed Class II, III or IV Medical
+Device
+Fee Medical Device Right to Sell (if annual gross revenue medical
+device sales is less than $20,000)
+Fee-setting authority: 2018  Financial Administration Act (FAA)
+to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 2019 to 2020: same as 2018 to 2019
+and onwards
+2020 and onwards: fee discontinued April 1 2020
+Year introduced 1999
+Last year fee-setting 2011
+authority was amended
+Fee type Other Authorization
+Fee amount ($) 63
+Total fee revenue ($) No data available at this time
+Adjustment type Not applicable, fee discontinued as of April 1 2020
+Adjustment rate Not applicable, fee discontinued as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) Not applicable, fee discontinued as of April 1 2020
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, fee discontinued as of April 1 2020
+Fee-adjustment authority Not applicable, fee discontinued as of April 1 2020
+Health Canada Fees Report Fiscal year 2018 to 2019 15
+Fees Report for Fiscal Year 2018 to 2019
+Service standard 20 days from deadline for receipt of annual notification to
+update the Medical Devices License Listing (MDALL)
+database
+Performance result 99.94% completed on time
+Fee grouping Fees for Right to Sell a Licensed Class II, III or IV Medical
+Device
+Fee Medical Device Right to Sell
+Fee-setting authority: 2018  Financial Administration Act (FAA)
+to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 2019 to 2020: same as 2018 to 2019
+and onwards
+2020 and onwards:
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1999
+Last year fee-setting 2019
+authority was amended
+Fee type Other Authorization
+Fee amount ($) 383
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) 381
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Service standard 20 days from deadline for receipt of annual notification to
+update the Medical Devices License Listing (MDALL)
+database
+Performance result 99.94% completed on time
+Health Canada Fees Report Fiscal year 2018 to 2019 16
+Fees Report for Fiscal Year 2018 to 2019
+Fees for Examination of a Submission — Drugs for Human Use
+Before a drug is authorized for sale in Canada, Health Canada reviews it to assess its safety,
+efficacy and quality. Drug products include prescription and non-prescription pharmaceuticals,
+biologics, disinfectants and sanitizers with disinfectant claims.
+Fee grouping Fees for Examination of a Submission — Drugs for Human
+Use
+Fee New active substance
+Fee-setting authority:  Financial Administration Act (FAA)
+2018 to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 to 2020: same as 2018 to 2019
+2019 and onwards
+2020 and onwards:
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1995
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) 348,606
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount 400,288
+($)
+Future fee-adjusted Not applicable
+amount ($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over four years as well as the annual CPI
+adjustment.
+Service standard (average New drug submission (NDS) - 300 Days
+time to complete Review
+1)
+Performance result NDS - Pharmaceuticals (254 Days) Biologics (226 Days)
+(average)
+Health Canada Fees Report Fiscal year 2018 to 2019 17
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for Examination of a Submission — Drugs for Human
+Use
+Fee Clinical or non-clinical data and chemistry and manufacturing
+data
+Fee-setting authority:  Financial Administration Act (FAA)
+2018 to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 to 2020: same as 2018 to 2019
+2019 and onwards
+2020 and onwards:
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1995
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) 176,569
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount 204,197
+($)
+Future fee-adjusted Not applicable
+amount ($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over four years as well as the annual CPI
+adjustment.
+Service standard (average New drug submission (NDS) - 300 Days
+time to complete Review
+Supplement to a new drug submission (SNDS) - 300 Days
+1)
+Drug identification number application (DIN A) - 210 Days
+Performance result NDS - Pharmaceuticals (278 Days) Biologics (275 Days)
+(average)
+SNDS - Pharmaceuticals (270 Days) Biologics (300 Days)
+DIN A - Pharmaceuticals (206 Days)
+Health Canada Fees Report Fiscal year 2018 to 2019 18
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for Examination of a Submission — Drugs for Human
+Use
+Fee Clinical or non-clinical data only
+Fee-setting authority:  Financial Administration Act (FAA)
+2018 to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 to 2020: same as 2018 to 2019
+2019 and onwards
+2020 and onwards:
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1995
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) 82,410
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount 90,864
+($)
+Future fee-adjusted Not applicable
+amount ($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over four years as well as the annual CPI
+adjustment.
+Service standard Supplement to a new drug submission (SNDS) - 300 Days
+(average time to
+Drug identification number application (DIN A) - 210 Days
+complete Review 1)
+Performance result SNDS - Pharmaceuticals (276 Days) Biologics (275 Days)
+(average)
+DIN A - Pharmaceuticals (208 Days)
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for Examination of a Submission — Drugs for Human
+Use
+Fee Comparative studies
+Fee-setting authority:  Financial Administration Act (FAA)
+2018 to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 to 2020: same as 2018 to 2019
+2019 and onwards
+2020 and onwards:
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1995
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) 49,811
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount 53,836
+($)
+Future fee-adjusted Not applicable
+amount ($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over four years as well as the annual CPI
+adjustment.
+Service standard Abbreviated new drug submission (ANDS) - 180 Days
+(average time to
+New drug submission (NDS) - 180 Days
+complete Review 1)
+Supplement to an abbreviated new drug submission (SANDS)
+- 180 Days
+Supplement to a new drug submission - 180 Days
+Drug identification number application (DIN A) - 210 Days
+Performance result ANDS- Pharmaceuticals (168 Days)
+(average)
+NDS - Pharmaceuticals (178 Days)
+SANDS- Pharmaceuticals (148 Days)
+Health Canada Fees Report Fiscal year 2018 to 2019 20
+Fees Report for Fiscal Year 2018 to 2019
+SNDS - Pharmaceuticals (173 Days) Biologics (179 Days)
+DIN A - Pharmaceuticals (202 Days)
+Fee grouping Fees for Examination of a Submission — Drugs for Human
+Use
+Fee Chemistry and manufacturing data only
+Fee-setting authority:  Financial Administration Act (FAA)
+2018 to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 to 2020: same as 2018 to 2019
+2019 and onwards
+2020 and onwards:
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices
+Order
+Year introduced 1995
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) 23,551
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount 27,587
+($)
+Future fee-adjusted Not applicable
+amount ($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over four years as well as the annual CPI
+adjustment.
+Service standard Abbreviated new drug submission (ANDS) - 180 Days
+(average time to
+New drug submission (NDS) - 180 Days
+complete Review 1)
+Supplement to an abbreviated new drug submission
+(SANDS)- 180 Days
+Supplement to a new drug submission - 180 Days
+Drug identification number application (DIN A) - 210 Days
+Health Canada Fees Report Fiscal year 2018 to 2019 21
+Fees Report for Fiscal Year 2018 to 2019
+Performance result ANDS - Pharmaceuticals (170 Days)
+(average)
+NDS - Pharmaceuticals (178 Days)
+SANDS - Pharmaceuticals (155 Days)
+SNDS - Pharmaceuticals (162 Days) Biologics (143 Days)
+DIN A- Pharmaceuticals (194 Days) Biologics (207 Days)
+Fee grouping Fees for Examination of a Submission — Drugs for Human
+Use
+Fee Clinical or non-clinical data only, in support of safety upgrades
+to the labelling
+Fee-setting authority: Not applicable, new fees as of April 1 2020
+2018 to 2019
+Fee-setting authority: 2020 and onwards:
+2019 and onwards
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 2019
+Last year fee-setting Not applicable
+authority was amended
+Fee type Service
+Fee amount ($) Not applicable, new fees as of April 1 2020
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate Not applicable, new fees as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount 19,442
+($)
+Future fee-adjusted Not applicable
+amount ($)
+Adjustment date Not applicable, new fees as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Service standard 120 Days
+(average time to
+complete Review 1)
+Performance result Not applicable, new fees as of April 1 2020
+(average)
+Health Canada Fees Report Fiscal year 2018 to 2019 22
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for Examination of a Submission — Drugs for Human
+Use
+Fee Published data only
+Fee-setting authority:  Financial Administration Act (FAA)
+2018 to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 to 2020: same as 2018 to 2019
+2019 and onwards
+2020 and onwards: fee discontinued April 1 2020
+Year introduced 1995
+Last year fee-setting 2011
+authority was amended
+Fee type Service
+Fee amount ($) 19,530
+Total fee revenue ($) No data available at this time
+Adjustment type Not applicable, fee discontinued as of April 1 2020
+Adjustment rate Not applicable, fee discontinued as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount Not applicable, fee discontinued as of April 1 2020
+($)
+Future fee-adjusted Not applicable
+amount ($)
+Adjustment date Not applicable, fee discontinued as of April 1 2020
+Fee-adjustment authority Not applicable, fee discontinued as of April 1 2020
+Service standard Supplement to a new drug submission (SNDS)- 300 Days
+(average time to
+Drug identification number application (DIN A) - 210 Days
+complete Review 1)
+Performance result SNDS - Pharmaceuticals (271 Days) Biologics (273 Days)
+(average)
+DIN A - Pharmaceuticals (189 Days)
+Health Canada Fees Report Fiscal year 2018 to 2019 23
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for Examination of a Submission — Drugs for Human
+Use
+Fee Switch from prescription to non-prescription status
+Fee-setting authority:  Financial Administration Act (FAA)
+2018 to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 to 2020: same as 2018 to 2019
+2019 and onwards
+2020 and onwards: fee discontinued April 1 2020
+Year introduced 1995
+Last year fee-setting 2011
+authority was amended
+Fee type Service
+Fee amount ($) 47,421
+Total fee revenue ($) No data available at this time
+Adjustment type Not applicable, fee discontinued as of April 1 2020
+Adjustment rate Not applicable, fee discontinued as of April 1 2020
+(% or formula)
+2020 to 2021 fee Not applicable, fee discontinued as of April 1 2020
+amount ($)
+Future fee-adjusted Not applicable
+amount ($)
+Adjustment date Not applicable, fee discontinued as of April 1 2020
+Fee-adjustment Not applicable, fee discontinued as of April 1 2020
+authority
+Service standard Supplement to a new drug submission (SNDS) - 180 Days
+(average time to
+complete Review 1)
+Performance result Supplement to a new drug submission - 179 Days
+(average)
+Health Canada Fees Report Fiscal year 2018 to 2019 24
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for Examination of a Submission — Drugs for Human
+Use
+Fee Labelling only
+Fee-setting authority:  Financial Administration Act (FAA)
+2018 to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 to 2020: same as 2018 to 2019
+2019 and onwards
+2020 and onwards:
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1995
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) 3,174
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee 3,816
+amount ($)
+Future fee-adjusted Not applicable
+amount ($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment Fees in Respect of Drugs and Medical Devices Order
+authority
+Fees phased in over four years as well as the annual CPI
+adjustment.
+Service standard New drug submission (NDS) - 60 Days
+(average time to
+Supplement to a new drug submission (SNDS) - 60 Days
+complete Review 1)
+Abbreviated new drug submission (ANDS) - 60 Days
+Supplement to an abbreviated new drug submission
+(SANDS)- 60 Days
+Drug identification number application (DIN A)- 180 Days
+* As of April 2020 will be 120 Days for all types
+Performance result NDS - Pharmaceuticals (50 Days) Biologics (59 Days)
+(average)
+SNDS - Pharmaceuticals (52 Days) Biologics (58 Days)
+ANDS - Pharmaceuticals (40 Days)
+Health Canada Fees Report Fiscal year 2018 to 2019 25
+Fees Report for Fiscal Year 2018 to 2019
+SANDS - Pharmaceuticals (37 Days)
+DIN A - Pharmaceuticals (159 Days) Biologics (105 Days)
+Fee grouping Fees for Examination of a Submission — Drugs for Human
+Use
+Fee Labelling only (generic drugs)
+Fee-setting authority: Not applicable, new fees as of April 1 2020
+2018 to 2019
+Fee-setting authority: 2020 and onwards:
+2019 and onwards
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 2019
+Last year fee-setting Not applicable
+authority was amended
+Fee type Service
+Fee amount ($) Not applicable, new fee as of April 1 2020
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate Not applicable, new fee as of April 1 2020
+(% or formula)
+2020 to 2021 fee 2,010
+amount ($)
+Future fee-adjusted Not applicable
+amount ($)
+Adjustment date Not applicable, new fee as of April 1 2020
+Fee-adjustment Fees in Respect of Drugs and Medical Devices Order
+authority
+Service standard 120 Days
+(average time to
+complete Review 1)
+Performance result Not applicable, new fee as of April 1 2020
+(average)
+Health Canada Fees Report Fiscal year 2018 to 2019 26
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for Examination of a Submission — Drugs for Human
+Use
+Fee Administrative submission
+Fee-setting authority:  Financial Administration Act (FAA)
+2018 to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 to 2020: same as 2018 to 2019
+2019 and onwards
+2020 and onwards:
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1995
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) 331
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount 432
+($)
+Future fee-adjusted Not applicable
+amount ($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over four years as well as the annual CPI
+adjustment.
+Service standard (average Abbreviated new drug submission (ANDS)- 45 Days
+time to complete Review
+New drug submission (NDS)- 45 Days
+1)
+Supplement to a new drug submission (SNDS) - 45 Days
+Supplement to an abbreviated new drug submission
+(SANDS)- 45 Days
+Drug identification number application (DIN A & B)- 45 Days
+Drug identification number application - Disinfectant (DIN D) -
+45 Days
+Performance result ANDS - Pharmaceuticals (30 Days)
+(average)
+NDS - Pharmaceuticals (28 Days)
+SNDS - Pharmaceuticals (24 Days)
+Fees Report for Fiscal Year 2018 to 2019
+SANDS - Pharmaceuticals (26 Days)
+DIN A & B - Pharmaceuticals (25 Days) Biologics (40 Days)
+DIN D - Pharmaceuticals (34 Days)
+Fee grouping Fees for Examination of a Submission — Drugs for Human
+Use
+Fee Disinfectant - full review
+Fee-setting authority: 2018  Financial Administration Act (FAA)
+to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 2019 to 2020: same as 2018 to 2019
+and onwards
+2020 and onwards:
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1995
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) 4,392
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) 5,712
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over four years as well as the annual CPI
+adjustment.
+Service standard (average New drug submission (NDS) - 300 Days
+time to complete Review 1)
+Drug identification number application (Disinfectant 210) (DIN
+D 210) - 210 Days
+Performance result NDS - Pharmaceuticals (294 Days)
+(average)
+DIN D 210 - Pharmaceuticals (204 Days)
+Health Canada Fees Report Fiscal year 2018 to 2019 28
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for Examination of a Submission — Drugs for Human
+Use
+Fee Labelling only (disinfectants)
+Fee-setting authority: 2018 Not applicable, new fee as of April 1 2020
+to 2019
+Fee-setting authority: 2019 2020 and onwards:
+and onwards
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 2019
+Last year fee-setting Not applicable
+authority was amended
+Fee type Service
+Fee amount ($) Not applicable, new fee as of April 1 2020
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, new fee as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) 2,507
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, new fee as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over four years as well as the annual CPI
+adjustment.
+Service standard (average 120 Days
+time to complete Review 1)
+Performance result Not applicable, new fee as of April 1 2020
+(average)
+
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for Examination of a Submission — Drugs for
+Human Use
+Fee Drug identification number application – labelling
+standards
+Fee-setting authority:  Financial Administration Act (FAA)
+2018 to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 to 2020: same as 2018 to 2019
+2019 and onwards
+2020 and onwards:
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices
+Order
+Year introduced 1995
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) 1,761
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount 1,616
+($)
+Future fee-adjusted Not applicable
+amount ($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over four years as well as the annual
+CPI adjustment.
+Service standard (average Drug identification number application (DIN A) - 45 Days
+time to complete Review
+Drug identification number application -Disinfectant (DIN
+1)
+D)- 45 Days
+Drug identification number application - Category IV (DIN
+F) - 45 Days
+* As of April 2020 it will be 60 Days for all types
+Performance result DIN A - Pharmaceuticals (41 Days)
+(average)
+DIN D - Pharmaceuticals (40 Days)
+DIN F - Pharmaceuticals (41 Days)
+Health Canada Fees Report Fiscal year 2018 to 2019 31
+Fees Report for Fiscal Year 2018 to 2019
+Certificate of Supplemental Protection Application Fees
+In agreeing to provisionally apply the Canada-European Union Comprehensive Economic and
+Trade Agreement (CETA), Canada has committed to provide up to two years of sui generis (of its
+own kind) protection for new pharmaceutical products protected by an eligible patent, from the
+expiry of the patent. Canada has implemented this commitment by introducing Certificates of
+Supplementary Protection (CSPs) for medicinal ingredients, applicable for Canadian
+pharmaceuticals, biologics and veterinary drugs.
+Fee grouping Certificate of Supplemental Protection Application Fees
+Fee Certificate of Supplemental Protection Application Fees
+Fee-setting authority: 2018  Patent Act
+to 2019  Certificate of Supplementary Protection Regulations
+Fee-setting authority: 2019  Patent Act
+and onwards  Certificate of Supplementary Protection Regulations
+Year introduced 2017
+Last year fee-setting Not applicable
+authority was amended
+Fee type Service
+Fee amount ($) 9,192
+Total fee revenue ($) 229,981
+Adjustment type Annual
+Adjustment rate 2% rounded up to the nearest dollar
+(% or formula)
+2020 to 2021 fee amount ($) 9,564
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1 2020
+Fee-adjustment authority Certificate of Supplementary Protection Regulations
+Service standard (average) 60 Days for the first eligibility decision
+Performance result 40 Days
+(average)
+Health Canada Fees Report Fiscal year 2018 to 2019 32
+Fees Report for Fiscal Year 2018 to 2019
+Fees for Examination of an Application for a Medical Device
+Licence
+The Medical Device Licence Application Fees apply only to Class II, III and IV medical device
+licence applications. The following types of medical devices are exempt from medical device
+licensing and therefore no fees apply: Class I medical devices; custom-made medical devices;
+medical devices for special access; medical devices for investigational testing involving human
+subjects.
+Fee grouping Fees for Examination of an Application for a Medical Device
+Licence
+Fee Applications for Class II licence
+Fee-setting authority: 2018  Financial Administration Act (FAA)
+to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 2019 to 2020: same as 2018 to 2019
+and onwards
+2020 and onwards:
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1998
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) 397
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) 450
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over four years as well as the annual CPI
+adjustment.
+Service standard (average) 15 Days to complete Review 1
+Performance result 9 Days to complete Review 1
+(average)
+Health Canada Fees Report Fiscal year 2018 to 2019 33
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for Examination of an Application for a Medical Device
+Licence
+Fee Applications for Class II licence amendment
+Fee-setting authority: 2018 Not applicable, new fee as of April 1 2020
+to 2019
+Fee-setting authority: 2019 2020 and onwards:
+and onwards
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 2019
+Last year fee-setting Not applicable
+authority was amended
+Fee type Service
+Fee amount ($) Not applicable, new fee as of April 1 2020
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate Not applicable, new fee as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) 272
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, new fee as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Service standard (average) 15 Days to complete Review 1
+Performance result Not applicable, new fee as of April 1 2020
+(average)
+Health Canada Fees Report Fiscal year 2018 to 2019 34
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for Examination of an Application for a Medical Device
+Licence
+Fee Applications for Class III licence
+Fee-setting authority: 2018  Financial Administration Act (FAA)
+to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 2019 to 2020: same as 2018 to 2019
+and onwards
+2020 and onwards:
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1998
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) 5,691
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) 7,477
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over four years as well as the annual CPI
+adjustment.
+Service standard (average) 60 Days to complete Review 1
+Performance result 49 Days to complete Review 1
+(average)
+Health Canada Fees Report Fiscal year 2018 to 2019 35
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for Examination of an Application for a Medical Device
+Licence
+Fee Applications for Class III licence (near patient)
+Fee-setting authority: 2018  Financial Administration Act (FAA)
+to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 2019 to 2020: same as 2018 to 2019
+and onwards
+2020 and onwards:
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1998
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) 9,687
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) 12,851
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over four years as well as the annual CPI
+adjustment.
+Service standard (average) 60 Days to complete Review 1
+Performance result 49 Days to complete Review 1
+(average)
+Health Canada Fees Report Fiscal year 2018 to 2019 36
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for Examination of an Application for a Medical Device
+Licence
+Fee Applications for Class III licence amendment - changes in
+manufacturing
+Fee-setting authority: 2018  Financial Administration Act (FAA)
+to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 2019 to 2020: same as 2018 to 2019
+and onwards
+2020 and onwards:
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1998
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) 1,433
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) 1,903
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over four years as well as the annual CPI
+adjustment.
+Service standard (average) 60 Days to complete Review 1
+Performance result 40 Days to complete Review 1
+(average)
+Health Canada Fees Report Fiscal year 2018 to 2019 37
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for Examination of an Application for a Medical Device
+Licence
+Fee Applications for Class III licence amendment - significant
+changes not related to manufacturing
+Fee-setting authority: 2018  Financial Administration Act (FAA)
+to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 2019 to 2020: same as 2018 to 2019
+and onwards
+2020 and onwards:
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1998
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) 5,330
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) 6,608
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over four years as well as the annual CPI
+adjustment.
+Service standard (average) 60 Days to complete Review 1
+Performance result 48 Days to complete Review 1
+(average)
+Health Canada Fees Report Fiscal year 2018 to 2019 38
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for Examination of an Application for a Medical Device
+Licence
+Fee Applications for Class IV licence
+Fee-setting authority: 2018 Not applicable, new fee as of April 1 2020
+to 2019
+Fee-setting authority: 2019 2020 and onwards:
+and onwards
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 2019
+Last year fee-setting Not applicable
+authority was amended
+Fee type Service
+Fee amount ($) Not applicable, new fee as of April 1 2020
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, new fee as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) 24,345
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, new fee as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over four years as well as the annual CPI
+adjustment.
+Service standard (average) 75 Days to complete Review 1
+Performance result Not applicable, new fee as of April 1 2020
+(average)
+Health Canada Fees Report Fiscal year 2018 to 2019 39
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for Examination of an Application for a Medical Device
+Licence
+Fee Applications for Class IV licence
+Fee-setting authority: 2018  Financial Administration Act (FAA)
+to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 2019 to 2020: same as 2018 to 2019
+and onwards
+2020 and onwards: fee discontinued April 1 2020
+Year introduced 1998
+Last year fee-setting 2011
+authority was amended
+Fee type Service
+Fee amount ($) 13,235
+Total fee revenue ($) No data available at this time
+Adjustment type Not applicable, fee discontinued as of April 1 2020
+Adjustment rate Not applicable, fee discontinued as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) Not applicable, fee discontinued as of April 1 2020
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, fee discontinued as of April 1 2020
+Fee-adjustment authority Not applicable, fee discontinued as of April 1 2020
+Service standard (average) 75 Days to complete Review 1
+Performance result 58 Days to complete Review 1
+(average)
+Health Canada Fees Report Fiscal year 2018 to 2019 40
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for Examination of an Application for a Medical Device
+Licence
+Fee Class IV - Licence Application (Devices that contain Human-
+Animal Tissue)
+Fee-setting authority: 2018  Financial Administration Act (FAA)
+to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 2019 to 2020: same as 2018 to 2019
+and onwards
+2020 and onwards: fee discontinued April 1 2020
+Year introduced 1998
+Last year fee-setting 2011
+authority was amended
+Fee type Service
+Fee amount ($) 12,347
+Total fee revenue ($) No data available at this time
+Adjustment type Not applicable, fee discontinued as of April 1 2020
+Adjustment rate Not applicable, fee discontinued as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) Not applicable, fee discontinued as of April 1 2020
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, fee discontinued as of April 1 2020
+Fee-adjustment authority Not applicable, fee discontinued as of April 1 2020
+Service standard (average) 75 Days to complete Review 1
+Performance result 54 Days to complete Review 1
+(average)
+Health Canada Fees Report Fiscal year 2018 to 2019 41
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for Examination of an Application for a Medical Device
+Licence
+Fee Class IV - Licence Application (Near patient In Vitro
+Diagnostic Device)
+Fee-setting authority: 2018  Financial Administration Act (FAA)
+to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 2019 to 2020: same as 2018 to 2019
+and onwards
+2020 and onwards: fee discontinued April 1 2020
+Year introduced 1998
+Last year fee-setting 2011
+authority was amended
+Fee type Service
+Fee amount ($) 22,560
+Total fee revenue ($) No data available at this time
+Adjustment type Not applicable, fee discontinued as of April 1 2020
+Adjustment rate Not applicable, fee discontinued as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) Not applicable, fee will be discontinued as of April 1 2020
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, fee discontinued as of April 1 2020
+Fee-adjustment authority Not applicable, fee discontinued as of April 1 2020
+Service standard (average) 75 Days to complete Review 1
+Performance result n/a no applications completed
+(average)
+Health Canada Fees Report Fiscal year 2018 to 2019 42
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for Examination of an Application for a Medical Device
+Licence
+Fee Applications for Class IV licence amendment - changes in
+manufacturing
+Fee-setting authority: 2018  Financial Administration Act (FAA)
+to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 2019 to 2020: same as 2018 to 2019
+and onwards
+2020 and onwards:
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1998
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) 1,433
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) 1,903
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over four years as well as the annual CPI
+adjustment.
+Service standard (average) 75 Days to complete Review 1
+Performance result 49 Days to complete Review 1
+(average)
+Health Canada Fees Report Fiscal year 2018 to 2019 43
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for Examination of an Application for a Medical Device
+Licence
+Fee Applications for Class IV licence amendment - significant
+changes not related to manufacturing
+Fee-setting authority: 2018  Financial Administration Act (FAA)
+to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 2019 to 2020: same as 2018 to 2019
+and onwards
+2020 and onwards:
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1998
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) 6,073
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) 8,057
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over four years as well as the annual CPI
+adjustment.
+Service standard (average) 75 Days to complete Review 1
+Performance result 51 Days to complete Review 1
+(average)
+Health Canada Fees Report Fiscal year 2018 to 2019 44
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for Examination of an Application for a Medical Device
+Licence
+Fee Applications for Class II, III or IV licence or licence
+amendment - private label medical device
+Fee-setting authority: 2018 Not applicable, new fee as of April 1 2020
+to 2019
+Fee-setting authority: 2019 2020 and onwards:
+and onwards
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 2019
+Last year fee-setting Not applicable
+authority was amended
+Fee type Service
+Fee amount ($) Not applicable, new fee as of April 1 2020
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate Not applicable, new fee as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) 147
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, new fee as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Service standard (average) 15 Days to complete Review 1
+Performance result Not applicable, new fee as of April 1 2020
+(average)
+Fees for Examination of a Submission — Drugs for Veterinary
+Use Only
+Before a veterinary drug is authorized for sale in Canada, Health Canada reviews it to assess it
+efficacy and safety in the intended species as well as human safety. Fees are calculated on a
+component basis.
+Health Canada Fees Report Fiscal year 2018 to 2019 45
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for Examination of a Submission — Drugs for Veterinary
+Use Only
+Fee Application for drug identification number
+Fee-setting authority: 2018  Financial Administration Act (FAA)
+to 2019  Veterinary Drug Evaluation Fees Regulations
+Fee-setting authority: 2019 2019 to 2020: same as 2018 to 2019
+and onwards
+2020 and onwards :
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1996
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) Information, other than that referred to in item 2, 720
+to support an application for a number, including
+the submission of labelling material for a second
+review, if required
+Published references or other data 500
+Documentation to support a change of 250
+manufacturer, a change to the name of a
+manufacturer or a change to the brand name of a
+drug
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate
+Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) Information, other than that referred to in item 2, 918
+to support an application for a number, including
+the submission of labelling material for a second
+review, if required
+Published references or other data 638
+Documentation to support a change of 320
+manufacturer, a change to the name of a
+manufacturer or a change to the brand name of a
+drug
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Health Canada Fees Report Fiscal year 2018 to 2019 46
+Fees Report for Fiscal Year 2018 to 2019
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over seven years as well as the annual CPI
+adjustment.
+Service standard (average) 120 Days to complete Review 1
+Performance result 93 Days to complete Review 1
+(average)
+Fee grouping Fees for Examination of a Submission — Drugs for Veterinary
+Use Only
+Fee Notification – veterinary health product
+Fee-setting authority: 2018 Not applicable, new fee as of April 1 2020
+to 2019
+Fee-setting authority: 2019  Food and Drugs Act (FDA)
+and onwards  Fees in Respect of Drugs and Medical Devices Order
+Year introduced 2019
+Last year fee-setting Not applicable
+authority was amended
+Fee type Service
+Fee amount ($) Not applicable, new fee as of April 1 2020
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate Not applicable, new fee as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) Information contained in a notification filed under 486
+subsection C.01.615(1) of the Food and Drug
+Regulations in respect of a veterinary health
+product
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, new fee as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Health Canada Fees Report Fiscal year 2018 to 2019 47
+Fees Report for Fiscal Year 2018 to 2019
+Fees phased in over seven years as well as the annual CPI
+adjustment.
+Service standard (average) 30 Days to process notification
+Performance result Not applicable, new fee as of April 1 2020
+(average)
+Fee grouping Fees for Examination of a Submission — Drugs for Veterinary
+Use Only
+Fee New drug submission
+Fee-setting authority: 2018  Financial Administration Act (FAA)
+to 2019  Veterinary Drug Evaluation Fees Regulations
+Fee-setting authority: 2019 2019 to 2020: same as 2018 to 2019
+and onwards
+2020 and onwards :
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1996
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) Efficacy and safety data (in the intended species) 15,980
+to support a single route of administration, dosage
+form and indication in one animal species. (In the
+case of an antiparasitic drug, several indications
+in one food animal species.)
+Efficacy and safety data (in the intended species) 9,680
+to support a single route of administration and
+dosage form for an antiparasitic drug in one non-
+food animal species
+Efficacy and safety data (in the intended species) 23,240
+to support a single route of administration, dosage
+form and indication in two animal species, or a
+single route of administration, dosage form and
+two indications in one animal species
+Efficacy and safety data (in the intended species) 31,470
+to support a growth promotion or production
+enhancement indication in one animal species
+Health Canada Fees Report Fiscal year 2018 to 2019 48
+Fees Report for Fiscal Year 2018 to 2019
+Comparative (Pharmacodynamics, clinical or 2,900
+bioavailability) data to support an additional route
+of administration
+Comparative (Pharmacodynamics, clinical or 480
+bioavailability) data to support each additional
+strength
+For food-producing animals, toxicity, metabolism 21,790
+and residue depletion studies to establish an
+acceptable daily intake with a safety factor of
+1,000, a maximum residue limit and a withdrawal
+period for a single dosage form, dosage and route
+of administration in one species
+For food-producing animals, toxicity, metabolism 29,050
+and residue depletion studies to establish an
+acceptable daily intake with a safety factor of less
+than 1,000, a maximum residue limit and a
+withdrawal period for a single dosage form,
+dosage and route of administration in one species
+For food-producing animals, residue depletion 2,900
+studies to establish a withdrawal period for an
+additional dosage form, dosage or route of
+administration
+For food-producing animals (once an acceptable 14,520
+daily intake with a safety factor of 1,000 or less
+has been established), metabolism and residue
+depletion studies to establish a maximum residue
+limit and a withdrawal period for a single dosage
+form, dosage and route of administration in an
+additional species
+Chemistry and manufacturing data for a non- 4,840
+compendial medicinal ingredient of a drug
+Chemistry and manufacturing data to support one 4,840
+strength of a single dosage form
+Chemistry and manufacturing data to support an 2,420
+additional strength of a single dosage form
+submitted at the same time as the above item
+Documentation to support a change of 250
+manufacturer
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) Efficacy and safety data (in the intended species) 20,375
+to support a single route of administration, dosage
+Health Canada Fees Report Fiscal year 2018 to 2019 49
+Fees Report for Fiscal Year 2018 to 2019
+form and indication in one animal species. (In the
+case of an antiparasitic drug, several indications
+in one food animal species.)
+Efficacy and safety data (in the intended species) 12,342
+to support a single route of administration and
+dosage form for an antiparasitic drug in one non-
+food animal species
+Efficacy and safety data (in the intended species) 29,631
+to support a single route of administration, dosage
+form and indication in two animal species, or a
+single route of administration, dosage form and
+two indications in one animal species
+Efficacy and safety data (in the intended species) 40,125
+to support a growth promotion or production
+enhancement indication in one animal species
+Comparative (Pharmacodynamics, clinical or 3,698
+bioavailability) data to support an additional route
+of administration
+Comparative (Pharmacodynamics, clinical or 612
+bioavailability) data to support each additional
+strength
+For food-producing animals, toxicity, metabolism 27,783
+and residue depletion studies to establish an
+acceptable daily intake with a safety factor of
+1,000, a maximum residue limit and a withdrawal
+period for a single dosage form, dosage and route
+of administration in one species
+For food-producing animals, toxicity, metabolism 37,040
+and residue depletion studies to establish an
+acceptable daily intake with a safety factor of less
+than 1,000, a maximum residue limit and a
+withdrawal period for a single dosage form,
+dosage and route of administration in one species
+For food-producing animals, residue depletion 3,698
+studies to establish a withdrawal period for an
+additional dosage form, dosage or route of
+administration
+For food-producing animals (once an acceptable 18,513
+daily intake with a safety factor of 1,000 or less
+has been established), metabolism and residue
+depletion studies to establish a maximum residue
+limit and a withdrawal period for a single dosage
+form, dosage and route of administration in an
+additional species
+Health Canada Fees Report Fiscal year 2018 to 2019 50
+Fees Report for Fiscal Year 2018 to 2019
+Chemistry and manufacturing data for a non- 6,171
+compendial medicinal ingredient of a drug
+Chemistry and manufacturing data to support one 6,171
+strength of a single dosage form
+Chemistry and manufacturing data to support an 3,086
+additional strength of a single dosage form
+submitted at the same time as the above item
+Documentation to support a change of 320
+manufacturer
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over seven years as well as the annual CPI
+adjustment.
+Service standard (average) 300 Days to complete Review 1 (other than Administrative
+NDS)
+90 Days to complete review for Administrative NDS
+Performance result 262 Days to complete Review 1 (other than Administrative
+(average) NDS)
+19 Days to complete review for Administrative NDS
+Fee grouping Fees for Examination of a Submission — Drugs for Veterinary
+Use Only
+Fee Supplement to a new drug submission
+Fee-setting authority: 2018  Financial Administration Act (FAA)
+to 2019  Veterinary Drug Evaluation Fees Regulations
+Fee-setting authority: 2019 2019 to 2020: same as 2018 to 2019
+and onwards
+2020 and onwards :
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1996
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Health Canada Fees Report Fiscal year 2018 to 2019 51
+Fees Report for Fiscal Year 2018 to 2019
+Fee amount ($) Efficacy data to support an additional indication in 12,590
+one animal species
+Efficacy and safety data (in the intended species) 9,680
+to support a single route of administration and
+dosage form for an antiparasitic drug in one non-
+food animal species
+Efficacy and safety data (in the intended species) 15,980
+to support an indication in another animal species
+Efficacy and safety data (in the intended species) 23,240
+to support a single route of administration, dosage
+form and indication in two animal species, or a
+single route of administration and dosage form
+and two indications in one animal species.
+Efficacy and safety data (in the intended species) 31,470
+to support a growth promotion or production
+enhancement indication in one animal species
+Efficacy and safety data (in the intended species) 7,740
+to support the concurrent use of two drugs
+approved for the same animal species
+Comparative (Pharmacodynamics, clinical or 2,900
+bioavailability) data to support an additional route
+of administration
+Comparative (Pharmacodynamics, clinical or 480
+bioavailability) data to support each additional
+strength
+For food-producing animals, residue depletion 2,900
+studies to establish a new withdrawal period for a
+change in the dosage or route of administration of
+an approved dosage form in one species
+For food-producing animals, metabolism and 14,520
+residue depletion studies to establish a maximum
+residue limit and a withdrawal period for a single
+dosage and route of administration of an
+approved dosage form in an additional species
+For food-producing animals, toxicity studies to 7,260
+support a change of an established acceptable
+daily intake, maximum residue limit and
+withdrawal period
+For the concurrent use of two drugs in a species 5,810
+of food-producing animals, residue depletion
+studies to determine if an extension to existing
+withdrawal periods is required
+Health Canada Fees Report Fiscal year 2018 to 2019 52
+Fees Report for Fiscal Year 2018 to 2019
+Chemistry and manufacturing data to support a 4,840
+change in the source of a medicinal ingredient or
+its manufacturing process
+Chemistry and manufacturing data to support a 2,420
+change in formulation or dosage form
+Chemistry and manufacturing data to support a 1,930
+change in packaging or in the sterilization process
+Chemistry and manufacturing data to support an 1,450
+extension of the expiry dating
+Chemistry and manufacturing data to support the 1,450
+concurrent use of two drugs
+Chemistry and manufacturing data to support a 480
+change in the manufacturing site for parenteral
+dosage forms
+Documentation to support a change to the name 250
+of a manufacturer or the brand name of a drug
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) Efficacy data to support an additional indication in 16,053
+one animal species
+Efficacy and safety data (in the intended species) 12,342
+to support a single route of administration and
+dosage form for an antiparasitic drug in one non-
+food animal species
+Efficacy and safety data (in the intended species) 20,375
+to support an indication in another animal species
+Efficacy and safety data (in the intended species) 29,631
+to support a single route of administration, dosage
+form and indication in two animal species, or a
+single route of administration and dosage form
+and two indications in one animal species.
+Efficacy and safety data (in the intended species) 40,125
+to support a growth promotion or production
+enhancement indication in one animal species
+Efficacy and safety data (in the intended species) 9,869
+to support the concurrent use of two drugs
+approved for the same animal species
+Comparative (Pharmacodynamics, clinical or 3,698
+bioavailability) data to support an additional route
+of administration
+Health Canada Fees Report Fiscal year 2018 to 2019 53
+Fees Report for Fiscal Year 2018 to 2019
+Comparative (Pharmacodynamics, clinical or 612
+bioavailability) data to support each additional
+strength
+For food-producing animals, residue depletion 3,698
+studies to establish a new withdrawal period for a
+change in the dosage or route of administration of
+an approved dosage form in one species
+For food-producing animals, metabolism and 18,513
+residue depletion studies to establish a maximum
+residue limit and a withdrawal period for a single
+dosage and route of administration of an
+approved dosage form in an additional species
+For food-producing animals, toxicity studies to 9,257
+support a change of an established acceptable
+daily intake, maximum residue limit and
+withdrawal period
+For the concurrent use of two drugs in a species 7,409
+of food-producing animals, residue depletion
+studies to determine if an extension to existing
+withdrawal periods is required
+Chemistry and manufacturing data to support a 6,171
+change in the source of a medicinal ingredient or
+its manufacturing process
+Chemistry and manufacturing data to support a 3,086
+change in formulation or dosage form
+Chemistry and manufacturing data to support a 2,462
+change in packaging or in the sterilization process
+Chemistry and manufacturing data to support an 1,850
+extension of the expiry dating
+Chemistry and manufacturing data to support the 1,850
+concurrent use of two drugs
+Chemistry and manufacturing data to support a 612
+change in the manufacturing site for parenteral
+dosage forms
+Documentation to support a change to the name 320
+of a manufacturer or the brand name of a drug
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Health Canada Fees Report Fiscal year 2018 to 2019 54
+Fees Report for Fiscal Year 2018 to 2019
+Fees phased in over seven years as well as the annual CPI
+adjustment.
+Service standard (average) 240 Days to complete Review 1
+Performance result 186 Days to complete Review 1
+(average)
+Fee grouping Fees for Examination of a Submission — Drugs for Veterinary
+Use Only
+Fee Abbreviated new drug submission
+Fee-setting authority: 2018  Financial Administration Act (FAA)
+to 2019  Veterinary Drug Evaluation Fees Regulations
+Fee-setting authority: 2019 2019 to 2020: same as 2018 to 2019
+and onwards
+2020 and onwards :
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1996
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) Any applicable component listed under Supplement to a new
+drug submission
+Comparative (Pharmacodynamics, clinical or 2,900
+bioavailability) data to support a single route of
+administration and dosage form
+For food-producing animals, residue depletion 2,900
+studies to confirm that the withdrawal period(s) for
+each species falls within the conditions of use for
+the Canadian reference product
+Chemistry and manufacturing data for a non- 4,840
+compendial medicinal ingredient of a drug
+Chemistry and manufacturing data to support a 4,840
+single dosage form
+Documentation to support: 250
+a) a change of manufacturer, in the case of an
+abbreviated new drug submission; or
+Health Canada Fees Report Fiscal year 2018 to 2019 55
+Fees Report for Fiscal Year 2018 to 2019
+(b) a change to the name of a manufacturer or the
+brand name of a drug, in the case of a
+supplement to an abbreviated new drug
+submission
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) Any applicable component listed under Supplement to a new
+drug submission
+Comparative (Pharmacodynamics, clinical or 3,698
+bioavailability) data to support a single route of
+administration and dosage form
+For food-producing animals, residue depletion 3,698
+studies to confirm that the withdrawal period(s) for
+each species falls within the conditions of use for
+the Canadian reference product
+Chemistry and manufacturing data for a non- 6,171
+compendial medicinal ingredient of a drug
+Chemistry and manufacturing data to support a 6,171
+single dosage form
+Documentation to support: 320
+a) a change of manufacturer, in the case of an
+abbreviated new drug submission; or
+(b) a change to the name of a manufacturer or the
+brand name of a drug, in the case of a
+supplement to an abbreviated new drug
+submission
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over seven years as well as the annual CPI
+adjustment.
+Service standard (average) 300 Days to complete Review 1
+Performance result 269 Days to complete Review 1
+(average)
+Health Canada Fees Report Fiscal year 2018 to 2019 56
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for Examination of a Submission — Drugs for Veterinary
+Use Only
+Fee Supplement to an abbreviated new drug submission
+Fee-setting authority: 2018  Financial Administration Act (FAA)
+to 2019  Veterinary Drug Evaluation Fees Regulations
+Fee-setting authority: 2019 2019 to 2020: same as 2018 to 2019
+and onwards
+2020 and onwards :
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1996
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) Any applicable component listed under Supplement to a new
+drug submission
+Comparative (Pharmacodynamics, clinical or 2,900
+bioavailability) data to support a single route of
+administration and dosage form
+For food-producing animals, residue depletion 2,900
+studies to confirm that the withdrawal period(s) for
+each species falls within the conditions of use for
+the Canadian reference product
+Chemistry and manufacturing data for a non- 4,840
+compendial medicinal ingredient of a drug
+Chemistry and manufacturing data to support a 4,840
+single dosage form
+Documentation to support: 250
+a) a change of manufacturer, in the case of an
+abbreviated new drug submission; or
+(b) a change to the name of a manufacturer or the
+brand name of a drug, in the case of a
+supplement to an abbreviated new drug
+submission
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+Health Canada Fees Report Fiscal year 2018 to 2019 57
+Fees Report for Fiscal Year 2018 to 2019
+2020 to 2021 fee amount ($) Any applicable component listed under Supplement to a new
+drug submission
+Comparative (Pharmacodynamics, clinical or 3,698
+bioavailability) data to support a single route of
+administration and dosage form
+For food-producing animals, residue depletion 3,698
+studies to confirm that the withdrawal period(s) for
+each species falls within the conditions of use for
+the Canadian reference product
+Chemistry and manufacturing data for a non- 6,171
+compendial medicinal ingredient of a drug
+Chemistry and manufacturing data to support a 6,171
+single dosage form
+Documentation to support: 320
+a) a change of manufacturer, in the case of an
+abbreviated new drug submission; or
+(b) a change to the name of a manufacturer or the
+brand name of a drug, in the case of a
+supplement to an abbreviated new drug
+submission
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over seven years as well as the annual CPI
+adjustment.
+Service standard (average) 240 Days to complete Review 1
+Performance result 117 Days to complete Review 1
+(average)
+Fee grouping Fees for Examination of a Submission — Drugs for Veterinary
+Use Only
+Fee Preclinical submission
+Fee-setting authority: 2018  Financial Administration Act (FAA)
+to 2019  Veterinary Drug Evaluation Fees Regulations
+Health Canada Fees Report Fiscal year 2018 to 2019 58
+Fees Report for Fiscal Year 2018 to 2019
+Fee-setting authority: 2019 2019 to 2020: same as 2018 to 2019
+and onwards
+2020 and onwards :
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1996
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) Efficacy and safety ( in the intended species) and 4,840
+protocol to support the conduct of clinical studies
+relative to a single dose form, route of
+administration and indication in one species
+Efficacy data and protocol to support the conduct 3,870
+of clinical studies relative to a single route of
+administration and indication with a dosage form
+for which a notice of compliance has been issued
+for use in the species to be treated
+For food-producing animals, toxicity, metabolism 14,520
+and residue depletion studies to establish a
+temporary acceptable daily intake, a maximum
+residue limit and a withdrawal period for a single
+dosage form, dosage and route of administration
+in one species
+For food-producing animals, toxicity, metabolism 21,790
+and residue depletion studies to establish an
+acceptable daily intake with a safety factor of
+1,000, a maximum residue limit and a withdrawal
+period for a single dosage form, dosage and route
+of administration in one species
+For food-producing animals, toxicity, metabolism 29,050
+and residue depletion studies to establish an
+acceptable daily intake with a safety factor of less
+than 1,000, a maximum residue limit and a
+withdrawal period for a single dosage form,
+dosage and route of administration in one species
+For food-producing animals (once an acceptable 7,260
+daily intake with a safety factor of 1,000 or less
+has been established), metabolism studies to
+establish a withdrawal period for a single dosage
+form, dosage and route of administration in an
+additional species
+Chemistry and manufacturing data to support a 4,840
+single dosage form containing a non-compendial
+medicinal ingredient
+Health Canada Fees Report Fiscal year 2018 to 2019 59
+Fees Report for Fiscal Year 2018 to 2019
+Chemistry and manufacturing data to support a 2,420
+single dosage form containing a compendial
+medicinal ingredient
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) Efficacy and safety ( in the intended species) and 6,171
+protocol to support the conduct of clinical studies
+relative to a single dose form, route of
+administration and indication in one species
+Efficacy data and protocol to support the conduct 4,935
+of clinical studies relative to a single route of
+administration and indication with a dosage form
+for which a notice of compliance has been issued
+for use in the species to be treated
+For food-producing animals, toxicity, metabolism 18,513
+and residue depletion studies to establish a
+temporary acceptable daily intake, a maximum
+residue limit and a withdrawal period for a single
+dosage form, dosage and route of administration
+in one species
+For food-producing animals, toxicity, metabolism 27,783
+and residue depletion studies to establish an
+acceptable daily intake with a safety factor of
+1,000, a maximum residue limit and a withdrawal
+period for a single dosage form, dosage and route
+of administration in one species
+For food-producing animals, toxicity, metabolism 37,040
+and residue depletion studies to establish an
+acceptable daily intake with a safety factor of less
+than 1,000, a maximum residue limit and a
+withdrawal period for a single dosage form,
+dosage and route of administration in one species
+For food-producing animals (once an acceptable 9,257
+daily intake with a safety factor of 1,000 or less
+has been established), metabolism studies to
+establish a withdrawal period for a single dosage
+form, dosage and route of administration in an
+additional species
+Chemistry and manufacturing data to support a 6,171
+single dosage form containing a non-compendial
+medicinal ingredient
+Health Canada Fees Report Fiscal year 2018 to 2019 60
+Fees Report for Fiscal Year 2018 to 2019
+Chemistry and manufacturing data to support a 3,086
+single dosage form containing a compendial
+medicinal ingredient
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over seven years as well as the annual CPI
+adjustment.
+Service standard (average) 60 Days to review application
+Performance result n/a for 2018-19
+(average)
+Health Canada Fees Report Fiscal year 2018 to 2019 61
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees for Examination of a Submission — Drugs for Veterinary
+Use Only
+Fee Sale of new drug for emergency treatment
+Fee-setting authority:  Financial Administration Act (FAA)
+2018 to 2019  Veterinary Drug Evaluation Fees Regulations
+Fee-setting authority: 2019 to 2020: same as 2018 to 2019
+2019 and onwards
+2020 and onwards :
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1996
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) Information to support the sale of a drug to be 50
+used in the emergency treatment of a non-food-
+producing animal
+Information to support the sale of a drug to be 100
+used in the emergency treatment of a food-
+producing animal
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount Information and material to support the sale of a 51
+($) drug to be used in the emergency treatment of a
+non-food-producing animal
+Information and material to support the sale of a 102
+drug to be used in the emergency treatment of a
+food-producing animal
+Future fee-adjusted Not applicable
+amount ($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Service standard 2 business days to review application
+(average)
+Health Canada Fees Report Fiscal year 2018 to 2019 62
+Fees Report for Fiscal Year 2018 to 2019
+Performance result <2 business days to review application
+(average)
+Fee grouping Fees for Examination of a Submission — Drugs for Veterinary
+Use Only
+Fee Experimental studies certificate
+Fee-setting authority:  Financial Administration Act (FAA)
+2018 to 2019  Veterinary Drug Evaluation Fees Regulations
+Fee-setting authority: 2019 to 2020: same as 2018 to 2019
+2019 and onwards
+2020 and onwards :
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1996
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) Information and material to support the issuance 960
+of an experimental studies certificate for a drug to
+be administered to a non-food-producing animal
+Information and material to support the issuance 480
+of an experimental studies certificate whose
+protocol is the same as that for a previously
+authorized experimental studies certificate for a
+drug to be administered to a non-food-producing
+animal
+Information and material to support the issuance 2,900
+of an experimental studies certificate for a drug to
+be administered to a food-producing animal
+Information and material to support the issuance 480
+of an experimental studies certificate whose
+protocol is the same as that for a previously
+authorized experimental studies certificate for a
+drug to be administered to a food-producing
+animal
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Health Canada Fees Report Fiscal year 2018 to 2019 63
+Fees Report for Fiscal Year 2018 to 2019
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount Information and material to support the issuance 980
+($) of an experimental studies certificate for a drug to
+be administered to a non-food-producing animal
+Information and material to support the issuance 490
+of an experimental studies certificate whose
+protocol is the same as that for a previously
+authorized experimental studies certificate for a
+drug to be administered to a non-food-producing
+animal
+Information and material to support the issuance 2,958
+of an experimental studies certificate for a drug to
+be administered to a food-producing animal
+Information and material to support the issuance 490
+of an experimental studies certificate whose
+protocol is the same as that for a previously
+authorized experimental studies certificate for a
+drug to be administered to a food-producing
+animal
+Future fee-adjusted Not applicable
+amount ($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Service standard 60 Days to review application
+(average)
+Performance result 42 Days to review application
+(average)
+Fee grouping Fees for Examination of a Submission — Drugs for Veterinary
+Use Only
+Fee Notifiable change
+Fee-setting authority:  Financial Administration Act (FAA)
+2018 to 2019  Veterinary Drug Evaluation Fees Regulations
+Fee-setting authority: 2019 to 2020: same as 2018 to 2019
+2019 and onwards
+2020 and onwards :
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1996
+Health Canada Fees Report Fiscal year 2018 to 2019 64
+Fees Report for Fiscal Year 2018 to 2019
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) Information and material to support an application 1,300
+for Notifiable Change
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount Information and material to support an application 1,658
+($) for a notifiable change
+Future fee-adjusted Not applicable
+amount ($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over seven years as well as the annual CPI
+adjustment.
+Service standard 90 Days to review application for Notifiable Changes
+(average)
+Performance result 62 Days to review application for Notifiable Changes
+(average)
+Fee grouping Fees for Examination of a Submission — Drugs for Veterinary
+Use Only
+Fee Protocol
+Fee-setting authority:  Financial Administration Act (FAA)
+2018 to 2019  Veterinary Drug Evaluation Fees Regulations
+Fee-setting authority: 2019 to 2020: same as 2018 to 2019
+2019 and onwards
+2020 and onwards :
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 1996
+Health Canada Fees Report Fiscal year 2018 to 2019 65
+Fees Report for Fiscal Year 2018 to 2019
+Last year fee-setting 2019
+authority was amended
+Fee type Service
+Fee amount ($) A protocol that is filed with the Minister and may 1,300
+support a new drug submission, an abbreviated
+new drug submission, a supplement to a new drug
+submission or abbreviated new drug submission,
+a preclinical submission or information and
+material that is filed for the purpose of obtaining
+an experimental studies certificate
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, fee updated as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount A protocol that is filed with the Minister and may 1,658
+($) support a new drug submission, an abbreviated
+new drug submission, a supplement to a new drug
+submission or abbreviated new drug submission,
+a preclinical submission or information and
+material that is filed for the purpose of obtaining
+an experimental studies certificate
+Future fee-adjusted Not applicable
+amount ($)
+Adjustment date Not applicable, fee updated as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over seven years as well as the annual CPI
+adjustment.
+Service standard 60 Days to review package for Protocol
+(average)
+Performance result 60 Days to review package for Protocol
+(average)
+Health Canada Fees Report Fiscal year 2018 to 2019 66
+Fees Report for Fiscal Year 2018 to 2019
+Drug Establishment Licensing Fees
+Any person in Canada must obtain a Drug Establishment Licence (DEL) if they are engaged in
+any of the six regulated activities (fabricate, import, distribute, wholesale, package/label, and test)
+with respect to human and/or veterinary drugs. A fee is charged for the examination of a DEL
+application, including all compliance and enforcement and supporting activities needed to ensure
+that the applicant/licence holder conforms to all regulatory requirements. The DEL fee is
+calculated on a component basis; therefore, the fee amount varies by application. A DEL fee is
+charged for the application for a new DEL, an annual licence review of a DEL, certain
+amendments to a DEL, reinstatement of a suspended DEL, or re-activation of a cancelled or
+withdrawn DEL.
+As of April 1, 2020, a more simplified DEL fee regime will be introduced, as indicated in the
+tables below.
+Fee grouping Drug Establishment Licence Fees
+Fee Human Drug Establishment Licence Fee (component based)
+Fee-setting authority: 2018  Financial Administration Act (FAA)
+to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 2019 to 2020: same as 2018 to 2019
+and onwards
+2020 and onwards: fee discontinued April 1 2020
+Year introduced 1998
+Last year fee-setting 2011
+authority was amended
+Fee type Licence
+Fee amount ($) Fabrication - Basic Fee 17,751
+Fabrication - Each Additional Category 4,449
+Dosage Form Classes:
+Fabrication - Two classes 8,883
+Fabrication - Three classes 17,751
+Fabrication - Four classes 22,198
+Fabrication - Five classes 26,629
+Fabrication - Six classes 31,064
+Fabrication - Each additional class 1,783
+Fabrication - Sterile dosage forms 8,883
+Packaging/labelling - Basic Fee 11,869
+Health Canada Fees Report Fiscal year 2018 to 2019 67
+Fees Report for Fiscal Year 2018 to 2019
+Packaging/labelling - Each Additional Category 2,966
+Packaging/labelling - Two classes 5,920
+Packaging/labelling - Three or more classes 8,883
+Importation/Distribution - Basic Fee 7,402
+Importation/Distribution - Each Additional 1,853
+Category
+Importation/Distribution - Two classes 3,703
+Importation/Distribution - Three or more classes 7,402
+Importation/Distribution - Each fabricator 1,783
+Importation/Distribution - Each additional 899
+dosage form class for each fabricator
+Distribution and Wholesaling Fee 4,449
+Testing - Testing Fee 2,966
+Drug Analysis Component - Vaccines 29,582
+Drug Analysis Component - Schedule D Drugs 11,836
+which are not vaccines or whole blood and its
+components
+Drug Analysis Component - Drugs for human 8,883
+use that are prescription drugs, controlled drugs
+or narcotics
+Drug Analysis Component - Drugs for human 4,449
+use, not included in any other item, for which a
+drug identification number has been assigned
+Total fee revenue ($) No data available at this time
+Adjustment type Not applicable, fee discontinued as of April 1 2020
+Adjustment rate Not applicable, fee discontinued as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) Not applicable, fee discontinued as of April 1 2020
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, fee discontinued as of April 1 2020
+Fee-adjustment authority Not applicable, fee discontinued as of April 1 2020
+Service standard 250 Calendar days to issue/ renew license
+Health Canada Fees Report Fiscal year 2018 to 2019 68
+Fees Report for Fiscal Year 2018 to 2019
+Performance result Average number of days applicable to the DEL fee grouping
+(human and veterinary): 75 days
+Fee grouping Drug Establishment Licence Fees
+Fee Human Drug Establishment Licence Fee (component based)
+Fee-setting authority: 2018 Not applicable, new fees as of April 1 2020
+to 2019
+Fee-setting authority: 2019 2020 and onwards:
+and onwards
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 2019
+Last year fee-setting Not Applicable
+authority was amended
+Fee type Licence
+Fee amount ($) Not applicable, new fees as of April 1 2020
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, new fees as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) Fabrication - Sterile dosage form 41,626
+Importation 27,359
+Fabrication - non-sterile dosage form 27,000
+Distribution 12,560
+Wholesaling 4,937
+Packaging/labelling 6,061
+Testing 2,560
+Building outside Canada (each) 918
+Future fee-adjusted amount Not applicable
+($)
+Health Canada Fees Report Fiscal year
+2018 to 2019 69
+Fees Report for Fiscal Year 2018 to 2019
+Adjustment date Not applicable, new fees as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over four years as well as the annual CPI
+adjustment
+Service standard 250 Calendar days to issue/ renew license
+Performance result No performance result is available, since the new fee will be
+introduced on April 1 2020
+Fee grouping Drug Establishment Licence Fees
+Fee Veterinary Drug Establishment Licence Fee (component
+based)
+Fee-setting authority: 2018  Food and Drugs Act (FDA)
+to 2019  Establishment Licensing Fees (Veterinary Drugs)
+Regulations
+Fee-setting authority: 2019 2019 to 2020: same as 2018 to 2019
+and onwards
+2020 and onwards: fee discontinued April 1 2020
+Year introduced 1998
+Last year fee-setting Not Applicable
+authority was amended
+Fee type Licence
+Fee amount ($) Fabrication - Basic Fee 6,000
+Fabrication - Each Additional Category 1,500
+Dosage Form Classes:
+Fabrication - Two classes 3,000
+Fabrication - Three classes 6,000
+Fabrication - Four classes 7,500
+Fabrication - Five classes 9,000
+Fabrication - Six classes 10,500
+Fabrication - Each additional class 600
+Health Canada Fees Report Fiscal year 2018 to 2019 70
+Fees Report for Fiscal Year 2018 to 2019
+Fabrication - Sterile dosage forms 3,000
+Packaging/Labelling - Basic Fee 4,000
+Packaging/Labelling - Each Additional Category 1,000
+Packaging/Labelling - Two classes 2,000
+Packaging/Labelling - Three or more classes 3,000
+Importation/Distribution - Basic Fee 2,500
+Importation/Distribution - Each Additional
+625
+Category
+Importation/Distribution - Two classes 1,250
+Importation/Distribution - Three or more classes 2,500
+Importation/Distribution - Each fabricator 600
+Importation/Distribution - Each additional dosage
+300
+form class for each fabricator
+Distribution and Wholesaling - Distribution and
+1,500
+Wholesaling Fee
+Testing - Testing Fee 1,000
+Drug Analysis Component - Drug Identification
+250
+Numbers for Veterinary Use
+Total fee revenue ($) No data available at this time
+Adjustment type Not applicable, fee discontinued as of April 1 2020
+Adjustment rate Not applicable, fee discontinued as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) Not applicable, fee discontinued as of April 1 2020
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, fee discontinued as of April 1 2020
+Fee-adjustment authority Not applicable, fee discontinued as of April 1 2020
+Service standard 250 Calendar days to issue/ renew license
+Performance result Average number of days applicable to the DEL fee grouping
+(human and veterinary): 75 days
+Health Canada Fees Report Fiscal year
+2018 to 2019 71
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Drug Establishment Licence Fees
+Fee Veterinary Drug Establishment Licence Fee (component
+based)
+Fee-setting authority: 2018 Not applicable, new fees as of April 1 2020
+to 2019
+Fee-setting authority: 2019 2020 and onwards:
+and onwards
+ Food and Drugs Act (FDA)
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 2019
+Last year fee-setting Not Applicable
+authority was amended
+Fee type Licence
+Fee amount ($) Not applicable, new fees as of April 1 2020
+Total fee revenue ($) No data available at this time
+Adjustment type Periodic
+Adjustment rate Not applicable, new fees as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) Fabrication - Sterile dosage form 40,198
+Importation 10,715
+Fabrication - non-sterile dosage form 8,782
+Distribution 4,835
+Wholesaling 1,933
+Packaging/labelling 6,061
+Testing 1,315
+Building outside Canada (each) 765
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, new fees as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Fees phased in over seven years as well as the annual CPI
+adjustment
+Health Canada Fees Report Fiscal year 2018 to 2019 72
+Fees Report for Fiscal Year 2018 to 2019
+Service standard 250 Calendar days to issue/ renew license
+Performance result No performance result is available, since the new fee will be
+introduced on April 1 2020
+Drug Establishment Licensing Fees - Dealer’s Licences
+Fees for the examination of an application for a new dealer’s licence or the renewal of a dealer’s
+licence; issued under the Narcotic Control Regulations and Part G of the Food and Drug
+Regulations. There is no fee associated with the application for a new or renewal of a controlled
+substances licence issued under the Benzodiazepines and Other Targeted Substances
+Regulations and Part J of the Food and Drug Regulations.
+Fee grouping Drug Establishment Licence Fees
+Fee Dealer’s Licence Fees - Human Drugs
+Fee-setting authority: 2018 to  Financial Administration Act (FAA)
+2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 and 2019 to 2020: same as above
+onwards
+2020 and onwards:
+ Financial Administration Act (FAA)
+ Fees in Respect of a Dealer’s Licences
+Regulations (SOR/2019-134)
+Year introduced 1998
+Last year fee-setting authority 2011
+was amended
+Fee type Licence
+Fee amount ($) 5,184
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) 5,394
+Future fee-adjusted amount ($) Not applicable
+Health Canada Fees Report Fiscal year
+2018 to 2019 73
+Fees Report for Fiscal Year 2018 to 2019
+Adjustment date April 1 2020
+Fee-adjustment authority Fees in Respect of a Dealer’s Licences Regulations
+(SOR/2019-134)
+Service standard 270 Calendar days to issue a decision on an application
+for a new dealer’s licence for controlled substances, from
+the receipt of a complete application
+90 Calendar days to issue a decision on an application to
+renew a dealer’s licence for controlled substances, from
+the receipt of a complete application
+Performance result New: 56% of applications were processed within the
+service standard
+Renew: 100% of applications were processed within the
+service standard
+Fee grouping Drug Establishment Licence Fees
+Fee Dealer’s License Fees - Veterinary Drugs
+Fee-setting authority: 2018 to  Financial Administration Act (FAA)
+2019  Licensed Dealers for Controlled Drugs and
+Narcotics (Veterinary Use) Fees Regulations
+Fee-setting authority: 2019  Financial Administration Act (FAA)
+and onwards  Licensed Dealers for Controlled Drugs and
+Narcotics (Veterinary Use) Fees Regulations
+Year introduced 1998
+Last year fee-setting authority Not Applicable
+was amended
+Fee type Licence
+Fee amount ($) 1,750
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate 2019 April All-items Consumer Price Index for Canada
+(2%) on current fees
+(% or formula)
+2020 to 2021 fee amount ($) 1,824.27
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1 2020
+Health Canada Fees Report Fiscal year 2018 to 2019 74
+Fees Report for Fiscal Year 2018 to 2019
+Fee-adjustment authority Section 17 of the Service Fees Act (Consumer Price
+Index)
+Service standard 270 Calendar days to issue a decision on an application
+for a new dealer’s licence for controlled substances,
+from the receipt of a complete application
+90 Calendar days to issue a decision on an application
+to renew a dealer’s licence for controlled substances,
+from the receipt of a complete application
+Performance result New: 56% of applications were processed within the
+service standard
+Renew: 100% of applications were processed within the
+service standard
+Medical Device Establishment Licensing Fees
+A Medical Device Establishment Licence (MDEL) is required for the activities of importing or
+selling medical devices for human use in Canada with exceptions1. A fee is charged for the
+examination of an MDEL application, including all compliance and enforcement and supporting
+activities needed to ensure that the applicant/licence holder conforms to all regulatory
+requirements. The MDEL fee is a flat fee. The same fee is charged for an application for a new
+MDEL, an annual licence review of an MDEL, and the reinstatement of a suspended MDEL.
+Fee grouping Medical Device Establishment Licence Fee
+Fee Application for new licence and annual review of licence
+Fee-setting authority: 2018  Financial Administration Act (FAA)
+to 2019  Fees in Respect of Drugs and Medical Devices
+Regulations
+Fee-setting authority: 2019 2019 to 2020: same as 2018 to 2019
+and onwards
+2020 and onwards:
+ Food and Drugs Act (FDA)
+1 As per the Medical Devices Regulations, an MDEL is not required for: a retailer, a
+health care facility, a manufacturer of Class II, III or IV medical devices who only sells
+either medical devices for which they hold a valid licence, or medical devices subject to
+Parts 2 and 3 of the Regulations, a manufacturer of a Class I medical device who imports
+or distributes solely through a licensed establishment, a person solely selling medical
+devices subject to Parts 2 and 3 of the Regulations, or a dispenser.
+Health Canada Fees Report Fiscal year
+2018 to 2019 75
+Fees Report for Fiscal Year 2018 to 2019
+ Fees in Respect of Drugs and Medical Devices Order
+Year introduced 2000
+Last year fee-setting 2019
+authority was amended
+Fee type Licence
+Fee amount ($) 8,272
+Total fee revenue ($) 8,241,721
+Adjustment type Annual
+Adjustment rate Not applicable, new fee as of April 1 2020
+(% or formula)
+2020 to 2021 fee amount ($) 4,590
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable, new fee as of April 1 2020
+Fee-adjustment authority Fees in Respect of Drugs and Medical Devices Order
+Service standard 120 Calendar days to issue/ renew licence
+Performance result Average number of days: 28 days
+Fees to be Paid for the Examination of an Application in Respect
+of a Pest Control Product
+No person shall manufacture, possess, handle, store, transport, import, distribute or use a pest
+control product that is not registered under the Pest Control Products Act, except as otherwise
+authorized under the Act or unless specifically exempted by the Pest Control Products
+Regulations. Fees for applications to register or to amend the registration of a pest control
+product are payable by component submitted. The fee payable is the sum of the fees for the
+submitted components in addition to the basic processing fee.
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category A Component Based – 655 Days of Review
+(Conventional Chemicals and Import Maximum Residue
+Limits)
+Fee-setting authority: 2018 Pest Control Products Act
+to 2019
+Pest Control Products Fees and Charges Regulations
+Health Canada Fees Report Fiscal year 2018 to 2019 76
+Fees Report for Fiscal Year 2018 to 2019
+Fee-setting authority: 2019 Pest Control Products Act
+and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Fee type Service
+Fee amount () Product Chemistry – active ingredient 4,971
+Product Chemistry – end-use product or 2,768
+manufacturing concentrate
+Toxicology data accompanying an application to 77,324
+register a pest control product that contains a new
+active ingredient
+Toxicology data accompanying an application to 16,147
+register a pest control product –or to amend a
+pest control product –that contains an registered
+active ingredient
+Toxicology data-acute toxicity studies 3,014
+Exposure data accompanying an application to 17,848
+register a pest control that consists of or that
+contains a new active ingredient
+Exposure data accompanying an application to 5,874
+register a pest control product –or to amend the
+registration of a pest control product –that
+contains a registered active ingredient, when a
+new risk assessment is necessary
+Metabolism data
+29,522
+Residue data
+16,155
+Environment fate data accompanying an
+43,539
+application to register a pest control product that
+consists of or that contains a new active
+ingredient
+Environmental fate data accompanying an
+24,110
+application to register a pest control product ,or to
+amend the registration of a pest control product,
+that contains a registered active ingredient , when
+a new risk assessment is necessary
+Environment toxicology data accompanying an
+38,023
+application to register a pest control product that
+Health Canada Fees Report Fiscal year
+2018 to 2019 77
+Fees Report for Fiscal Year 2018 to 2019
+consists of or that contains a new active
+ingredient
+Environmental toxicology data accompanying an
+24,164
+application to register a pest control product ,or to
+amend the registration of a pest control product,
+that contains a registered active ingredient , when
+a new risk assessment is necessary
+Value and effectiveness data for a pest control
+925
+product
+Specification of maximum residue limit for a 127,971
+previously unexamined pest control product
+Specification of maximum residue limit for an 16,155
+unregistered use of a previously examined pest
+control product
+Processing 1,156
+Total fee revenue () No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount () Product Chemistry – active ingredient 5,173
+Product Chemistry – end-use product or 2,881
+manufacturing concentrate
+Toxicology data accompanying an application to 80,449
+register a pest control product that contains a new
+active ingredient
+Toxicology data accompanying an application to 16,800
+register a pest control product –or to amend a
+pest control product –that contains an registered
+active ingredient
+Toxicology data-acute toxicity studies 3,173
+Exposure data accompanying an application to 18,570
+register a pest control that consists of or that
+contains a new active ingredient
+Exposure data accompanying an application to 6,112
+register a pest control product –or to amend the
+registration of a pest control product –that
+contains a registered active ingredient, when a
+new risk assessment is necessary
+Metabolism data
+30,716
+Health Canada Fees Report Fiscal year 2018 to 2019 78
+Fees Report for Fiscal Year 2018 to 2019
+Residue data
+16,809
+Environment fate data accompanying an
+45,299
+application to register a pest control product that
+consists of or that contains a new active
+ingredient
+Environmental fate data accompanying an
+25,085
+application to register a pest control product ,or to
+amend the registration of a pest control product,
+that contains a registered active ingredient , when
+a new risk assessment is necessary
+Environment toxicology data accompanying an
+39,560
+application to register a pest control product that
+consists of or that contains a new active
+ingredient
+Environmental toxicology data accompanying an
+25,141
+application to register a pest control product ,or to
+amend the registration of a pest control product,
+that contains a registered active ingredient , when
+a new risk assessment is necessary
+Value and effectiveness data for a pest control
+963
+product
+Specification of maximum residue limit for a 133,142
+previously unexamined pest control product
+Specification of maximum residue limit for an 16,809
+unregistered use of a previously examined pest
+control product
+Processing 1,204
+Future fee-adjusted amount Not applicable
+()
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard 655 Days of Review
+Performance result N/A (0 applications completed in 2018-19)
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Health Canada Fees Report Fiscal year
+2018 to 2019 79
+Fees Report for Fiscal Year 2018 to 2019
+Fee Category A Component Based – 555 Days (Reduced risk,
+other biopesticides, non-conventionals, non-straight-chain
+lepidopteran pheromone)
+Fee-setting authority: 2018 Pest Control Products Act
+to 2019
+Pest Control Products Fees and Charges Regulations
+Fee-setting authority: 2019 Pest Control Products Act
+and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Fee type Service
+Fee amount () Product Chemistry – active ingredient 4,971
+Product Chemistry – end-use product or 2,768
+manufacturing concentrate
+Toxicology data accompanying an application to 77,324
+register a pest control product that contains a new
+active ingredient
+Toxicology data accompanying an application to 16,147
+register a pest control product –or to amend a
+pest control product –that contains an registered
+active ingredient
+Toxicology data-acute toxicity studies 3,014
+Exposure data accompanying an application to 17,848
+register a pest control that consists of or that
+contains a new active ingredient
+Exposure data accompanying an application to 5,874
+register a pest control product –or to amend the
+registration of a pest control product –that
+contains a registered active ingredient, when a
+new risk assessment is necessary
+Metabolism data
+29,522
+Residue data
+16,155
+Environment fate data accompanying an
+43,539
+application to register a pest control product that
+consists of or that contains a new active
+ingredient
+Environmental fate data accompanying an
+24,110
+application to register a pest control product ,or to
+amend the registration of a pest control product,
+Health Canada Fees Report Fiscal year 2018 to 2019 80
+Fees Report for Fiscal Year 2018 to 2019
+that contains a registered active ingredient , when
+a new risk assessment is necessary
+Environment toxicology data accompanying an
+38,023
+application to register a pest control product that
+consists of or that contains a new active
+ingredient
+Environmental toxicology data accompanying an
+24,164
+application to register a pest control product ,or to
+amend the registration of a pest control product,
+that contains a registered active ingredient , when
+a new risk assessment is necessary
+Value and effectiveness data for a pest control
+925
+product
+Registration of a new active ingredient – food use 7,381
+Registration of a new active ingredient – non-food 4,428
+use
+Amendment of registration – new risk assessment 2,952
+necessary-environmental fate data, environmental
+toxicity data or exposure data
+Processing 1,156
+Total fee revenue () No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount () Product Chemistry – active ingredient 5,173
+Product Chemistry – end-use product or 2,881
+manufacturing concentrate
+Toxicology data accompanying an application to 80,449
+register a pest control product that contains a new
+active ingredient
+Toxicology data accompanying an application to 16,800
+register a pest control product –or to amend a
+pest control product –that contains an registered
+active ingredient
+Toxicology data-acute toxicity studies 3,173
+Exposure data accompanying an application to 18,570
+register a pest control that consists of or that
+contains a new active ingredient
+Health Canada Fees Report Fiscal year
+2018 to 2019 81
+Fees Report for Fiscal Year 2018 to 2019
+Exposure data accompanying an application to 6,112
+register a pest control product –or to amend the
+registration of a pest control product –that
+contains a registered active ingredient, when a
+new risk assessment is necessary
+Metabolism data
+30,716
+Residue data
+16,809
+Environment fate data accompanying an
+45,299
+application to register a pest control product that
+consists of or that contains a new active
+ingredient
+Environmental fate data accompanying an
+25,085
+application to register a pest control product ,or to
+amend the registration of a pest control product,
+that contains a registered active ingredient , when
+a new risk assessment is necessary
+Environment toxicology data accompanying an
+39,560
+application to register a pest control product that
+consists of or that contains a new active
+ingredient
+Environmental toxicology data accompanying an
+25,141
+application to register a pest control product ,or to
+amend the registration of a pest control product,
+that contains a registered active ingredient , when
+a new risk assessment is necessary
+Value and effectiveness data for a pest control
+963
+product
+Registration of a new active ingredient – food use 7,680
+Registration of a new active ingredient – non-food 4,608
+use
+Amendment of registration – new risk assessment 3,073
+necessary-environmental fate data, environmental
+toxicity data or exposure data
+Processing 1,204
+Future fee-adjusted amount Not applicable
+()
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard 555 Days of Review
+Health Canada Fees Report Fiscal year 2018 to 2019 82
+Fees Report for Fiscal Year 2018 to 2019
+Performance result 100% (1/1 applications met the service standard)
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category A Component Based – 470 Days of Review
+(Microbials including User Requested Minor Use Registration
+(URMUR), and URMUR for conventional chemical, reduced
+risk, other biopesticides, non-conventionals, non-straight-
+chain lepidopteran pheromone)
+Fee-setting authority: 2018 Pest Control Products Act
+to 2019
+Pest Control Products Fees and Charges Regulations
+Fee-setting authority: 2019 Pest Control Products Act
+and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Fee type Service
+Fee amount () Product Chemistry – active ingredient 4,971
+Product Chemistry – end-use product or 2,768
+manufacturing concentrate
+Toxicology data accompanying an application to 77,324
+register a pest control product that contains a new
+active ingredient
+Toxicology data accompanying an application to 16,147
+register a pest control product –or to amend a
+pest control product –that contains an registered
+active ingredient
+Toxicology data-acute toxicity studies 3,014
+Exposure data accompanying an application to 17,848
+register a pest control that consists of or that
+contains a new active ingredient
+Exposure data accompanying an application to 5,874
+register a pest control product –or to amend the
+registration of a pest control product –that
+contains a registered active ingredient, when a
+new risk assessment is necessary
+Health Canada Fees Report Fiscal year
+2018 to 2019 83
+Fees Report for Fiscal Year 2018 to 2019
+Metabolism data
+29,522
+Residue data
+16,155
+Environment fate data accompanying an
+43,539
+application to register a pest control product that
+consists of or that contains a new active
+ingredient
+Environmental fate data accompanying an
+24,110
+application to register a pest control product ,or to
+amend the registration of a pest control product,
+that contains a registered active ingredient , when
+a new risk assessment is necessary
+Environment toxicology data accompanying an
+38,023
+application to register a pest control product that
+consists of or that contains a new active
+ingredient
+Environmental toxicology data accompanying an
+24,164
+application to register a pest control product ,or to
+amend the registration of a pest control product,
+that contains a registered active ingredient , when
+a new risk assessment is necessary
+Value and effectiveness data for a pest control
+925
+product
+Registration of a new active ingredient – food use 7,381
+Registration of a new active ingredient – non-food 4,428
+use
+Amendment of registration – new risk assessment 2,952
+necessary-environmental fate data, environmental
+toxicity data or exposure data
+Processing 1,156
+Total fee revenue () No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount () Product Chemistry – active ingredient 5,173
+Product Chemistry – end-use product or 2,881
+manufacturing concentrate
+Health Canada Fees Report Fiscal year 2018 to 2019 84
+Fees Report for Fiscal Year 2018 to 2019
+Toxicology data accompanying an application to 80,449
+register a pest control product that contains a new
+active ingredient
+Toxicology data accompanying an application to 16,800
+register a pest control product –or to amend a
+pest control product –that contains an registered
+active ingredient
+Toxicology data-acute toxicity studies 3,173
+Exposure data accompanying an application to 18,570
+register a pest control that consists of or that
+contains a new active ingredient
+Exposure data accompanying an application to 6,112
+register a pest control product –or to amend the
+registration of a pest control product –that
+contains a registered active ingredient, when a
+new risk assessment is necessary
+Metabolism data
+30,716
+Residue data
+16,809
+Environment fate data accompanying an
+45,299
+application to register a pest control product that
+consists of or that contains a new active
+ingredient
+Environmental fate data accompanying an
+25,085
+application to register a pest control product ,or to
+amend the registration of a pest control product,
+that contains a registered active ingredient , when
+a new risk assessment is necessary
+Environment toxicology data accompanying an
+39,560
+application to register a pest control product that
+consists of or that contains a new active
+ingredient
+Environmental toxicology data accompanying an
+25,141
+application to register a pest control product ,or to
+amend the registration of a pest control product,
+that contains a registered active ingredient , when
+a new risk assessment is necessary
+Value and effectiveness data for a pest control
+963
+product
+Registration of a new active ingredient – food use 7,680
+Health Canada Fees Report Fiscal year
+2018 to 2019 85
+Fees Report for Fiscal Year 2018 to 2019
+Registration of a new active ingredient – non-food 4,608
+use
+Amendment of registration – new risk assessment 3,073
+necessary-environmental fate data, environmental
+toxicity data or exposure data
+Processing 1,204
+Future fee-adjusted amount Not applicable
+()
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard 470 Days of Review
+Performance result N/A (0 applications completed in 2018-19)
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category A Component Based – 285 Days of Review (Non-
+straight-chain lepidopteran pheromones, including User
+Requested Minor Use Registration)
+Fee-setting authority: 2018 Pest Control Products Act
+to 2019
+Pest Control Products Fees and Charges Regulations
+Fee-setting authority: 2019 Pest Control Products Act
+and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Fee type Service
+Fee amount () Registration of new active ingredient 591
+Amendment of registration 296
+Total fee revenue () No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount () Registration of new active ingredient 616
+Amendment of registration 309
+Health Canada Fees Report Fiscal year 2018 to 2019 86
+Fees Report for Fiscal Year 2018 to 2019
+Future fee-adjusted amount Not applicable
+()
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard 285 Days of Review
+Performance result N/A (0 applications completed in 2018-19)
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category A Component Based – Submissions with atypical
+timelines and joint reviews
+Fee-setting authority: 2018 Pest Control Products Act
+to 2019
+Pest Control Products Fees and Charges Regulations
+Fee-setting authority: 2019 Pest Control Products Act
+and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Fee type Service
+Fee amount () Product Chemistry – active ingredient 4,971
+Product Chemistry – end-use product or 2,768
+manufacturing concentrate
+Toxicology data accompanying an application to 77,324
+register a pest control product that contains a new
+active ingredient
+Toxicology data accompanying an application to 16,147
+register a pest control product –or to amend a
+pest control product –that contains an registered
+active ingredient
+Toxicology data-acute toxicity studies 3,014
+Exposure data accompanying an application to 17,848
+register a pest control that consists of or that
+contains a new active ingredient
+Exposure data accompanying an application to 5,874
+register a pest control product –or to amend the
+Health Canada Fees Report Fiscal year
+2018 to 2019 87
+Fees Report for Fiscal Year 2018 to 2019
+registration of a pest control product –that
+contains a registered active ingredient, when a
+new risk assessment is necessary
+Metabolism data
+29,522
+Residue data
+16,155
+Environment fate data accompanying an
+43,539
+application to register a pest control product that
+consists of or that contains a new active
+ingredient
+Environmental fate data accompanying an
+24,110
+application to register a pest control product ,or to
+amend the registration of a pest control product,
+that contains a registered active ingredient , when
+a new risk assessment is necessary
+Environment toxicology data accompanying an
+38,023
+application to register a pest control product that
+consists of or that contains a new active
+ingredient
+Environmental toxicology data accompanying an
+24,164
+application to register a pest control product ,or to
+amend the registration of a pest control product,
+that contains a registered active ingredient , when
+a new risk assessment is necessary
+Value and effectiveness data for a pest control
+925
+product
+Registration of a new active ingredient – food use 7,381
+Registration of a new active ingredient – non-food 4,428
+use
+Amendment of registration – new risk assessment 2,952
+necessary-environmental fate data, environmental
+toxicity data or exposure data
+Registration of new active ingredient 591
+Amendment of registration 296
+Specification of maximum residue limit for a 127,971
+previously unexamined pest control product
+Specification of maximum residue limit for an 16,155
+unregistered use of a previously examined pest
+control product
+Processing 1,156
+Health Canada Fees Report Fiscal year 2018 to 2019 88
+Fees Report for Fiscal Year 2018 to 2019
+Total fee revenue () No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount () Product Chemistry – active ingredient 5,173
+Product Chemistry – end-use product or 2,881
+manufacturing concentrate
+Toxicology data accompanying an application to 80,449
+register a pest control product that contains a new
+active ingredient
+Toxicology data accompanying an application to 16,800
+register a pest control product –or to amend a
+pest control product –that contains an registered
+active ingredient
+Toxicology data-acute toxicity studies 3,173
+Exposure data accompanying an application to 18,570
+register a pest control that consists of or that
+contains a new active ingredient
+Exposure data accompanying an application to 6,112
+register a pest control product –or to amend the
+registration of a pest control product –that
+contains a registered active ingredient, when a
+new risk assessment is necessary
+Metabolism data
+30,716
+Residue data
+16,809
+Environment fate data accompanying an
+45,299
+application to register a pest control product that
+consists of or that contains a new active
+ingredient
+Environmental fate data accompanying an
+25,085
+application to register a pest control product ,or to
+amend the registration of a pest control product,
+that contains a registered active ingredient , when
+a new risk assessment is necessary
+Environment toxicology data accompanying an
+39,560
+application to register a pest control product that
+consists of or that contains a new active
+ingredient
+Environmental toxicology data accompanying an
+25,141
+application to register a pest control product ,or to
+Health Canada Fees Report Fiscal year
+2018 to 2019 89
+Fees Report for Fiscal Year 2018 to 2019
+amend the registration of a pest control product,
+that contains a registered active ingredient , when
+a new risk assessment is necessary
+Value and effectiveness data for a pest control
+963
+product
+Registration of a new active ingredient – food use 7,680
+Registration of a new active ingredient – non-food 4,608
+use
+Amendment of registration – new risk assessment 3,073
+necessary-environmental fate data, environmental
+toxicity data or exposure data
+Registration of new active ingredient 616
+Amendment of registration 309
+Specification of maximum residue limit for a 133,142
+previously unexamined pest control product
+Specification of maximum residue limit for an 16,809
+unregistered use of a previously examined pest
+control product
+Processing 1,204
+Future fee-adjusted amount Not applicable
+()
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard Variable as per Management of Submission Policy Appendix
+I, Table 1
+Performance result 100% (1/1 applications met the service standard)
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category B Component Based – 425 Days of Review
+(Conventional Chemicals including emergency use and New
+Import Maximum Residue Limits for previously assessed
+active ingredient)
+Fee-setting authority: 2018 Pest Control Products Act
+to 2019
+Pest Control Products Fees and Charges Regulations
+Health Canada Fees Report Fiscal year 2018 to 2019 90
+Fees Report for Fiscal Year 2018 to 2019
+Fee-setting authority: 2019 Pest Control Products Act
+and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Fee type Service
+Fee amount ($) Product Chemistry – active ingredient 4,971
+Product Chemistry – end-use product or 2,768
+manufacturing concentrate
+Toxicology data accompanying an application to 16,147
+register a pest control product –or to amend a
+pest control product –that contains an registered
+active ingredient
+Toxicology data-acute toxicity studies 3,014
+Exposure data - other
+5,319
+Metabolism data
+29,522
+Residue data
+16,155
+Environmental fate data - other
+11,777
+Environmental toxicology data - other
+2,515
+Value and effectiveness data for a pest control
+925
+product
+Specification of maximum residue limit for an
+16,155
+unregistered use of a previously examined pest
+control product
+Processing
+1,156
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) Product Chemistry – active ingredient 5,173
+Product Chemistry – end-use product or 2,881
+manufacturing concentrate
+Toxicology data accompanying an application to 16,800
+register a pest control product –or to amend a
+Health Canada Fees Report Fiscal year
+2018 to 2019 91
+Fees Report for Fiscal Year 2018 to 2019
+pest control product –that contains an registered
+active ingredient
+Toxicology data-acute toxicity studies 3,137
+Exposure data - other 5,535
+Metabolism data 30,716
+Residue data 16,809
+Environmental fate data - other
+12,254
+Environmental toxicology data - other
+2,618
+Value and effectiveness data for a pest control
+963
+product
+Specification of maximum residue limit for an
+16,809
+unregistered use of a previously examined pest
+control product
+Processing
+1,204
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard 425 Days of Review
+Performance result 87% (111/128 applications met the service standard)
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category B Component Based – 360 Days of Review
+(Reduced risk, other biopesticides, non-conventionals, non-
+straight chain lepidopteran pheromone including emergency
+use)
+Fee-setting authority: 2018 Pest Control Products Act
+to 2019
+Pest Control Products Fees and Charges Regulations
+Fee-setting authority: 2019 Pest Control Products Act
+and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Health Canada Fees Report Fiscal year 2018 to 2019 92
+Fees Report for Fiscal Year 2018 to 2019
+Fee type Service
+Fee amount ($) Product Chemistry – active ingredient 4,971
+Product Chemistry – end-use product or 2,768
+manufacturing concentrate
+Toxicology data accompanying an application to 16,147
+register a pest control product –or to amend a
+pest control product –that contains an registered
+active ingredient
+Toxicology data-acute toxicity studies 3,014
+Exposure data - other
+5,319
+Metabolism data
+29,522
+Residue data
+16,155
+Environmental fate data - other
+11,777
+Environmental toxicology data - other
+2,515
+Value and effectiveness data for a pest control
+925
+product
+Amendment of registration – data required, label
+1,476
+changes
+Amendment of registration – data required, other 1,182
+Processing 1,156
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) Product Chemistry – active ingredient 5,173
+Product Chemistry – end-use product or 2,881
+manufacturing concentrate
+Toxicology data accompanying an application to 16,800
+register a pest control product –or to amend a
+pest control product –that contains an registered
+active ingredient
+Toxicology data-acute toxicity studies 3,137
+Exposure data - other 5,535
+Metabolism data 30,716
+Health Canada Fees Report Fiscal year
+2018 to 2019 93
+Fees Report for Fiscal Year 2018 to 2019
+Residue data 16,809
+Environmental fate data - other
+12,254
+Environmental toxicology data - other
+2,618
+Value and effectiveness data for a pest control
+963
+product
+Amendment of registration – data required, label
+1,537
+changes
+Amendment of registration – data required, other
+1,231
+Processing
+1,204
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard 360 Days of Review
+Performance result 83% (10/12 applications met the service standard)
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category B Component Based – 240 Days of Review
+(Microbials and straight chain lepidopteran pheromones
+including emergency use)
+Fee-setting authority: 2018 Pest Control Products Act
+to 2019
+Pest Control Products Fees and Charges Regulations
+Fee-setting authority: 2019 Pest Control Products Act
+and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Fee type Service
+Fee amount ($) Amendment of registration – data required, label 1,476
+changes
+Amendment of registration – data required, other 1,182
+Amendment of registration 296
+Health Canada Fees Report Fiscal year 2018 to 2019 94
+Fees Report for Fiscal Year 2018 to 2019
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) Amendment of registration – data required, label 1,537
+changes
+Amendment of registration – data required, other
+1,231
+Amendment of registration
+309
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard 240 Days of Review
+Performance result 100% (20/20 applications met the service standard)
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category B Component Based – 158 Days of Review
+(Streamlined; application rate changes, tank mixes, new pests
+or changes to level of control)
+Fee-setting authority: 2018 Pest Control Products Act
+to 2019
+Pest Control Products Fees and Charges Regulations
+Fee-setting authority: 2019 Pest Control Products Act
+and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Fee type Service
+Fee amount ($) Value and effectiveness data for a pest control 925
+product
+Amendment of registration – data required, label
+1,476
+changes
+Health Canada Fees Report Fiscal year
+2018 to 2019 95
+Fees Report for Fiscal Year 2018 to 2019
+Amendment of registration – no data required, 296
+other
+Processing 1,156
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) Value and effectiveness data for a pest control 963
+product
+Amendment of registration – data required, label
+1,537
+changes
+Amendment of registration – no data required,
+309
+other
+Processing
+1,204
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard 158 Days of Review
+Performance result 96% (49/51 applications met the service standard)
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category B Component Based – Submissions with atypical
+timelines and joint reviews
+Fee-setting authority: 2018 Pest Control Products Act
+to 2019
+Pest Control Products Fees and Charges Regulations
+Fee-setting authority: 2019 Pest Control Products Act
+and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Fee type Service
+Health Canada Fees Report Fiscal year 2018 to 2019 96
+Fees Report for Fiscal Year 2018 to 2019
+Fee amount ($) Product Chemistry – active ingredient 4,971
+Product Chemistry – end-use product or 2,768
+manufacturing concentrate
+Toxicology data accompanying an application to 16,147
+register a pest control product –or to amend a
+pest control product –that contains an registered
+active ingredient
+Toxicology data-acute toxicity studies 3,014
+Exposure data-other
+5,319
+Metabolism data
+29,522
+Residue data
+16,155
+Environmental fate data - other
+11,777
+Environmental toxicology data - other
+2,515
+Value and effectiveness data for a pest control
+925
+product
+Amendment of registration - data required, label 1,476
+changes
+Amendment of registration - data required, other 1,182
+Amendment of registration - no data required 296
+Amendment of registration 296
+Specification of maximum residue limit for an 16,155
+unregistered use of a previously examined pest
+control product
+Processing 1,156
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) Product Chemistry – active ingredient 5,173
+Product Chemistry – end-use product or 2,881
+manufacturing concentrate
+Toxicology data accompanying an application to 16,800
+register a pest control product –or to amend a
+pest control product –that contains an registered
+active ingredient
+Health Canada Fees Report Fiscal year
+2018 to 2019 97
+Fees Report for Fiscal Year 2018 to 2019
+Toxicology data-acute toxicity studies 3,137
+Exposure data-other 5,535
+Metabolism data 30,716
+Residue data 16,809
+Environmental fate data - other 12,254
+Environmental toxicology data - other 2,618
+Value and effectiveness data for a pest control 963
+product
+Amendment of registration - data required, label
+1,537
+changes
+Amendment of registration - data required, other
+1,231
+Amendment of registration - no data required
+309
+Amendment of registration
+309
+Specification of maximum residue limit for an
+16,809
+unregistered use of a previously examined pest
+control product
+Processing
+1,204
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard Variable as per Management of Submission Policy Appendix
+I, Table 2
+Performance result N/A (0 applications completed in 2018-19)
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category C Component Based – 240 Days of Review
+(New/Changes to Product Labels, Addition of Approved Minor
+Use, Similar Product)
+Fee-setting authority: 2018 Pest Control Products Act
+to 2019
+Pest Control Products Fees and Charges Regulations
+Health Canada Fees Report Fiscal year 2018 to 2019 98
+Fees Report for Fiscal Year 2018 to 2019
+Fee-setting authority: 2019 Pest Control Products Act
+and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Fee type Service
+Fee amount ($) Amendment of registration – no data required 296
+Amendment of registration 296
+Processing 1,156
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) Amendment of registration – no data required 309
+Amendment of registration
+309
+Processing
+1,204
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard 240 Days of Review
+Performance result 95% (570/599 applications met the service standard)
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category C Component Based – 180 Days of Review
+(New/Changes to TGAI, ISP, MA or EP Product Chemistry,
+Administrative Changes, Administrative Re-instatement)
+Fee-setting authority: 2018 Pest Control Products Act
+to 2019
+Pest Control Products Fees and Charges Regulations
+Fee-setting authority: 2019 Pest Control Products Act
+and onwards
+Pest Control Products Fees and Charges Regulations
+Health Canada Fees Report Fiscal year
+2018 to 2019 99
+Fees Report for Fiscal Year 2018 to 2019
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Fee type Service
+Fee amount ($) Amendment of registration – no data required 296
+Amendment of registration 296
+Processing 1,156
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) Amendment of registration – no data required 309
+Amendment of registration
+309
+Processing
+1,204
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard 180 Days of Review
+Performance result 93% (120/129 applications met the service standard)
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category C Component Based – Submissions with atypical
+timelines and joint reviews
+Fee-setting authority: 2018 Pest Control Products Act
+to 2019
+Pest Control Products Fees and Charges Regulations
+Fee-setting authority: 2019 Pest Control Products Act
+and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Health Canada Fees Report Fiscal year 2018 to 2019 100
+Fees Report for Fiscal Year 2018 to 2019
+Fee type Service
+Fee amount ($) Amendment of registration – no data required 296
+Amendment of registration 296
+Processing 1,156
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) Amendment of registration – no data required 309
+Amendment of registration
+309
+Processing
+1,204
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard Variable as per Management of Submission Policy Appendix
+I, Table 2
+Performance result N/A (0 applications completed in 2018-19)
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category D Component Based – 246 Days of Review
+(Registration Renewal)
+Fee-setting authority: 2018 Pest Control Products Act
+to 2019
+Pest Control Products Fees and Charges Regulations
+Fee-setting authority: 2019 Pest Control Products Act
+and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Health Canada Fees Report Fiscal year
+2018 to 2019 101
+Fees Report for Fiscal Year 2018 to 2019
+Fee type Service
+Fee amount ($) Renewal 82
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) Renewal 86
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard 246 Days of Review
+Performance result 100% (973/973 applications met the service standard)
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category D Component Based – 46 Days of Review
+(Registration/Amendment to Registration of active ingredient to
+be used in pest control product manufactured only for export)
+Fee-setting authority: Pest Control Products Act
+2018 to 2019
+Pest Control Products Fees and Charges Regulations
+Fee-setting authority: Pest Control Products Act
+2019 and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Fee type Service
+Fee amount ($) Registration of active ingredient to be used in 7,948
+pest control product manufactured only for
+export
+Amendment to Registration of active ingredient
+1,156
+to be used in pest control product manufactured
+only for export
+Total fee revenue ($) No data available at this time
+Health Canada Fees Report Fiscal year 2018 to 2019 102
+Fees Report for Fiscal Year 2018 to 2019
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount Registration of active ingredient to be used in 8,307
+($) pest control product manufactured only for
+export
+Amendment to Registration of active ingredient 1,204
+to be used in pest control product
+manufactured only for export
+Future fee-adjusted Not applicable
+amount ($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard 46 Days of Review
+Performance result 100% (2/2 applications met the service standard)
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category D Component Based – 42 Days of Review (Master
+Copies)
+Fee-setting authority: Pest Control Products Act
+2018 to 2019
+Pest Control Products Fees and Charges Regulations
+Fee-setting authority: Pest Control Products Act
+2019 and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Fee type Service
+Fee amount ($) Processing 1,156
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount Processing 1,204
+($)
+Health Canada Fees Report Fiscal year
+2018 to 2019 103
+Fees Report for Fiscal Year 2018 to 2019
+Future fee-adjusted Not applicable
+amount ($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard 42 Days of Review
+Performance result 91% (50/55 applications met the service standard)
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category D Component Based – 10 Days of Review (Private
+Labels)
+Fee-setting authority: Pest Control Products Act
+2018 to 2019
+Pest Control Products Fees and Charges Regulations
+Fee-setting authority: Pest Control Products Act
+2019 and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Fee type Service
+Fee amount ($) Processing 1,156
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount Processing 1,204
+($)
+Future fee-adjusted Not applicable
+amount ($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard 10 Days of Review
+Performance result 100% (2/2 applications met the service standard)
+Health Canada Fees Report Fiscal year 2018 to 2019 104
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category E Component Based – 159 Days of Review
+(Research Authorizations for New Technical Grade Active
+Ingredients)
+Fee-setting authority: 2018 Pest Control Products Act
+to 2019
+Pest Control Products Fees and Charges Regulations
+Fee-setting authority: 2019 Pest Control Products Act
+and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Fee type Service
+Fee amount ($) Research authorization – major crops, other than 5,182
+research authorizations set out in paragraphs (c)
+and (d)
+Research authorization – minor use crops, other
+5,182
+than research authorizations set out in paragraphs
+(c) and (d)
+Research authorization – microbial agents,
+1,242
+semiochemicals and any substance listed in
+subparagraph 1(d) (ii) of these regulations
+Research authorization – greenhouse crops and
+1,242
+non-agricultural uses
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) Research authorization – major crops, other than 5,392
+research authorizations set out in paragraphs (c)
+and (d)
+Research authorization – minor use crops, other 5,392
+than research authorizations set out in paragraphs
+(c) and (d)
+Health Canada Fees Report Fiscal year
+2018 to 2019 105
+Fees Report for Fiscal Year 2018 to 2019
+Research authorization – microbial agents, 1,293
+semiochemicals and any substance listed in
+subparagraph 1(d) (ii) of these regulations
+Research authorization – greenhouse crops and 1,293
+non-agricultural uses
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard 159 Days of Review
+Performance result 33% (12/36 applications met the service standard)
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category E Component Based – 69 Days of Review
+(Research Authorizations for New Uses of Registered Active
+Ingredients)
+Fee-setting authority: 2018 Pest Control Products Act
+to 2019
+Pest Control Products Fees and Charges Regulations
+Fee-setting authority: 2019 Pest Control Products Act
+and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Fee type Service
+Fee amount ($) Research authorization – major crops, other than 5,182
+research authorizations set out in paragraphs (c)
+and (d)
+Research authorization – minor use crops, other
+5,182
+than research authorizations set out in paragraphs
+(c) and (d)
+Research authorization – microbial agents,
+1,242
+semiochemicals and any substance listed in
+subparagraph 1(d) (ii) of these regulations
+Research authorization – greenhouse crops and
+1,242
+non-agricultural uses
+Health Canada Fees Report Fiscal year 2018 to 2019 106
+Fees Report for Fiscal Year 2018 to 2019
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) Research authorization – major crops, other than 5,392
+research authorizations set out in paragraphs (c)
+and (d)
+Research authorization – minor use crops, other 5,392
+than research authorizations set out in paragraphs
+(c) and (d)
+Research authorization – microbial agents, 1,293
+semiochemicals and any substance listed in
+subparagraph 1(d) (ii) of these regulations
+Research authorization – greenhouse crops and 1,293
+non-agricultural uses
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard 69 Days of Review
+Performance result 13% (5/40 applications met the service standard)
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category E Component Based – 30 Days of Review
+(Research Notification for Research Carried out in Canada)
+Fee-setting authority: 2018 Pest Control Products Act
+to 2019
+Pest Control Products Fees and Charges Regulations
+Fee-setting authority: 2019 Pest Control Products Act
+and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Fee type Service
+Fee amount ($) Research notifications 252
+Health Canada Fees Report Fiscal year
+2018 to 2019 107
+Fees Report for Fiscal Year 2018 to 2019
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) Research notifications 264
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard 30 Days of Review
+Performance result 50% (13/26 applications met the service standard)
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category F Component Based – 45 Days of Review
+(Registration and amendments to registered pest control
+products via notification)
+Fee-setting authority: 2018 Pest Control Products Act
+to 2019
+Pest Control Products Fees and Charges Regulations
+Fee-setting authority: 2019 Pest Control Products Act
+and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Fee type Service
+Fee amount ($) Applications not mentioned in schedules 252
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) Applications not mentioned in schedules 264
+Health Canada Fees Report Fiscal year 2018 to 2019 108
+Fees Report for Fiscal Year 2018 to 2019
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard 45 Days of Review
+Performance result 98% (822/842 applications met the service standard)
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category L Component Based – 425 Days of Review
+(Equivalency and data compensation assessment of end-use
+product and manufacturing concentrate with partial data
+package - conventional chemical)
+Fee-setting authority: 2018 Pest Control Products Act
+to 2019
+Pest Control Products Fees and Charges Regulations
+Fee-setting authority: 2019 Pest Control Products Act
+and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Fee type Service
+Fee amount ($) Product Chemistry – active ingredient 4,971
+Product Chemistry – end-use product or 2,768
+manufacturing concentrate
+Toxicology data accompanying an application to 16,147
+register a pest control product –or to amend a
+pest control product –that contains an registered
+active ingredient
+Toxicology data-acute toxicity studies 3,014
+Exposure data - other
+5,319
+Metabolism data
+29,522
+Residue data
+16,155
+Environmental fate data - other
+11,777
+Health Canada Fees Report Fiscal year
+2018 to 2019 109
+Fees Report for Fiscal Year 2018 to 2019
+Environmental toxicology data – other
+2,515
+Value and effectiveness data for a pest control
+925
+product
+Identification of compensable data
+2,206
+Processing
+1,156
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) Product Chemistry – active ingredient 5,173
+Product Chemistry – end-use product or 2,881
+manufacturing concentrate
+Toxicology data accompanying an application to 16,800
+register a pest control product –or to amend a
+pest control product –that contains an registered
+active ingredient
+Toxicology data-acute toxicity studies 3,137
+Exposure data - other 5,535
+Metabolism data 30,716
+Residue data 16,809
+Environmental fate data - other
+12,254
+Environmental toxicology data – other
+2,618
+Value and effectiveness data for a pest control
+963
+product
+Identification of compensable data
+2,297
+Processing
+1,204
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard 425 Days of Review
+Performance result 86% (18/21 applications met the service standard)
+Health Canada Fees Report Fiscal year 2018 to 2019 110
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category L Component Based – 365 Days of Review
+(Equivalency and data compensation assessment of active
+ingredient, end-use product and manufacturing concentrate
+with no data)
+Fee-setting authority: 2018 Pest Control Products Act
+to 2019
+Pest Control Products Fees and Charges Regulations
+Fee-setting authority: 2019 Pest Control Products Act
+and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Fee type Service
+Fee amount ($) Product Chemistry – active ingredient 4,971
+Product Chemistry – end-use product or 2,768
+manufacturing concentrate
+Identification of compensable data
+2,206
+Processing
+1,156
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) Product Chemistry – active ingredient 5,173
+Product Chemistry – end-use product or 2,881
+manufacturing concentrate
+Identification of compensable data
+2,297
+Processing
+1,204
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard 365 Days of Review
+Health Canada Fees Report Fiscal year
+2018 to 2019 111
+Fees Report for Fiscal Year 2018 to 2019
+Performance result 97% (61/63 applications met the service standard)
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category L Component Based – 360 Days of Review
+(Equivalency and data compensation assessment of end-use
+product and manufacturing concentrate with partial data
+package - reduced risk, other biopesticides, non-
+conventionals, non-straight chain lepidopteran pheromone)
+Fee-setting authority: 2018 Pest Control Products Act
+to 2019
+Pest Control Products Fees and Charges Regulations
+Fee-setting authority: 2019 Pest Control Products Act
+and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Fee type Service
+Fee amount ($) Product Chemistry – active ingredient 4,971
+Product Chemistry – end-use product or 2,768
+manufacturing concentrate
+Toxicology data accompanying an application to 16,147
+register a pest control product –or to amend a
+pest control product –that contains an registered
+active ingredient
+Toxicology data-acute toxicity studies 3,014
+Exposure data - other
+5,319
+Metabolism data
+29,522
+Residue data
+16,155
+Environmental fate data - other
+11,777
+Environmental toxicology data – other
+2,515
+Value and effectiveness data for a pest control
+925
+product
+Identification of compensable data
+2,206
+Health Canada Fees Report Fiscal year 2018 to 2019 112
+Fees Report for Fiscal Year 2018 to 2019
+Amendment of registration – data required, label
+1,476
+changes
+Amendment of registration – data required, other
+1,182
+Processing
+1,156
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) Product Chemistry – active ingredient 5,173
+Product Chemistry – end-use product or 2,881
+manufacturing concentrate
+Toxicology data accompanying an application to 16,800
+register a pest control product –or to amend a
+pest control product –that contains an registered
+active ingredient
+Toxicology data-acute toxicity studies 3,137
+Exposure data - other 5,535
+Metabolism data 30,716
+Residue data 16,809
+Environmental fate data - other
+12,254
+Environmental toxicology data – other
+2,618
+Value and effectiveness data for a pest control
+963
+product
+Identification of compensable data
+2,297
+Amendment of registration – data required, label
+1,537
+changes
+Amendment of registration – data required, other
+1,231
+Processing
+1,204
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard 360 Days of Review
+Health Canada Fees Report Fiscal year
+2018 to 2019 113
+Fees Report for Fiscal Year 2018 to 2019
+Performance result N/A (0 applications completed in 2018-19)
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category L Component Based 240 Days of Review
+(Equivalency and data compensation assessment of end-use
+product and manufacturing concentrate with partial data
+package - microbials and straight chain lepidopteran
+pheromone)
+Fee-setting authority: 2018 Pest Control Products Act
+to 2019
+Pest Control Products Fees and Charges Regulations
+Fee-setting authority: 2019 Pest Control Products Act
+and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Fee type Service
+Fee amount ($) Identification of compensable data 2,206
+Amendment of registration – data required, label
+1,476
+changes
+Amendment of registration – data required, other
+1,182
+Amendment of registration
+296
+Processing
+1,156
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) Identification of compensable data 2,297
+Amendment of registration – data required, label
+1,537
+changes
+Amendment of registration – data required, other
+1,231
+Amendment of registration
+309
+Processing
+1,204
+Health Canada Fees Report Fiscal year 2018 to 2019 114
+Fees Report for Fiscal Year 2018 to 2019
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard 240 Days of Review
+Performance result N/A (0 applications completed in 2018-19)
+Fee grouping Fees to be Paid for the Examination of an Application in
+Respect of a Pest Control Product
+Fee Category L Component Based – Applications with atypical
+timelines (Tailgaters, renegotiated timelines, synchronized
+timelines, coordination with Re-Evaluation)
+Fee-setting authority: 2018 Pest Control Products Act
+to 2019
+Pest Control Products Fees and Charges Regulations
+Fee-setting authority: 2019 Pest Control Products Act
+and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Fee type Service
+Fee amount ($) Product Chemistry – active ingredient 4,971
+Product Chemistry – end-use product or 2,768
+manufacturing concentrate
+Toxicology data accompanying an application to 16,147
+register a pest control product –or to amend a
+pest control product –that contains an registered
+active ingredient
+Toxicology data-acute toxicity studies 3,014
+Exposure data - other
+5,319
+Metabolism data
+29,522
+Residue data
+16,155
+Environmental fate data - other
+11,777
+Environmental toxicology data – other
+2,515
+Health Canada Fees Report Fiscal year
+2018 to 2019 115
+Fees Report for Fiscal Year 2018 to 2019
+Value and effectiveness data for a pest control
+925
+product
+Identification of compensable data
+2,206
+Amendment of registration – data required, label
+1,476
+changes
+Amendment of registration – data required, other
+1,182
+Amendment of registration
+296
+Processing
+1,156
+Total fee revenue ($) No data available at this time
+Adjustment type Annual
+Adjustment rate 2% (rounded up to the nearest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) Product Chemistry – active ingredient 5,173
+Product Chemistry – end-use product or 2,881
+manufacturing concentrate
+Toxicology data accompanying an application to 16,800
+register a pest control product –or to amend a
+pest control product –that contains an registered
+active ingredient
+Toxicology data-acute toxicity studies 3,137
+Exposure data - other 5,535
+Metabolism data 30,716
+Residue data 16,809
+Environmental fate data - other
+12,254
+Environmental toxicology data – other
+2,618
+Value and effectiveness data for a pest control
+963
+product
+Identification of compensable data
+2,297
+Amendment of registration – data required, label
+1,231
+changes
+Amendment of registration – data required, other
+1,182
+Amendment of registration
+309
+Processing
+1,204
+Health Canada Fees Report Fiscal year 2018 to 2019 116
+Fees Report for Fiscal Year 2018 to 2019
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Pest Control Products Fees and Regulations
+Service standard Variable as per Management of Submission Policy Appendix
+I, Table 7
+Performance result N/A (0 applications completed in 2018-19)
+Annual Charge (for a registered Pest Control Product)
+A registrant must pay each year, in respect of every pest control product that is registered in their
+name on April 1 of the year, an annual charge. All registered products including technical grade
+active ingredients (TGAI), import for manufacturing and export program (IMEPs), private label
+products and master copies must pay the annual charge.
+Fee grouping Annual Charge (for a registered Pest Control Product)
+Fee Annual Charge
+Fee-setting authority: 2018 Pest Control Products Act
+to 2019
+Pest Control Products Fees and Charges Regulations
+Fee-setting authority: 2019 Pest Control Products Act
+and onwards
+Pest Control Products Fees and Charges Regulations
+Year introduced 1997
+Last year fee-setting 2017
+authority was amended
+Fee type Other Authorization
+Fee amount ($) The lesser of $3,600 and 4% of the actual gross revenue
+during the registrant’s preceding fiscal year, but not less than
+$100
+Total fee revenue ($) $9,432,992
+Adjustment type Annual
+Adjustment rate 2%
+Health Canada Fees Report Fiscal year
+2018 to 2019 117
+Fees Report for Fiscal Year 2018 to 2019
+(% or formula)
+2020 to 2021 fee amount ($) The lesser of $3,752.78 and 4% of the actual gross revenue
+during the registrant’s preceding fiscal year, but not less than
+$104.24.
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Section 17 of the Service Fees Act (Consumer Price Index)
+Service standard 100% of all invoices were issued by April 30th 2018
+Performance result 100%
+Fees Charged for Filing a Claim for Exemption Under the
+Hazardous Materials Information Review Act
+When a supplier or employer wants to be exempt from having to disclose confidential business
+information (CBI), such as the chemical identity of one or more trade-secret hazardous
+ingredients, they must file a claim for exemption with Health Canada.
+Fee grouping Fees Charged for Filing a Claim for Exemption Under the
+Hazardous Materials Information Review Act
+Fee Original Claims
+Fee-setting authority: 2018  Hazardous Materials Information Review Act
+to 2019  Hazardous Materials Information Review Regulations
+Fee-setting authority: 2019  Hazardous Materials Information Review Act
+and onwards  Hazardous Materials Information Review Regulations
+Year introduced 1988
+Last year fee-setting 2002
+authority was amended
+Fee type Service
+Fee amount ($) Original Claim (up to 15) 1,800
+Original Claim (between 16-25) 400
+Original Claim (26+) 200
+Health Canada Fees Report Fiscal year 2018 to 2019 118
+Fees Report for Fiscal Year 2018 to 2019
+A 50% reduction for a small business that meets certain
+criteria is available
+Total fee revenue ($) 346,674
+Adjustment type Section 17 of the Service Fees Act (Consumer Price Index)
+Adjustment rate 2%
+(% or formula)
+2020 to 2021 fee amount ($) Original Claim (up to 15) 1,876.39
+Original Claim (between 16-25) 416.98
+Original Claim (26+) 208.49
+A 50% reduction for a small business that meets certain
+criteria is available.
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Service Fees Act
+Service standard 7 calendar days from the date of the receipt of a complete
+application, for the issuance of a registry number
+Performance result 99% of claims (original and refiled) were completed within the
+service standard
+Fee grouping Fees Charged for Filing a Claim for Exemption Under the
+Hazardous Materials Information Review Act
+Fee Refiled Claims
+Fee-setting authority: 2018  Hazardous Materials Information Review Act
+to 2019  Hazardous Materials Information Review Regulations
+Fee-setting authority: 2019  Hazardous Materials Information Review Act
+and onwards  Hazardous Materials Information Review Regulations
+Year introduced 1988
+Last year fee-setting 2002
+authority was amended
+Fee type Service
+Fee amount ($) Refiled Claims (up to 15) 1,440
+Refiled Claims (between 16-25) 320
+Refiled Claims (26+) 160
+Health Canada Fees Report Fiscal year
+2018 to 2019 119
+Fees Report for Fiscal Year 2018 to 2019
+A 50% reduction for a small business that meets certain
+criteria is available
+Total fee revenue ($) 112,320
+Adjustment type Section 17 of the Service Fees Act (Consumer Price Index)
+Adjustment rate 2%
+(% or formula)
+2020 to 2021 fee amount ($) Refiled Claims (up to 15) 1,501.11
+Refiled Claims (between 16-25) 333.58
+Refiled Claims (26+) 166.79
+A 50% reduction for a small business that meets certain
+criteria is available.
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Service Fees Act
+Service standard 7 calendar days from the date of the receipt of a complete
+application, for the issuance of a registry number
+Performance result 99% of claims (original and refiled) were completed within the
+service standard
+Cannabis Fees
+Fees are charged for the following transactional activities: application screening, security
+clearances, and import/export permits. In addition, an Annual Regulatory Fee is charged which
+covers costs associated with a range of regulatory activities including regulatory inspections,
+compliance and enforcement, program management and oversight. These activities are carried
+out by Health Canada, the Canada Border Services Agency, the Public Health Agency of Canada
+and Public Safety Canada to support the objectives of the Cannabis Act with respect to the
+legislation and regulations of cannabis.
+Fee grouping Cannabis Fees
+Fee Licence Application Screening Fee - Licence for micro-
+cultivation
+Fee-setting authority: 2018  Cannabis Act
+to 2019  Cannabis Fees Order
+Fee-setting authority: 2019  Cannabis Act
+and onwards  Cannabis Fees Order
+Year introduced 2018
+Health Canada Fees Report Fiscal year 2018 to 2019 120
+Fees Report for Fiscal Year 2018 to 2019
+Last year fee-setting Not applicable
+authority was amended
+Fee type Licence2
+Fee amount ($) 1,638
+Total fee revenue ($) Data not available
+Adjustment type Annual
+Adjustment rate 2% (rounded to the next highest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) 1,709
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Cannabis Fees Order (Consumer Price Index)
+Service standard Health Canada is committed to a non-binding administrative
+service standard of 30 business days for the screening of
+licence applications from the date that payment is received for
+the application. The standard excludes time spent awaiting
+additional information from applicants.
+Performance result As the Cannabis Fees Order came into force on October 17,
+2018, the full fiscal year of data is not available.
+Fee grouping Cannabis Fees
+Fee Licence Application Screening Fee - Licence for standard
+cultivation
+Fee-setting authority: 2018  Cannabis Act
+to 2019  Cannabis Fees Order
+Fee-setting authority: 2019  Cannabis Act
+and onwards  Cannabis Fees Order
+Year introduced 2018
+Last year fee-setting Not applicable
+authority was amended
+2 The application screening fee relates to the recovery of costs associated with the intake, screening,
+acceptance or rejection of new applications for certain licensed activities; the acceptance of the licence
+application indicates that the application will proceed to the next phase of licence review and does not mean
+that a new licence will be issued.
+Health Canada Fees Report Fiscal year
+2018 to 2019 121
+Fees Report for Fiscal Year 2018 to 2019
+Fee type Licence2
+Fee amount ($) 3,277
+Total fee revenue ($) Data not available
+Adjustment type Annual
+Adjustment rate 2% (rounded to the next highest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) 3,417
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Cannabis Fees Order (Consumer Price Index)
+Service standard Health Canada is committed to a non-binding administrative
+service standard of 30 business days for the screening of
+licence applications from the date that payment is received for
+the application. The standard excludes time spent awaiting
+additional information from applicants.
+Performance result As the Cannabis Fees Order came into force on October 17,
+2018, the full fiscal year of data is not available.
+Fee grouping Cannabis Fees
+Fee Licence Application Screening Fee - Licence for a nursery
+Fee-setting authority: 2018  Cannabis Act
+to 2019  Cannabis Fees Order
+Fee-setting authority: 2019  Cannabis Act
+and onwards  Cannabis Fees Order
+Year introduced 2018
+Last year fee-setting Not applicable
+authority was amended
+Fee type Licence2
+Fee amount ($) 1,638
+Total fee revenue ($) Data not available
+Adjustment type Annual
+Adjustment rate 2% (rounded to the next highest dollar)
+(% or formula)
+Health Canada Fees Report Fiscal year 2018 to 2019 122
+Fees Report for Fiscal Year 2018 to 2019
+2020 to 2021 fee amount ($) 1,709
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Cannabis Fees Order (Consumer Price Index)
+Service standard Health Canada is committed to a non-binding administrative
+service standard of 30 business days for the screening of
+licence applications from the date that payment is received for
+the application. The standard excludes time spent awaiting
+additional information from applicants.
+Performance result As the Cannabis Fees Order came into force on October 17,
+2018, the full fiscal year of data is not available.
+Health Canada Fees Report Fiscal year
+2018 to 2019 123
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Cannabis Fees
+Fee Licence Application Screening Fee - Licence for micro-
+processing
+Fee-setting authority: 2018  Cannabis Act
+to 2019  Cannabis Fees Order
+Fee-setting authority: 2019  Cannabis Act
+and onwards  Cannabis Fees Order
+Year introduced 2018
+Last year fee-setting Not applicable
+authority was amended
+Fee type Licence2
+Fee amount ($) 1,638
+Total fee revenue ($) Data not available
+Adjustment type Annual
+Adjustment rate 2% (rounded to the next highest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) 1,709
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Cannabis Fees Order (Consumer Price Index)
+Service standard Health Canada is committed to a non-binding administrative
+service standard of 30 business days for the screening of
+licence applications from the date that payment is received for
+the application. The standard excludes time spent awaiting
+additional information from applicants.
+Performance result As the Cannabis Fees Order came into force on October 17,
+2018, the full fiscal year of data is not available.
+Fee grouping Cannabis Fees
+Fee Licence Application Screening Fee - Licence for standard
+processing
+Fee-setting authority: 2018  Cannabis Act
+to 2019  Cannabis Fees Order
+Fee-setting authority: 2019  Cannabis Act
+and onwards  Cannabis Fees Order
+Health Canada Fees Report Fiscal year 2018 to 2019 124
+Fees Report for Fiscal Year 2018 to 2019
+Year introduced 2018
+Last year fee-setting Not applicable
+authority was amended
+Fee type Licence2
+Fee amount ($) 3,277
+Total fee revenue ($) Data not available
+Adjustment type Annual
+Adjustment rate 2% (rounded to the next highest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) 3,417
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Cannabis Fees Order (Consumer Price Index)
+Service standard Health Canada is committed to a non-binding administrative
+service standard of 30 business days for the screening of
+licence applications from the date that payment is received for
+the application. The standard excludes time spent awaiting
+additional information from applicants.
+Performance result As the Cannabis Fees Order came into force on October 17,
+2018, the full fiscal year of data is not available.
+Fee grouping Cannabis Fees
+Fee Licence Application Screening Fee - Licence for sale for
+medical purposes
+Fee-setting authority: 2018  Cannabis Act
+to 2019  Cannabis Fees Order
+Fee-setting authority: 2019  Cannabis Act
+and onwards  Cannabis Fees Order
+Year introduced 2018
+Last year fee-setting Not applicable
+authority was amended
+Fee type Licence2
+Fee amount ($) 3,277
+Health Canada Fees Report Fiscal year
+2018 to 2019 125
+Fees Report for Fiscal Year 2018 to 2019
+Total fee revenue ($) Data not available
+Adjustment type Annual
+Adjustment rate 2% (rounded to the next highest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) 3,417
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Cannabis Fees Order (Consumer Price Index)
+Service standard Health Canada is committed to a non-binding administrative
+service standard of 30 business days for the screening of
+licence applications from the date that payment is received for
+the application. The standard excludes time spent awaiting
+additional information from applicants.
+Performance result As the Cannabis Fees Order came into force on October 17,
+2018, the full fiscal year of data is not available.
+Fee grouping Cannabis Fees
+Fee Application for a security clearance
+Fee-setting authority: 2018  Cannabis Act
+to 2019  Cannabis Fees Order
+Fee-setting authority: 2019  Cannabis Act
+and onwards  Cannabis Fees Order
+Year introduced 2018
+Last year fee-setting Not applicable
+authority was amended
+Fee type Other Authorization
+Fee amount ($) 1,654
+Total fee revenue ($) Data not available
+Adjustment type Annual
+Adjustment rate 2% (rounded to the next highest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) 1,725
+Health Canada Fees Report Fiscal year 2018 to 2019 126
+Fees Report for Fiscal Year 2018 to 2019
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Cannabis Fees Order (Consumer Price Index)
+Service standard No administrative service standard for this fee as outlined
+during the 2018 consultation on the Proposed Approach to
+Cost Recovery for the Regulation of Cannabis and the
+subsequent Regulatory Impact Analysis Statement for the
+Cannabis Fees Order.
+Performance result Not applicable
+Fee grouping Cannabis Fees
+Fee Application for import or export permit
+Fee-setting authority: 2018  Cannabis Act
+to 2019  Cannabis Fees Order
+Fee-setting authority: 2019  Cannabis Act
+and onwards  Cannabis Fees Order
+Year introduced 2018
+Last year fee-setting Not applicable
+authority was amended
+Fee type Permit
+Fee amount ($) 610
+Total fee revenue ($) Data not available
+Adjustment type Annual
+Adjustment rate 2% (rounded to the next highest dollar)
+(% or formula)
+2020 to 2021 fee amount ($) 637
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date April 1, 2020
+Fee-adjustment authority Cannabis Fees Order (Consumer Price Index)
+Service standard Health Canada is committed to a non-binding administrative
+service standard of 30 business days from the date that
+payment is received for the application. The standard
+Health Canada Fees Report Fiscal year
+2018 to 2019 127
+Fees Report for Fiscal Year 2018 to 2019
+excludes time spent awaiting additional information from
+applicants.
+Performance result As the Cannabis Fees Order came into force on October 17,
+2018, the full fiscal year of data is not available.
+Fee grouping Cannabis Fees
+Fee Annual fee - Licence for micro-cultivation
+Fee-setting authority: 2018  Cannabis Act
+to 2019  Cannabis Fees Order
+Fee-setting authority: 2019  Cannabis Act
+and onwards  Cannabis Fees Order
+Year introduced 2018
+Last year fee-setting Not applicable
+authority was amended
+Fee type Licence3
+Fee amount ($) (a) If the cannabis revenue is $1 million or less, the greater of
+1% of the cannabis revenue, and $2,500; or
+(b) if the cannabis revenue is greater than $1 million, the
+maximum amount determinable under (a) plus 2.3% of the
+amount by which the cannabis revenue exceeds $1 million
+Total fee revenue ($) Data not available
+Adjustment type Exempt
+Adjustment rate Not applicable as the fee is based on cannabis revenue
+(% or formula)
+2020 to 2021 fee amount ($) (a) If the cannabis revenue is $1 million or less, the greater of
+1% of the cannabis revenue, and $2,500; or
+(b) if the cannabis revenue is greater than $1 million, the
+maximum amount determinable under (a) plus 2.3% of the
+amount by which the cannabis revenue exceeds $1 million
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable as the fee is based on cannabis revenue
+Fee-adjustment authority Cannabis Fees Order
+3 The annual regulatory fee recovers the aggregate costs of administering the cannabis regulatory program
+that are not covered under any of the other fees. The annual regulatory fee is payable annually by
+cultivation, processing and federal sales licence holders
+Health Canada Fees Report Fiscal year 2018 to 2019 128
+Fees Report for Fiscal Year 2018 to 2019
+Service standard No administrative service standard for this fee as outlined
+during the 2018 consultation on the Proposed Approach to
+Cost Recovery for the Regulation of Cannabis and the
+subsequent Regulatory Impact Analysis Statement for the
+Cannabis Fees Order.
+Performance result Not applicable
+Health Canada Fees Report Fiscal year
+2018 to 2019 129
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Cannabis Fees
+Fee Annual fee - Licence for standard cultivation
+Fee-setting authority: 2018  Cannabis Act
+to 2019  Cannabis Fees Order
+Fee-setting authority: 2019  Cannabis Act
+and onwards  Cannabis Fees Order
+Year introduced 2018
+Last year fee-setting Not applicable
+authority was amended
+Fee type Licence3
+Fee amount ($) The greater of 2.3% of the cannabis revenue and $23,000
+Total fee revenue ($) Data not available
+Adjustment type Exempt
+Adjustment rate Not applicable as the fee is based on cannabis revenue
+(% or formula)
+2020 to 2021 fee amount ($) The greater of 2.3% of the cannabis revenue and $23,000
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable as the fee is based on cannabis revenue
+Fee-adjustment authority Cannabis Fees Order
+Service standard No administrative service standard for this fee as outlined
+during the 2018 consultation on the Proposed Approach to
+Cost Recovery for the Regulation of Cannabis and the
+subsequent Regulatory Impact Analysis Statement for the
+Cannabis Fees Order.
+Performance result Not applicable
+Health Canada Fees Report Fiscal year 2018 to 2019 130
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Cannabis Fees
+Fee Annual fee - Licence for a nursery
+Fee-setting authority: 2018  Cannabis Act
+to 2019  Cannabis Fees Order
+Fee-setting authority: 2019  Cannabis Act
+and onwards  Cannabis Fees Order
+Year introduced 2018
+Last year fee-setting Not applicable
+authority was amended
+Fee type Licence3
+Fee amount ($) (a) If the cannabis revenue is $1 million or less, the greater of
+1% of the cannabis revenue, and $2,500; or
+(b) if the cannabis revenue is greater than $1 million, the
+maximum amount determinable under (a) plus 2.3% of the
+amount by which the cannabis revenue exceeds $1 million
+Total fee revenue ($) Data not available
+Adjustment type Exempt
+Adjustment rate Not applicable as the fee is based on cannabis revenue
+(% or formula)
+2020 to 2021 fee amount ($) (a) If the cannabis revenue is $1 million or less, the greater of
+1% of the cannabis revenue, and $2,500; or
+(b) if the cannabis revenue is greater than $1 million, , the
+maximum amount determinable under (a) plus 2.3% of the
+amount by which the cannabis revenue exceeds $1 million
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable as the fee is based on cannabis revenue
+Fee-adjustment authority Cannabis Fees Order
+Service standard No administrative service standard for this fee as outlined
+during the 2018 consultation on the Proposed Approach to
+Cost Recovery for the Regulation of Cannabis and the
+subsequent Regulatory Impact Analysis Statement for the
+Cannabis Fees Order.
+Performance result Not applicable
+Health Canada Fees Report Fiscal year 2018 to 2019 131
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Cannabis Fees
+Fee Annual fee - Licence for micro-processing
+Fee-setting authority: 2018  Cannabis Act
+to 2019  Cannabis Fees Order
+Fee-setting authority: 2019  Cannabis Act
+and onwards  Cannabis Fees Order
+Year introduced 2018
+Last year fee-setting Not applicable
+authority was amended
+Fee type Licence3
+Fee amount ($) (a) If the cannabis revenue is $1 million or less, the greater of
+1% of the cannabis revenue, and $2,500; or
+(b) if the cannabis revenue is greater than $1 million, the
+maximum amount determinable under (a) plus 2.3% of the
+amount by which the cannabis revenue exceeds $1 million
+Total fee revenue ($) Data not available
+Adjustment type Exempt
+Adjustment rate Not applicable as the fee is based on cannabis revenue
+(% or formula)
+2020 to 2021 fee amount ($) (a) If the cannabis revenue is $1 million or less, the greater of
+1% of the cannabis revenue, and $2,500; or
+(b) if the cannabis revenue is greater than $1 million, the
+maximum amount determinable under (a) plus 2.3% of the
+amount by which the cannabis revenue exceeds $1 million
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable as the fee is based on cannabis revenue
+Fee-adjustment authority Cannabis Fees Order
+Service standard No administrative service standard for this fee as outlined
+during the 2018 consultation on the Proposed Approach to
+Cost Recovery for the Regulation of Cannabis and the
+subsequent Regulatory Impact Analysis Statement for the
+Cannabis Fees Order.
+Performance result Not applicable
+Health Canada Fees Report Fiscal year 2018 to 2019 132
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Cannabis Fees
+Fee Annual fee - Licence for standard processing
+Fee-setting authority: 2018  Cannabis Act
+to 2019  Cannabis Fees Order
+Fee-setting authority: 2019  Cannabis Act
+and onwards  Cannabis Fees Order
+Year introduced 2018
+Last year fee-setting Not applicable
+authority was amended
+Fee type Licence3
+Fee amount ($) The greater of 2.3% of the cannabis revenue and $23,000
+Total fee revenue ($) Data not available
+Adjustment type Exempt
+Adjustment rate Not applicable as the fee is based on cannabis revenue
+(% or formula)
+2020 to 2021 fee amount ($) The greater of 2.3% of the cannabis revenue and $23,000
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable as the fee is based on cannabis revenue
+Fee-adjustment authority Cannabis Fees Order
+Service standard No administrative service standard for this fee as outlined
+during the 2018 consultation on the Proposed Approach to
+Cost Recovery for the Regulation of Cannabis and the
+subsequent Regulatory Impact Analysis Statement for the
+Cannabis Fees Order.
+Performance result Not applicable
+Health Canada Fees Report Fiscal year
+2018 to 2019 133
+Fees Report for Fiscal Year 2018 to 2019
+Fee grouping Cannabis Fees
+Fee Annual fee - Licence for medical purposes
+Fee-setting authority: 2018  Cannabis Act
+to 2019  Cannabis Fees Order
+Fee-setting authority: 2019  Cannabis Act
+and onwards  Cannabis Fees Order
+Year introduced 2018
+Last year fee-setting Not applicable
+authority was amended
+Fee type Licence3
+Fee amount ($) The greater of 2.3% of the cannabis revenue and $23,000
+Total fee revenue ($) Data not available
+Adjustment type Exempt
+Adjustment rate Not applicable as the fee is based on cannabis revenue
+(% or formula)
+2020 to 2021 fee amount ($) The greater of 2.3% of the cannabis revenue and $23,000
+Future fee-adjusted amount Not applicable
+($)
+Adjustment date Not applicable as the fee is based on cannabis revenue
+Fee-adjustment authority Cannabis Fees Order
+Service standard No administrative service standard for this fee as outlined
+during the 2018 consultation on the Proposed Approach to
+Cost Recovery for the Regulation of Cannabis and the
+subsequent Regulatory Impact Analysis Statement for the
+Cannabis Fees Order.
+Performance result Not applicable
+Health Canada Fees Report Fiscal year 2018 to 2019 134
+

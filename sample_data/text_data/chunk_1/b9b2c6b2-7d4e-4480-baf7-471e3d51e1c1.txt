@@ -1,0 +1,1962 @@
+Created: 2024-02-23T15:02:42.058000
+Name: HESA_Appearance_on_Mandate_Letters-_Backpocket_Binder
+Original URL: https://open.canada.ca/data/dataset/b9b2c6b2-7d4e-4480-baf7-471e3d51e1c1/resource/2b2a0576-88ba-42d1-bdb2-ec6762f2294f/download/hesa-mandate-letter-proactive-discloser-backpocket-eng.pdf
+Package ID: b9b2c6b2-7d4e-4480-baf7-471e3d51e1c1
+Keywords: ['Health Canada', 'Health', 'House committee', 'Standing committee on health', 'Deputy Minister appearance']
+Notes: Deputy Minister's Back pocket binder for the Standing Committee on Health (HESA) to discuss Mandate commitments.
+-------------------------------
+Extracted Text:
+HESA – Mandate Letter Appearance
+Backpocket Material – Table of contents
+November 2023
+A – HOT ISSUE ONE PAGERS (CONTAINING STATS, DATES, MILESTONES)
+1. Healthcare Funding-Bilateral Agreements to PTs
+2. HHR Crisis
+3. Dental
+4. Pharmacare (including Drugs for Rare Diseases and Canada Drug Agency)
+5. PMPRB
+6. CHA Compliance/Abortion Access
+7. Alcohol
+8. Opioid Crisis (incl Safe Supply)
+9. Pharmaceutical Litigation
+10. Natural Health Products
+11. Children’s Health
+12. Women’s Health
+13. Breast Implants
+14. Cannabis
+15. Mental Health
+16. MAID
+17. Plasma
+18. Drug Shortages
+19. Covid / Cold/Flu Season
+20. Pandemic Inquiry
+C – HEALTH CARE SYSTEM
+22. PT Funding Crosswalk
+ISSUE SHEET – HEALTHCARE FUNDING / BILATERAL AGREEMENTS TO PTS
+REGULAR SUPPORT TO PTs VIA CANADA HEALTH TRANSFERS (CHT)
+2021-22 - $43.1B through the CHT
+2022-23 - $45.2B through the CHT
+$10.1B to Quebec
+2023-24 - $49.4B through the CHT (an increase of 9.3%)
+$11 B to Quebec
+BUDGET 2023 – WORKING TOGETHER TO IMPROVE HEALTH CARE FOR CANADIANS
+Close to $200 B over ten years ( $198.3B)
+$195.8B in increased health funding for PTs over 10 years, including $46.2 billion in new funding. This
+funding includes:
+An immediate, unconditional $2 billion top-up to the CHT (provided June 2023)
+A 5 per cent CHT guarantee for the next five years, resulting in a permanent funding increase (expected
+value of $17.1 billion over 10 years)
+$25 billion over 10 years to support shared health priorities through tailored bilateral agreements
+$1.7 billion over 5 years to support personal support workers and related professions
+$350 million over ten years for the Territorial Health Investment Fund
+$2B federal direct investment over 10 years to provide additional support for Indigenous health
+priorities, and $505 million over five years to the Canadian Institute for Health Information, Canada
+Health Infoway, and federal data partners
+BILATERAL AGREEMENT FUNDING INCLUDED IN WORKING TOGETHER PLAN
+$25B over 10 years (Budget 2023) to support family health services, health workers and backlogs, mental
+health and substance use, and a modernized data system through tailored bilateral agreements
+$11B over 10 years (Budget 2017) – improve access to home and community care and mental health and
+addiction services
+$ 3B over five years to improve the quality and safety of Long Term Care facilities (Budget 2021)
+This funding will be disbursed through two distinct series of agreements: Working Together (including
+$25 billion from Budget 2023 and $2.4 billion for mental health and addition services from Budget 2017)
+and Aging with Dignity (including $2.4 billion for home and community care from Budget 2017 and $3
+billion for long term care from Budget 2021). The Aging with Dignity agreement could be amended at a
+later stage to include the 1.7 billion for PSWs.
+OTHER BILATERAL AGREEMENT SUPPORT
+$150M for 5 years (Budget 2018) – the Emergency Treatment Fund provides support to PTs to help
+address the opioid crisis
+$150M to PTs for rapid deployment of virtual care services, and $50M to Canada Health Infoway to
+develop pan-Canadian standards on secure messaging and videoconferencing and support PTs (part of
+the May 2020 $240.5M announced to support virtual care and digital tools)
+$35 million over four years beginning in 2021-22 to PEI under the "Improving Affordable Access to
+Prescription Drugs Program" to add new drugs to its list of covered drugs, and lower out of pocket costs
+for drugs covered under existing public plans for Island residents.
+$1B (2020 Fall Economic Statement) – Safe Long-term Care Fund
+CANADA DENTAL BENEFIT
+Budget 2023 committed $13.0 billion over five years, starting in 2023-24, and $4.4 billion ongoing to
+Health Canada to implement the Canadian Dental Care Plan to provide access to dental care for more
+Canadians when they need it
+The interim measure will provide up to $650 annually (per child) for two years directly to families who
+earn $90,000 or less, to pay for dental care for children under 12 years of age
+SAFE RESTART AGREEMENTS AND ADDITIONAL CHT FUNDING TO PTs
+$19B – Safe Restart Agreement.
+June 2023 - $2B one-time top-up to the CHT to address immediate health system pressures, especially in
+pediatric hospitals and emergency rooms, and long wait times for surgeries.
+July 2022 - $2B one-time top-up to the CHT to help address pandemic-related health system pressures,
+including backlogs.
+July 2021 - $5B
+$4B – one-time top-up to CHT to clear backlog resulting from COVID.
+$1B – to support vaccine roll-out
+March 2020 - $500 million CHT top up to PTs for critical health care system needs
+COVID-19 FUNDING
+Between 2019 and 2028, the federal government estimates that federal health-related COVID-19
+spending will total over $72 billion.
+FUNDING FOR QUEBEC
+This is in addition to the Canada Health Transfer, which will flow over $10.1 billion to Quebec in 2022-23
+and $11 billion in 2023-24
+Quebec also received $1.35 billion as part of its share of the previous CHT top-ups, and a further $225.6
+million to support COVID-19 immunizations.
+As part of the Budget 2023 federal funding, Quebec is set to receive $4.8B over ten years through
+bilateral agreements, and has already received an immediate $447 million through the new $2B CHT top-
+up.
+As part of the Budget 2017 commitment of $11 billion over 10 years to improve access to home care and
+mental health services, Quebec will receive close to $2.5 billion.
+Through the Emergency Treatment Fund bilateral agreement (expires March 31, 2023), Quebec received
+$22 million to address harms and deaths associated with problematic substance use.
+To help address long-standing and systemic challenges in Canada's long-term care (LTC) facilities, Quebec
+received $221M through the Safe Long-Term Care fund and is eligible to receive $646M over 5 years
+through the Budget 2021 LTC investment to ensure that provinces and territories can provide a high
+standard of care in their LTC facilities.
+ISSUE SHEET – HEALTH WORKER CRISIS
+HEALTH WORKER VACANCIES
+Based on vacancy data from Statistics Canada, shortages have increased over the last few years across
+most health occupations. In fact, health occupations are the only ones to report a year-over year rise in
+job vacancies in the second quarter of 2023.
+Nursing occupations in particular saw vacancy rates increase steadily through the years leading up to and
+throughout the pandemic.
+Health occupations with the most job vacancies were, in order: nursing occupations, PSWs, dental
+hygienists/ therapists/ assistants, other medical technologists and technicians, physiotherapists, other
+assisting occupations in support of health services, and occupational therapists. Combined, these
+occupations represent 90% of all health sector vacancies.
+Vacancy rates in the second quarter of 2023:
+Registered Nurses and Registered Psychiatric Nurses: 29,655
+Licensed Practical Nurses: 13,560
+Job vacancies in the Health sector:
+First quarter of 2020 – 43,390
+Second quarter of 2023 – 89,995
+While the supply of nurses is continuously increasing, the growth is not enough to meet the demand. In
+2022, the total nursing supply in Canada was 466,014. From 2017 to 2022, the nursing supply increased
+by 9%.
+The number of Registered Nurses graduating increased by 6.1% in 2022 over 2021.
+The supply of LPNs grew by 2.5% from 2021 to 2022.
+Nursing in particular struggles with long-term vacancies (vacancies that last 90 days or more). Long-term
+job vacancies increased for registered nurses and registered psychiatric nurses from 55.6% in the second
+quarter of 2022 to 63.3% in the second quarter of 2023 and licensed practical nurses from 56.5% to
+62.8%.
+The fastest-growing groups of health care professionals in 2021 were physician assistants (17.9%), nurse
+practitioners (10.7%) and social workers (7.5%) suggesting that better integration of these professionals
+into the Canadian healthcare system could help address the crisis.
+To ensure Canada has a sustainable, efficient and resilient health workforce that provides Canadians with
+timely access to high-quality, effective and safe health services, Provinces and Territories will increase
+the number of net new family physicians, nurses, and nurse practitioners over the next five years.
+Between 2021 and 2022, Canada gained:
+1,794 net new LPNs (annual growth rate of 2%; 2,274 net new RNs (annual growth rate of 1%); 618 net
+new NPs (annual growth rate of 10%); 112 net new registered psychiatric nurses (annual growth rate of
+2%).
+Canada gained 333 net new family medicine physicians, 7,524 net new registered nurses, and 640 net
+new nurse practitioners (CIHI analysis for Health Canada, 2023)
+In 2021, the supply of physicians grew at 2.0% compared with 2020, the increase was just 1.2% for family
+medicine physicians versus 2.8% for specialists in 2021.
+FORECAST OF FUTURE SHORTAGES
+Survey of Ontario Nurses: 2022-2023 – estimated 15.6% loss in the nursing profession due to planned
+retirements and anticipated post-pandemic departures
+Report from Mental Health Commission of Canada (September 2022):
+40% of health care workers are burned out
+50% of health care workers intend to leave the profession
+60% of health care workers are satisfied with the quality of care they provide
+Physician shortages are dominated by those in family medicine – a field facing diminishing popularity for
+trainees. Family doctors account for 51% of the workforce and only 40% of those graduating and is the
+specialty choice of only 31% of incoming medical students.
+IMPACT OF HEALTHCARE SHORTAGES
+14.5% of Canadians do not have a primary health care provider.
+2020 – 38% of Canadians reported their last emergency department visit was for a family health care
+treatable condition.
+Nearly 90% of Canadians indicated that addressing shortages of doctors and nurses should be a top or
+high priority in a survey conducted by the Privy Council Office in February 2022.
+SURGICAL BACKLOGS
+According to the Canadian Institute for Health Information (CIHI), from March 2020 to June 2021, almost
+560,000 fewer surgeries were performed due to cancellations and delays, compared with the pre-
+pandemic period (excluding Quebec).
+The largest drop occurred in Wave 1, with approximately 370,000 fewer surgeries. By the summer of
+2020, most jurisdictions had resumed the delayed surgeries, with some even exceeding pre-pandemic
+surgical volumes in an effort to clear backlogs.
+Overall, in Wave 2 the number of surgeries was within 4% of pre-pandemic levels.
+During Wave 3, with rising numbers of COVID-19 infections and hospitalizations, some regions (Ontario,
+Manitoba, Saskatchewan and British Columbia) delayed surgeries again.
+In March 2022, Health Canada previously estimated a cost of approximately $2B to clear the surgical
+backlog within 2 years, assuming a stable backlog by the end of the month (approximately 700,000
+procedures). Due to ongoing healthcare system capacity challenges associated with COVID-19 variants,
+the backlog did not stabilize at that time.
+Based on more recent internal analysis by Health Canada, the estimated number of surgical cancellations
+during the COVID-19 pandemic may be closer to 940,000 procedures as of September 2022.
+INTERNATIONAL EDUCATED HEALTH PROFESSIONALS (IEHPs)
+In 2021, approximately one-quarter of the physician workforce (26.2%) was internationally educated.
+Physiotherapists and pharmacists also had large proportions of internationally educated professionals
+(22% and 34%, respectively). In comparison, smaller proportions of occupational therapist and regulated
+nurse workforces were internationally educated (6% and 9%, respectively) .
+However, according to Census 2021 data , too many IEHPs in Canada are not working in the health-
+related field:
+Over 33% of all IMGs in Canada are working in non-health occupations.
+Over 31% of all IENs in Canada are also working in non-health related field.
+FEDERAL ACTIONS / FUNDING
+Canada Health Transfer: Budget 2023 confirmed the federal government’s plan to provide $198.6 billion
+over 10 years, for provinces and territories to improve health care services for Canadians. One of the
+priority areas of this funding is to further support the health workforce and reduce backlogs caused by
+COVID-19. This includes:
+An immediate and unconditional $2 billion CHT top-up to address immediate pressures on the health
+care system, especially in pediatric hospitals and emergency rooms, and long wait times for surgeries.
+In addition to $6B provided in previous two years to help address immediate health system pressures,
+including reducing medical backlogs caused by COVID-19.
+$25 billion over 10 years to advance shared health priorities through tailored bilateral agreements that
+will support the needs of people in each province and territory in four areas of shared priority: family
+health services; health workers and backlogs; mental health and substance use; and a modernized health
+system. These additional federal investments will be contingent on continued health care investments by
+provinces and territories.
+This funding builds on the $7.8 billion over five years that has yet to flow to provinces and territories for
+mental health and substance use, home and community care, and long-term care.
+$1.7 billion over five years to support personal support workers and related professions, as federal,
+provincial, and territorial governments work together on how best to support recruitment and retention.
+$2 billion over 10 years to address the unique challenges Indigenous Peoples face when it comes to fair
+and equitable access to quality and culturally safe health care services.
+$505 million over 5 years to CIHI, Canada Health Infoway and federal data partners to work with
+provinces and territories on developing new health data indicators, to support the creation of a Centre
+of Excellence on health worker data, to advance digital health tools and an interoperability roadmap, and
+to underpin efforts to use data to improve safety and quality of care.
+On October 12, 2023 FPT Ministers of Health issued a public statement reaffirming their commitment to
+supporting Canada’s health workforce so our health workers are able to provide high-quality, accessible,
+and effective health services for people living in Canada. In particular, FPT governments committed to
+concrete actions focusing on retention, domestic education supply and demand, foreign credential
+recognition and ethical recruitment, labour mobility, and health workforce data and planning. In order to
+advance these priorities, the Government of Canada is taking action, including:
+Focusing efforts on retaining our health workforce through the Nursing Retention Forum and the
+creation of the “Nursing Retention Toolkit: Improving the Working Lives of Nurses in Canada” which is set
+for release in the coming months.
+Funding the creation of the Centre of Excellence for the Future of the Health Workforce, a partnership
+with the Canadian Institute for Health Information that will lead a collaborative pan-Canadian approach
+to improve data collection, analysis, knowledge mobilization, and policy advice.
+Funding a study of the education and training supply and demand for key healthcare professions to
+identify the best pan-Canadian approaches to meet future healthcare demands for Canadians over the
+next decade, including misalignment across regions and settings.
+In August 2023, Health Canada appointed Dr. Genevieve Moineau as Chief Medical Workforce Advisor
+(CMWA) to help support the federal response to current health workforce challenges.
+In June 2023, as part of the first-ever launch of category based selection for Canada's flagship economic
+immigration management system, Express Entry, Health Canada worked with Immigration, Refugees, and
+Citizenship Canada (IRCC) on category-based selection to allow Canada to issue invitations to apply to
+prospective permanent residents with specific work experience in health care.
+In November 2022, the Government of Canada established a Coalition for Action for Health Workers. The
+Coalition’s advice is informing immediate and longer-term solutions to address significant health
+workforce challenges, so that all Canadians can access the quality care they need and deserve.
+On August 23, 2022, Health Canada announced that it had appointed Dr. Leigh Chapman as the federal
+Chief Nursing Officer (CNO). Dr. Chapman has brought nursing issues into focus federally, while working
+closely with provinces and territories, and key nursing stakeholders.
+On October 4, 2022, the Government of Canada announced $1.2 million in funding to the Canadian
+Association for Long Term Care (LTC) to adapt and deliver The Working Mind program for frontline
+employees, managers and supervisors in LTC homes across Canada. This is part of the $50 million
+committed through Budget 2021 to address PTSD frontline and essential workers.
+On September 23 2022, the Government of Canada announced that Immigration, Refugees, and
+Citizenship Canada is exempting physicians, who work in a fee-for-service model with public health
+authorities, from current requirements. This change recognizes the unique employment model used in
+Canada’s health care system, and will provide physicians with access to Canada’s economic permanent
+residence programs. This change came into effect in April 2023 and will mean that a greater number of
+physicians already here and filling crucial vacancies in our health care sector can remain here
+permanently.
+Budget 2022
+$115M over 5 years to expand the Foreign Credential Recognition Program and help up to 11,000
+internationally trained health care professionals per year get their credentials recognized and find work
+in their field
+$26.2 million over four years, starting in 2023-24, and $7 million ongoing, to increase the maximum
+amount of forgivable Canada Student Loans by 50 per cent. This will mean up to $30,000 in loan
+forgiveness for nurses and up to $60,000 in loan forgiveness for doctors working in underserved rural or
+remote communities.
+On March 25, 2022, the Government introduced Bill C-17 in the House of Commons, which would
+provide an additional $2 billion one-time top-up to the Canada Health Transfer to address backlogs,
+distributed equally per capita to provinces and territories.
+Budget 2021
+$45M over two years to develop national standards for mental health and substance use services,
+including tools to support mental health providers.
+$960 million over three years to Employment and Social Development Canada (ESDC) for a new Sectoral
+Workforce Solutions Program to help connect Canadians with the training they need to access jobs in
+high-demand sectors, such as healthcare.
+ISSUE SHEET – DENTAL
+UNMET DENTAL CARE NEEDS
+Access to quality oral health care is an integral part of overall health yet many Canadians face barriers.
+2.26 million school days are missed each year due to dental-related illness.
+Tooth decay accounts for one-third of all day surgeries performed on children between the ages of one
+and five in Canada1.
+Much of the burden of dental disease is concentrated in disadvantaged children: those from low-income
+families; Indigenous children; new immigrants; and children with special health care needs.
+1 in 5 people (6 million Canadians) are not receiving needed dental care due to cost.
+Canadians with financial resources or insurance are more likely to experience good oral health.
+One-third of the population cannot afford to pay for dental care, which is why our government is taking
+steps toward a Canada-wide dental care program for those who need it most.
+CURRENT DENTAL PROGRAMS IN CANADA
+$14.7 billion was spent on dental services in 2020 :
+54% was covered through private insurance
+40% was paid out-of-pocket
+6% was publicly funded
+In 2018, 64.6% of Canadians reported they had dental insurance that covered all or part of their
+expenses. PTs provide coverage for medically-necessary oral health services that take place in hospital
+and offer some form of public dental coverage.The Government of Canada also currently provides dental
+coverage for public servants, members of the Armed Forces and veterans, people incarcerated in federal
+correctional facilities, some newcomers, registered First Nations people and recognized Inuit.
+FEDERAL ACTIONS / FUNDING
+The interim Canada Dental Benefit provides direct payments to eligible applicants of up to $650 per child
+under 12 years old, per year and up to $1,300 over two years.
+Budget 2023 proposed funding of $13 billion over five years starting in 2023-24, and $4.4 billion ongoing,
+to implement the Canadian Dental Care Plan. It also proposed $250 million over three years, starting in
+2025-26, and $75 million ongoing to Health Canada to establish an Oral Health Access Fund, which will
+address oral health gaps for vulnerable populations and reduce barriers to accessing care, and $23.1
+million over two years, starting in 2023-24 to support Dental Care Data.
+CANADA DENTAL BENEFIT (CDB) – interim measure
+CDB launched on December 1, 2022 and is delivered by the Canada Revenue Agency (CRA)
+It is a first step towards fulfilling the Government of Canada’s commitment to the development of a long-
+term Canada-wide dental care plan for low and middle income families.
+It provides direct payments, over two potential benefit periods, to eligible applicants. For example:
+up to $650 per year per child for those with an adjusted family net income under $70,000
+up to $390 per year per child for those with an adjusted family net income of $70,000 to $79,999
+up to $260 per year per child for those with an adjusted family net income of $80,000 to $89,999
+The first interim benefit period (December 1, 2022 to June 30, 2023) helped approximately
+323,000 children. Applications are currently being received for the second interim benefit period (July 1,
+2023 to June 30, 2024). On July 21, 2023, the Government publicly announced that over 100,000
+children had already been helped during the second interim benefit period.
+Statistics from the CRA website show that as of September 20, 2023, approximately:370,000 children
+have been helped by the interim Canada Dental Benefit since it was launched in December 2022. (Note:
+Children who benefitted in both periods are counted once in this total.)
+$315,207,000 is the total value of benefit payments
+CANADIAN DENTAL CARE PLAN (CDCP) – long-term measure
+The CDCP is still under development and details have not been announced. The plan is expected to begin
+by the end of 2023 and information will be communicated in the coming weeks.
+Up to 9 million uninsured Canadian residents with an adjusted family net income under $90,000 could
+benefit from the CDCP.
+In September 2023, it was announced that an Early Work Agreement was awarded to Sun Life Assurance
+Company of Canada (Sun Life) to do pre-contractual work to ensure the timely launch and successful
+operation of the CDCP.
+An Oral Health Access Fund, led by Health Canada, will begin to provide grants and contributions funding
+in 2025-26. It will complement the CDCP by supporting projects that further reduce access barriers for
+Canada’s vulnerable populations (e.g. those living in rural and remote communities and equity seeking
+groups, such as persons with disabilities).
+ISSUE SHEET- PHARMACARE INITIATIVES
+CANADA PHARMACARE ACT
+The mandate letter from the Prime Minister reiterated the Government of Canada’s commitment to
+continue engaging with willing provinces and territories towards national universal pharmacare, while
+proceeding with a national strategy for drugs for rare diseases and advancing the establishment of the
+Canadian Drug Agency.
+Budget 2022 announced that the federal government’s ongoing work towards national pharmacare will
+include:
+tabling a Canada Pharmacare bill, and
+then tasking the Canadian Drug Agency to develop a national formulary of essential medicines and bulk
+purchasing plan by the end of the agreement (June 2025).
+We look forward to working with all Parliamentarians to ensure that Canadians have better access to the
+drugs they need.
+PRINCE EDWARD ISLAND (PEI) INITIATIVE
+On August 11, 2021, the Government of Canada announced the signing of the first agreement with the
+Government of Prince Edward Island (PEI) to inform the advancement of national pharmacare.
+Through this agreement, PEI will receive $35 million in federal funding, to:
+add new drugs to its list of covered drugs, and
+lower out of pocket costs for drugs covered under existing public plans for Island residents.
+The Government of Canada will use early lessons from PEI’s efforts to inform its ongoing work to
+advance national universal pharmacare.
+Since January 23, 2023, PEI expanded access to a total of 85 new medications to treat a variety of
+conditions including cancer, heart disease, migraine, and multiple sclerosis.
+Effective June 1, 2023, PEI expanded its provincial drug coverage to reduce co-pays to $5 for almost 60%
+of medications regularly used by Islanders and removed barriers to the High-Cost Drug Program making
+it available to all income levels. As of August 16, 2023, Islanders have saved over $675,000 in out-of-
+pocket costs on more than 77,000 prescriptions under the $5 co-pay program.
+PEI also lowered the cap on the amount of money a household spends on eligible medications under the
+Catastrophic Drug Program as of July 1, 2023.
+DRUGS FOR RARE DISEASES
+On March 22, 2023, the Government of Canada announced the launch of the first-ever National Strategy
+for Drugs for Rare Diseases, supported by investments of up to $1.5 billion over three years. This first
+phase aims to increase access to and affordability of effective drugs for rare diseases, which will
+contribute to improving the health of patients across Canada.
+As part of the overall investment, the federal government will make available up to $1.4 billion over
+three years to provinces and territories to improve access to new and emerging drugs, as well as to
+support enhanced access to existing drugs, early diagnosis, and screening for rare diseases.
+Similarly, to ensure that eligible First Nations and Inuit clients with rare diseases will also benefit, the
+Government is providing up to $33 million over the first three years to Indigenous Services Canada’s
+Non-Insured Health Benefits Program.
+The Federal Government is also making key investments of a total of up to $68 million for various
+initiatives to be led by the Canadian Agency for Drugs and Technologies in Health (CADTH), the Canadian
+Institute for Health Information (CIHI), and the Canadian Institutes of Health Research (CIHR) to advance
+the collection and use of evidence to support decision making and critical rare disease research.
+Health Canada is now working with provinces and territories on bilateral agreements, starting with
+jointly determining a small set of new and emerging drugs that would be cost-shared and covered in a
+consistent way across the country.
+CADTH/CIHI are making progress on six key activities to support decision-making across the
+pharmaceutical lifecycle, including hiring resources, engaging provinces and territories, drafting of
+criteria to guide analysis of disease registries, and identifying key experts to support their work.
+CIHR launched four funding opportunities between June and August 2023, and funding is expected to
+start flowing for the largest project in January 2024, with remaining three projects beginning funding in
+April 2024.
+Health Canada is working to establish national governance structures, including a patient and
+stakeholder Implementation Advisory Group (IAG) comprised of individuals drawn from a range of
+perspectives and roles, including patients, caregivers, clinicians, and industry. This mechanism will be
+central to keeping patients at the centre of the Strategy.
+CANADIAN DRUG AGENCY (CDA)
+Supported by a $35M investment in Budget 2019, the Canadian Drug Agency Transition Office (CDATO)
+was established in 2021 to develop options for a vision, mandate and plan to create a Canadian Drug
+Agency (CDA).
+Informed by significant engagement – over 400 meetings and roundtables – with patients, insurers,
+pharmaceutical companies, prescribers and academics, the CDATO is advancing work on core functions
+which are supported by high consensus and will pave the way for greater collaboration as the CDA is
+built:
+Appropriate prescribing and use – collaborating with leaders in the appropriate use field to improve
+health outcomes and ensure patients are prescribed the safest and most effective treatments for their
+conditions.
+Data and analytics – working with partners to determine how the CDA can support drug plans, provide
+information to decision-makers, and help to standardize and improve access to drug and treatment data
+and analytics to improve patient outcomes.
+System Coordination – partnering to build a CDA that improves system efficiency, reduces duplication
+and streamlines processes, ensuring that the Agency is well-positioned to adapt and evolve to address
+the ever-changing pharmaceuticals landscape.
+NATIONAL FORMULARY
+Following broad consultations, a multidisciplinary national panel established to develop a draft formulary
+framework released its final report in June 2022.
+The panel recommended:
+guiding principles;
+a staged approach, including a proposed sample list of commonly prescribed drugs and related products
+for three common conditions (heart disease, diabetes, mental health)
+other key elements such as a deliberative process to select and evaluate products and an appeal process
+The panel’s work was overseen by the Canadian Agency for Drugs and Technologies in Health (CADTH), at
+the request of Health Canada.
+The panel was composed of 2 co-chairs and 12 members. Its members were recruited from across
+Canada and represented diversity across gender, culture, and race. The panel brought together a range
+of expertise and experience, including health care providers (nursing, pharmacy, and medicine), persons
+with lived and living experience, and individuals with backgrounds in ethics and health policy.
+ISSUE SHEET – PATENTED MEDICINE PRICES REVIEW BOARD (PMPRB)
+PMPRB BACKGROUND
+The Patented Medicine Prices Review Board (PMPRB) is an independent quasi-judicial body that protects
+the interests of Canadian consumers by ensuring that the prices of patented medicines sold in Canada
+are not excessive.
+Created in 1987, through the Patent Act, the PMPRB is part of the Health Portfolio, but carries out its
+regulatory mandate at arm’s length (i.e. independently) from the Minister of Health.
+PMPRB has a dual mandate:
+In its regulatory role, it protects consumers by ensuring that the prices of patented medicines are not
+excessive.
+In its reporting role, it provides information on pricing trends in the pharmaceutical industry via its
+Annual Reports.
+MEMBERS OF THE BOARD
+A Board of five members oversees PMPRB. Members serve on a part time basis and are appointed by the
+Governor-in-Council. Member terms are for a period of five years.
+The current Board members are:
+Chairperson, Thomas Digby, appointed 2023-01-27
+Vice-Chairperson, Anie Perrault, appointed 2023-08-10
+Member, Carolyn Kobernick, appointed 2014-06-13 and renewed 2019-06-13
+Member, Peter Moreland-Giraldeau, appointed 2023-10-12
+Member, Emily Reynen, appointed 2023-10-20
+REGULATORY AMENDMENTS TO THE PATENTED MEDICINES REGULATIONS
+On July 1st, 2022, amendments to the Patented Medicines Regulations (PMR) came into force. The
+amendments include:
+A new 11-country basket of comparator countries; and
+decreased reporting requirements for medicines at low risk of excessive prices (e.g. generic drugs, over-
+the-counter drugs and veterinary drugs)/
+The new basket of comparator countries removes the United States and Switzerland and includes
+countries with similar consumer protection priorities, economic wealth and marketed medicines as
+Canada. The basket now comprises of Australia, Belgium, Japan, Netherlands, Norway and Spain, along
+with France, Germany, Italy, Sweden and United Kingdom, which have always been included.
+The total quantified benefit of the revised basket, calculated through a cost-benefit analysis conducted in
+2017, estimated the impact of the regulatory amendment on patented medicine prices to be $2.9 billion
+over 10 years (according to the June 2022 Regulatory Impact Analysis Statement).
+PMPRB GUIDELINES
+The Board of the PMPRB may issue non-binding Guidelines to operationalize the Regulations. Since the
+coming into force of the regulatory amendments in July 2022, there are no Guidelines are in place.
+In October 2022, PMPRB proposed draft Guidelines for a 60-day Notice and Comment Period. In
+December 2022, PMPRB announced that it would not implement the proposed Guidelines, and the
+Interim Guidance would remain in place until further notice
+The Interim Guidance, adopted in July 2022 and updated in September 2023, establishes non-excessive
+prices for drugs launched in the period between the coming into force of the amendments and the
+adoption of new guidelines.
+The PMPRB has indicated its intention to launch an iterative consultation process conducted in stages
+with stakeholders with an aim to develop new Guidelines in 2024
+STANDING COMMITTEE ON HEALTH (HESA) – STUDY ON PMPRB
+On March 9, 2023, HESA adopted a motion to conduct a study on the Patented Medicine Prices Review
+Board and invite the following witnesses: the Honourable Jean-Yves Duclos, Minister of Health; Matthew
+Herder, former member of the PMPRB; Mélanie Bourassa Forcier, former acting chair, PMPRB; and
+Douglas Clark, former executive director, PMPRB.
+The study took place on April 27 and May 2, 2023, with the requested witnesses making opening
+statements and answering questions.
+On May 4, 2023, HESA passed a motion that witnesses produce correspondence they considered
+relevant to support their testimony to the committee, which have since been published on the
+committee website.
+It is expected that the committee will report its findings and recommendations to the House and request
+that the government table a comprehensive response to the report.
+ISSUE SHEET – CHA COMPLIANCE/ABORTION ACCESS
+USE OF PRIVATE FACILITIES FOR DELIVERY OF INSURED SERVICES
+Under the Canada Health Act, medically necessary hospital and physician services may be provided in
+private facilities, so long as patients are not charged to access care.
+Several PTs have been expanding the use of private facilities to deliver medically necessary services to
+address the service backlogs.
+PTs have used private facilities to deliver medically necessary services since the 1990’s and have various
+mechanisms in place to ensure patients are not charged for their care.
+FEDERAL ACTIONS / FUNDING
+DEDUCTIONS AND REIMBURSEMENTS FROM CHT PAYMENTS FOR PATIENT CHARGES
+Since 2015, the Government of Canada has levied close to $188 million in mandatory CHT deductions to
+jurisdictions that allow patient charges for insured health services.
+In March 2023, BC, ON, and NB faced mandatory CHT deductions for patient charges for insured health
+care services provided in private facilities and BC, AB, SK, MB, QC, NB, and NS faced mandatory
+deductions for insured diagnostic services received in private facilities (under the Diagnostic Services
+Policy).
+Deductions are generally based on amounts of patient charges reported by PTs on an annual basis to HC.
+If there is evidence that a PT has not reported accurately HC is required to estimate the amount of
+patient charges, based on the best evidence available.
+HC was required to take deductions based on estimates for AB, SK, MB, QC, NB, and NS.
+Regarding patient charges for diagnostic services, BC reported accurately to HC and a deduction in the
+same amount was levied from the province’s CHT.
+PTs are eligible for reimbursement within two years of the date of deduction under the CHA’s
+Reimbursement Policy if they choose to work with HC on a Reimbursement Action Plan and take the
+necessary steps to eliminate patient charges, and the circumstances that led to them. The first
+deductions eligible for reimbursement under the policy were those taken in March 2018 and since then
+$84,938,117 in deductions have been reimbursed to provinces as a result of their efforts to eliminate
+patient charges and the circumstances that led to them.
+FOR ABORTION SERVICES
+NEW BRUNSWICK
+Deductions: $334,766 since March 2020. Reimbursements: None to date.
+Issue: Surgical abortion services are only insured under the NB health insurance plan if performed in
+hospital; procedures provided in the private clinic in Fredericton are not covered.
+Status: HC has raised this issue with NB at the officials' and Ministerial levels with no resolution to date.
+ONTARIO
+Deductions: $53,265 since March 2021. Reimbursements: Reimbursement Action Plan submitted
+December 2021 but no reimbursements to date.
+Issue: A number of private abortion clinics in ON charge fees for uninsured services, while not
+consistently informing patients these fees were optional to access insured surgical abortion services.
+Status: HC continues to engage with ON as they work to implement their Reimbursement Action Plan.
+FOR SURGICAL SERVICES
+BRITISH COLUMBIA
+Deductions: $81,963,933 since March 2018. Reimbursements: $68,021,026 in reimbursements to date.
+Issue: A number of private surgical clinics in BC charge patients for insured surgical services.
+Status: In recognition of BC’s Reimbursement Action Plan efforts, HC has issued $68,021,026 in partial
+reimbursements.
+FOR DIAGNOSTIC SERVICES
+BRITISH COLUMBIA Deductions: $17,165,309 in March 2023. Reimbursements: $8,582,655 (50% partial
+reimbursement).
+ALBERTA Deductions: $13,781,152 in March 2023. Reimbursements: NIL.
+SASKATCHEWAN Deductions: $742,447 in March 2023. Reimbursements: NIL.
+MANITOBA Deductions: $353,827 in March 2023.Reimbursements: NIL.
+QUEBEC Deductions: $41,867,224 in March 2023.Reimbursements: NIL.
+NEW BRUNSWICK Deductions: $1,277,659 in March 2023.Reimbursements: NIL.
+NOVA SCOTIA Deductions: $1,277,659 in March 2023.Reimbursements: NIL.
+HEALTH CARE FUNDING
+On February 7, 2023, the Government of Canada announced an investment of close to $200 billion over
+10 years, including $46.2 billion in new funding for provinces and territories to improve health care
+services for Canadians; and, is committed to working with provinces and territories to ensure these
+investments are used in ways that respect the principles of the Canada Health Act.
+ISSUE SHEET – ALCOHOL
+TRENDS IN ALCOHOL CONSUMPTION
+In 2019, close to 80% of Canadians reported drinking alcohol in the past year.
+Unchanged from 2017, slightly more males (78%) than females (75%) reported alcohol use in 2019.
+The prevalence of past-12-month alcohol use among youth aged 15 to 19 steadily decreased from 57% in
+2017 to 46% in 2019. There was no change among adults aged 20 and older.
+In 2021, almost 5.1 million or 15.6% of people in Canada aged 12 and over engaged in heavy drinking.
+On a volume basis, sales of alcohol declined by 1.2% in 2021-2022, representing the first decline since
+2013/2014 and the largest decrease in over a decade.
+IMPACT OF COVID-19 ON ALCOHOL CONSUMPTION
+There was a 10% increase in hospitalizations due to alcohol consumption in Canada from the pre-
+pandemic period (2019) to the pandemic period (March 2020 to June 2021).
+In January 2021, when asked about their drinking behaviours, 24% of respondents reported increased
+alcohol use since the start of the pandemic.
+Close to one in five Canadians (21%) consumed five or more drinks on the days they had consumed
+alcohol in the previous month – higher than what was recorded before the pandemic.
+From 2019 to 2020, Canada experienced an 18% increase in alcohol-attributed deaths. This represents
+the largest year-over-year increase in over 20 years.
+ALCOHOL-RELATED HARMS
+In 2020, there were over 17,000 alcohol-related deaths and 650,000 emergency room hospital visits
+related to alcohol in Canada.
+In 2019, of those who reported past-year alcohol use, 21% (4.8 million) experienced at least one alcohol-
+related harm.
+The economic burden of alcohol use in Canada was estimated to be greater than $19 billion, with $6.3
+billion of that sum spent on health care.
+Alcohol is the most used psychoactive substance in Canada and is a leading risk factor for over 200
+diseases and conditions, including liver disease, fetal alcohol spectrum disorder , cardiovascular disease,
+and seven types of cancer (mouth, larynx, pharynx, esophagus, liver, colon, and breast).
+Long term alcohol consumption, even at low levels, can lead to health issues.
+The latest scientific evidence no longer supports the claim that drinking alcohol may have any health
+benefits.
+FEDERAL ACTIONS / FUNDING
+$1.5 million to the Canadian Centre on Substance Use and Addiction (CCSA) to update alcohol guidance
+(Canada’s Guidance on Alcohol and Health, formerly Low-Risk Alcohol Drinking Guidelines).
+Support CCSA to undertake the Canadian Substance Use Costs and Harms study, which estimates how
+different substances impact Canada’s health and criminal justice systems, and the productivity of people
+in Canada.
+Support the Canadian Institute for Substance Use Research (CISUR) to assess the implementation of
+federal and provincial evidence-based alcohol policies through the Canadian Alcohol Policy Evaluation
+project ($734,119)
+Health Canada’s Substance Use and Addictions Program currently funds 22 active alcohol-related and
+polysubstance use projects including:
+3 Managed Alcohol Programs: Boyle Street Non-Residential Managed Alcohol Program ($854,701 plus
+amendment of $461,832), the St. John’s Status of Women Council Harm Reduction Project for Women
+($575,930 plus amendment of $286,765), and the Unity Health Toronto (St. Michael’s Hospital)
+Implementation of a Managed Alcohol Program ($257,452).
+$3.3 million to the CISUR to operate a pilot program that will evaluate a cannabis substitution
+intervention as a component of a Managed Alcohol Programs.
+Support for WHO’s Global Alcohol Action Plan with an objective to accelerate and strengthen the
+implementation of the Global Strategy to Reduce the Harmful use of Alcohol.
+PHAC’s surveillance activities with respect to maternal and child health issues due to alcohol use .
+Canadian Institutes of Health Research supports alcohol research to inform policies and interventions
+through Alcohol Catalyst Grants ($2 million in 2021).
+Launch of the Public Awareness of Alcohol-related Harms Survey to determine Canadians’ knowledge
+and awareness of alcohol risks and harms.
+NATIONAL GUIDELINE ON THE CLINICAL MANAGEMENT OF HIGH-RISK DRINKING AND ALCOHOL USE
+DISORDER
+On October 16, 2023, the British Columbia Centre for Substance Use released the first national clinical
+guideline for the management of high-risk alcohol consumption and alcohol use disorder.
+Health Canada is reviewing the clinical guideline.
+Supplementary resources related to the consumption of alcohol during pregnancy will also be developed
+and are anticipated to be available in the coming months.
+CANADA’S GUIDANCE ON ALCOHOL AND HEALTH
+In January 2023, CCSA released Canada’s Guidance on Alcohol and Health, which provides updated and
+evidence-based information on the risks and harms associated with alcohol use.
+Health Canada has studied the recommendations of the CCSA and is funding CCSA to engage Canadians
+on knowledge translation and dissemination tools and the best way to communicate the risks of alcohol
+consumption with people across Canada. This is important to ensure that the unique circumstances of
+people with diverse backgrounds and personal experiences are taken into account as part of addressing
+alcohol and substance use in Canada.
+CCSA’s new Guidance is part of ongoing discussions with stakeholders to determine the best approaches
+to communicating information about the risks of alcohol consumption to the public, including people
+with lived experience of alcohol use, health care providers, public health and professionals, policymakers
+and Indigenous Peoples.
+ALCOHOL LABELLING
+Alcohol beverages are required to carry certain labeling such as common name, net quantity, and
+language requirements .
+CCSA’s Canada’s Guidance on Alcohol and Health report contains policy recommendations for labelling
+alcoholic beverages, including the number of standard drinks in a container and health warnings.
+Health Canada has studied the recommendations and is funding CCSA to engage Canadians on
+knowledge translation and dissemination tools and to inform its approach on the best way to
+communicate the risks of alcohol.
+Alcohol labelling is recommended by the World Health Organization as an effective intervention when
+introduced as part of a suite of policy initiatives, such as taxation and pricing, to increase awareness of
+alcohol consumption.
+Some countries are beginning to introduce alcohol warning labels to provide health and other
+information at the point of sale. Health Canada will continue to monitor international activities on
+labelling and seek opportunities to engage Canadians on how to better inform the public about alcohol-
+related harms.
+Health Canada is monitoring Bill S-254: An Act to Amend the Food and Drugs Act, which calls for the
+federal government to mandate warning labels on alcoholic beverages, as it proceeds through the
+parliamentary process.
+ISSUE SHEET – OPIOIDS
+OVERDOSE DEATH NUMBERS AND TRENDS
+36,419 accidental opioid toxicity deaths between January 2016-March 2023
+82% of accidental opioid toxicity deaths in 2022 involving fentanyl
+59% of accidental opioid toxicity deaths in 2022 also involving a stimulant
+79% of accidental stimulant toxicity deaths in 2022 also involving an opioid
+Death most common among males, and for both males and females aged 20-59 years old
+In 2022 – males account for 74% of accidental opioid toxicity deaths
+From 2016 to 2022, in youth (0-19), the total number of opioid and stimulant-related poisoning
+hospitalizations among females was consistently higher compared to their male counterparts (1,192
+compared to 863, respectively, from 2016-2022). From January to March of 2023, the number was
+similar among both males and females aged 0-19 (35 and 32, respectively).
+Data points to people commonly dying of overdoses alone and mostly indoors. In Ontario, from March to
+December of 2020, 73% of fatal overdoses occurred where no one was present to intervene. In BC, in
+2022, 83% of fatal overdoses occurred indoors, more specifically, 55% occurred in private residences.
+Majority (86%) of accidental opioid toxicity deaths in 2022 occurred in: BC, AB, ON
+DECLARATION OF EMERGENCIES
+Some jurisdictions (provincial, territorial, municipal, First Nations communities) have declared different
+types of emergencies related to substance use. These declarations have varying levels of legal
+implications, depending on the type of jurisdiction, type of emergency declared, and legislative context
+of the declaration. For example, British Columbia’s public health emergency, declared under the
+provincial Public Health Act, allows for more robust data collection, whereas Yukon’s substance use
+health emergency declaration was intended as a commitment to respond and a call to action.
+British Columbia
+Provincial Government- April 2016- Public Health Emergency
+Ehattesaht First Nation- February 2023- State of Emergency
+Alberta
+Provincial Government- May 2017- November 2019 - Public Health Crisis
+Confederacy of Treaty 6 First Nations- July 2023- State of Emergency
+Athabasca Tribal Council- September 2023- State of Emergency
+Saskatchewan
+Confederacy of Treaty 6 First Nations- July 2023- State of Emergency
+Red Pheasant Cree Nation- September 2023- State of Emergency
+Manitoba
+God’s Lake First Nation- October 2022- State of Emergency
+Keewatin Tribal Council- March 2023- Regional State of Emergency
+Ontario
+Hamilton City Council- April 2023- State of Emergency
+Niagara Region- February 2023- State of Emergency
+Yukon
+Territorial Government- January 2022- Substance Use Health Emergency
+Carcross/Tagish First Nation- January 2022- Substance Use Health Emergency
+First Nation of Nacho Nyak Dun- March 2023- State of Emergency
+Vuntut Gwitchin First Nation- April 2023- Substance Use Emergency
+PROVINCIAL STATISTICS
+Alongside Ontario and Alberta, British Columbia continues to be one of the jurisdictions most impacted
+by the overdose crisis; together, these three provinces represented 86% of all accidental opioid toxicity
+deaths reported in 2022.
+BC
+2,305 deaths in 2021
+2,383 deaths in 2022
+1,645 deaths from January to August of 2023
+First Nations people in BC died of an overdose at 5.9 times the rate of other BC residents in 2022.
+AB
+1,632 opioid-related deaths in 2021
+1,514 opioid-related deaths in 2022
+1,104 opioid-related deaths from January to July of 2023
+Edmonton – 349
+Calgary – 406
+In Alberta, First Nations people died of an accidental opioid overdose at seven times the rate of other
+residents between January and June of 2020.
+ON
+2,856 opioid-related deaths in 2021
+2,534 opioid-related deaths in 2022
+641 opioid-related deaths from January to March 2023
+During the first nine months of the pandemic (March-December 2020), among First Nations populations,
+opioid-related deaths increased by 132% compared to the same timeframe in 2019. There was only a
+68% increase among non-First Nations people.
+IMPACT ON HEALTHCARE SYSTEM
+Compared to the two-year period before the pandemic (April 2018 – March 2020, 9,470 hospitalizations)
+there was a 24 percent increase in opioid-related poisoning hospitalizations in Canada during the first
+two years of the pandemic (April 2020 – March 2022, 11,765 hospitalizations).
+FEDERAL ACTIONS / FUNDING
+Since 2017, guided by the Canadian Drugs and Substances Strategy (CDSS), the Government of Canada
+has taken urgent action to address the overdose crisis and made significant investments of over $1
+billion, which includes $359.2 million announced through Budget 2023 to support a renewed CDSS. Our
+approach recognizes that a full continuum of strategies is necessary to address substance use-related
+harms and the overdose crisis and includes efforts to:
+improve access to treatment services;
+increase access to harm reduction services, including supervised consumption sites;
+support a range of innovative approaches to harm reduction, treatment, and prevention at the
+community level;
+strengthen law enforcement capacity to address illegal drug production and trafficking;
+increase awareness and prevention efforts; and,
+build the evidence base through investments in research and surveillance.
+On February 7, 2023, the Government of Canada announced it will increase health funding to provinces
+and territories by nearly $200 billion over 10 years, in order to improve Canada’s health care system. This
+investment includes $25 billion for shared health priorities, including increasing access to mental health
+and substance use services and supports. These commitments are in addition to existing bilateral
+agreements with provinces and territories for health priorities, including $5 billion over 10 years for
+Mental Health and Addictions that were put in place in 2017. These investments will set the foundation
+for long-term, integrated and sustained health care system change that builds on existing, targeted
+actions to address substance use-related harms and the overdose crisis.
+SAFER SUPPLY
+As of October 2023, Health Canada is currently supporting 29 safer supply pilot projects across Canada
+through the Substance Use and Addictions Program, representing total funding commitments of over
+$97 million.
+We are seeing some promising early outcomes from safer supply.
+These include reduced emergency department visits and hospitalizations. We are also hearing reports
+from safer supply clients across multiple programs of reduced overdoses, illegal drug use, and criminal
+activity.
+Some providers and clients have described additional benefits, such as improvements in social
+functioning, health and mental health, access to housing and income supports, and the time and stability
+needed to pursue personal goals.
+We will continue to monitor outcomes of safer supply, so that our response to the overdose crisis is
+evidence-based and focussed on saving lives.
+We are also aware of some concerns, such as diversion, and are committed to taking action where
+necessary.
+Diversion of drugs from safer supply programs is illegal.
+Drugs containing controlled substances, including those used in safer supply programs, are subject to the
+Controlled Drugs and Substances Act (CDSA) and its regulations. This includes laws and regulations
+around storage, transport, and measures to help prevent diversion.
+Health Canada supports law enforcement actions to address drug trafficking and support community
+safety, wherever it takes place.
+We will continue to evaluate all available and emerging evidence in regard to safer supply programs to
+understand the potential benefits and risks.
+ISSUE SHEET – OPIOIDS
+OVERDOSE DEATH NUMBERS AND TRENDS
+36,419 accidental opioid toxicity deaths between January 2016-March 2023
+82% of accidental opioid toxicity deaths in 2022 involving fentanyl
+59% of accidental opioid toxicity deaths in 2022 also involving a stimulant
+79% of accidental stimulant toxicity deaths in 2022 also involving an opioid
+Death most common among males, and for both males and females aged 20-59 years old
+In 2022 – males account for 74% of accidental opioid toxicity deaths
+From 2016 to 2022, in youth (0-19), the total number of opioid and stimulant-related poisoning
+hospitalizations among females was consistently higher compared to their male counterparts (1,192
+compared to 863, respectively, from 2016-2022). From January to March of 2023, the number was
+similar among both males and females aged 0-19 (35 and 32, respectively).
+Data points to people commonly dying of overdoses alone and mostly indoors. In Ontario, from March to
+December of 2020, 73% of fatal overdoses occurred where no one was present to intervene. In BC, in
+2022, 83% of fatal overdoses occurred indoors, more specifically, 55% occurred in private residences.
+Majority (86%) of accidental opioid toxicity deaths in 2022 occurred in: BC, AB, ON
+DECLARATION OF EMERGENCIES
+Some jurisdictions (provincial, territorial, municipal, First Nations communities) have declared different
+types of emergencies related to substance use. These declarations have varying levels of legal
+implications, depending on the type of jurisdiction, type of emergency declared, and legislative context
+of the declaration. For example, British Columbia’s public health emergency, declared under the
+provincial Public Health Act, allows for more robust data collection, whereas Yukon’s substance use
+health emergency declaration was intended as a commitment to respond and a call to action.
+British Columbia
+Provincial Government- April 2016- Public Health Emergency
+Ehattesaht First Nation- February 2023- State of Emergency
+Alberta
+Provincial Government- May 2017- November 2019 - Public Health Crisis
+Confederacy of Treaty 6 First Nations- July 2023- State of Emergency
+Athabasca Tribal Council- September 2023- State of Emergency
+Saskatchewan
+Confederacy of Treaty 6 First Nations- July 2023- State of Emergency
+Red Pheasant Cree Nation- September 2023- State of Emergency
+Manitoba
+God’s Lake First Nation- October 2022- State of Emergency
+Keewatin Tribal Council- March 2023- Regional State of Emergency
+Ontario
+Hamilton City Council- April 2023- State of Emergency
+Niagara Region- February 2023- State of Emergency
+Yukon
+Territorial Government- January 2022- Substance Use Health Emergency
+Carcross/Tagish First Nation- January 2022- Substance Use Health Emergency
+First Nation of Nacho Nyak Dun- March 2023- State of Emergency
+Vuntut Gwitchin First Nation- April 2023- Substance Use Emergency
+PROVINCIAL STATISTICS
+Alongside Ontario and Alberta, British Columbia continues to be one of the jurisdictions most impacted
+by the overdose crisis; together, these three provinces represented 86% of all accidental opioid toxicity
+deaths reported in 2022.
+BC
+2,305 deaths in 2021
+2,383 deaths in 2022
+1,645 deaths from January to August of 2023
+First Nations people in BC died of an overdose at 5.9 times the rate of other BC residents in 2022.
+AB
+1,632 opioid-related deaths in 2021
+1,514 opioid-related deaths in 2022
+1,104 opioid-related deaths from January to July of 2023
+Edmonton – 349
+Calgary – 406
+In Alberta, First Nations people died of an accidental opioid overdose at seven times the rate of other
+residents between January and June of 2020.
+ON
+2,856 opioid-related deaths in 2021
+2,534 opioid-related deaths in 2022
+641 opioid-related deaths from January to March 2023
+During the first nine months of the pandemic (March-December 2020), among First Nations populations,
+opioid-related deaths increased by 132% compared to the same timeframe in 2019. There was only a
+68% increase among non-First Nations people.
+IMPACT ON HEALTHCARE SYSTEM
+Compared to the two-year period before the pandemic (April 2018 – March 2020, 9,470 hospitalizations)
+there was a 24 percent increase in opioid-related poisoning hospitalizations in Canada during the first
+two years of the pandemic (April 2020 – March 2022, 11,765 hospitalizations).
+FEDERAL ACTIONS / FUNDING
+Since 2017, guided by the Canadian Drugs and Substances Strategy (CDSS), the Government of Canada
+has taken urgent action to address the overdose crisis and made significant investments of over $1
+billion, which includes $359.2 million announced through Budget 2023 to support a renewed CDSS. Our
+approach recognizes that a full continuum of strategies is necessary to address substance use-related
+harms and the overdose crisis and includes efforts to:
+improve access to treatment services;
+increase access to harm reduction services, including supervised consumption sites;
+support a range of innovative approaches to harm reduction, treatment, and prevention at the
+community level;
+strengthen law enforcement capacity to address illegal drug production and trafficking;
+increase awareness and prevention efforts; and,
+build the evidence base through investments in research and surveillance.
+On February 7, 2023, the Government of Canada announced it will increase health funding to provinces
+and territories by nearly $200 billion over 10 years, in order to improve Canada’s health care system. This
+investment includes $25 billion for shared health priorities, including increasing access to mental health
+and substance use services and supports. These commitments are in addition to existing bilateral
+agreements with provinces and territories for health priorities, including $5 billion over 10 years for
+Mental Health and Addictions that were put in place in 2017. These investments will set the foundation
+for long-term, integrated and sustained health care system change that builds on existing, targeted
+actions to address substance use-related harms and the overdose crisis.
+SAFER SUPPLY
+As of October 2023, Health Canada is currently supporting 29 safer supply pilot projects across Canada
+through the Substance Use and Addictions Program, representing total funding commitments of over
+$97 million.
+We are seeing some promising early outcomes from safer supply.
+These include reduced emergency department visits and hospitalizations. We are also hearing reports
+from safer supply clients across multiple programs of reduced overdoses, illegal drug use, and criminal
+activity.
+Some providers and clients have described additional benefits, such as improvements in social
+functioning, health and mental health, access to housing and income supports, and the time and stability
+needed to pursue personal goals.
+We will continue to monitor outcomes of safer supply, so that our response to the overdose crisis is
+evidence-based and focussed on saving lives.
+We are also aware of some concerns, such as diversion, and are committed to taking action where
+necessary.
+Diversion of drugs from safer supply programs is illegal.
+Drugs containing controlled substances, including those used in safer supply programs, are subject to the
+Controlled Drugs and Substances Act (CDSA) and its regulations. This includes laws and regulations
+around storage, transport, and measures to help prevent diversion.
+Health Canada supports law enforcement actions to address drug trafficking and support community
+safety, wherever it takes place.
+We will continue to evaluate all available and emerging evidence in regard to safer supply programs to
+understand the potential benefits and risks.
+HESA SUPPS C BACKGROUNDER – PHARMACEUTICAL LITIGATION
+BC CLASS ACTIONS
+In August 2018, BC commenced a proposed class action lawsuit against 50 opioid manufacturers and
+distributors for allegedly acting inappropriately in the sale and distribution of opioids in Canada. BC’s
+Notice of Claim indicates that the action is brought on behalf of all federal, provincial and territorial
+governments. The next major step will be BC’s application to certify this proposed class action lawsuit in
+the BC Supreme Court which has been scheduled for four weeks beginning on November 27, 2023.
+In December 2021, BC also commenced a proposed class action against McKinsey & Company on behalf
+of all Canadian governments. In this action, BC alleges in its Notice of Claim that McKinsey & Company
+acted inappropriately in the course of providing consulting and advisory services to opioid
+manufacturers and distributors in Canada. The certification hearing set for February 2024 will likely be
+postponed.
+OPIOIDS RECOVERY LEGISLATION
+In October 2018, BC passed the Opioid Damages and Health Care Costs Recovery Act to support its legal
+action. This legislation creates a statutory cause of action and right for BC to recover from opioid
+manufacturers and distributors opioid related health care costs incurred by the BC government. As of
+October 24, 2023, all P/Ts with the exception of the Yukon have introduced or passed their own opioids
+recovery legislation.
+On November 4, 2022, BC amended its legislation to include a statutory right for Canada to recover
+opioid related damages incurred by Canada in BC. As of October 24, 2023, both Quebec and Nova Scotia
+have included a similar statutory right for Canada to recover opioid related damages incurred by Canada
+in their respective jurisdictions. This is an example of the significant cooperation that exists between the
+Provinces and Territories and the Government of Canada as they work together to address the overdose
+crisis.
+REGULATORY STANDPOINT
+The Protecting Canadians from Unsafe Drugs Act (also known as Vanessa’s Law), received Royal Assent
+on November 6, 2014. This legislation, which amended the Food and Drugs Act, strengthened Health
+Canada’s safety oversight of therapeutic products by giving the regulator increased authorities to collect
+post-market safety information and take appropriate action when a serious health risk is identified.
+These amendments also introduce important new transparency measures which will ensure that
+Canadians have timely access to drug safety information. Together, these amendments will lead to
+improved patient safety and better health outcomes for Canadians.
+The Food and Drugs Act was also amended in 2014 to increase the penalties available upon conviction
+for a contravention of the advertising provisions, including when any person makes false and misleading
+statements. The maximum penalty is now up to $5 million per offence. These amendments required
+manufacturers to comply with any terms and conditions (T&Cs) on authorizations for drugs and medical
+devices imposed by the Minister. Following regulatory amendments in 2018, the Minister of Health has
+imposed T&Cs on prescription opioid products in Part B of the List of Opioids.
+These T&Cs for prescription opioids include the requirement that manufacturers must seek review from
+an independent advertising preclearance agency (APA) recognized by Health Canada for all materials
+directed to healthcare professionals. This APA review determines whether the materials are
+promotional, and if so, whether they respect the terms of market authorization. Additionally, all
+advertising materials of prescription opioids provided to health care professionals must only include
+verbatim statements contained in the Canadian Product Monograph and must fairly balance statements
+about benefits and risks. The T&Cs also require manufacturers to develop and implement Risk
+Management Plans for prescription opioids with proactive activities to monitor and mitigate opioid
+harms in Canada.
+In addition to T&Cs, the Food and Drug Regulations were amended in 2018 to strengthen information
+provided to patients by pharmacists by using patient information handouts and warning stickers.
+Currently, Health Canada is working on regulatory proposals to extend the Minister’s authority to impose
+and amend terms and conditions on authorizations at any time for all drugs and medical devices. The
+draft regulations were pre-published in the Canada Gazette Part 1 on December 17, 2022.
+HESA SUPPS C BACKGROUNDER – STRENGTHENING THE REGULATORY OVERSIGHT OF NATURAL HEALTH
+PRODUCTS
+NATURAL HEALTH PRODUCTS
+There are nearly 200,000 different natural health products (NHPs) in Canadian stores, representing a $5
+billion per year industry in Canada.
+Many Canadians use these products (like vitamins, minerals, herbal remedies, and even some
+sunscreens) every day, sometimes multiple times per day, to care for themselves and their families.
+STRENGTHENING THE REGULATORY OVERSIGHT OF NATURAL HEALTH PRODUCTS
+(why changes to the NHP program are needed now)
+While natural health products are generally lower risk, that does not mean they are without risk.
+Health Canada has seen serious non-compliance that could potentially be harmful to consumers, such as
+product contamination and the presence of ingredients not listed on the label.
+In 2021: A pilot program using proactive monitoring of natural health products advertising found non-
+compliant cancer claims among 63% (2070) of the over 3800 advertisements identified through an
+enhanced artificial intelligence tool.
+In 2021 and 2022: A pilot inspection program found high levels of non-compliance with regulatory
+requirements for good manufacturing practices. Issues were identified at all 36 natural health products
+manufacturers and importers inspected, ranging in severity.
+From 2021 to 2023: 100 voluntary recalls of licensed natural health products conducted for safety issues,
+including bacterial contamination and presence of foreign matter such as fibreglass.
+These findings support the need to educate industry about its regulatory obligations as well as to
+increase oversight of the industry.
+In 2021, the Commissioner of the Environment and Sustainable Development completed an audit of the
+natural health product program and reported gaps in the regulatory oversight of these products. In
+response, Health Canada committed to undertaking a number of activities to improve the safety of these
+products.
+FEDERAL ACTIONS
+Health Canada’s initiatives will support access to safe and high quality NHPs. These regulatory changes
+are not about removing choice or reducing access.
+Improved NHP labelling
+In July 2022, Health Canada introduced new regulatory requirements to make natural health product
+labels easier for Canadians to read and understand and address concerns about small font sizes and
+missing or unclear safety information. This includes, for example, increased font size and improved
+colour contrast.
+To support industry in implementing these changes, there is a multi-year transition period (up to six
+years) ending June 2028.
+Vanessa’s Law Powers
+In June 2023, the Government passed legislation allowing Health Canada to take more action if a serious
+risk to health is identified with a natural health product. This legislative change allows Health Canada to
+order a recall of a product or add warnings on labels to support safe use, if necessary, which it couldn’t
+do before.
+Since 2018, companies have conducted approximately 300 voluntary NHP recalls, as Health Canada did
+not have the authority to order mandatory recalls.
+These new authorities will only need to be used if a serious risk to health is identified and a company
+refuses to partake in voluntary mechanisms.
+Cost Recovery Fee Proposal
+Now, Health Canada is proposing fees for industry to allow the Department to create an even safer
+marketplace for consumers — one that will support the access of safe and high quality natural health
+products.
+The fee revenues would enable Health Canada to strengthen its oversight of NHPs, monitor labelling and
+advertising, and put in place a permanent inspection program.
+Presently, NHPs are the only line of health products whose regulatory activities are fully funded by
+Canadian taxpayers.
+Health Canada knows that many NHP companies are small businesses and is committed to supporting
+them. The Department is considering measures to help alleviate the impact of fees on businesses. This
+includes fee reductions for small businesses of 25% to 50% and a full waiver of pre-market evaluation
+fees for small businesses marketing their first product. The Department is actively reviewing thousands
+of comments received on its fee proposal, including the fee reduction for small businesses, as part of an
+open and transparent consultation process.
+Health Canada is presently considering how best to adjust its fee proposal based on the comments
+received from stakeholders prior to further engagement.
+ISSUE SHEET- CHILDREN’S HEALTH
+UNICEF Report Cards
+Canada ranks 30th among 38 other high income countries in the well-being of children and youth
+(UNICEF Report Card). Conversely, Canada ranks among the countries with the best economic,
+environmental and social conditions for growing up, but the poorest outcomes for children and youth.
+This result is driven in part by the intersection of the well-being outcomes of mental health, physical
+health, and educational and skill development. Notably, Canada has one of the highest rates of
+adolescent suicide, ranking 35th out of 38.
+Undersized Children’s Healthcare System
+Children are often waiting longer than adults for critical health services.
+In Ontario as of July 2023:
+2/3 of patients at Ontario's children's hospitals have passed recommended wait times for surgery
+90,000 children and youth are waiting for community and school-based development and rehabilitation
+services
+The situation is similar in other provinces. For example, in Nova Scotia 2,500 pediatric patients are
+waiting for surgery, with 40% waiting beyond the recommended window.
+Experts are concerned by the insufficient number of specialized healthcare providers relative to the
+population of children:
+In 2020, there were 74 practicing pediatric surgeons in Canada.
+The median distance to the closest pediatric surgeon was 28km, with 22.7% (1.7 million or nearly 25%)
+of all Canadian children living more than 100km from surgical care.
+In 2019, there were 2973 pediatric physicians working in Canada, that is 8 physicians per 100,000
+children and youth.
+Rural and Remote Communities
+In 2020, just over 14% of Canadians 12 years and over lacked a regular health care provider, with major
+data gaps for children under 12 .
+These gaps are even larger for Canadian children living in rural and remote communities:
+1 in 5 Canadians live in rural communities yet, only 8% of physicians and 3% of psychiatrists practicing in
+Canada serve these communities.
+In 2020-2021, children living in rural and remote communities were more likely to visit the emergency
+department and to be hospitalized for mental health than children living in urban areas.
+Mental Health of Children and Youth
+Almost two thirds of mental health disorders emerge before the age of 25, and nearly half do before 18.
+Younger Canadians are among the highest users of Emergency Departments (ED) for mental health and
+substance use services. In 2020, over 35,000 children and youth were hospitalized for mental health
+disorders – almost 1 in 4 of all hospitalizations for children and youth.
+The COVID-19 pandemic has had significant impacts on the mental health of youth. The percentage of
+youth aged 12 to 17 years reporting “excellent” or “very good” mental health fell from 72% in 2019 to
+69% in 2020 and was even lower in 2021 (62%).
+Disproportionally Affected Children
+First Nations, Métis, and Inuit children face unique barriers in healthcare stemming from generations of
+racism, discrimination and trauma. For example, they face higher rates of infant mortality and higher
+poverty rates.
+Black youth and children also face unique barriers in healthcare. They tend to wait longer for mental
+health treatment compared to other populations in Canada, Black youth are more likely to be diagnosed
+with major depressive disorder (MDD), and are six times more likely to die by suicide due to their
+depression than White youth.
+There was a 286% increase in reports of racist and discriminatory actions against Asian children in 2021
+compared with data from 2020.
+In Canada, approximately 7 in 10 youth aged 15- 17 years old experience bullying
+Evidence shows that Indigenous youth, adolescents from low socioeconomic status, and sexually and
+gender-diverse youth are more often the target of identity-based bullying.
+Federal Action
+Funding
+Budget 2023 lays out the federal government’s plan, “Working Together to Improve Health Care for
+Canadians,” to provide nearly $200 billion in additional funding over ten years to provinces and
+territories.
+Through the Government’s plan, we continue to work closely with provinces and territories on our
+shared health priorities, including:
+Access to family health services,
+Supported health workers and reduced backlogs,
+Access to mental health and substance use services, and
+Modernizing health systems
+The plan further provided an immediate unconditional $2 billion Canada Health Transfer (CHT) top-up to
+address immediate pressures on health care systems, especially in pediatric hospitals, emergency rooms
+and wait times for surgeries.
+Mental Health Initiatives
+In April 2020, in response to the pandemic, the Government launched Wellness Together Canada (WTC),
+an online mental health and substance use portal. Through it, children and youth (ages 5 to 29) can
+access free resources, including Kids Help Phone.
+The Government of Canada is taking action by providing support for Integrated Youth Services,
+developing national standards for mental health and substance use services, advancing development of
+the 988 suicide prevention hotline and announced in budget 2022, $100 million in additional funding to
+support harm reduction, treatment, and prevention related to the opioid crisis at the community level.
+Data Initiatives
+The Government of Canada is working collaboratively with children’s health leaders to address significant
+data gaps through the establishment of ongoing monitoring mechanisms to obtain timely information on
+pediatric health system capacity and utilization moving forward, including bed and ventilator utilization
+and capacity to be in a better position to anticipate and react to the surges.
+Statistics Canada is currently running a second cycle of the Canadian Health Survey on Children and
+Youth (CHSCY) to explore issues that have an impact on the physical and mental health of children and
+youth, including mental health, childhood experiences, suicidal thoughts, substance use and impact of
+the COVID-19 pandemic.
+In the upcoming next cycle of the CHSCY, significant emphasis has been placed on the mental well-being
+of children and youth, which is a priority for the federal government. Indicators related to mental health
+include suicidal thoughts, emotional behaviour, access to mental health care when needed, sexual
+attraction, distress.
+HESA Study on Children’s Health
+The Standing Committee on Health (HESA) passed a motion on February 9, 2022 to undertake a study on
+children’s health and the impact of the pandemic on children’s health outcomes. The Standing
+Committee on Health completed this study in the spring of 2023 and a report is expected shortly. The
+Government of Canada looks forward to reviewing the committee recommendations.
+ISSUE SHEET – WOMEN’S HEALTH
+ISSUE:
+Women, trans and non-binary people experience poorer health from missed diagnoses, minimized
+symptoms, greater burdens of specific diseases, and poorly targeted treatment compared to men. In
+Canada, women’s health care – as a field of research and program implementation – remains under-
+researched and under-developed in key areas. The Government of |Canada has already begun the work
+to better prioritize women’s health issues.
+CANCER AND CHRONIC ILLNESSES
+Since 2007, Health Canada has consistently funded the Canadian Partnership Against Cancer (CPAC) with
+approximately $50 million/year, with a particular focus on addressing women’s cancers, including breast
+and cervical cancers, alongside other objectives.
+Cancer statistics tell us there has been an annual decline of -1.2% in cancer incidence among women
+since 2011, reflecting positive trends in cancer prevention and management.
+Budget 2016 earmarked $5 million over 5 years to support targeted research on women’s heart and
+vascular diseases through the Heart and Stroke Foundation of Canada.
+Budget 2019 committed $10 million over 5 years to Ovarian Cancer Canada to bridge gaps in knowledge
+about effective prevention, screening, and treatment options for ovarian cancer. Stakeholders point out
+that the need for more substantial research investments is crucial to drive significant improvements in
+outcomes compared to the 1990s.
+SEXUAL AND REPRODUCTIVE HEALTH
+Health Canada’s Sexual and Reproductive Health Fund was created in 2021 to advance mandate
+commitments. Budget 2021 and 2023 allocated $81 million over six years to the Sexual and Reproductive
+Health Fund (SRHF) to improve access to SRH care for various groups.
+The SRHF projects cover abortion, 2SLGBTQ+, Indigenous, and endometriosis issues.
+Quebec also received $9.7 million for community-based organizations.
+The Government is investing $7.6 million over five years in Statistics Canada for the Sexual and
+Reproductive Health Data Initiative to gather evidence, filling information gaps, and guiding sexual and
+reproductive health support for Canadians.
+Health portfolio partners also support research, gender-disaggregated inequalities data collection, and
+sexual and reproductive health data collection, among others areas.
+MENTAL HEALTH
+Young women and girls are disproportionately affected by mental health concerns as compared to their
+male peers.
+The Government acknowledges the sixth Report of the Standing Committee on the Status of Women,
+emphasizing the interconnected factors influencing young women’s mental health, and allocated $200
+billion in Budget 2023 to improve health care services for Canadians, including reporting through data
+disaggregation to provide more insight into women’s healthcare experiences.
+Online counselling and peer support services are available to young women directly through Kids Help
+Phone and other organizations (Youthspace; Jack.org; BounceBack offered through CMHA), as well as
+through provincial and territorial services such as Tel-Jeunes in Quebec, and Alberta’s COVID-19 Youth
+Mental Health Resource Hub.
+Perinatal Mental Health
+On March 9, 2022, a ministerial roundtable was held to discuss perinatal mental health care access.
+The government is funding Women’s College Hospital to create an evidence-based National Clinical
+Practice Guideline for Perinatal Mental Illness, based on input from experts, providers, and those with
+lived experience.
+SUBSTANCE USE
+Data has shown that in Canada, a significant proportion of women use substances.
+Between 2016-2022, women made up 26-30% of all opioid related deaths, and 38-50% of opioid-related
+hospitalizations.
+In 2022, First Nations women died at 11.2 times the rate of non-Indigenous women from an overdose.
+Between September 2020 and December 2020, 16.2% of women self-reported an increase in their
+alcohol consumption.
+In 2018-19, 18% of high school female students reported cannabis use.
+HEALTH RESEARCH AND FUNDING (PHAC & CIHR)
+Canadian Institutes of Health Research (CIHR) is investing $20 million over 5 years in the National
+Women’s Health Research Initiative (NWHRI).
+NWHRI focuses on under-researched and high-priority areas of women’s health.
+NWHRI conducts research in cancer, endometriosis, and mental health, emphasizing an inclusive
+approach to research.
+The Public Health Agency of Canada (PHAC)’s Healthy Canadians and Communities Fund (HCCF) invests
+approximately $20 million per year in women’s health projects.
+HCCF funds projects to support women’s health in:
+Cardiovascular disease prevention
+Peer health coaching for chronic disease risk factors
+Diabetes and obesity prevention for Indigenous women
+Increasing physical activity and literacy among women and girls
+BREAST IMPLANTS
+The Standing Committee on Health (HESA) conducted an examination into the viability of establishing a
+comprehensive breast implant registry. This process involved the active participation of Health Canada as
+a witness, which took place in April 2023
+Subsequent meetings occurred in May 2023 further delving into the subject matter. However, as of
+October 2023, the release of the committee’s report remains pending
+The idea of creating a breast implant registry has been an ongoing topic of discussion across various
+platforms, including media coverage, previous deliberations at HESA, advocacy by medical professionals,
+patient advocates, and individuals with direct experiences, as well as consultations at the Health Canada
+Scientific Advisory Committee on Health Products for Women.
+It’s noteworthy that while registries are commonly employed to facilitate research, they are not typically
+used as a mean of monitoring the safety of medical devices. In Canada, there is currently only one
+known medical device registry, managed by the Canadian Institute for Health Information (CIHI),
+primarily intended for research purposes to inform clinical practices.
+Health Canada actively reviews and monitors breast implants, taking actions when necessary, but it
+doesn’t provide medical advice or maintain an individual-specific implant registry.
+Health Canada actively monitors and takes actions on breast implant safety but does not maintain a
+patient-specific implant database.
+OTHER FEDERAL INITIATIVES
+Through transfer payments, funding is also provided to organizations such as the Native Women's
+Association of Canada and Les Femmes Michif Otipemisiwak to address issues as diverse as oral health
+care and medical assistance in dying, or such as projects under the Substance Use and Addictions
+Program for women of diverse backgrounds who have lived experience with substance use.
+HESA BACKGROUNDER – BREAST IMPLANTS
+BREAST IMPLANTS – KEY FACTS
+Breast implants are regulated as Class IV devices under the Medical Devices Regulations, which means
+that they undergo the highest level of review for safety, effectiveness and quality before they may be
+sold in Canada.
+Breast implants are used to increase breast size, modify or adjust breast unevenness or appearance, or
+to reconstruct breasts after a surgical procedure such as a mastectomy (breast removal).
+Most breast implant surgical procedures occur in private health care institutions (about 85%).
+Health Canada monitors the safety of all medical devices once authorized. This monitoring has informed
+a number of actions for breast implants, including suspending the licence for breast implants posing a
+higher risk of developing a rare form of cancer, and working with manufacturers to implement
+comprehensive labelling changes to support informed decision-making.
+BREAST IMPLANT REGISTRY – KEY FACTS
+Discussions regarding the creation of a registry include important privacy considerations and involve
+health authorities and organisations, including provincial and territorial governments, since health
+treatments and follow-ups are under P/T jurisdiction.
+One key challenge to establishing a breast implant registry would be the requirement for health data
+from private health care institutions.
+No single organization is best placed to lead the development of a breast implant registry.
+HEALTH CANADA ACTIONS
+Health Canada has completed multiple post-market safety reviews of breast implants which have led to
+risk mitigation actions.
+In 2017, 2019, and 2022, Health Canada published safety reviews online on the risk of breast implant
+associated-anaplastic large cell lymphoma (BIA-ALCL).
+Breast implant-associated anaplastic large cell lymphoma (BIA-ALCL) is a rare type of non-Hodgkin
+lymphoma that can develop next to the implant.
+In 2019, Health Canada suspended the medical device authorization for Allergan Biocell macro-textured
+breast implants due to an increased risk of developing BIA-ALCL.
+In addition, Health Canada also worked with manufacturers to implement comprehensive labelling
+changes, including a boxed warning and patient decision checklists.
+Health Canada has published information in a variety of formats, including a comprehensive webpage on
+breast implants; a data blog updated annually which outlines findings of BIA-ALCL in Canada; and social
+media posts on Instagram, Facebook, Twitter and LinkedIn.
+The Department has also introduced a subscription service to inform interested Canadians about Health
+Canada publications on breast implants. Subscribers (who can be health professionals, people with
+breast implants, researchers, etc.) are alerted whenever Health Canada publishes new information on
+breast implants, including: general information; safety or recall information; risk communications; and
+updates to the Public Health Infobase data blog and breast implant webpages.
+CONSIDERATIONS FOR A BREAST IMPLANT REGISTRY
+The concept of a breast implant registry has been discussed since 2005: in the media; at HESA; by
+physician and patient advocates, including people with lived/living experience; and at the Health Canada
+Scientific Advisory Committee on Health Products for Women.
+While registries are often used to support research, they are not a common mechanism to monitor the
+safety of medical devices.
+Currently there is only one medical device registry in Canada.
+The Canadian Joint Replacement Registry for hip and knee prostheses is managed by the Canadian
+Institute for Health Information (CIHI) and used for research purposes to inform clinical practice.
+In March 2023, Health Canada, along with the Canadian Institutes of Health Research (CIHR) and Women
+and Gender Equality Canada (WAGE) as federal partners, participated in a Best Brains Exchange (BBE)
+meeting that examined the development of a registry to capture nation-wide information about the
+effects of breast implants on an ongoing manner.
+International and domestic stakeholders from across the healthcare ecosystem participated in the
+discussion.
+The discussion highlighted the complexities of a breast implant registry.
+Manufacturers, regulatory agencies and health care professionals all have a role to play in the safety of
+medical devices.
+A national breast implant registry would require a high degree of coordination and its benefits would
+only be fully realized if all partners in the healthcare system were to adopt it and if all people with breast
+implants were to enroll in it.
+ISSUE SHEET – CANNABIS
+CANNABIS USE AND FREQUENCY AMONG CANADIANS (AGED 16+)
+Past 30-day cannabis use in 2022 (19%) increased from 2018 (15%) and 2021 (17%)
+In 2022, past 30-day cannabis use remained higher among males (21%, an increase from 19% in 2018)
+than among females (16%, an increase from 11% in 2018)
+In 2022, 25% of those who reported using cannabis in the past 12 months reported using cannabis daily
+or almost daily, unchanged from 25% in 2018, and unchanged between 2021 (26%) and 2022
+CANNABIS USE AND FREQUENCY AMONG YOUTH (16-19) AND YOUNG ADULTS (20-24)
+In 2022, past 30-day cannabis use remained higher among Canadians aged 16-19 years (25%, unchanged
+from 23% in 2018) and 20-24 years (36%, an increase from 30% in 2018) than among people age 25+
+(17%, an increase from 13% in 2018)
+DISPLACEMENT OF THE ILLICIT MARKET
+The legal cannabis market continues to displace the illicit market. According to Statistics Canada data,
+the legal share of the value of cannabis consumed has steadily increased to 72% in the second quarter of
+2023, compared to just 9% prior to legalization
+In 2022, 61% of those who used cannabis in the past 12 months indicated their usual source of cannabis
+was a legal storefront, an increase from 52% in 2021
+In 2022, 8% of those who used cannabis in the past 12 months indicated a legal online source as their
+usual source of cannabis, a decrease from 11% in 2021
+MEDICAL ACCESS FRAMEWORK
+As of June 30, 2023, there were 203,933 patients registered with federally licensed sellers (Note: these
+are not always unique individuals as individuals may be registered with more than one licensed seller,
+provided an original medical document was used with each registration)
+As of July 31, 2023, there were more than 16,507 individuals registered with Health Canada for personal
+and designated production of cannabis for their own medical purposes
+As of August 31, 2023, Health Canada has refused or revoked over 2,300 registrations under the
+Cannabis Act and the Cannabis Regulations, including over 1,700 for reasons of public health and public
+safety
+The number of individuals currently registered with the Personal and Designated Production program is
+the lowest since the Act came into force.
+The majority of medical access patients are purchasing cannabis from federally licensed sellers rather
+than growing under personal and designated production.
+CANNABIS ACT LEGISLATIVE REVIEW
+On September 22, 2022, the Minister of Health and the Minister of Mental Health and Addictions
+announced the launch of the legislative review of the Cannabis Act, and appointed an independent
+Expert Panel to lead the review.
+The Panel has consulted extensively with the cannabis industry to better understand the impacts of the
+cannabis legislative framework and the challenges and opportunities that exist within the sector. They
+have also met with the public, other orders of government, people who access cannabis for medical
+purposes, youth, marginalized and racialized communities, Indigenous communities and organizations,
+and public health experts.
+The feedback will not only inform the Panel’s final report and the formulation of their advice and
+recommendations, but it will also help inform Health Canada’s ongoing efforts to improve the operation
+and administration of Canada’s cannabis control framework.
+The review is currently underway and the Expert Panel is continuing to seek input from the public,
+stakeholders, Indigenous groups, and expert organizations.
+The Expert Panel published a What We Heard report on October 10th, 2023, which summarizes the
+input heard during their extensive stakeholder engagements to date.
+The Expert Panel’s final report will be tabled in Parliament by the Minister of Health at the end of the 18-
+month legislative review period (I.e., by March 22, 2024).
+While the legislative review is underway, Health Canada will continue to examine regulatory measures
+that could be made more efficient and streamlined, reducing the burden on industry, without
+compromising public health and public safety.
+ISSUE SHEET – MENTAL HEALTH
+MENTAL HEALTH AND SUBSTANCE USE OF CANADIANS
+Population mental health and needs in Canada
+Positive self-rated mental health has declined in parallel with an increase in mood and anxiety disorders.
+In 2022, nearly 1 in 5 met the diagnostic criteria for a mood, anxiety or substance use disorder, reflecting
+more than 5 million people in Canada.
+Nearly one in five Canadians reported a need for mental health care in 2020.
+44% of those who had a need reported that their needs were either unmet or only partially met.
+The highest needs are among youth, particularly women aged 15-24, Indigenous Peoples, those in the
+2SLGBTQI+ community, and those facing complex needs such as concurrent disorders.
+Concurrent disorders
+People with a mental illness are twice as likely to have a substance use disorder compared to the general
+population, with at least 20% of people with a mental illness having a co-occurring substance use
+disorder.
+For people with schizophrenia, this number may be as high as 50%.
+People with substance use disorders are up to three times more likely to have a mental illness. For
+example, 50% of those in substance use treatment also experience mental illness.
+Homelessness and complex needs
+Since 2020, more than 34 communities across Canada have publicly announced crises or emergencies or
+have publicly declared a need for additional government supports related to the intersecting issues of
+mental illness, substance use, and homelessness. These communities include urban centres, Indigenous
+communities, and rural populations.
+The rate of homelessness has increased by 20% in Canada since 2018, with unsheltered homelessness
+doubling during that time, according to INFC.
+The prevalence of mental disorders, including substance use disorders, is up to 76% in homeless
+populations of high income countries, including Canada.
+Based on INFC Point in Time counts, 60% self-report mental illness, and 61% self-report substance use
+disorders.
+Mental health and substance use issues are both pathways to and consequences of homelessness, and
+can increase challenges in exiting from homelessness.
+Indigenous peoples
+In 2021, only half of Indigenous peoples in Canada reported excellent or very good mental health.
+In the same year, 17% of Indigenous Peoples in Canada had unmet needs for mental health care.
+Indigenous peoples experience disproportionate rates of suicide, homelessness, and substance use
+harms in comparison to non-Indigenous peoples in Canada.
+The suicide rate (2011-2016) among First Nations people (24.3 deaths per 100,000) was three times
+higher than the rate among non-Indigenous people (8.0 deaths per 100,000) according to a 2019
+Statistics Canada report.
+Indigenous peoples represent 39% of shelter users, but comprise 5% of the Canadian population,
+according to INFC.
+In Alberta, First Nations people represent approximately 6% of the population, yet they represented 22%
+of all opioid poisoning deaths in the first six months of 2020.
+Children and youth
+Almost two thirds of mental health disorders emerge before the age of 25.
+In 2021 - only 54% of children and youth under 26 compared to 60% of adults 26 and older reported
+excellent or very good mental health, a decrease from 77% and 72%, respectively, in 2011.
+In 2020, 13.4% of youth aged 12 to 25 reported unmet needs for mental health care, compared to 8.3%
+of those older than 25. In 2020, over 35,000 children and youth were hospitalized for mental health
+disorders.
+Nearly one in four hospitalization of children and youth (aged 5-24) in Canada were for mental health
+conditions in 2020, based on CIHI data. Female children 15-17 were two times more likely than males of
+the same age group to be hospitalized.
+There has been a steady increase in the prescription of mood and anxiety medications for children and
+youth, particularly for females, over the past five years in Canada.
+The current opioid crisis
+While hospitalizations for most other conditions declined during the first 16 months of the pandemic
+period (March 2020 to June 2021), hospitalizations for harms caused by substance use rose by 9%,
+according to CIHI data.
+There was a total of 38,514 apparent opioid toxicity deaths between January 2016 and March 2023 in
+Canada, according to a PHAC surveillance report released in September 2023. The report also found
+that:
+There was a total of 37,697 opioid-related and 16,231 stimulant-related poisoning hospitalizations from
+January 2016 to March 2023 in Canada (excluding Quebec)
+There have been more than 9,000 Emergency Medical Services (EMS) responses to suspected opioid-
+related overdoses so far in 2023 (January – March).
+The majority of opioid-related deaths and hospitalizations occurred in British Columbia, Alberta, and
+Ontario; although high rates are also observed within other regions.
+Rates of accidental stimulant-related hospitalizations in Canada were highest in British Columbia,
+Alberta, and Saskatchewan.
+FEDERAL ACTIONS / FUNDING
+Budget 2023 confirmed the Government of Canada’s commitment to mental health and substance use
+care in Canada through $25B in funding to provinces and territories through tailored bilateral
+agreements. These bilateral agreements will support progress on four shared priorities, with mental
+health and substance use addressed by or included within all four priorities. This investment builds on
+previous federal commitments including $5 billion over ten years in Budget 2017 to provinces and
+territories for mental health and substance use services.
+Additionally, to reflect the Government of Canada’s comprehensive approach to addressing the overdose
+crisis, targeted funding of over $1B has been allocated across federal departments and agencies to
+address key, interrelated priorities, including $400M through Health Canada’s Substance Use and
+Addictions Program
+Canadian Drugs and Substances Strategy
+The Canadian Drugs and Substances Strategy is the federal government’s comprehensive response to the
+overdose crisis and substance related harms in Canada. The goal of the CDSS is to improve the health
+and safety of all Canadians by minimizing substance-related harms for individuals, families, and
+communities. The renewed CDSS, announced as part of Budget 2023, is receiving a total of $359.2
+million in investment over five years. These funds are in addition to existing CDSS funding.
+988 and Suicide Prevention
+The Government of Canada is supporting the launch and implementation of 9-8-8, a new, national three-
+digit number for suicide prevention and emotional distress. As of November 30, 2023, the 9-8-8: Suicide
+Crisis Helpline will provide crisis support to all people in Canada via phone and text, 24 hours a day and
+seven days a week. Budget 2023 announced $158.4 million over 3 years to support the launch and
+implementation of 9-8-8. In the meantime, people in Canada continue to have access to Talk Suicide
+Canada which provides 24/7 suicide prevention crisis support (led by the Centre for Addiction and
+Mental Health and partners). The Centre for Addiction and Mental Health was also selected to lead the
+coordination of 9-8-8 service delivery.
+Building on the existing Federal Framework for Suicide Prevention (2016), the Public Health Agency of
+Canada (PHAC) is leading the development of the National Suicide Prevention Action Plan. Given the
+complexity of suicide and the multiple partners involved in suicide prevention, a phased approach is
+being pursued. Phase I (target release of Winter 2023), will lay the foundation, with the aim of setting
+the vision and identifying early areas for action. Phase II will build on engagement efforts with partners
+including federal government departments, provinces and territories, Indigenous partners and other key
+stakeholders to inform future phases including the co-development of concrete actions as well as
+monitoring progress.
+Mental Health of Canadians
+Integrated Youth Services. An example of a shared priority for federal, provincial and territorial
+governments is the development and expansion of integrated youth services (IYS) models. This is part of
+the broader priority of building mental health and wellbeing through prevention, promotion and services
+for children, youth and families, which was endorsed by FPT Health Ministers at the Health Ministers
+Meeting in October 2023. Budget 2023 funding through tailored bilateral agreements and ongoing
+Budget 2017 funding for mental health and substance use is supporting the advancement of this priority
+and the expansion of IYS.
+IYS models of care provide locally relevant, effective, youth-focused, and integrated services for mental
+health/substance use within the community. All thirteen provinces and territories have developed or are
+developing an IYS network, with a pan-Canadian Indigenous IYS network in progress. As of 2023, there
+are 75 active IYS sites in Canada, and another 55 under development. CIHR is leading the IYS Network of
+Networks initiative allowing for research and evaluation to inform continuous innovation and learning, as
+well as responsivity to emerging challenges.
+Complex Needs. Supporting individuals with complex needs (severe and persistent mental illness,
+substance use, housing precarity and often other health and social issues) was one of two priorities for
+2023-2024 endorsed by FPT Health Ministers at the Health Ministers Meeting (HMM) in Charlottetown,
+PEI in October 2023. This follows $5 billion in federal funding over 10 years through the Common
+Statement of Principles on Shared Health Priorities (CSOP) in 2017, which included improving access to
+mental health and substance use services for people with complex needs. Actions will be taken over the
+next year to synthesize best practices related to integrated, intersectoral service models and the health
+workforce for serving these individuals.
+Improving Mental Health Literacy. Many funding programs and actions are underway across the Health
+Portfolio to support and improve the mental wellness and health literacy of Canadians. As one
+component of mental health promotion, the Public Health Agency of Canada (PHAC) is funding targeted
+mental health literacy initiatives. The University of Alberta received a grant for $250,000 to develop an
+repository of evidence-based mental health literacy interventions for children and youth. The repository
+is expected to be released in February 2024. In addition, PHAC is partnering with the Canadian Centre for
+Occupational Health and Safety to develop mental health literacy resources to support workplaces
+across Canada, which will be released in March 2024.
+In Budget 2022, the Government Canada invested a further $140 million over two years for Wellness
+Together Canada (WTC), which provides immediate access to high-quality supports and services ranging
+from basic wellness information, self-directed courses and programs, counselling sessions, and
+communities of community support.
+Perinatal Mental Health. Health Canada is providing $372,000 over 19 months to Women’s College
+Hospital to develop a Canadian National Clinical Practice Guideline for the Treatment of Perinatal Mental
+Illness, with a corresponding Patient and Family Guide. The Canadian National Clinical Practice Guideline
+for the Treatment of Perinatal Mental Illness led by Women’s College Hospital will focus on the
+identification and treatment of mood, anxiety and related disorders in pregnancy and the postpartum
+period. It will follow best practices around treatment guideline development, with a key focus on
+Canadian contexts and themes, including those identified during the Ministerial roundtable on perinatal
+mental health on March 9, 2022.
+Standards for Mental Health and Substance Use (MHSU). In March 2022, following commitments in
+Budget 2021, Health Canada partnered with the Standards Council of Canada (SCC) to coordinate the
+development of standards and related deliverables. Priority areas for standards development were
+identified in alignment with the Common Statement of Principles on Shared Health Priorities and
+endorsed by FPT governments in 2017. The six priority areas include: 1) Integration of MHSU in Primary
+Care; 2) Digital MHSU Apps; 3) IYS; 4) Integrated MHSU Services for Complex Needs; 5) Substance Use
+Treatment Centres – Withdrawal Management; and 6) Substance Use Workforce – Prescriber
+Competencies for Non-Addictions Providers. Deliverables will be evidence-based and informed by key
+stakeholders including people with lived and living experience.
+ISSUE SHEET – MEDICAL ASSISTANCE IN DYING (MAID)
+LEGISLATIVE TIMELINE FOR MAID
+March 2021: Former Bill C-7 removed the RFND eligibility criterion, created a 2-track system of
+safeguards and temporarily excluded mental illness eligibility until March 2023.
+An independent expert review on MAID and mental illness was initiated (Summer 2021) by the federal
+Ministers of Health and Justice and a final report tabled in Parliament in May 2022.
+Special Joint Parliamentary Committee (AMAD) examined complex MAID issues including MAID where
+mental illness is the sole underlying condition, incl. interim report on mental illness, Jun 2022.
+Fall 2022: Increasing concerns raised whether the health care system was ready to safely assess MAID
+requests where the sole underlying condition is a mental illness.
+Divergent opinions on level of readiness; recognized a great deal of progress made to prepare for MAID
+requests; some PTs needed more time (political opposition by AB).
+Needed time to consider the recommendations of the AMAD final report (February 15, 2023)A
+March 2023: Former Bill C-39 delayed the lifting of the temporary exclusion of mental illness for MAID
+eligibility for one year, until March 17, 2024.
+Prudent approach to allow time for the dissemination and uptake of key resources (Model MAID Practice
+Standards; MAID Training Curriculum) and other activities (Indigenous engagement; enhanced data
+collection; oversight) to support health system preparedness.
+October 18, 2023: Private Members Bill C-314 (CPC Ed Fast) was voted down. The Bill proposed to
+permanently eliminate MAID eligibility for people with mental illness as a sole underlying medical
+condition.
+RECENT PUBLIC POLLING ON MAID AND ON EXPANSION OF MAID FOR MENTAL ILLNESS
+Majority of Canadians (64%) support the previous rules governing MAID, first passed in 2016 and also
+when the law was updated in 2021 (60%) removing the requirement for a reasonably foreseeable natural
+death.
+There is more hesitation when it comes to the planned expansion for eligibility MAID for mental illness in
+March 2024. Three-in-ten (28%) say they support allowing those whose sole medical condition is mental
+illness to seek MAID, while half are opposed (50%). (Sept 2023 Angus Reid)
+35% of Canadians surveyed strongly supported, and 45% somewhat supported, with the appropriate
+safeguards in place, that an adult with the capacity to provide informed consent should be able to seek
+an assessment for MAID, and if eligible, receive MAID, for a severe, treatment-resistant mental disorder
+for which they experience intolerable suffering. (June 2023, Ipsos)
+When surveyed, 41% of members of the Canadian Psychiatric Association (CPA) agreed or strongly
+agreed when asked whether persons whose sole underlying medical condition is a mental disorder
+should be considered for eligibility for MAID, while 39% disagreed or strongly disagreed and 20% were
+undecided (October 2020)
+In the same survey, when CPA members were asked if it is possible for a mental disorder to be
+considered grievous and irremediable: 65% Agree or Strongly Agree; 25% Disagree or Strongly Disagree;
+12% Undecided (October 2020)
+FEDERAL ANNUAL REPORTS ON MAID IN CANADA
+New Data from the Fourth Annual Report
+The total number of medically assisted deaths reported in Canada since the introduction of federal MAID
+legislation in 2016 is 44,958.
+In 2022, there were 13,241 MAID provisions reported in Canada, accounting for 4.1% of all deaths in
+Canada (does this include both RFND and non-RFND? Pls clarify) This falls within the range experienced
+in other jurisdictions with assisted dying regimes (Belgium, 2.5% in 2022; Netherlands, 5.1% in 2022)
+The number of cases of MAID in 2022 represents a growth rate of 31.2% over 2021. All provinces except
+Manitoba and the Yukon continued to experience a steady year-over-year growth in 2022.
+The average age of individuals at the time MAID was provided in 2022 was 77.0 years which is slightly
+higher than the averages of 2019 (75.2), 2020 (75.3) and 2021 (76.3).
+Similar to all other years, Cancer (63.0%) remains the most cited underlying medical condition among
+MAID provisions in 2022. This is followed by cardiovascular conditions (18.8%), other conditions (14.9%),
+respiratory conditions (13.2%) and neurological conditions (12.6%).
+In 2022, 3.5% of the total number of MAID provisions (463 individuals), were individuals whose natural
+deaths were not reasonably foreseeable (non-RFND). This is an increase from 2.2% in 2021 (223
+individuals). Non-RFND MAID provisions account for about 0.1% of all deaths in Canada.
+The most cited underlying medical condition for non-RFND MAID cases was neurological (50.0%),
+followed by other conditions (37.1%), and multiple comorbidities (23.5%), which is similar to 2021
+results.
+The average age of non-RFND individuals receiving MAID was 73.1 years, slightly higher than 70.1 in
+2021 but lower than the average age of 77.0 for all MAID recipients in 2022.
+In 2022, MAID practitioners reported that the majority of MAID recipients (77.6%) had received
+palliative care, a level similar to the three previous years.
+In 2022, 560 individuals were assessed as ineligible for MAID. The reason for a determination of
+ineligibility varies depending on whether an individual’s death was reasonably foreseeable or not
+reasonably foreseeable.
+The main reason for ineligibility for individuals whose natural death was reasonably foreseeable was that
+the individual was not deemed capable of making decisions with respect to their health (41.3%),
+consistent with previous years.
+For individuals whose natural death was not reasonably foreseeable, the main reasons for a finding of
+ineligibility were not having a serious illness, disease, or disability (54.4%), not being in an advanced
+state of decline (54.0%) and not having intolerable suffering (45.1%).
+KEY CONCERNS RELATED TO EXPANSION
+It is anticipated that efforts by MAID critics will become more vocal in the Fall-Winter 2023 to delay, or
+permanently remove eligibility for MAID and mental illness.
+Some of the concerns expressed either in the media or from stakeholder groups opposed to the
+expansion focus on:
+Defining grievous and irremediable in the context of a mental illness
+Distinguishing between a request for MAID and suicidal ideation
+Need for guidelines and standards for consistent practice of MAID
+Education and training tools for assessors and psychiatrists
+Data collection and evidence gathering to help evaluate MAID implementation
+The impact of the expansion on suicide prevention
+The impact on health systems and health care (i.e. human resources/access to mental health
+supports/wait times)
+PROVINCIAL-TERRITORIAL PREPAREDNESS ACTIVITIES FOR EXPANSION
+creating specific teams to support complex case assessments (i.e., clinical consultation/review), a
+process that supports the objectives of prospective oversight
+developing / refining retrospective oversight mechanisms (i.e., reviewing cases after MAID delivery)
+adding resources (i.e., health workforce) to support navigation / assessment or leveraging resources in
+other jurisdictions where requests/provisions are low
+encouraging training using the newly launched nationally accredited MAID training curriculum to help
+clinicians in addressing requests for more complex MAID cases, including where mental illness is the sole
+underlying medical condition.
+updating MAID practice standards, many referencing the Model MAID Practice Standard
+REDACTED
+FEDERAL ACTIONS
+The Government of Canada has supported valuable work towards preparing for the expansion in March
+2024. This work has gone a long way to addressing many but not all of the concerns expressed by those
+opposed to MAID expansion.
+Release of a Model Practice Standard for MAID (March 2023): provides regulatory bodies and clinicians
+with advice on the assessment of complex MAID requests, including persons with a mental disorder as
+their sole medical condition. An Advice to the Profession document provides a series of questions and
+responses which elaborate upon specific clinical questions raised by the Model Standard including
+assessing incurability and differentiating between a request for MAID and suicidal ideation.
+6 PTs are in the process of updating practice standards, drawing upon elements from the Model Practice
+Standard (BC, AB, NS, MB, ON, YK) – ready prior to March 2024
+2 PTs are in early stages of engagement with their regulatory bodies to update practice standards but
+have indicated interest in drawing upon the Model Practice Standard (PEI, SK).
+NB, NU and NL less advanced in planning or do not have practice standards in place.
+NT and QC’s current standards/guidelines already align closely with the Model Standard.
+Knowledge Exchange Workshop (June 2023): Health Canada funded a Knowledge Exchange Workshop
+held in Montreal bringing together over 40 MAID practitioners and psychiatrists from each jurisdiction to
+discuss roles and responsibilities for assessing and managing requests based solely on mental disorder,
+and how to support local training related to MAID for mental disorders.
+Launch of MAID Curriculum (August-Sept 2023): Launch of a nationally accredited, bilingual Canadian
+MAID Curriculum (developed by the Canadian Association of MAID Assessors and Providers-CAMAP)
+gives practitioners (those new to MAID practice and those with experience) important information,
+guidance and tools to improve their assessment skills.
+Six of the seven training modules are now available for registration (free), the full curriculum will be
+available by end of this year.
+Over 600 physicians, nurse practitioners and psychiatrists across Canada have registered to have access
+to the curriculum
+31 experienced MAID clinicians have been trained to teach the curriculum. Another 60 are targeted to
+be trained by January 2024.
+CAMAP is promoting registration for 11 in-person facilitated sessions across the country between
+September and November 2023 on 3 modules (Module 3: How to do a MAID Assessment, Module 5:
+Providing MAID, and Module 7: MAID and Mental Disorders). Another 10 facilitated sessions are being
+planned.
+CAMAP is also developing system coordination guides, patient journey maps and clinical assessment
+tools for complex cases including where mental illness is involved (by February 2024).
+ISSUE SHEET – BLOOD AND PLASMA COLLECTION
+ISSUE :
+Claims have surfaced that paid plasma collection by private companies is causing blood and blood
+product shortages. The Canadian blood system, operated by Héma-Québec in Quebec and Canadian
+Blood Services (CBS) in the rest of Canada, has not been privatized and there is no evidence that paid,
+commercial plasma collection impacts blood donations in Canada.
+CANADIAN BLOOD SYSTEM
+Blood and plasma collection in Canada is within provincial and territorial jurisdiction as part of the
+healthcare system. CBS and Héma-Québec, the national blood operators, are responsible for managing
+Canada and Quebec’s blood systems at arm’s length and on behalf of the provinces and territories.
+Only Héma-Québec, in the province of Quebec, and CBS, in the rest of Canada, can collect whole blood
+in Canada, and only these organizations can distribute blood and plasma products in Canada.
+The Provinces and Territories determine how plasma is collected in their jurisdictions, including the role
+of paid, commercial plasma collection. At present, British Columbia, Ontario, and Quebec have
+legislation that prevents the operation of paid, commercial plasma collection – commercial operators
+can therefore operate in any other jurisdiction.
+The blood operators collect enough blood to meet the needs of Canadians, but collect only some of the
+plasma needed to meet demand for plasma-derived products (PDPs). The remainder needed are
+purchased by CBS and Héma-Québec on international markets, which have been strained over the past
+five years both for pricing and access to supply. Canada, so far, has weathered this situation well and no
+shortages have occurred.
+Health Canada’s primary role in the blood system is to regulate the safety of blood and plasma collection
+and products made from blood and plasma. Any site collecting blood or plasma must be authorized and
+licensed by Health Canada.
+Health Canada is required by the Blood Regulations to review all submissions it receives, including those
+for authorizing and licensing commercial, paid plasma operations.
+BLOOD COLLECTION, LOW INVENTORY, AND SHORTAGES
+As mentioned, Héma-Québec and CBS are responsible for blood collection and distribution of blood
+products in the province of Quebec and the rest of Canada, respectively.
+Outside of Quebec, the National Emergency Blood Management Committee, on behalf of provinces,
+territories, and CBS, monitors situations such as low inventory levels. This committee will act to
+investigate and rectify any low inventory or shortage situation, as per The National Plan for Management
+of Shortages of Labile Blood Components (the Plan), first introduced in 2009.
+Under the Plan, Green Phase implies that normal blood component inventory levels exist and supply
+generally meets demand. Amber Phase implies that the national blood inventory is insufficient to
+continue with routine transfusion practices and blood usage will need to be reduced. Red Phase implies
+that blood inventory levels are insufficient to ensure patients with non-elective indications will receive
+the required transfusions.
+Since the creation of CBS there have been no blood shortages. In 2015 a ‘Green Phase Advisory’ was
+added to the Plan to help mitigate brief supply disruptions or supply more knowledge regarding hospital
+inventories/practices when supplies were tenuous but had not met Amber Phase criteria. Since then,
+Green Phase Advisories have been declared twice in 2016, once in 2018, twice in 2020, and once in
+2021. The most recent Green Phase Advisory has been in effect since June, 2023, and is related to low
+inventories of O and some A blood cells.
+PLASMA COLLECTION
+Many Canadians rely on plasma and plasma products (PDPs) to treat life-threatening conditions. During
+the COVID-19 crisis, global demand, prices, and worldwide shortages increased.
+At the end of 2021-22, CBS supplied 15% of the plasma needed to make PDPs used by Canadians while
+Héma-Québec attained 30% of domestic plasma supply for Quebec in 2021-22. The remainder of PDPs
+needed are purchased on international markets and the large majority of these products come from paid
+donors. The need to enhance domestic plasma collection has been a long-standing issue.
+Health Canada is committed to safeguarding Canada’s plasma and blood supply systems, ensuring that
+all establishments that collect plasma are strictly regulated, and that plasma products sold in Canada are
+manufactured in accordance with rigorous safety standards, regardless of where the plasma comes from,
+and whether donors were compensated.
+PDPs made from plasma donated by paid donors are as safe as those made from plasma donated by
+volunteer donors.
+Payment for for plasma is solely within the jurisdiction of Provinces and Territories, and is not a federal
+matter.
+Outside of Quebec, Provinces and Territories have been funding CBS to increase plasma collection, and
+requested $20M from the Federal Government in 2020, which was included in Budget 2021 for the
+construction of plasma collection sites by CBS. With provincial, territorial and federal funding, CBS is
+aiming to construct a total of 11 dedicated plasma collection sites by the end of 2024 to meet 25% of
+demand by 2028.
+In 2021-22, commercial plasma collectors were operating in New Brunswick, Manitoba, Saskatchewan,
+and Alberta. Plasma collected by these companies was sold on international markets, and did not
+contribute to Canadian sufficiency for plasma products.
+In 2022, CBS entered into a 15 year agreement with industry partner Grifols, a major international
+pharmaceutical company specializing in plasma collection and PDP manufacturing. Protections for the
+national blood supply system are a vital part of the agreement and include controls to prevent negative
+impacts on CBS’ current and future network of blood and plasma donor centres. This agreement will see
+Grifols provide 25% sufficiency for PDPs (in addition to the 25% to be collected by CBS), made from
+plasma collected in Canada.
+Since signing the agreement last year, Grifols has purchased or entered into purchasing agreements with
+the only private plasma collectors that were operating in Canada. This, alongside the protections in the
+agreement, mean that CBS will not face any competition for the foreseeable future, and plasma
+collected in Canada will be used to help Canadians, instead of being shipped out of the country.
+Grifols has also received permission from Ontario to operate in Ontario as an agent of CBS (i.e. Grifols
+will pay donors for plasma in Ontario, but only because of their agreement with CBS). British Columbia
+declined a similar request. Grifols will be able to operate in all other Provinces and Territories where CBS
+operates.
+ISSUE OF PAID PLASMA COLLECTION IMPACTING BLOOD DONATION
+There is no evidence that commercial plasma collection impacts blood collection in Canada.
+CBS’s agreement with Grifols, and Grifols’ subsequent purchase of all commercial plasma collectors in
+Canada over the past year, means that CBS will not face competition at their blood or plasma collection
+sites unless another commercial plasma collector decides to enter the Canadian market.
+Strains to the blood supply are most likely due to changes to blood donor behaviour resulting in fewer
+donations, as seen after the COVID-19 pandemic by blood operators worldwide, and also due to issues in
+collection caused by climate events like floods and wildfires.
+In response to these challenges, CBS and Héma-Québec are increasing donation hours, the frequency
+and size of mobile events, and marketing and donor recruitment activities.
+FEDERAL ACTIONS / FUNDING
+Health Canada’s primary role in the blood system is to regulate the safety of blood and plasma collection
+and products made from blood and plasma.
+The Public Health Agency of Canada’s role in the blood system is blood borne disease surveillance.
+Through Health Canada, the Government of Canada provides CBS with five million dollars in annual,
+ongoing funding for research and development activities. Some of this funding is being used for research
+to better understand donor behaviours so as to improve donation rates and accessibility.
+The Government of Canada is also providing CBS with 20 million dollars over 2022 to 2024 to construct
+plasma collection centres to meet the growing demand for domestic supply. Provinces and Territories are
+responsible for all operational costs of these sites, and have other investments in this area.
+CBS is receiving $510 thousand dollars from Health Canada to create a National Plasma Shortages
+Management Plan, similar to that already in place for blood and blood products, to ensure any future
+issues can be mitigated or addressed appropriately if it is ever an issue. Provinces and Territories are
+providing an equal investment for this work.
+HESA SUPPS C BACKGROUNDER – HEALTH PRODUCT SHORTAGES
+DRUG AND MEDICAL DEVICE SHORTAGES
+Drug and medical device shortages are a global issue and can arise for many reasons, including
+manufacturing disruptions, difficulty in obtaining raw ingredients or packaging materials, major weather
+events affecting manufacturing sites and market demand.
+68% of Canadian drugs are imported from outside of Canada and 83% of activities related to drug
+production (e.g., manufacturing, packaging, labeling) are performed outside of Canada.
+Most medical devices on the Canadian market are also imported.
+Canada holds only 2% of the global market share for drug sales and 1.8% of the global market share for
+medical devices.
+As of October 23, 2023, there are 25 drug shortages considered to be national and critical. Health
+Canada is working closely with companies and stakeholders to resolve them.
+As of October 23, 2023, there are 7 categories of devices that are being closely monitored and Health
+Canada is working with stakeholders to resolve these shortages.
+KEY SHORTAGES OF CONCERN
+Example of high-profile shortages being case managed by Health Canada include:
+Amoxicillin oral suspension: The oral suspension format has been in critical, national shortage since
+November 2022. Though other formats remain available, Health Canada is closely monitoring demand
+levels and has approved the exceptional importation of foreign-authorized product and continues to
+mobilize stakeholders.
+Ozempic (1 mg pre-filled pen): Intermittent shortages are expected until April 2024 due to supply
+constraints and increased global demand. Other formats remain available, but not in adequate quantities
+to make up for shortages of the 1mg pen. Together with partners, Health Canada continues to closely
+monitor the supply situation and has prepared instructions for health care practitioners on alternatives.
+Nitroglycerin: Nitroglycerin pump spray has been in shortage since early 2023 due to supply disruptions
+at a manufacturer with a large market share. Health Canada has worked with stakeholders to provide
+guidance to healthcare practitioners and to extend expiry dates for existing product. Health Canada is
+also evaluating the possibility of accessing foreign supply and working with other Canadian
+manufacturers to increase supply.
+Analgesics, cough and cold medicines: Product is readily available at community and hospital
+pharmacies, and manufacturer and distributor inventories have been replenished. Increased production
+and monitoring for influenza, respiratory syncytial virus and COVID-19 are being used to protect against
+shortages in 2023-2024 flu season.
+FEDERAL ACTIONS / FUNDING
+In 2021, regulations came into force that provide new tools to help prevent and alleviate health product
+shortages and to safeguard the supply. These allow the Minister to:
+Permit the exceptional importation of drugs and medical devices to address a shortage or an anticipated
+shortage.
+Require manufacturers and importers of specified medical devices to report shortages and
+discontinuances that could lead to a shortage.
+Request that drug establishment licence holders and medical device manufacturers, importers, and
+distributors provide information needed to assess, prevent, or alleviate a shortage.
+In November 2022, the Department established an internal Drug Shortages Task Force to:
+Bolster the Department’s capacity to manage health product shortages;
+Lead the Government’s medium- to longer-term policy response on health product shortages, building
+on the work done within the Department and by partners over the past decade
+As part of Health Canada’s work to develop medium- to longer-term options on health product
+shortages, the department has actively engagement with provincial and territorial governments, industry
+stakeholders, academia, healthcare system partners, Indigenous communities and groups, and the
+public.
+Health Canada health a public consultation from June 5 to August 31, 2023, receiving 160 written
+submissions.
+The What We Heard report is targeting publication in fall 2023.
+This consultation will support the development of a robust plan moving forward.
+ISSUE SHEET – COVID-19/INFLUENZA/RSV OUTLOOK
+COVID-19 NUMBERS AND TRENDS
+In the latest reporting week (ending October 14), most COVID-19 indicators have continued to increase,
+but most severity indicators remain at low to moderate levels. National test percent positivity has
+increased since early July and was 17.5% in the latest reporting week, however some provinces and
+territories (PTs) may be showing early signs of decreases.
+Wastewater signals were increasing in most cities.
+Hospitalizations have been increasing over the past 3 months.
+The weekly rates of COVID-19 cases hospitalized and admitted to intensive care unit (ICU) remained
+highest among the oldest age groups.
+Deaths have gradually increased since mid-July but remain low.
+Nationally, recombinant XBB sub-lineages continue to be dominant, representing 97% of sequences in
+the past month.
+EG. 5 is the only lineage group demonstrating consistent growth in Canada.
+Based on data from 6 of the 13 Canadian provinces and territories reporting case and death updates,
+during the week of October 12 to October 18, 2023:
+the total number of hospital beds occupied by COVID-19 patients decreased from 3,797 to 3,786 beds.
+the number of non-ICU beds occupied by COVID-19 patients decreased from 3,651 to 3,631 beds.
+the number of ICU beds occupied by COVID-19 patients increased from 146 to 157 beds.
+the number of COVID-19 patients who were mechanically vented increased from 68 to 69.
+Due to changes in COVID-19 testing policies in many jurisdictions since December 2021, case counts are
+underestimated.
+INFLUENZA NUMBERS AND TRENDS
+Influenza is circulating at low and within expected levels. To date for this influenza season (August 27,
+2023 to October 14, 2023):
+768 influenza detections were reported.
+Of these detections, 92% (705) were influenza A and among subtyped influenza A detections (476),
+influenza A(H1N1) accounted for 79% of detections; this is expected based on international influenza
+trends. Subtypes can impact overall influenza activity levels.
+541 laboratory-confirmed influenza detections with age information were reported, of which 228 (42%)
+were in individuals aged 65+ years old
+There were 41 influenza-associated hospitalizations reported by participating provinces and territories.
+Adults aged 65 years of age and older accounted for 56% of reported hospitalizations.
+Less than five ICU admissions have been reported.
+Less than five influenza-associated deaths have been reported.
+RESPIRATORY SYNCYTIAL VIRUS (RSV) NUMBERS AND TRENDS
+Currently, RSV is circulating at low and within expected levels.
+During the week of October 8 to 14, 20,306 laboratory tests were conducted, the test percent positivity
+for RSV was 1.79%.
+IMPACT ON HEALTHCARE SYSTEM
+Fall 2022 marked the first combined respiratory virus season in which Canada experienced an early and
+intense influenza season during a time of unusually high detections of RSV, putting increased strain on
+already stressed healthcare systems.
+As expected, COVID-19 is co-circulating with influenza and RSV. It is difficult to predict the levels at which
+these viruses may circulate in a given respiratory virus season and ongoing close monitoring will be
+critical.
+FEDERAL ACTIONS / FUNDING
+The Government will be taking all lessons learned into account to be prepared for potential future
+pandemics. These efforts will build on significant investments made in response to COVID-19.
+In 2022, Canada announced the creation of a Centre for Research on Pandemic Preparedness and Health
+Emergencies at the Canadian Institutes of Health Research. Canada also announced that Moderna would
+build a state-of-the-art mRNA vaccine manufacturing facility in Quebec, to strengthen the domestic
+biomanufacturing sector and pandemic preparedness.
+In 2021, the Public Health Agency of Canada (PHAC) established the Centre for Integrated Risk
+Assessment to bolster the Agency’s public health risk assessment capacity to anticipate, detect, and
+assess potential public health risks to Canadians.
+Canada continues to comprehensively monitor COVID-19 activity while continuing to integrate the
+surveillance approach across respiratory viruses.
+Canada’s National Emergency Strategic Stockpile is well stocked and we continue to coordinate with PTs
+to ensure that medical assets such as personal protective equipment and biomedical equipment are
+available to respond to public health emergencies and disasters.
+PHAC will continue to work with FPT partners to improve collective governance and work on the
+development of shared priorities (e.g. modernizing the health system with data and digital tools)
+COVID-19
+On September 12, 2023, Health Canada authorized the updated COVID-19 vaccine (Moderna) for use in
+individuals 6 months of age and older. The updated Pfizer vaccine was authorized on September 28,
+2023. Doses of both vaccines are being distributed to PTs.
+For fall 2023, the National Advisory Committee on Immunization (NACI) recommends a dose of the
+XBB.1.5-containing formulation of COVID-19 vaccine for people in the authorized age groups if it has
+been at least 6 months from the previous COVID-19 vaccine dose or known SARS-CoV-2 infection.
+NACI is awaiting further information on the COVID-19 vaccine products that will be available this fall and
+will provide additional advice and clarification as needed.
+For the fall/winter season, Canada has a sufficient supply of therapeutics as well as COVID-19 vaccines
+for every individual who would like one.
+INFLUENZA
+NACI recommends that everyone 6 months of age and older without contraindications receive an annual
+influenza vaccine.
+RSV
+Health Canada authorized nirsevimab (a monoclonal antibody for infants) on April 19, 2023, and
+authorized Arexvy (a vaccine for older adults) on August 4, 2023. Authorization of a vaccine for use in
+pregnant people (to protect infants) and older adults is anticipated later this year.
+The Government of Canada is supporting PT access to Arexvy, the first and currently only RSV vaccine
+authorized for use in Canada in adults 60 years of age and older, through Public Services and
+Procurement Canada’s (PSPC) Bulk Procurement Program.
+ISSUE SHEET – POST PANDEMIC INQUIRY FOR HESA APPEARANCE
+KEY MESSAGES
+COVID-19 demanded a robust public health response to tackle the evolving nature of the pandemic.
+While Canada was successful on many fronts, the pandemic revealed gaps and inequalities, necessitating
+a revisit of Canada’s emergency preparedness and management posture.
+To date, there have been more than 100 reviews and assessments examining Canada’s performance.
+Findings from numerous reviews, including recommendations from the four reports of the Office of the
+Auditor General of Canada, and 18 internal audits and evaluations, informed our real-time adaptive
+response during the pandemic, leading to innovative approaches (e.g., wastewater surveillance), and a
+recalibration of our preparedness and response posture as new information became available.
+We are continuing our work to improve in response to the lessons identified over the course of the
+pandemic. Key areas include addressing health inequalities, data collecting and sharing of research,
+jurisdictional coordination, biomanufacturing capabilities, and vaccine deployment.
+PHAC is also continuing to stock-take and monitor lessons and best practices, and to learn from others,
+including our provincial and territorial counterparts and other G7 nations to draw insights that inform a
+made-in Canada approach.
+The Government of Canada remains steadfast in its commitment to protecting the health and safety of
+Canadians by working to support public health transformation, facilitating building adaptive health
+human resources, and strengthening relationships with key communities and other stakeholders.
+The Government will be taking all lessons learned into account to be prepared for potential future
+pandemics. These efforts will build on significant investments made in response to COVID-19.
+ACTIONS TAKEN TO DATE
+In 2022, Canada announced the creation of a Centre for Research on Pandemic Preparedness and Health
+Emergencies at the Canadian Institutes of Health Research.
+Canada has announced that Moderna will build a state-of-the-art mRNA vaccine manufacturing facility in
+Quebec, to strengthen the domestic biomanufacturing sector and pandemic preparedness.
+National Research Council support for a domestic biological manufacturing facility being built.
+In 2021, PHAC established the Centre for Integrated Risk Assessment to bolster the Agency’s public
+health risk assessment capacity to anticipate, detect, and assess potential public health risks to
+Canadians.
+The Health Portfolio will continue to work with FPT partners to improve collective governance via
+comprehensive management plans, renewal of the Canadian Pandemic and Influenza Plan, the Vaccine
+Connect platform, and work on the development of shared priorities (e.g. modernizing the health system
+with data and digital tools).
+Maintenance of pandemic and influenza vaccine prep centres, and contracts in place for domestic
+personal protective equipment (PPE) manufacturing.
+Exercising and scenario planning for future pandemic response.
+Inventory and stockpile management capabilities strengthened.
+BACKGROUND
+Mandate Letter Commitments from December 2021
+The Minister of Health Mandate Letter Commitment from December 16, 2021 states the following:
+““Governments must draw on lessons learned from the pandemic to further adapt and develop more
+agile and effective ways to serve Canadians. To this end, I expect all Ministers to evaluate ways we can
+update our practices to ensure our Government continues to meet the challenges of today and
+tomorrow.”
+Indirectly related is the following Mandate Letter Commitment, from the same Letter: “Work with the
+Minister of Innovation, Science and Industry to continue demonstrating leadership in public health by
+strengthening surveillance and capacity to detect and act on public health threats, strengthening the
+security of medical supply chains, working with colleagues to advance the Biomanufacturing and Life
+Sciences Strategy, and investing in the study of the long-term health impacts of COVID-19, including the
+effects of long COVID on different groups, notably vulnerable populations and children.”
+Both commitments are focused on learning from the past, evaluating and integrating promising public
+health practices and demonstrating leadership in public health, but do not explicitly call for an inquiry.
+Public Calls for Inquiry
+On July 24, 2023, The British Medical Journal (BMJ), a globally leading peer-reviewed journal, published a
+series of papers focused on accountability in Canada’s COVID-19 response. Similar comments and
+criticism of the Canadian response have been issued previously by various stakeholders.
+The launch of the BMJ series on pandemic lessons learned have been spotlighted by numerous national
+news outlets, including:
+The CBC: Top medical experts call for national inquiry into Canada's COVID-19 'failures'
+Global News: Call inquiry into Canada’s COVID-19 response, medical journal urges
+The Globe and Mail: Should Canada conduct a national COVID response inquiry? The BMJ thinks so
+In October 2022, a statement provided by the office of the previous Health Minister "committed to a
+review of the response to COVID-19 in order to take stock of lessons learned and to better inform
+preparations and responses to future health emergencies", was published by the CBC.
+Working Together to Improve Health Care for Canadians
+Health Funding Plan – Allocation by PT
+This table shows the comprehensive plan put forward by the Prime Minister at his February 7, 2023
+working meeting with provincial and territorial Premiers, that was confirmed in Budget 2023. The plan
+would increase health care funding to PTs by $195.8 billion over the next ten years, including $46.2
+billion in new funding. The Premiers have accepted this federal offer that is detailed in the table below.
+($ Millions) NL PE NS NB QC ON MB SK AB BC NU
+NT YT CA
+Canada Health Transfer
+Growth since 2022-23 1,189 622 3,300 2,354 26,671 57,884 4,831 4,237 18,894 21,421
+127 150 171 141,851
+CHT top-up for paediatric hospitals and emergency rooms 27 9 52 42 447
+776 72 61 233 273 2 2 2 2,000
+CHT 5% guarantee 207 75 433 337 3,652 6,734 610 523 2,081 2,403
+17 20 20 17,111
+Total CHT 1,423 706 3,785 2,732 30,770 65,395 5,514 4,821 21,208 24,097 146
+172 192 160,962
+Tailored Bilateral Agreements
+Bilateral agreements 749 288 1,014 900 4,842 8,413 1,220 1,114 2,923 3,321
+70 73 73 25,000
+Sub-total: CHT and bilateral agreements 2,171 994 4,799 3,632 35,612 73,808 6,733 5,935
+24,131 27,418 217 246 266 185,962
+Personal Support Workers Wage Support
+PSW To be determined 1,709
+Other Bilateral Agreements
+Mental health and substance use 31 11 62 49 527 938 86 73
+282 334 2 3 3 2,400
+Home and community care 31 11 62 49 527 938 86 73 282
+334 2 3 3 2,400
+Long-term care 43 19 81 65 646 1,149 110 95 350 413 9
+9 9 3,000
+Sub-total 105 40 206 162 1,700 3,026 282 240 914 1,081 14
+15 15 7,800
+Territorial Health Investment Fund
+THIF - - - - - - - - - - 150 100
+100 350
+Total Incremental 983 372 1,500 1,279 8,941 15,924 1,903 1,698 5,237 5,996
+240 195 195 46,170
+TOTAL 2,277 1,034 5,005 3,794 37,312 76,834 7,015 6,176 25,045 28,499 381 361
+380 195,821
+Federal Health & Safety Related COVID-19 Spending Commitments
+This table illustrates major funding commitments announced by the federal government over the course
+of the coronavirus pandemic that were intended to protect the health and safety of Canadians ($72B).
+The first section of the table shows the major cash and in-kind transfers (goods purchased federally and
+distributed to provinces and territories (PTs)) that were to be provided directly to PTs. The second
+section of the table shows other federal investments in vaccines, therapeutics, tests, personal protective
+equipment (PPE) and other medical equipment, and other public health support required to fight the
+pandemic.
+The table primarily reflects funding as described in the initial funding announcements, therefore total
+funding amounts and allocation of funds to specific fiscal years may be subject to change as spending
+may be faster or slower.
+Federal Health & Safety Related COVID-19 Spending Commitments by PT
+This table shows the major cash and in-kind transfers (goods purchased federally and distributed to
+provinces and territories (PTs)) announced by the federal government over the course of the coronavirus
+pandemic broken down by province and territory for fiscal 2020-21, the year in which most federal
+COVID-19 related health and safety transfers to PTs were notionally allocated.
+Canada Health Transfer (CHT) and other Health Related Transfers
+This table shows the funding amounts allocated to provinces and territories through the Canada Health
+Transfer (CHT) in 2022-23, as well as, the PT allocations under other programs and transfers, such as,
+Substance Use and Addictions Program (SUAP), the Emergency Treatment Fund, Virtual Care, and the
+2017 Bilateral Agreements on Home and Community Care and Mental Health and Addictions Services.
+Canada Health Transfer Substance Use and Addictions Program Emergency Treatment Fund
+Virtual Care Bilateral Agreement Bilateral Agreement for Home and Community Care and
+Mental Health and Addiction Services
+(in millions) (2023-24) (in millions) (estimate is for a seven year period) (in millions) (estimate is for a
+five year period) (in millions) (2020-21) (in millions) (estimate is for a ten year period)
+NfL 664 2.4 1.5 4.5 151
+NS 220 2.5 3.2 5.9 285
+NB 1,305 5.3 2.8 5.3 227
+PEI 1,039 .9 .52 3.5 47
+QC 10,971 53.2 22 28.1 2,479
+ON 19,214 135.4 51 46 4,262
+MB 1,780 8.2 4.1 7 399
+SK 1,505 6.4 5 6.5 341
+AB 5,776 11.9 24 15.9 1,279
+BC 6,782 62.6 34 18 1,494
+YK 56 .7 .5 3.1 12.3
+NWT 57 2.4 .5 3.1 13.1
+NU 52 - .5 3.1 11.3
+Total 49,256 291.9 150
+150
+11,000 Totals may not add due to rounding
+LONG-TERM CARE
+This table shows the funding amounts that were allocated to provinces and territories in 2021-22 for the
+$1 billion Safe Long-Term Care fund that was first announced in the 2020 Fall Economic Statement. It
+also shows the proposed allocation to provinces and territories under the $3 billion long-term care
+funding that was announced in Budget 2021 and has subsequently become part of the Working Together
+to Improve Health Care for Canadians Health Funding Plan, first announced in February 2023, and
+confirmed in Budget 2023 (see below).
+Jurisdiction Safe Long-Term Care (2020 Fall Economic Statement) Long-Term Care (Budget 2021) 5
+year funding commitment
+NL $15M $43M
+PEI $6M $19M
+NS $27M $81M
+NB $22M $65M
+QC $221M $646M
+ON $380M $1,149M
+MB $37M $110M
+SK $32M $95M
+AB $115M $350M
+BC $135M $413M
+YT $3M $9M
+NWT $3M $9M
+NU $3.0M $9M
+Total $1 B $3B

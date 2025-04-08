@@ -1,0 +1,966 @@
+Created: 2016-12-01T11:59:22.028406
+Name: 2012_National_Anti-Drug_Strategy_(NADS)_Youth_Advertising_Recall_and_Tracking_Survey
+Original URL: https://www.hc-sc.gc.ca/data-donnees/cpab-dgcap/nads-ad-recall-tracking-survey-youth-data-dictionary-eng.txt
+Package ID: ef6aa6eb-8c38-4a54-b8cf-469f810605ba
+Keywords: ['health and safety', 'tobacco', 'radon', 'HIV', 'AIDS', 'Nutrition Facts Table', 'marketing', 'health care system', 'youth', 'campaign', 'First Nations', 'obesity', 'drinking water', 'immunization']
+Notes: A series of health-related data sets from various quantitative public opinion research studies.
+
+-------------------------------
+Extracted Text:
+February 15, 2012
+Health Canada 
+ POR-11-06
+NADS Ad recall and tracking survey of youth- Questionnaire
+Data dictionary 
+
+Introduction 
+
+GO TO Q A
+L
+09= English 
+3084 = French
+
+sqa. What is your exact age?
+
+01 -  13 
+02 -  14
+03 -  15
+        
+        
+sqb. Are you male or female?
+
+01 -  Male
+02 -  Female
+        
+sqc. What province or territory do you live in?
+
+01 -  British Columbia
+02 -  Alberta
+03 -  Saskatchewan
+04 -  Manitoba
+05 -  Ontario
+06 -  Quebec
+07 -  Nova Scotia
+08 -  New Brunswick
+09 -  Prince Edward Island
+10 - Newfoundland and Labrador
+11 - Yukon
+12 - Northwest Territories
+13 - Nunavut
+
+
+sqd. Which of the following best describes your household:
+
+01 -  You live with two parents
+02 -  You live with one parent
+03 -  You live with a parent and a step- parent
+04 -  You live part time with one parent and part time with another parent
+05 -  You live with a guardian
+06 -  You have some other arrangement
+
+sqe.  Do you have an older brother or sister?
+
+01 -  Yes
+02 -  No
+
+
+MAIN SURVEY
+
+q1a	Over the past few weeks or months, have you seen heard or read any advertising on the topic of youth and drugs or youth using drugs?
+
+	01  Yes               ASK 1b and 1c
+	02 - No		SKIP TO Q2 
+		
+	
+o1b	What can you remember about this advertising?  What words, sounds, pictures or images come to mind? 
+	
+	c 
+c1b_1 Girl looking in the mirror/deteriorates with drug use
+c1b_2 Say no to drugs/drugs are bad
+c1b_3 Kids giving different names for drugs 
+c1b_4 Drugs not 4 me slogan/website
+c1b_5 Kid's Help Phone
+c1b_6 Nursery rhyme "one, two"
+c1b_7 Teenage boy says no to a joint
+c1b_8 Ugly images of drug use/effects of drugs
+c1b_9 About drugs/ a particular drug
+c1b_10 Consequences of drug use and driving
+c1b_11 Abuse of prescription drugs
+c1b_12 Misery/suicide/distress/death
+c1b_13 Don't give in to peer pressure/get help/you're not alone
+c1b_14
+c1b_15 Talked about drugs at school/in class
+c1b_16
+c1b_17
+c1b_18
+c1b_19
+c1b_98 other
+c1b_99 Dont know/ Not applicable
+
+q1c	Where did you notice this advertising? Please check all that apply.
+
+q1c_1  Television
+	01=applies
+	  0=does not apply
+
+q1c_2  Radio
+	01=applies
+	  0=does not apply
+
+q1c_3  Newspaper
+	01=applies
+	  0=does not apply
+
+q1c_4  Magazines
+	01=applies
+	  0=does not apply
+
+q1c_5 - Local weekly newspaper
+	01=applies
+	  0=does not apply
+	
+q1c_6 - Pamphlet/brochure in the mail
+	01=applies
+	  0=does not apply
+
+q1c_7  Shopping mall
+	01=applies
+	  0=does not apply
+
+q1c_8 - Public transit/subway/bus/sky train
+	01=applies
+	  0=does not apply
+
+q1c_9  Internet banner/Website
+	01=applies
+	  0=does not apply
+	
+q1c_10 - Word of mouth
+	01=applies
+	0=does not apply
+
+q1c_11 - Outdoor billboards
+	01=applies
+	  0=does not apply
+
+q1c_12 - Fair/exhibition
+	01=applies
+	  0=does not apply
+
+q1c_13- Cinema
+	01=applies
+	  0=does not apply
+
+q1c_98  other
+	01=applies
+	  0=does not apply
+
+q1c_98 other-
+	Other (SPECIFY ______________________)
+
+
+q2a	Do you remember seeing an ad on television over the past few weeks or months showing a teenage girl in her bedroom looking at her reflection in the mirror, as she becomes hostile  smashing items in her room and getting upset as the effects of her drug use get stronger - while a nursery rhyme-like tune plays one, two, kicked of school in the background?
+
+	01 - Yes
+	02 - No		 
+
+q2b	Do you remember seeing an ad on television over the past few weeks or months showing young people at a house party where a blond youth is offered a joint by his friends  he imagines future scenes including arguing with his mother and falling asleep in school and then he decides not to try the drug that is offered?
+
+	01 - Yes
+	02 - No
+
+q3	Do you remember seeing an ad at the movie theatre or cinema over the past few weeks or months showing a teenage girl in her bedroom looking at her reflection in the mirror and getting upset as the effects of her drug use get stronger while tinkering music plays in the background, OR showing a blond youth refusing a joint at a party after he imagines what his future may be like if he uses drugs?
+
+	 01 - Yes
+      02 - No	
+	
+q4  Do you remember seeing an ad on a bus or subway or sky train over the past few weeks or months showing a series of three photos, side-by-side, of a teenage girl?  The first shows her smiling, then looking upset, and then ending with her looking worn-out, her face showing the effects of drug use?  
+
+	01 - Yes
+	02 - No		
+			
+
+q5 Do you remember seeing an ad on the Internet over the past few weeks showing scenes from a video where a teenage girl changes from smiling to angry and hostile with marks on her face because of drug use? The words Drugs do you know where theyll take you are at the top of the Internet ad OR an ad with a purple star against a set of lockers encouraging youth to make a personalized DrugsNot4Me pledge?
+
+        01 - Yes
+        02 - No
+
+
+q6	Do you remember seeing an ad on Facebook over the past few weeks or months showing either a picture of a teenage girl with marks on her face and the words, Where will they take you and DrugsNot4Me in yellow at the top of the ad OR an ad with either a purple, blue or orange star or a set of lockers with a message encouraging youth to make a personalized DrugsNot4Me pledge?
+
+        01 - Yes
+        02 - No
+
+
+q7   Do you remember seeing ads on YouTube over the past few weeks showing a teenage boy offering either an ecstasy tablet or a joint  with the ad saying pick your path?
+
+      01 - Yes
+      02 - No
+ 
+
+
+hseen ad 
+IF RESPONDENT SAYS YES TO ANY ADS FROM Q 1 TO 7 ASK Q 8 TO 12 / OTHERS GO TO Q 13
+      01 - Yes
+      02 - No
+
+
+o8	Thinking about the advertising that you saw, what do you think was the main point this advertising was trying to get across?
+	
+c8_1 Say no to drugs [non-spec]
+c8_2 Say NO because drugs can ruin your life/health
+c8_3 Don't give in to peer pressure/drugs aren't cool
+c8_4 You have choices/make the right choice
+c8_5 Drugs have negative effects on appearance/make you unattractive
+c8_6 Inform yourself/there are resources available if you need help
+c8_98 other
+c8_99 Dont know/ Not applicable
+
+q9a Did you do anything as a result of seeing this advertising? 
+
+	01  Yes               ASK b
+	02 - No		SKIP TO Q 10
+				
+	
+o9b What did you do?	
+	______________________________________________________
+
+	______________________________________________________
+
+
+
+Thinking about the advertising that you saw, did you do any of the following as the result of the ad?  ROTATE
+
+q10_1 Did you talk to family or friends or anyone else about the ad or about the topic of drug use? 
+
+      01 - Yes
+		02 - No		
+			
+q10_2 Did you go to the website that was shown in the ad? 
+
+01 - Yes
+02 - No	
+
+
+q10_3 Did you go to the Facebook page that was shown in the ad?
+
+01 - Yes
+02 - No	
+
+q10_4 Did you watch the Pick Your Path videos on YouTube?
+
+01 - Yes
+02 - No	
+
+
+	o11  Do you remember the name of the website or Facebook page that was shown in the ad?
+         01  No
+
+ o11         98-other
+
+c11_1 droguepourmoi.com/drugsnot4me.com 
+c11_2 Pick Your Path
+c11_3 Say No To Drugs
+c11_98 other
+c11_99 Dont know/ Not applicable
+
+
+
+
+
+	q12  Thinking about the advertising that you saw, who do you think produced it - that is, who paid for it?	
+
+
+	01 - Government of Canada/federal government
+	02 - Provincial government
+	03  Municipal government
+            04 - Some level of government, but not clear which one
+
+		
+q12_98_other
+		   Another organization? (Which one?_______________)	
+
+c12_1 Government of Canada/federal government
+c12_2 Provincial government 
+c12_3 Municipal government
+c12_4 Some level of government, but not clear which one, or
+c12_21 Kids Help Phone
+c12_98 other
+c12_99 Dont know/ Not applicable
+
+
+
+ASK ALL
+
+Contemplators measurement
+
+Here is a list of statements.  For each statement please indicate if you strongly agree, agree, disagree or strongly disagree that the statement describes you. There are there are no right or wrong answers.  RANDOMIZE
+
+  q13_1You enjoy school
+01 -  Strongly agree
+02 -  Somewhat agree
+03 -  Somewhat disagree
+04 -  Strongly disagree
+
+  q13_2 You care about how you look
+01 -  Strongly agree
+02 -  Somewhat agree
+03 -  Somewhat disagree
+04 -  Strongly disagree
+
+q13_3 You like to experiment and take risks
+01 -  Strongly agree
+02 -  Somewhat agree
+03 -  Somewhat disagree
+04 -  Strongly disagree
+
+q13_4 You do not want to disappoint your parents
+01 -  Strongly agree
+02 -  Somewhat agree
+03 -  Somewhat disagree
+04 -  Strongly disagree
+
+q13_5 You often feel your parents dont understand you
+01 -  Strongly agree
+02 -  Somewhat agree
+03 -  Somewhat disagree
+04 -  Strongly disagree
+
+q13_6 You dont like most of your teachers
+01 -  Strongly agree
+02 -  Somewhat agree
+03 -  Somewhat disagree
+04 -  Strongly disagree
+
+q13_7 You feel that you are part of the school you attend
+01 -  Strongly agree
+02 -  Somewhat agree
+03 -  Somewhat disagree
+04 -  Strongly disagree
+
+q13_8 You like meeting new people
+01 -  Strongly agree
+02 -  Somewhat agree
+03 -  Somewhat disagree
+04 -  Strongly disagree
+
+q13_9 You are more a leader than a follower
+01 - 	Strongly agree
+02 - 	Somewhat agree
+03 - 	Somewhat disagree
+04 - 	Strongly disagree
+
+q13_10 You usually go along with your friends even though it doesnt feel quite right
+01 -  Strongly agree
+02 -  Somewhat agree
+03 -  Somewhat disagree
+04 -  Strongly disagree
+
+q13_11 You dont like being with people who use drugs
+01 -  Strongly agree
+02 -  Somewhat agree
+03 -  Somewhat disagree
+04 -  Strongly disagree
+
+
+
+
+Discussions with parent(s)  
+
+ASK ALL  
+
+The following questions are about the topic of drugs and drug use. The questions are about illicit or illegal drugs, not about prescription drugs, tobacco or alcohol. 
+
+
+q14     Have you ever specifically discussed the dangers or risks of drug use or why not to use drugs with your parent/guardian/step-parent? 
+
+01 -Yes        GO TO Q 15
+02- No         GO TO Q 16
+            
+q15a_1 About how many discussions about the dangers or risks of drug use have you had with your parent/guardian/step-parent over the past year?
+
+____Number
+
+q15b Have you had any discussions about the dangers or risks of drug use with your parent/guardian/step-parent within the past three months?
+
+01 -  Yes 
+02 -  No
+
+
+
+
+
+ASK ALL
+
+Awareness/Knowledge
+
+Please remember that these questions are about illicit drugs not about prescription drugs, tobacco or alcohol.
+Using a scale of 1 to 7 where 1 means you know nothing, 7 means you know a great deal, and the mid-point 4 is neither, please rate how much you know about each of the following:
+		
+      q16_1 How much do you know about drugs?
+
+Nothing                                  			    A great deal 
+1          2         3           4           5          6         7	
+[ROTATE b) to d)] 
+q16_2 How much do you know about the effects of drugs on physical health (the brain and the body)? 
+Nothing                                  			    A great deal 
+1          2         3           4           5          6         7	
+
+q16_3 How much do you know about the effects of drugs on mental abilities (memory, judgment, emotions, etc)? 
+Nothing                                  			    A great deal 
+1          2         3           4           5          6         7	
+
+
+q16_4 How much do you know about the potential effects of drugs on relationships with friends and family?
+Nothing                                  			    A great deal 
+1          2         3           4           5          6         7	
+
+	
+o17  Have you heard of any drugs that might be available to people in your age group (age 13 to 15)? What are they?   Please mention all those that you think might be available.
+
+c17_1 Marijuana/pot/weed/cannabis 
+c17_2 L.S.D./acid/halucinogens (incl. salvia)
+c17_3 Ecstasy/E/X
+c17_4 Speed/amphetamines
+c17_5 Crack/crack cocaine/coke
+c17_6 Crystal Meth/meth/speed
+c17_7 Tobacco/nicotine/cigarettes
+c17_8 Heroin
+c17_9 Alcohol
+c17_10 PCP/Ketamine/Special K
+c17_11 OxyContin/Oxy
+c17_12 Prescription drugs/pills
+c17_13 Mushrooms/shrooms/magic mushrooms
+c17_16 GBH/date rape drug
+c17_17 Opium
+c17_18 Depressants
+c17_19 Stimulants 
+c17_20 Steroids
+c17_70 All
+c17_97 None
+c17_98 other
+c17_99 Dont know/ Not applicable
+
+
+
+o18  What drugs, if any, come to mind as harmful or a threat to people in your age group (age 13 to 15)?  Have you heard of any?   Please mention all those that you think might be harmful.
+
+cn18_1 Marijuana/pot/weed/cannabis 
+cn18_2 Cocaine/crack
+cn18_3 Amphetamine/speed
+cn18_4 Ecstasy/MDMA
+cn18_5 Heroin
+cn18_6 Tobacco/nicotine/cigarettes
+cn18_7 Hashish
+cn18_8 Mushrooms
+cn18_9 GHB/date rape drug
+cn18_10 Alcohol
+cn18_11 LSD/acid/halucinogens
+cn18_12 Phencyclidine/PCP/ketamine/special K
+cn18_13 Pills
+cn18_14 All/most drugs
+cn18_15 Steroids
+cn18_17 Pain killers/narcotics
+cn18_18 Salvia
+cn18_19 Oxycontin
+cn18_21 Prescription drugs
+cn18_22 Crystal Meth/meth
+cn18_97 None
+cn18_98 other
+cn18_99 Dont know/ Not applicable
+
+
+Behaviour
+
+How likely would you be to do the following:
+
+       q19_1 Try to stop someone close to you from using drugs?
+
+01 -  Very likely
+02 -  Somewhat likely
+03 -  Not very likely
+04 -  Not at all likely
+
+q19_2 Use drugs at a party if others were also using them?
+01 -  Very likely
+02 -  Somewhat likely
+03 -  Not very likely
+04 -  Not at all likely
+
+q19_3 Use drugs if they were offered to you by a friend?
+01 -  Very likely
+02 -  Somewhat likely
+03 -  Not very likely
+04 -  Not at all likely
+
+        q19_4 Use drugs if they were offered to you by your brother or sister?
+01 -  Very likely
+02 -  Somewhat likely
+03 -  Not very likely
+04 -  Not at all likely
+
+
+
+q20a Have you ever been offered drugs?
+
+01  Yes    GO TO Q20b 
+02  No     GO TO Q21 
+
+ o20b  Thinking of the only time, or the most recent time, you were offered drugs, what did you do? Please remember that your answers are private and will not be shown to your parents, teachers or anyone else. 
+
+cn20b_1 Ignore them/told them to go away/walked away 
+cn20b_2 Tried/used it
+cn20b_3 Told them no/I don't do drugs
+cn20b_4 Told parent/relative
+cn20b_5 Said he/she was a loser/idiot
+cn20b_6 Made a joke about it/laughed
+cn20b_7 No longer friends/stopped hanging out with person
+cn20b_8 Told them not to do them/that drugs are bad
+cn20b_19 Nothing 
+cn20b_98 Other
+cn20b_99 DK/NA 
+      
+ASK ALL
+
+Here is a list of different types of drugs.  Please say if you have tried any of the following drugs and if so, how often. ROTATE
+Please remember that your answers are private and will not be shown to your parents, teachers or anyone else.
+
+q21_1 Marijuana aka Cannabis, Hash, Weed, Pot, Mary Jane
+
+01 -  Once
+02 -  2 - 4 times
+03 -  5 times or more
+04 -  Not at all
+
+q21_2  Cocaine and Crack Cocaine aka Coke, Crack
+
+01 -  Once
+02 -  2 - 4 times
+03 -  5 times or more
+04 -  Not at all
+
+
+q21_3  Ecstasy aka E, XTC
+
+01 -  Once
+02 -  2 - 4 times
+03 -  5 times or more
+04 -  Not at all
+
+
+q21_4 GHB aka G, Liquid X
+
+01 -  Once
+02 -  2 - 4 times
+03 -  5 times or more
+04 -  Not at all
+
+
+q21_5 Heroin aka Junk, Smack
+
+01 -  Once
+02 -  2 - 4 times
+03 -  5 times or more
+04 -  Not at all
+
+q21_6 Ketamine aka Special K, Super K
+
+01 -  Once
+02 -  2 - 4 times
+03 -  5 times or more
+04 -  Not at all
+
+
+q21_7 LSD aka Acid, Dots
+
+01 -  Once
+02 -  2 - 4 times
+03 -  5 times or more
+04 -  Not at all
+
+
+q21_8 Methamphetamine aka Meth, Crystal Meth
+
+01 -  Once
+02 -  2 - 4 times
+03 -  5 times or more
+04 -  Not at all
+
+
+q21_9 PCP aka Angel Dust, Crystal
+
+01 -  Once
+02 -  2 - 4 times
+03 -  5 times or more
+04 -  Not at all
+
+q21_10 Psilocybin aka Magic Mushrooms, Shrooms
+
+01 -  Once
+02 -  2 - 4 times
+03 -  5 times or more
+04 -  Not at all
+
+
+
+Perceptions of harm 
+
+ Here again is a list of different types of drugs. Please say if you think each one is very dangerous, somewhat dangerous, not very dangerous or not at all dangerous to your health. ROTATE
+
+q22_1 Marijuana aka Cannabis, Hash, Weed, Pot, Mary Jane
+
+01 -  Very dangerous to your health
+02 -  Somewhat dangerous to your health
+03 -  Not very dangerous to your health
+04 -  Not at all dangerous to your health
+
+q22_2 Cocaine and Crack Cocaine aka Coke, Crack
+
+01 -  Very dangerous to your health
+02 -  Somewhat dangerous to your health
+03 -  Not very dangerous to your health
+04 -  Not at all dangerous to your health
+
+q22_3 Ecstasy aka E, XTC
+
+01 -  Very dangerous to your health
+02 -  Somewhat dangerous to your health
+03 -  Not very dangerous to your health
+04 -  Not at all dangerous to your health
+
+q22_4 GHB aka G, Liquid X
+
+01 -  Very dangerous to your health
+02 -  Somewhat dangerous to your health
+03 -  Not very dangerous to your health
+04 -  Not at all dangerous to your health
+
+q22_5 Heroin aka Junk, Smack
+
+01 -  Very dangerous to your health
+02 -  Somewhat dangerous to your health
+03 -  Not very dangerous to your health
+04 -  Not at all dangerous to your health
+
+      q22_6 Ketamine aka Special K, Super K
+
+01 -  Very dangerous to your health
+02 -  Somewhat dangerous to your health
+03 -  Not very dangerous to your health
+04 -  Not at all dangerous to your health
+
+q22_7 LSD aka Acid, Dots
+
+01 -  Very dangerous to your health
+02 -  Somewhat dangerous to your health
+03 -  Not very dangerous to your health
+04 -  Not at all dangerous to your health
+
+             q22_8 Methamphetamine aka Meth, Crystal Meth
+
+01 -  Very dangerous to your health
+02 -  Somewhat dangerous to your health
+03 -  Not very dangerous to your health
+04 -  Not at all dangerous to your health
+
+q22_9 PCP aka Angel Dust, Crystal
+
+01 -  Very dangerous to your health
+02 -  Somewhat dangerous to your health
+03 -  Not very dangerous to your health
+04 -  Not at all dangerous to your health
+
+q22_10 Psilocybin aka Magic Mushrooms, Shrooms
+
+01 -  Very dangerous to your health
+02 -  Somewhat dangerous to your health
+03 -  Not very dangerous to your health
+04 -  Not at all dangerous to your health
+
+  
+
+In your opinion is the potential harm to people age 13 to 15 from each of the following very, somewhat, not very or not at all serious? How about.. 
+
+q23_1 Smoking marijuana once in a while?
+
+01 -  Very serious
+02 -  Somewhat serious
+03 -  Not very serious
+04 -  Not at all serious
+
+      q23_2 Smoking marijuana on a regular basis?
+      
+01 -  Very serious
+02 -  Somewhat serious
+03 -  Not very serious
+04 -  Not at all serious
+      
+
+In your opinion would each of the following be very likely, somewhat likely, not very likely or not at all likely to happen if you were to smoke marijuana once in a while.
+ROTATE
+
+q24_1 Your school work would be harmed.
+
+01 -  Very likely
+02 -  Somewhat likely
+03 -  Not very likely
+04 -  Not at all likely
+
+q24_2 Your relations with your family would be harmed if they found out.
+01 -  Very likely
+02 -  Somewhat likely
+03 -  Not very likely
+04 -  Not at all likely
+
+q24_3 Law enforcement authorities would find out.
+01 -  Very likely
+02 -  Somewhat likely
+03 -  Not very likely
+04 -  Not at all likely
+
+q24_4 It would lead to using marijuana more often.
+01 -  Very likely
+02 -  Somewhat likely
+03 -  Not very likely
+04 -  Not at all likely
+
+      q24_5 Your friendships or social life would be harmed.
+01 -  Very likely
+02 -  Somewhat likely
+03 -  Not very likely
+04 -  Not at all likely
+
+q24_6 Your health would be harmed.
+01 -  Very likely
+02 -  Somewhat likely
+03 -  Not very likely
+04 -  Not at all likely
+
+q24_7 It would lead to using other illicit drugs.
+01 -  Very likely
+02 -  Somewhat likely
+03 -  Not very likely
+04 -  Not at all likely
+
+      q24_8 You would become addicted to marijuana.
+01 -  Very likely
+02 -  Somewhat likely
+03 -  Not very likely
+04 -  Not at all likely
+
+
+In your opinion, is the potential harm to people age 13 to 15 from each of the following very, somewhat, not very or not at all serious? How about... 
+
+q25_1 Using ecstasy once in a while?
+                      
+01 -  Very serious
+02 -  Somewhat serious
+03 -  Not very serious
+04 -  Not at all serious
+
+      q25_2 Using ecstasy on a regular basis?
+01 -  Very serious
+02 -  Somewhat serious
+03 -  Not very serious
+04 -  Not at all serious
+
+
+In your opinion would each of the following be very likely, somewhat likely, not very likely or not at all likely to happen if you were to use ecstasy once in a while?
+	ROTATE
+
+q26_1 Your school work would be harmed.
+
+01 -  Very likely
+02 -  Somewhat likely
+03 -  Not very likely
+04 -  Not at all likely
+
+q26_2 Your relations with your family would be harmed if they found out.
+
+01 -  Very likely
+02 -  Somewhat likely
+03 -  Not very likely
+04 -  Not at all likely
+
+q26_3 Law enforcement authorities would find out. 
+
+01 -  Very likely
+02 -  Somewhat likely
+03 -  Not very likely
+04 -  Not at all likely
+
+q26_4 It would lead to using ecstasy more often.
+
+01 -  Very likely
+02 -  Somewhat likely
+03 -  Not very likely
+04 -  Not at all likely
+
+q26_5 Your friendships or social life would be harmed.
+
+01 -  Very likely
+02 -  Somewhat likely
+03 -  Not very likely
+04 -  Not at all likely
+
+q26_6 Your heath would be harmed.
+
+01 -  Very likely
+02 -  Somewhat likely
+03 -  Not very likely
+04 -  Not at all likely
+
+q26_7 It would lead to using other illicit drugs.
+
+01 -  Very likely
+02 -  Somewhat likely
+03 -  Not very likely
+04 -  Not at all likely
+
+q26_8 You would become addicted to ecstasy.
+
+01 -  Very likely
+02 -  Somewhat likely
+03 -  Not very likely
+04 -  Not at all likely
+
+
+
+
+
+
+
+
+Website
+   
+q27a Have you ever visited a website to learn more or get information about drugs or how to deal with drugs?
+
+01 -  Yes ASK b and c
+02 -  No 	 
+	  
+
+   o27b Which website or sites have you visited? 
+
+
+cn27b_1 Wikipedia
+cn27b_2 Health Canada/not4me.ca/aadac.com (
+cn27b_3 Google
+cn27b_5 Government website  
+cn27b_7 Nonaladrogue/say no to drugs
+cn27b_8 Kidshealth.org
+cn27b_9 Facebook
+cn27b_10 For a school project/don't know name of site 
+cn27b_11 Drug info site
+cn27b_98 Other
+cn27b_99 DK/NA
+
+      q27c Have you ever visited drugsnot4me.ca?
+
+01 -  Yes 
+                        02 -   No
+
+Future
+
+  Looking ahead, how likely are you to do any of the following in the next three months. Are you very likely, somewhat likely, not very likely, or not at all likely to
+
+	q28_1 try illicit drugs?
+
+01 -  Very likely
+02 -  Somewhat likely
+03 -  Not very likely
+04 -  Not at all likely
+
+q28_2 use illicit drugs?
+
+01 -  Very likely
+02 -  Somewhat likely
+03 -  Not very likely
+04 -  Not at all likely
+
+
+q28_3 seek out information about how to avoid drugs or deal with drug use issues?
+
+01 - 	Very likely
+02 - 	Somewhat likely
+03 - 	Not very likely
+04 - 	Not at all likely
+
+
+q29 Do you strongly agree, somewhat agree, somewhat disagree or strongly disagree with the following statementThe benefits of choosing a lifestyle without drugs are greater than the perceived benefits of using drugs.
+
+01 Strongly agree
+02 Somewhat agree
+      03 Somewhat disagree
+      04 Strongly disagree
+
+Demographics
+
+d30  Are you currently attending school? 
+
+01 -  Yes, in school full-time
+02 -  Yes, in school part-time	
+03 -  No, not in school	
+
+
+d31 What kind of grades do you usually get in school?
+
+01 -  A (80% to 100%)
+02 -  B (70% to 79%)
+03 -  C (60% to 69%)
+04 -  D (50% to 59%)
+05 -  Less than D (less than 50%)
+06 -  Dont know / Not sure
+	
+		
+d32 What is the highest level of education that either of your parents, step-parents or guardians has reached?
+
+01 -  Elementary school or less (no schooling to grade 7)
+02 -  Some high school (grades 8 - 11)
+03 -  Completed high school (grades 11 in Quebec or 12 or 13 or OAC)
+04 -  Some community college, vocational or trade school (or some CEGEP)
+05 -  Completed community college, vocational or trade school (or complete CEGEP)
+06 -  Some university (no degree)
+07 -  Completed university (Bachelors degree)
+08 -  Post graduate university (Masters, Ph.D., completed or not)
+09 -  Not sure / Dont know
+
+
+d33 How much money do you usually get each week to spend on yourself or to save? Please include all money from allowances and jobs like babysitting, delivering papers, or anything else.
+
+01 -  Zero
+02 -  $1 to $10
+03 -  $11 to $20
+04 -  $21 to $40
+05 -  $41 to $60
+06 -  $61 to $80
+07 -  $81 to $100
+08 -  More than $100
+
+
+d34  Are you an Aboriginal person (that is, native Indian from a specific band, Inuit or Métis)? 
+	
+01 -  Yes
+02 -  No
+
+
+d35  Do you consider yourself a member of a visible minority by virtue of your race or colour?
+  
+01 -  Yes
+02 -  No
+
+
+
+
+
+
+
+
+25
+
+
+
+
+
+Environics Research Group Limited	33 Bloor Street East, Suite 900	tel: 416 920-9010
+	Toronto, Ontario	fax:416 920-3299
+	Canada  M4W 3H1	http://www.environics.net

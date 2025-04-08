@@ -1,0 +1,896 @@
+Created: 2024-07-19T16:20:28.716347
+Name: HESA_Appearance_Minister_Supplementary_Estimates_(C)-_Financials_
+Original URL: https://open.canada.ca/data/dataset/77b9059e-615b-41dc-8f6d-6e70728b51c4/resource/9978c7a2-2361-4738-89cc-a27f428788a0/download/supps-c-financials-proactive-disclosure-eng.pdf
+Package ID: 77b9059e-615b-41dc-8f6d-6e70728b51c4
+Keywords: ['Parliamentary Committee appearance', 'budget', 'health']
+Notes: HESA Appearance Minister Supplementary Estimates (C)- Financials 
+-------------------------------
+Extracted Text:
+HESA Appearance
+Supplementary Estimates (C)
+FINANCIAL BINDER
+March 21, 2024
+TABLE OF CONTENTS – FINANCIAL BINDER
+SUPPLEMENTARY ESTIMATES C
+MARCH 2024
+1. Health Portfolio Supplementary Estimates C Overviews
+a. Health Canada
+b. PHAC
+c. CIHR
+d. CFIA
+2. Line Items Crosswalk
+Health Canada Overview
+(In dollars)
+Voted
+Authorities to Date
+6,912,290,144
+Supplementary Estimates (C)
+Transfers Adjustments
+899,808 3,715,290
+Proposed Authorities to Date
+6,916,905,242
+% Change in Proposed Authorities Due to these estimates
+0.1%
+% Change in Proposed Authorities to Date This Year Over Last Year
+67.0%
+(In dollars)
+Statutory
+Authorities to Date
+528,398,090
+Supplementary Estimates (C)
+Transfers Adjustments
+- 475,599
+Proposed Authorities to Date
+528,873,689
+% Change in Proposed Authorities Due to these estimates
+0.1%
+% Change in Proposed Authorities to Date This Year Over Last Year
+(76.8)%
+(In dollars)
+Total Budgetary
+Authorities to Date
+7,440,688,234
+Supplementary Estimates (C)
+Transfers Adjustments
+899,808 4,190,889
+Proposed Authorities to Date
+7,445,778,931
+% Change in Proposed Authorities Due to these estimates
+0.1%
+% Change in Proposed Authorities to Date This Year Over Last Year
+16.0%
+Health Canada has proposed a net increase of $5.1M in the 2023-24 Supplementary Estimates (C),
+bringing its proposed authorities to date to $7,445.8M. These Supplementary Estimates include:
+Voted Appropriations of $4.6M:
+New Funding [$3.7M]
+$2.1M – Building a World-Class Health Data System for Canadians (Budget 2023); and,
+$1.6M – Funding for the Action plan for Official languages 2023-2028: Protection-promotion
+collaboration (Budget 2023).
+Transfers [$0.9M]
+Transfers to Health Canada (+$2.5M)
+$2.0M – From the Treasury Board Secretariat to support the Employee Assistance Services' Black-centric
+Engagement and Advancement Team; and,
+$0.5M – From the Department of Indigenous Services to provide microbiological and physical-chemical
+testing of drinking water in First Nation communities.
+Transfers from Health Canada (-$1.6M)
+-$15.0K – To the Treasury Board Secretariat (Office of the Comptroller General) for the Transfer Payments
+Innovation Agenda;
+-$40.0K – To the Public Health Agency of Canada to support the Organisation for Economic Cooperation
+and Development's standardized digital health evaluation framework;
+-$750.0K – To the Public Health Agency of Canada support the World Health Organization advancing
+climate resilient and low carbon health systems; and,
+-$800.0K – To the Canadian Institutes of Health Research to support research activities related to health
+and climate change.
+Statutory Appropriations of $0.5M
+$0.5M – EBP amount related to approved Treasury Board submission:
+$0.5M – Building a World-Class Health Data System for Canadians.
+2023-24 Supplementary Estimates (C)
+Public Health Agency of Canada
+(In dollars)
+Voted
+Authorities to Date
+5,364,936,486
+Supplementary Estimates (C)
+Transfers Adjustments Total
+(600,149) 1 (600,148)
+Proposed Authorities to Date
+5,364,336,338
+(In dollars)
+Statutory
+Authorities to Date
+91,349,421
+Supplementary Estimates (C)
+Transfers Adjustments Total
+- - -
+Proposed Authorities to Date
+91,349,421
+(In dollars)
+Total Budgetary
+Authorities to Date
+5,456,285,907
+Supplementary Estimates (C)
+Transfers Adjustments Total
+(600,149) 1 (600,148)
+Proposed Authorities to Date
+5,455,685,759
+The Public Health Agency of Canada will be decreasing its reference levels by $600.1K.
+Transfers to/from Other Government Departments (-$600.1K):
+From the Department of Health to support the World Health Organization advancing climate resilient
+and low carbon health systems ($750.0K);
+From the Department of Health to support the Organisation for Economic Cooperation and
+Development’s standardized digital health evaluation framework ($40.0K);
+To the Treasury Board Secretariat for the Transfer Payments Innovation Agenda (-$15.0K);
+To the Department of Agriculture and Agri-Food to strengthen domestic governance around
+antimicrobial resistance in agricultural sectors (-$200.0K);
+To the Canadian Food Inspection Agency to support an assessment on antimicrobial resistance and use in
+food producing animals (-$285.0K); and
+To the Department of Employment and Social Development for activities related to the Indigenous Early
+Learning and Child Care Transformation Initiative (-$890.1K).
+Internal Transfers (zero impact on reference levels):
+Internal reallocation of resources for the development of national antimicrobial resistance prescribing
+guidelines and to address sexually transmitted and blood-borne infections in prisons and the increasing
+rates of syphilis ($2M)
+Voted Appropriations - adjustment ($1)
+Funding to authorize the listing and adjustment of grants ($1). This is an administrative measure required
+by TBS to signal that an appropriation bill is necessary to list and increase the Agency’s grants arising
+from the World Health Organization and Organisation for Economic Cooperation and Development
+transfers.
+2023-24 Supplementary Estimates C
+Canadian Institutes of Health Research
+ADJUSTMENTS TO CIHR’S AVAILABLE AUTHORITIES
+(In $ millions)
+Authorities to Date
+Vote 1 Operating Expenditures
+76.0
+Vote 5 Grants
+1,282.2
+Subtotal
+1,358.2
+Statutory Items
+8.9
+Total
+1,367.1
+(In $ millions)
+Supplementary Estimates (C)
+Vote 1 Operating Expenditures
+(0.2)
+Vote 5 Grants
+1.2
+Subtotal
+1.0
+Statutory Items
+0.0
+Total
+1.0
+(In $ millions)
+Proposed Authorities to Date1
+Vote 1 Operating Expenditures
+75.8
+Vote 5 Grants
+1,283.4
+Subtotal
+1,359.2
+Statutory Items
+8.9
+Total
+1,368.1
+Note 1: Totals may not add due to rounding.
+As a result of Supplementary Estimates (C), CIHR’s overall authorities will increase by approximately $1.0
+million to a total of $1,368.1 million.
+Transfers from Other Departments and Agencies – Increase of $ 1.2 million
+$0.8 million from the Department of Health to support research activities related to health and climate
+change; and
+$0.4 million from the Department of Indigenous Services for the Healthy Youth Initiative.
+Transfers to Other Departments and Agencies – Decrease of $0.2 million
+$0.1 million to the Natural Sciences and Engineering Research Council and the Social Sciences and
+Humanities Research Council for the administration and operations of the Secretariat on Responsible
+Conduct of Research; and
+$0.1 million to the Natural Sciences and Engineering Research Council for the development of a common
+grants management solution.
+Internal Transfer between CIHR's Transfer Payment Programs – Nil Financial Impact
+Internal reallocation of resources from the Institute support grants to the Grants for research projects
+and personnel support ($0.3M).
+Canadian Food Inspection Agency Overview
+(In dollars)
+Voted
+Supplementary Estimates (C)
+Transfers Adjustments Total
+285,000 11,200,380 11,485,380
+% Change in Proposed Authorities Due to Supplementary Estimates (C)
+1.5%
+% Change in Proposed Authorities to Date This Year Over Last Year
+2.8%
+(In dollars)
+Statutory
+Supplementary Estimates (C)
+Transfers Adjustments Total
+- 185,290 185,290
+% Change in Proposed Authorities Due to Supplementary Estimates (C)
+0.1%
+% Change in Proposed Authorities to Date This Year Over Last Year
+(0.2%)
+(In dollars)
+Total Budgetary
+Supplementary Estimates (C)
+Transfers Adjustments Total
+285,000 11,385,670 11,670,670
+% Change in Proposed Authorities Due to Supplementary Estimates (C)
+1.2%
+% Change in Proposed Authorities to Date This Year Over Last Year
+2.3%
+Canadian Food Inspection Agency has proposed a net increase of $11.7M in the 2023-24 Supplementary
+Estimates (C) based on:
+Voted Appropriations of $11.5M:
+Adjustments – increase of $11.2M
+$11.2M – Funding for the Foot-and-Mouth Disease Vaccine Bank for Canada (Budget 2023).
+Transfers – net increase of $0.3M
+$0.3M - From the Public Health Agency of Canada to the Canadian Food Inspection Agency to support an
+assessment on antimicrobial resistance and use in food producing animals.
+Statutory Appropriations of $0.2M:
+Employee Benefit Plan adjustments related to increased Supplementary Estimates (C) salary funding for
+the following:
+$0.2M – Funding for the Foot-and-Mouth Disease Vaccine Bank for Canada (Budget 2023).
+Health Canada’s 2023-24 Supplementary Estimates (C)
+Health Canada
+Funding to building a World-Class Health Data System for Canadians (Budget 2023)
+Total: $2,590,890
+SPB
+Key Messages (2-3 bullets max)
+The Government of Canada made historic investments of nearly $200 billion over ten years through the
+Working together to improve health care for Canadians plan.
+As part of this plan, federal, provincial and territorial governments made important data commitments
+to support health system improvements by improving how health information is collected, shared, used
+and reported to Canadians to promote greater transparency on results, and enable Canadians to better
+access their own health information.
+Purpose /Objectives (2-3 bullets max)
+This first year of funding will support Health Canada’s critical leadership and convenor role to support
+Canada’s transformation towards a world-class health data system and these data commitments under
+the Working Together to Improve Healthcare for Canadians plan.
+Health Canada will play a key role with respect to targeted engagement, leadership, strategic oversight,
+policy development, coordination, implementation, program administration, and monitoring and
+evaluation in advancing the federal vision for a world class health data system.
+Expected Results (2-3 bullets max)
+Funding to Health Canada is expected to support broader Working Together plan investments towards
+the following results:
+Lead and convene FPT and pan-Canadian health organization (PCHO) collaboration on the five data
+commitments of the Working Together plan, including policy and legislative alignment with an initial
+focus on national data stewardship and work outlined in the FPT action plan;
+Transparency on health system improvements through refinement of the common FPT indicators for the
+Working Together plan;
+Work with Infoway, CIHI, Statistics Canada, and PTs to advance national data standards, guided by the
+Interoperability Roadmap;
+Work with CIHI to transform its ability to provide timely, and quality data;
+Better alignment of national health data organizations towards common objectives;
+Establish Health Workforce Canada to gain a better understanding of the issues and policy
+recommendations for addressing health human resource issues; and
+Support a multipronged FPT approach to building public trust and data literacy.
+Voted
+2,115,291
+Statutory
+475,599
+Health Canada
+Funding for the Action plan for Official languages 2023-2028: Protection-promotion-collaboration
+(Budget 2023)
+Total: $1,599,999
+SPB
+Key Messages (2-3 bullets max)
+Under the Action Plan for Official Languages 2023-2028, Health Canada’s Official Languages Health
+Program (OLHP) will receive a total of $14.5 million over five years (2023-24 to 2027-28) in new funding
+under Vote 10 - Contributions, including $1.6 million in 2023-24.
+Of the total new funding, $8 million over five years will be allocated to three targeted OLHP recipients to
+increase their core funding to maintain their current level of activity in the context of high inflation
+(referred to as “indexation funding”). The organizations are:
+The Société Santé en français (SSF) – $3.4 million over five years.
+The Community Health and Social Services Network (CHSSN) – $2.9 million over five years.
+The National Secretariat of the Association des collèges et universités de la francophonie canadienne,
+Consortium national de formation en santé component (ACUFC-CNFS) - $1.7 million over five years.
+The remaining $6.5 million over fours years (referred to as “training and retention funding,” and starting
+in 2024-25) will be distributed to nine postsecondary institutions to train and retain new bilingual health
+professionals, including nurses and personal care workers.
+Purpose /Objectives (2-3 bullets max)
+The new indexation funding will be provided to targeted OLHP recipients that are not-for-profit
+organisations and that rely mostly on HC funding to enable them to achieve the stability needed to focus
+their efforts on improving access to health services for official language minority communities (OLMCs)
+in the minority official language.
+The new funding for training and retention initiatives will contribute to addressing the shortage of health
+human resources in OLMCs, including in priority areas such as nursing and personal care worker
+programs, which were exacerbated by the COVID 19 pandemic, as well as ongoing issues recruiting and
+retaining bilingual health professionals that can serve OLMCs in the minority official language.
+Expected Results (2-3 bullets max)
+Indexation funding will allow recipients to pursue their activities fostering access to health services for
+OLMCs, such as the development and maintenance of partnerships with communities, health
+professionals, health services managers, political decision makers and post-secondary institutions, as
+well as the development of learning products and opportunities for these partners.
+Training and retention funding will allow (over fours years and starting in 2024-25): 140 new enrollments
+in bilingual nursing programs, 38 new enrollments in bilingual personal support worker programs and 40
+to 60 bursaries for bilingual graduates to retain new health professional in OLMCs for at least two years.
+Voted
+1,599,999
+Statutory
+-
+Health Canada
+From the Treasury Board Secretariat to the Department of Health to support the Employee Assistance
+Services' Blackcentric Engagement and Advancement Team
+Total: $1,960,916
+CSB
+Key Messages (2-3 bullets max)
+Under the mental health pillar of Treasury Board Secretariat of Canada’s (TBS) Action Plan for Black
+Public Servants announced in Budget 2023, TBS will transfer $5.9 million in funding over three years
+(beginning in FY 2023-2024) to Health Canada (HC) to enhance how its Employee Assistance Program
+(EAP) is promoted to and experienced by Black employees.
+HC’s EAP delivers short-term mental health supports, including a crisis call centre and referrals to a
+national network of contracted mental health professionals, to over 90 federal departments and
+agencies, including the RCMP and Canadian Forces, and Veterans. EAP support is also extended to
+immediate family members.
+Purpose /Objectives (2-3 bullets max)
+Enhancements will be undertaken across four pillars:
+Targeted recruitment of Black counsellors to improve and promote referrals aligned with identity or lived
+experience;
+Training for EAP counsellors and staff on systemic anti-Black racism, with trauma informed and culturally
+competent approaches;
+Data and technology enhancements, primarily the increased collection and analysis of disaggregated
+data while leveraging research on the social determinants of Black mental health to inform data
+collection and evaluation methods; and
+Communication improvements to promote EAP as a trusted resource for Black employees and their
+immediate families.
+Expected Results (2-3 bullets max)
+Through this proposal, HC anticipates an increased uptake of EAP services by Black employees, strong
+self-reported levels of satisfaction with those services by Black clients and self-reported indications that
+the services are having a positive outcome on Black clients’ resilience and general well-being.
+Voted
+1,960,916
+Statutory
+-
+Health Canada
+From the Department of Indigenous Services to the Department of Health to provide microbiological and
+physical-chemical testing of drinking water in First Nation communities
+Total: $543,892
+ROEB
+Key Messages (2-3 bullets max)
+In collaboration with Indigenous Services Canada (ISC) in the Quebec Region, HC supports the delivery of
+clean, safe, and reliable drinking water to First Nations by conducting microbiological and physico-
+chemical analyses of drinking water in First Nation communities.
+Purpose /Objectives (2-3 bullets max)
+The purpose of conducting microbiological and physico-chemical analyses of drinking water in First
+Nation communities is to:
+Regularly monitor all publicly accessible drinking water systems (public drinking water systems and semi-
+public systems in 28 First Nations communities in Quebec); and,
+Provide well water bacteriological testing services to residents, upon request and free of charge.
+Expected Results (2-3 bullets max)
+The funds will allow HC laboratories to perform microbiological and physico-chemical analyses of
+drinking water.
+This will contribute to ensuring that First Nations have access to clean, safe and reliable drinking water.
+Voted
+543,892
+Statutory
+-
+Health Canada
+From the Department of Health to the Treasury Board Secretariat (Office of the Comptroller General) for
+the Transfer Payments Innovation Agenda
+Total: ($15,000)
+SPB
+Key Messages (2-3 bullets max)
+Transfer payments represent a significant proportion of Health Canada and federal government
+spending.
+Lessons learned from pandemic programming, advances in technology for service delivery, and the
+Budget 2023 imperative to realize efficiency savings all support enterprise-wide efforts to undertake a
+Transfer Payment Renewal and Innovation Agenda.
+Treasury Board Secretariat (TBS) and departmental colleagues will work collaboratively to address
+priorities and to leverage efforts across the system.
+Purpose /Objectives (2-3 bullets max)
+The transfer of funds to TBS will support their efforts to build capacity to play an integration role and to
+support modernization of grants and contributions.
+Specific areas of focus for the Renewal and Innovation Agenda include:
+Digital and data;
+Transfer payment policies and processes, and
+People and culture.
+Expected Results (2-3 bullets max)
+The Renewal and Innovation Agenda will realise efficiencies across the design and delivery of transfer
+payments.
+In 2023-24, expected deliverables include:
+A streamlined Gs&Cs Treasury Board submission process;
+Work initiated on process standardization, to reduce the number of touchpoints and approval time; and
+Basic learning resources to support the practitioner community.
+Voted
+(15,000)
+Statutory
+-
+Health Canada
+From the Department of Health to the Public Health Agency of Canada to support the Organisation for
+Economic Cooperation and Development's standardized digital health evaluation framework
+Total: ($40,000)
+SPB
+Key Messages (2-3 bullets max)
+The implementation of digital health solutions (DHS) into clinical practices facilitate improvements within
+the integrated healthcare model. In order to realize DHS benefits, developing an integrated healthcare
+system that promotes greater connection, collaboration and communication is essential.
+A standardized approach in assessing digital health technologies (DHTs), alongside guidance on evidence
+standards for researchers and innovators, could improve decision making about, and investments into,
+DHTs and ensure that new DHTs are clinically effective while offering value to the health care system.
+A standardized framework would assist health policymakers in the development of regulatory, clinical,
+and pricing and reimbursement guidelines for digital health solutions in a similar fashion to those that
+are already in place (e.g. for both pharmaceuticals and medical devices).
+Purpose /Objectives (2-3 bullets max)
+Health Canada will fund an OECD project to strengthen the use of DHTs through the creation of a
+common/standardized framework, leveraging international evidence and best practices to support,
+strengthen and transform current health public systems.
+The standardized framework will support consistent DHT research, regulatory, and implementation
+practices that should allow for comparable data and interoperability across countries.
+The framework will also develop a set of specific evidence standards for DHTs to facilitate effective and
+equitable evaluation strategies and reimbursement decisions.
+Expected Results (2-3 bullets max)
+The project will explore gaps and best practices in current regulations and evaluation frameworks, and
+identify challenges and opportunities including by reviewing international models and approaches.
+It will establish a robust digital health assessment methodology with an identification of the necessary
+criteria for evaluating DHTs and what constitutes suitable evidence.
+It will support the creation of universal digital health interoperability standards to address the issues in
+the lack of interoperability as critical barrier for the adoption of digital health technologies.
+Voted
+(40,000)
+Statutory
+-
+Health Canada
+From the Department of Health to the Public Health Agency of Canada to support the World Health
+Organization in advancing climate resilient and low carbon health systems
+Total: ($750,000)
+HECSB
+Key Messages (2-3 bullets max)
+Health Canada is transferring $750,000 to the Public Health Agency of Canada (PHAC) to issue a grant
+(through the International Health Grants Program, IHGP) to the World Health Organization to support
+work on building climate resilient and low-carbon health systems and strengthening international
+coordination and progress on addressing the health impacts of climate change.
+The IHGP is managed by PHAC on behalf of the Health Portfolio and is a well-established mechanism to
+provide funding to international organizations for initiatives with global health implications, including
+climate change. It enables Canada to support work with a global reach and to access international
+expertise for Canada’s benefit.
+This funding is part of the implementation of the health and well-being pillar of the National Adaptation
+Strategy.
+Purpose /Objectives (2-3 bullets max)
+The objectives of these investments are to support international coordination and action, such as
+through the Alliance for Transformative Action on Climate and Health, to address the health impacts of
+climate change and build climate resilient and low carbon health systems.
+This includes addressing urgent climate-related risks to the health of people in Canada from extreme
+heat and increasing the climate change resilience of Canada’s health systems.
+Expected Results (2-3 bullets max)
+The funding will support the World Health Organization with advancing climate resilient and low carbon
+health systems through activities such as international scientific and evidence gathering, best practice
+sharing, and development of evidence-based tools.
+This work will develop knowledge and build capacity to advance efforts to build climate resilient health
+systems.
+Voted
+(750,000)
+Statutory
+-
+Health Canada
+From the Department of Health to the Canadian Institutes of Health Research to support research
+activities related to health and climate change
+Total: ($800,000)
+HECSB
+Key Messages (2-3 bullets max)
+Health Canada is transferring $800,000 to the Canadian Institutes of Health Research (CIHR) to support
+research activities related to health and climate change.
+Research is needed to support protecting and improving human health and well-being in Canada from
+the impacts of climate change.
+CIHR is the established federal agency responsible for health research funding. CIHR has the research
+funding expertise, scientific networks and research funding infrastructure needed to manage and
+disburse funds to the best available researchers. This funding is part of the implementation of the health
+and well-being pillar of the National Adaptation Strategy.
+Purpose /Objectives (2-3 bullets max)
+The objectives of these investments are to support CIHR in issuing grants to advance research initiatives
+and activities in climate change and health.
+This supports core health research objectives including investigating critical gaps in climate-health risks
+and climate-sensitive health outcomes in Canada and building the evidence base for examining current
+and future climate health adaptation and mitigation options and actions and increasing the climate
+change resilience of Canada’s health systems.
+Expected Results (2-3 bullets max)
+The funding will fill critical research gaps and strengthen the evidence to inform climate change and
+health policies, actions, and interventions.
+The work will support research on building climate resilient and low-carbon health systems. Evidence will
+be placed in the public domain to be accessed by all interested parties.
+Voted
+(800,000)
+Statutory
+-
+2023-24 Supplementary Estimates (C)
+Public Health Agency of Canada
+VOTED APPROPRIATIONS
+Name
+Item
+Funding to authorize the listing and adjustment of grants
+Purpose /Objectives
+The $1 is required in TBS’s estimates software to signal that an appropriation bill is necessary to list and
+increase the Agency’s grants. The grants to be listed will fall under International Grants. The grant
+increase is due to funding received through the following two external transfers;
+From the Department of Health to support the World Health Organization advancing climate resilient
+and low carbon health systems ($750K); and
+From the Department of Health to support the Organisation for Economic Cooperation and
+Development’s standardized digital health evaluation framework ($40K).
+Voted
+$1
+TRANSFERS
+Name
+Items
+Transfer from the Department of Health to support the World Health Organization advancing climate
+resilient and low carbon health systems
+$750,000
+Key Messages
+Canada continues to advance knowledge, capacity and innovation in adapting to the health risks
+associated with climate change and supports efforts to build climate-resilient and low-carbon health
+systems, and protect and improve the health of people living in Canada in a changing climate.
+This transfer of funding will:
+Leverage the Health Portfolio’s International Health Grants Program (IHGP);
+Provide grant funding to the WHO to support with advancing climate resilient and low carbon health
+systems;
+Purpose /Objectives
+The purpose of the work will be to support international coordination and action, such as through the
+Alliance for Transformative Action on Climate and Health (ATACH), to address the health impacts of
+climate change and build climate resilient and low carbon health systems.
+Expected Results
+The WHO will support with advancing climate resilient and low carbon health systems through activities
+such as:
+International scientific and evidence gathering and consensus building;
+Best practice sharing; and
+Development of evidence-based tools such as guidance documents, communications materials,
+indicators, knowledge translation materials, training events, curricula, among others.
+This work will support with developing knowledge and building capacity to advance efforts to building
+climate resilient health systems.
+Voted
+$750,000
+Statutory
+$0
+Name
+Items
+Transfer from the Department of Health to support the World Health OrgaTransfer from the Department
+of Health to support the Organisation for Economic Cooperation and Development's standardized digital
+health evaluation framework
+$40,000
+Key Messages
+The implementation of digital health solutions (DHS) into clinical practices will facilitate improvements
+within the integrated healthcare model. In order to realize DHS benefits, developing an integrated
+healthcare system that promotes greater connection, collaboration and communication is essential.
+A standardized framework would assist health policymakers in the development of regulatory, clinical,
+and pricing and reimbursement guidelines for digital health solutions in a similar fashion to those that
+are already in place (e.g., for both pharmaceuticals and medical devices).
+This transfer of funding will:
+Leverage the Health Portfolio’s International Health Grants Program (IHGP); and
+Provide grant funding to support the Organisation for Economic Cooperation and Development's
+standardized digital health evaluation framework.
+Purpose /Objectives
+The purpose will be to support the OECD’s project to:
+Strengthen the utilization of digital health technology (DHT) through the creation of a
+common/standardized framework, leveraging international evidence and best practices to strengthen
+and transform current health public systems.
+Establish consistent assessing DHT research, regulatory, and implementation practices that will allow for
+comparable data and interoperability across countries.
+Develop a set of specific evidence standards for DHTs to facilitate effective and equitable evaluation
+strategies and reimbursement decisions.
+Expected Results
+The OECD research group will aim to create a framework that:
+Explores gaps in current regulations and identify challenges and opportunities of current digital health
+evaluation frameworks that hinder the integration of DHTs;
+Establishes a robust digital health assessment methodology with an identification of the necessary
+criteria for evaluating DHTs and what constitutes suitable evidence;
+Supports investment decisions in DHTs through the creation of a DHT-specific and comprehensive health
+technology assessment (HTA) process that establishes a context dependent reimbursement model for
+the adoption of clinically effective and value-based DHTs; and
+Supports the creation of universal digital health interoperability standards to address the issues in the
+lack of interoperability as critical barrier for the adoption of digital health technologies
+Voted
+$40,000
+Statutory
+$0
+Name
+Items
+Transfer to the Treasury Board Secretariat for the OCG Policy on Transfer Payments Innovation Agenda
+($15,000)
+Key Messages
+The Policy on Transfer Payments Renewal and Innovation Agenda aims to improve the design and
+delivery of grants and contributions (G&Cs) in the federal government.
+The Office Comptroller General (OCG) needs to build upon its existing capacity to lead the Innovation
+Agenda, in consultation and collaboration with other departments and agencies.
+PHAC will contribute $165,000 over the next 4 years.
+The Innovation Agenda includes various components such as facilitating consultation, convening forums,
+creating a toolkit, proposing options, and exploring feasibility.
+Purpose /Objectives
+The OCG and the transfer payment community will work together on the Innovation Agenda for the
+Policy on Transfer Payments, which will be funded by the largest G&Cs delivery departments.
+Expected Results
+These collaborations could lead to collective efficiencies in procurement, staffing, administration,
+reporting, auditing, and process optimization for GoC systems.
+Voted
+($15,000)
+Statutory
+$0
+Name
+Items
+Transfer to the Department of Agriculture and Agri-Food to support strengthening domestic
+antimicrobial resistance governance in the agriculture sectors
+($200,000)
+Key Messages
+The Pan-Canadian Action Plan on AMR (PCAP) provides a 5-year roadmap (2023-2027) for collective
+action to address the growing public health threat of AMR across 5 pillars – Research and Innovation;
+Surveillance; Stewardship, Infection Prevention and Control; and, Leadership.
+The PCAP is a shared commitment between federal/provincial/territorial (FPT) Ministers of Health and
+Agriculture.
+Increased coordination and collaboration across One Health sections (human health, animal health and
+their shared environment) is needed to advance PCAP priority actions.
+This transfer will support the inclusion of animal and agriculture partners in PCAP governance and to
+deliver on priority actions.
+Purpose /Objectives
+To strengthen domestic governance in the agriculture sectors to support the implementation of PCAP
+including:
+Establishing a coordinating body to work with partners to establish baselines, goals and measures of
+progress, support the development, implementation and promotion of guidelines/standards for
+appropriate antimicrobial use (AMU) in animals; and
+Supporting the implementation of enhanced infection prevention and control, biosecurity and food
+safety protocols.
+Expected Results
+Expected results include:
+A coordinating body is established to work across animal health, agriculture and agri-food sectors;
+Detailed plans with deliverables, milestones, accountabilities and timelines to support PCAP
+implementation; and
+PCAP implementation gaps are identified and prioritized.
+Voted
+($200,000)
+Statutory
+$0
+Name
+Items
+Transfer to the Canadian Food Inspection Agency to support an assessment on antimicrobial resistance
+and use in food producing animals
+($285,000)
+Key Messages
+The Pan-Canadian Action Plan on AMR (PCAP) provides a 5-year roadmap (2023-2027) for collective
+action to address the growing public health threat of AMR across 5 pillars – Research and Innovation;
+Surveillance; Stewardship, Infection Prevention and Control; and, Leadership.
+The PCAP is a shared commitment between federal/provincial/territorial (FPT) Ministers of Health and
+Agriculture.
+Increased coordination and collaboration across One Health sections (human health, animal health and
+their shared environment) is needed to advance PCAP priority actions.
+This transfer will support CFIA to undertake an assessment on antimicrobial resistance (AMR) and
+antimicrobial use (AMU) in food producing animals and summarize, including perspectives of food
+producers and veterinary professionals, as well as the consumer perspective (awareness/expectations)
+on AMR/AMU in food producing animals.
+Purpose /Objectives
+The purpose of this funding is to:
+Support the implementation of PCAP, and to have a better understanding of how AMR in food producing
+animals impacts human health, and an understanding of what approaches or interventions could
+improve prudent use of antimicrobials in food producing animals within the Canadian context are
+needed; and
+For CFIA to undertake an assessment and summarize what is currently known about how AMR in food
+producing animals impacts human health, and assessment of best practices to inform the kinds of
+changes needed to make a significant difference to further enhance the prudent use of antimicrobials (in
+particular, medically important antimicrobials) in food-producing animals, and how those changes might
+be systemically achieved in the Canadian context.
+Expected Results
+Expected results include:
+Increased knowledge of the impacts of exposure to AMR in enteric/foodborne pathogens on human
+health and meaningful interventions to enhance the responsible use of antimicrobials in food-producing
+animals within the Canadian context;
+Understanding of consumer and stakeholder perceptions of antimicrobial use in food-producing animals
+and opportunities to strengthen public education and promote antimicrobial stewardship; and,
+Provision of additional evidence and identification of opportunities to take further action under PCAP.
+This may include information to support the development of baselines and goals for reduction of AMU in
+animals.
+Voted
+($285,000)
+Statutory
+$0
+Name
+Items
+Transfer to the Department of Employment and Social Development to support activities related to the
+Indigenous Early Learning and Child Care Transformation Initiative
+($890,149)
+Key Messages
+Budget 2021 announced further incremental funding increases for Aboriginal Head Start in Urban and
+Northern Communities (AHSUNC) Program over the next five years (2021-22 to 2025-26) to better
+support Indigenous Early Learning and Child Care (IELCC) in urban and northern communities. The
+allocation of this funding will be determined by the National Aboriginal Head Start Council (NAHSC), in
+consultation with other regional bodies.
+This horizontal initiative is led by Employment and Social Development Canada (ESDC) and includes
+Indigenous Services Canada (ISC) and Crown-Indigenous Relations and Northern Affairs Canada
+(CIRNAC).
+To support this work, the partners have signed a Memorandum of Understanding (MOU) that sets out
+the terms and conditions for the transfer of funds between ESDC, PHAC and ISC for the IELCC
+Transformation Initiative.
+Purpose /Objectives
+The Agency received dedicated funding for AHSUNC in anticipation of funding decisions to be made by
+Regional Partnership Tables for Alberta, Quebec and the Atlantic. Funding decisions have now been
+made by Indigenous recipients and an amount of $890,149 was not allocated to the AHSUNC program.
+Based on the MOU, funds should be returned to ESDC so that they can be consolidated and potentially
+reprofiled into the next fiscal year.
+The funds being transferred represent a return of funding under the MOU to implement decisions made
+by Indigenous partners (Alberta, Quebec and Atlantic) in Fall 2023.
+Expected Results
+As noted in the IELCC Framework and through the Transformation Initiative, it is expected that AHSUNC
+will be Indigenous-led and aligned with the principles of Indigenous reconciliation.
+Voted
+($890,149)
+Statutory
+$0
+Name
+Items
+Total Transfers
+Key Messages
+-
+Purpose /Objectives
+-
+Expected Results
+-
+Voted
+($600,149)
+Statutory
+$0
+INTERNAL REALLOCATIONS
+Name
+Items
+Internal reallocation of resources for the development of national antimicrobial resistance prescribing
+guidelines and to address sexually transmitted and blood-borne infections in prisons and the increasing
+rates of syphilis
+Key Messages
+This reallocation from operating to contributions will be used to fund activities for the following:
+Sexually transmitted blood-borne infections (STBBI) project;
+Antimicrobial stewardship initiatives as per the Pan-Canadian Action Plan for AMR; and
+To address increasing rates of syphilis.
+Purpose /Objectives
+This is a conversion of $2,000,000 from Operating to Contributions.
+Expected Results
+The initiatives this funding will allow for include;
+Improved STBBI screening and linkage to care for people in the prison environment through partnerships
+with community organizations and peer support workers;
+Development of a series of 25 guidelines leveraging the WHO Aware system and an advanced digital
+solution to a wider distribution of these guidelines to health professionals; and
+Mobilizing knowledge to address increasing rates of syphilis.
+Voted
+$0
+Statutory
+$0
+CIHR’s 2023-24 Supplementary Estimates (C)
+CIHR
+Funding to support research activities related to health and climate change
+Total: $800,000
+Transfer from Department of Health
+Key Messages (2-3 bullets max)
+This investment will support health research to study critical gaps in climate-health risks and climate-
+sensitive health outcomes in Canada.
+One-year bridge grants (up to $100K each) will be offered to relevant, highly rated applications
+submitted to CIHR’s Fall 2023 Project Grant competition.
+Purpose /Objectives (2-3 bullets max)
+Funded research will contribute to strengthen the evidence to inform climate change and health policies,
+actions, and interventions.
+Expected Results (2-3 bullets max)
+Strengthened evidence base on the impacts of climate change on the health and wellbeing of Canadians.
+Evidence generated will support efforts to build climate resilient and low-carbon health systems.
+Voted
+$800,000
+Statutory
+0
+CIHR
+Funding for the Healthy Youth Initiative
+Total: $425,000
+Transfer from the Department of Indigenous Services
+Key Messages (2-3 bullets max)
+CIHR’s Healthy Youth Initiative aims to support research aligned with youth health and well-being in the
+six priority areas outlined in Canada's Youth Policy.
+This funding will support distinctions-based research in this area that focuses on First Nations, Inuit,
+Métis, and/or Urban Indigenous youth.
+Purpose /Objectives (2-3 bullets max)
+This funding will support distinctions-based research which aims to identify and develop emerging
+research areas relevant to at least one of the six priority areas of Canada's Youth Policy.
+Expected Results (2-3 bullets max)
+Research evidence to enable progress in the six priority areas outlined in Canada's Youth Policy.
+Voted
+$425,000
+Statutory
+0
+CIHR
+Funding for the administration and operations of the Secretariat on Responsible Conduct of Research
+Total: $49,540
+Transfer from CIHR to the Natural Sciences and Engineering Research Council and the Social Sciences and
+Humanities Research Council
+Key Messages (2-3 bullets max)
+This important investment supports the federal research granting agencies’ role in the promotion of the
+responsible conduct of research in the institutions that administer federal funding for research.
+Purpose /Objectives (2-3 bullets max)
+For the administrative and financial support for the SRCR, which provides substantive and administrative
+support for the Panel on Research Ethics and the Panel on Responsible Conduct of Research (RCR), as
+well as to the Agencies with respect to the RCR Framework and the Tri-council Policy Statement.
+Expected Results (2-3 bullets max)
+The federal granting agencies deliver on the promotion of responsible conduct of research.
+Voted
+($49,540)
+Statutory
+0
+CIHR
+Funding for the development of a common grants management solution
+Total: $156,156
+Transfer from CIHR to the Natural Sciences and Engineering Research Council
+Key Messages (2-3 bullets max)
+The Tri-Agency Grants Management Solution initiative will modernize the grants management system for
+the federal granting agencies to better support applicants, administrators and reviewers during the
+grants management lifecycle of the agencies.
+This transfer reflects an updated forecast for this project as provided by the Natural Sciences and
+Engineering Research Council.
+Purpose /Objectives (2-3 bullets max)
+The three federal research granting agencies have embarked on an initiative to modernize their grants
+management system to better support applicants, administrators and reviewers during the grants
+management lifecycle.
+Expected Results (2-3 bullets max)
+Upon completion, a more harmonized and integrated approach will provide the research community and
+agency staff with a more efficient and user-friendly experience.
+Voted
+($156,156)
+Statutory
+0
+Canadian Food Inspection Agency 2023-24 Supplementary Estimates (C)
+Name
+Items
+TOTAL SUPPLEMENTARY ESTIMATES ‘C’
+Total: $11,670,670
+Key Messages (3-5 bullets max.)
+For Supplementary Estimates (C), the Canadian Food Inspection Agency (CFIA) has an increase of $11.7
+million for the following:
+$11.5 million in Voted Appropriations, which includes $11.2 million in new funding and $0.3 million for
+transfers from other Government departments.
+$0.2 million in statutory appropriations for employee benefit plans.
+Purpose /Objectives
+--
+Expected Results
+--
+Voted
+$11,485,380
+Statutory
+$185,290
+Name
+Items
+Funding for the Foot-and-Mouth Disease (FMD) Vaccine Bank for Canada (Budget 2023)
+Total: $11,385,670
+Key Messages (3-5 bullets max.)
+The CFIA is seeking funding of $57.5M over five years, starting in 2023-24, with $5.6 million ongoing, to
+establish an FMD vaccine bank for Canada, and to develop FMD response plans.
+Purpose /Objectives
+Establish an FMD vaccine bank for Canada, and develop FMD response plans.
+Expected Results
+Vaccine Antigen Concentrates are available to respond to an FMD outbreak in Canada.
+Vaccines to prevent the spread of FMD in Canada are effective.
+FMD emergency response plans are effective.
+In the event of an outbreak:
+Ready-to-use vaccines are delivered to the CFIA;
+Canada can limit the epidemic duration and spread.
+Plant and animal resources are protected from diseases and pests and are safe for Canadians and the
+environment.
+Voted
+$11,200,380
+Statutory
+$185,290
+Name
+Items
+Transfer from the Public Health Agency of Canada to support an assessment on antimicrobial resistance
+(AMR) and use in food producing animals
+Total: $285,000
+Key Messages (3-5 bullets max.)
+Transfer of $285,000 from the Public Health Agency of Canada to the Canadian Food Inspection Agency
+to support an assessment on antimicrobial resistance and use in food producing animals.
+Purpose /Objectives
+Summarize what is currently known about how AMR in food producing animals impacts human health.
+Assess best practices in order to inform the kinds of changes needed to make a significant difference to
+further enhance the prudent use of antimicrobials (in particular, medically important antimicrobials) in
+food-producing animals, including how these changes might be systemically achieved in the Canadian
+context.
+Expected Results
+Conduct a literature review of policy documents and published research and surveillance evidence.
+Conduct key informant interviews with FPT government and industry representatives including
+producers (farmers) and veterinarians.
+Develop international case studies through document review and interviews.
+Identify approaches successful in educating the public on AMR in the agri-food sector, including their
+impacts on consumer expectations and behaviour.
+Identify relevance for Canadian context through stakeholder engagement, in written submissions,
+surveys and through virtual sessions.
+Develop assessment report for policy-makers based on expert analysis.
+Validate report(s) through a peer review process.
+Support dissemination of key findings through a series of webinars with a focus on international case
+studies
+Voted
+$285,000
+Statutory
+--

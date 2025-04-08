@@ -1,0 +1,241 @@
+Created: 2025-02-04T18:41:08.607171
+Name: Canadian_Student_Tobacco,_Alcohol_and_Drugs_Survey_(CSTADS)_2021-2022_Public_Use_Microdata_File_(PUMF)_
+Original URL: https://open.canada.ca/data/dataset/1f15ca45-8bfd-4f9c-9ec6-2c0c440e69c2/resource/7222b211-dc55-4836-bece-342a4d9718ae/download/cstads-2021-22-user-guide-1.docx
+Package ID: 1f15ca45-8bfd-4f9c-9ec6-2c0c440e69c2
+Keywords: ['Alcohol', 'Drugs', 'Tobacco', 'CSTADS', 'PUMF']
+Notes: The Canadian Student Tobacco, Alcohol and Drugs Survey (CSTADS) is a biennial school-based survey of alcohol, cannabis, tobacco and drug use among Canadian students in grades 7 through 12. Data for the CSTADS 2021-2022 cycle were collected from more than 61,000 students between September 2021 and June 2022. Summary results were released on November 16, 2023, are available https://www.canada.ca/en/health-canada/services/canadian-student-tobacco-alcohol-drugs-survey/2021-2022-summary.html.
+
+The Office of Drug Research and Surveillance releases the PUMF of CSTADS 2021-2022 to allow researchers, provincial governments, and others to conduct their own analyses of this important data. 
+-------------------------------
+Extracted Text:
+
+2021–22 Public Use Microdata File (PUMF) 
+User Guide
+
+Health Canada
+
+
+
+
+
+Table of Contents
+
+1	Introduction	2
+1.1	The Public Use Microdata File	2
+1.2	Conditions of Data Use	2
+2	Background	3
+2.1	Historical changes	3
+2.2	New changes in 2021-22	3
+3	Sampling methods	4
+3.1	Target population	4
+3.2	Sampling design	4
+3.3	Provinces with modified sampling designs	5
+3.4	School sample selection	6
+4	Questionnaire development	8
+4.1	Pilot testing	8
+5	Survey implementation	9
+5.1	Approvals and ethics reviews	9
+5.2	Student recruitment	9
+5.3	Data collection	9
+6	Data processing	11
+6.1	Data capture	11
+6.2	Data cleaning	11
+6.3	Survey weights	12
+6.4	Bootstrap weights	13
+7	Data quality	14
+7.1	Response rates	14
+7.2	Survey errors	14
+8	Guidelines for tabulation, analysis and release	16
+8.1	Importance of survey and bootstrap weights	16
+8.2	Using survey and bootstrap weights	17
+8.3	Rounding guide	19
+8.4	Release guidelines	20
+9	Variable Description	22
+10	Derived Variables	55
+
+Introduction
+The Canadian Student Tobacco, Alcohol and Drugs Survey (CSTADS) is a population-based survey conducted by Health Canada every two years. The survey is administered to a representative sample of students from public, private, and Catholic schools across the Canadian provinces to gather data on substance use. The 2021–22 cycle, which marks the 11th in the series, collected data from September 2021 to June 2022.
+The Public Use Microdata File
+This document is designed to facilitate the use of the CSTADS 2021–22 Public Use Microdata File (PUMF). PUMFs are anonymous datasets made available to researchers and the public, allowing for secondary analysis while protecting the confidentiality of respondents. 
+In producing the PUMF, the anonymous master data file was further modified through Statistical Disclosure Control techniques to ensure privacy. These techniques include recoding certain variables, suppressing sensitive data, and perturbing sample weights to protect the identities of students and schools. As a result, the summary statistics derived from the PUMF may slightly differ from those found on Health Canada’s website, which uses the unaltered master file. 
+Please refer to the section “Guidelines for tabulation, analysis and release” in this document before analyzing or releasing any data. For information purposes only, Health Canada would appreciate receiving advanced copies of planned publications arising from CSTADS data at least 3 weeks prior to the publication date. 
+For technical inquiries, or to provide advanced copies, please email ODRS-BRSD@hc-sc.gc.ca. 
+Conditions of Data Use 
+As per the Open Government Licence – Canada, users must include the following acknowledgement and citation in any publications resulting from use of these data:
+Acknowledgement: Data used for this research were taken from Health Canada’s 2021–22 Canadian Student Tobacco, Alcohol and Drugs Survey (CSTADS). Health Canada has not reviewed, approved, or endorsed this research. Any views expressed or conclusions drawn herein do not necessarily represent those of Health Canada.
+Recommended citation for data: Health Canada. Canadian Student Tobacco, Alcohol and Drugs Survey (CSTADS) 2021–22 Public Use Microdata File [Data file]. Government of Canada: Ottawa (ON); 2023. Available from: https://open.canada.ca/data/dataset/1f15ca45-8bfd-4f9c-9ec6-2c0c440e69c2.
+Recommended citation for user guide: Health Canada. Canadian Student Tobacco, Alcohol and Drugs Survey 2021–22 Public Use Microdata File (PUMF) User Guide [Internet]. Government of Canada: Ottawa (ON); 2024. Available from: https://open.canada.ca/data/dataset/1f15ca45-8bfd-4f9c-9ec6-2c0c440e69c2.
+Background
+The Canadian Student Tobacco, Alcohol and Drugs Survey (CSTADS) serves as a key surveillance tool for Health Canada and its partners to help understand Canadian trends in student tobacco, alcohol and drug use. Understanding these trends is vital to the effective development and monitoring of policies and programs aimed at reducing substance use and related harms in this population. It complements other surveys conducted by Health Canada, including the Canadian Substance Use Survey (CSUS).
+CSTADS is conducted every two years to collect data on substance use among a representative sample of public,  private, and Catholic school students across the Canadian provinces. In each cycle, tens of thousands of students in grades 7 to 12 (secondary I to V in Québec) participate, making it the largest student substance use survey in Canada and one of the largest globally. The survey provides Health Canada, its partners and stakeholders, as well as the Canadian public, with timely and reliable data on substance use among Canadian students. 
+Historical changes
+For nearly three decades, this survey has collected data on youth behaviors and substance use. Over its history, several important changes were made. The survey was initially conducted as the Youth Smoking Survey (YSS) from 1994 to 2012–13, before being renamed CSTADS in the 2014–15 cycle to reflect a broadened focus on various substances. From 1994 to 2005–06, the survey sampled students in grades 5 through 9, and in 2006–07, its scope was extended to include students in grades 5 through 12. Beginning in 2008–09, grade 5 students were excluded from the sampling frame due to low substance use rates, followed by a similar exclusion of grade 6 students in 2016–17. As a result, the survey currently focuses on students in grades 7 through 12. 
+New changes in 2021-22
+Additional data on vaping and bullying were gathered.
+New Brunswick did not participate.
+Sampling methods
+Target population
+The target population consists of all students enrolled in grades 7 through 12 (Secondary I through V in Quebec) at private, public, and Catholic schools across the Canadian provinces. The survey excludes students in the Territories (Yukon, Northwest Territories, and Nunavut) and those who attend specialized schools (e.g., schools for students with special needs, First Nation reserve schools, virtual/online schools, schools located on military bases, international schools, services providing instruction only outside of normal school hours, tutoring services, etc.). In addition, schools that were estimated to have an average class size for eligible grades of fewer than 18 students (or fewer than 20 total eligible students) are excluded from the target population of schools to control data collection costs.
+In the 2021–22 cycle, all provinces supported the project, although New Brunswick (NB) did not participate. Therefore, this cycle included schools in Alberta (AB), British Columbia (BC), Manitoba (MB), Newfoundland and Labrador (NL), Nova Scotia (NS), Ontario (ON), Prince Edward Island (PEI), Quebec (QC), and Saskatchewan (SK).
+Sampling design
+To obtain a sample of students, a stratified single-stage cluster design was used. Schools were selected from strata, and then all eligible students within selected schools were invited to participate in the survey.
+Schools were allocated to different strata based on certain characteristics to ensure sufficient sample sizes within each group. This improves representativity of the sample and precision of estimates by taking into account the variability of key school characteristics in the survey's sample design. Details of these stratifications are below.
+Health region characteristics
+Schools were first stratified based on health region characteristics. In all provinces, schools were classified as either having low or high youth smoking prevalence in the health region. To create the smoking prevalence classifications (“high” or “low”), data from the Canadian Community Health Survey (CCHS) were used to derive an estimate of past 30-day smoking prevalence for youth 15 to 19 years of age in each provincial health region. The 2017–18 CCHS data were used in this cycle.
+Within each province, the median health region smoking prevalence calculated from the CCHS data was used to create two groups of approximately the same number of schools based on high or low smoking prevalence among youth. Schools within health regions above the median were assigned to the “high” smoking prevalence group, while schools within health regions below the median were assigned to the “low” smoking prevalence group in that province. The schools in the median health region were assigned to the “high” group unless a more equal balance of schools was achieved for the two groups by assigning the median to the “low” group.
+In QC, ON, AB, MB, and SK, schools in non-urban areas were classified as “low” or “high” smoking prevalence as described above; however, schools in urban areas in these provinces were classified under a third category of “urban”. This third category was applied in QC, ON, and AB in previous cycles to ensure sufficient representation of schools in the most densely populated areas of these provinces, addressing lower response rates observed in previous cycles in urban areas. In the 2021–22 cycle, this third category was also applied in the most highly populated areas of MB and SK to allow for a better approximate balance in the total number of eligible schools in the “high” and “low” smoking prevalence classifications.
+School type
+Schools in each province were subsequently stratified based on type: “elementary” or “secondary”. “Elementary” was defined as grades 7 and 8 in all provinces except AB, where elementary was defined as grades 7 to 9, and in QC, where there was no elementary classification. “Secondary” was defined as grades 9 to 12 in all provinces except AB, where secondary was defined as grades 10 to 12, and in QC, where secondary was defined as Secondary I to V.
+Since schools may include both elementary and secondary grade levels, the following system was used to classify the schools: In schools where the total number of eligible elementary grade levels was greater than (or equal to) the total number of eligible secondary grade levels, the school was assigned to the “elementary” school category. Conversely, where the total number of eligible secondary grades was greater than the total estimated number of eligible elementary grades, the school was assigned to the “secondary” school category.
+Provinces with modified sampling designs
+Prince Edward Island
+In PEI, a census approach was taken, where all eligible schools were invited to participate in the survey. 
+Nova Scotia
+In Nova Scotia, the province requested representative data from each health zone. Therefore, sampling was adjusted by stratifying by school type (elementary, secondary) and health zone (Zone 1 – Western; Zone 2 – Northern; Zone 3 – Eastern; and Zone 4 - Central). The total target number of schools was increased to accommodate this stratification, though it remained similar to the total number of schools targeted in the previous 2017–18 cycle. 
+Newfoundland and Labrador
+In Newfoundland and Labrador, the province approved both CSTADS and another national study to be conducted, provided that each school participate in only one of the surveys. A random sample of schools was drawn for CSTADS as per the planned sampling strategy and provided to the other survey team for review. In cases where targets could not be met for the other survey based on the remaining sample, new schools were chosen for CSTADS from the random list. Where school refusals were encountered for CSTADS, additional schools were drawn from the random list that were not included in the other survey’s sample.
+School sample selection
+After stratification, schools were selected based on simple random sampling within each stratum. Most sampled schools were associated with a school board; in these cases, recruitment of school boards associated with sampled schools took place first, followed by recruitment of schools. Recruitment followed the order in which schools were randomly sampled.
+Reports from past cycles of CSTADS have indicated that schools typically prefer to administer the survey to their entire school population (rather than a sample of classes or students) because full school administration is simpler both in terms of obtaining parental permission and administering the survey in classes. Therefore, all students within eligible grades in each recruited school were invited to participate in the survey. As per previous cycles, equal probability of inclusion for students in a stratum is implied by the simple random sampling of schools within a stratum and the invitation to all students in eligible grades at selected schools to participate. 
+The target numbers of schools were selected based on several factors, including:
+A minimum of 36,000 student responses, distributed across provinces based on enrolments in eligible grades, with a similar sample allocation to allow provincial comparisons of approximately equal reliability.
+Consideration of the estimated total number of students in each stratum, along with a minimum number of schools per province (typically a minimum of 16), a minimum number of schools per stratum (minimum of 4), and alignment with the 2018–19 targets for each stratum. 
+Consideration of student-level response rates from the previous cycle (42%–90% student-level provincial response rates in 2018–19), capped conservatively at the average response rate of the previous cycle (69%). 
+Taken together, these factors led to an oversampling of schools in each province, ensuring that the minimum required total number of responses would still be met, even if the target number of schools was not.
+
+Questionnaire development
+The final 2021–22 CSTADS questionnaire was developed by Health Canada in English and French, based on past iterations of the survey. The final content of the questionnaire included questions on demographics, tobacco use, vaping, alcohol and drug use, and bullying.  
+Several key considerations guided the design and content of the questionnaire:
+Comparability: The basis of the questionnaire was past versions of the CSTADS (YSS) questionnaire (2002 to 2018–19), to allow for comparisons across cycles.
+Responsiveness: To meet the needs of users of the data, CSTADS investigators and those responsible for federal and provincial tobacco, alcohol and drug use strategies were given an opportunity to contribute topics/items for consideration.
+Relevancy: To ensure value-add for participating schools, items and content areas were added to enhance the school-specific results profiles and summaries to schools.
+Feasibility: To meet the criterion of students being able to complete the questionnaire in one class period (approximately 30 to 40 minutes), questionnaire length was restricted.
+Pilot testing
+Both English and French versions of the CSTADS questionnaire are pilot tested each cycle. The purpose of pilot testing is to assess the logic and order of the questions, the flow of the questionnaire, and whether the language and the terms used in the questionnaire are understood by youth. 
+For this cycle, a total of 8 virtual focus groups (4 in English and 4 in French) with youth of relevant grades were conducted, in addition to the completion of the survey in a web-based format, prior to the focus groups. In general, both Francophone and Anglophone participants found the survey to be clear, straightforward, and easy to complete, for both themselves as well as when considering other youth in their age group. A number of slight modifications were made to the questionnaire as a result of the pilot testing.
+Survey implementation
+Approvals and ethics reviews
+Ethics approval is first sought from the Health Canada–Public Health Agency of Canada Research Ethics Board. Provinces are then approached to confirm their participation and gain approval to contact school boards. 
+Approval is then sought as required from school boards. Many school boards are able to provide approval based on a description of the current CSTADS project requirements, while other school boards (particularly in Ontario) require a formal application process through a board ethics review committee or other body. The survey team seeks to obtain the required form of school board approval from all school boards prior to recruiting schools within those boards, as applicable. School boards that decline participation or that do not respond to requests for participation or ethics applications are documented as refusals.
+Private schools that are not associated with a school board or other authority are contacted directly.
+All amendments, modifications, and adverse events that are encountered during the survey administration are reported to the Health Canada–Public Health Agency of Canada Ethics Review Board and other applicable authorities as required (e.g., schools). 
+Student recruitment
+Within recruited schools, all students in grades 7 to 12 were invited to participate in the survey. Schools sent information and permission materials home to these students, detailing the project, providing contact details for the project staff, and directing parents to the project website for additional information and copies of the questionnaires.
+Only students with permission, provided either by their parents or by themselves if they were of consenting age, were allowed to participate. School boards and schools determined the permission method (type of consent) most appropriate within their schools, employing a mix of active permission protocols (active) and active information-passive permission (passive) methods. In schools using active consent, parents or students of age were required to provide explicit permission on a form to participate. In schools using passive consent, parents or students of age were asked to fill out a form or call a toll-free number if they did not wish to participate. Students also had the opportunity to decline participation on the day of data collection.
+At the student-level, non-response can result from parental/student refusals, absenteeism on the day of data collection, or occasional non-participation of eligible classes.
+Data collection
+Upon confirmation by a school administrator (principal) that a school will participate in the survey, a coordinator works with the school to obtain student counts and arrange for the delivery of all materials required to administer the survey, including paper copies of permission forms and the survey (unless the school prefers to complete the survey online). On the day of data collection, school administrators and classroom teachers follow standard project instructions to administer the paper questionnaire during a designated class period. The questionnaire administration, including instructions to students, takes approximately 40 minutes or less in each class. To protect confidentiality, teachers are asked not to circulate in the classroom while students complete the questionnaire, and each student places their completed questionnaire in a sealable envelope, which the teacher seals in front of the class before it is returned to the office by a student.
+In this cycle, data collection occurred between September 2021 and June 2022.
+
+
+Data processing
+This section presents a brief summary of the steps involved in producing the PUMF.
+Data capture
+Completed questionnaires are machine-scanned using Optical Mark Recognition (OMR) and Optical Character Recognition (OCR) technology. The procedures include several quality-control measures to ensure the accuracy of the scanned data. Processing staff visually scan all questionnaires to verify that the OMR correctly records the data. Scanned characters and text are reviewed and corrected as needed.
+During the visual scanning process, processing staff can "correct" a questionnaire according to defined rules, such as darkening marks that are too light or incomplete (e.g., check marks instead of filled-in circles), erasing marks from answers where respondents changed their minds but did not sufficiently erase the original response, removing accidental or irrelevant marks (e.g., graffiti or doodles), and erasing marks made in areas designated for “office use only.” If processing staff are uncertain about how to proceed with an answer, the project manager provides guidance and, if necessary, consults with a data analyst.
+Data cleaning
+Skip patterns and inconsistent responses
+The questionnaire was deliberately designed without skip patterns, incorporating response options like “I do not smoke” and “I did not use” to prevent identifying substance users based on the time taken to complete the survey.
+Unlike computer-assisted questionnaires, which can generate prompts for inconsistent responses, paper-and-pencil surveys lack built-in answer verification. Instead, skip patterns are applied during PUMF preparation, based on initial responses that determine whether a respondent is a user or non-user of a substance. These skip patterns overwrite related dependent answers. Unless corrected by algorithms or skip patterns, inconsistent responses are retained in the data file.
+To the extent possible, data cleaning procedures in 2021–22 followed the same approach as previous cycles. 
+Imputations of core smoking questions
+Starting in CSTADS 2016–17, algorithms were developed for core smoking questions to ensure imputations reflected the collective evidence of each respondent’s smoking behaviours, rather than on the probability of behaviours based on patterns from other respondents. Inconsistent or missing responses were retained when they did not meet the algorithm criteria. In 2021–22, the following variables were imputed using these algorithms: SS_010 (Question 10), SS_030 (Question 13), SS_040 (Question 14), and TP_001 (Question 18).
+Imputations were completed before the application of coverage/skip patterns (described above). Skip patterns were then applied and could overwrite imputed values.
+Reducing reidentification risk in the PUMF
+In the PUMF, several variables that could help in identifying schools or students are removed, as are variables that could help in regrouping student records by school. The remaining variables that could, in combination, serve to identify students (i.e., indirect identifiers) are identified and subjected to Statistical Disclosure Control (SDC) methods, such as recoding, suppression, and perturbation, in order to maintain privacy and minimize the risk of re-identification of respondents. In the CSTADS 2021–22 PUMF, the following variables were removed:
+school board and school identifiers (including postal code);
+student survey ID and school survey ID numbers;
+survey sampling stratification identifiers, intermediate weights and weight calibration totals;
+the language in which the survey was completed;
+age;
+sex; and 
+median household income of the area where the respondent’s school is located.
+Standard codes
+Based on the above data cleaning, the following standard codes are employed in the PUMF: 
+96 and 996:	Valid skip (based on skip patterns)
+98:		Prefer not to answer
+99 and 999:	Not stated (i.e., no response, invalid/un-codable, or suppressed)
+Survey weights
+Survey weights are used to adjust survey data to ensure that the results are representative of the overall population. These weights account for unequal probabilities of selection, non-response, and differences in the demographic composition of the sample compared to the target population. By applying weights, researchers can minimize bias and make more reliable and valid inferences about the broader population.
+For weighting purposes, CSTADS operates like a two-stage sample. In the first stage, a simple random sample of schools is selected in every stratum. In the second stage, all grade 7–12 students in selected schools are asked to participate in the survey, and those that do are treated as constituting a random sample. Based on this design, a four-step process is used to generate the CSTADS survey weights. In brief:
+In Step 1, first stage weights are generated at the school level. Weights are generated separately for each stratum. The first stage weight equals the number of schools in the stratum divided by the number of schools in the sample. This weight is the same for all schools in the same stratum.
+In Step 2, second stage weights are generated at the student level. In each school, weights are calculated at the grade and sex level by dividing the total number of students in that grade and sex, as provided by the school, by the number of participating students. 
+In Step 3, the first and second stage weights are multiplied. On rare occasions, very low response rates can result in very high values, which will negatively impact estimates. For this reason, values are capped in every province, based on the distribution of weights therein. 
+In Step 4, sample weights are calibrated so that they sum to provincial population counts by grade and sex, as obtained from the sample frame. In provinces where counts were not available by sex, a breakdown by sex was generated based on post-censal age-sex counts from Statistics Canada.
+An additional ‘perturbation’ step is applied to the PUMF weight variable, where unbiased random noise is added to the survey weights and then recalibrated. This step helps reduce the potential risk of reidentification, as some characteristics are closely linked to the weights.
+Bootstrap weights
+The calculation of variance estimates and coefficients of variation requires detailed knowledge of the design of the survey. Such details cannot be given in the PUMF since confidentiality must be respected. To enable reliable variance estimation, 500 bootstrap weights (bsw1–bsw500) are provided in the PUMF dataset that take account of the complex sample design information, while preserving respondent confidentiality.
+The Rao-Wu-Yue bootstrap method is a popular method for the estimation of variances for surveys with complex sample designs (detailed at length elsewhere). First, corresponding to the original survey weights, B bootstrap weights are generated for every unit in the sample. The greater the B, the better the variance estimate. The bootstrap weights are typically produced using a process that involves subsampling the original sample units (e.g., schools and students). To estimate the variance of a statistic Ŷ, such as a weighted total Ŷ=Σj wtj yj, that was produced using the survey weights wtj, B bootstrap estimates of the same statistic (Ŷb, b=1, ..., B) are generated by replacing the survey weight with bootstrap weights. The bootstrap variance estimate for Ŷ is vB(Ŷ) = Σb (Ŷb – ŶB)2/(B-1), where ŶB = Σb Ŷb/B is the average of the bootstrap estimates. Note that Σb (Ŷb – ŶB)2 is equivalent to Σb Ŷb2 – BŶB2.
+A variation, used by CSTADS, is the mean bootstrap method. CSTADS generates 6,000 sets of bootstrap weights. But instead of using these to generate 6,000 bootstrap estimates, the sets of bootstrap weights are combined 12 at a time, with the mean of the 12 used as the bootstrap weight. This generates 500 sets of mean bootstrap weights. One advantage of the mean bootstrap method is that it admits fewer cases of bootstrap weights equal to 0, which can sometimes cause dividing by zero problems. When using mean bootstraps, the variance becomes vBR(Ŷ) =R Σb (Ŷb – ŶB)2/(B-1), where B is the number of sets of mean bootstrap weights and R is the number of bootstraps per mean. With CSTADS, B=500 and R=12. The 500 sets of mean bootstrap weights accompanying the PUMF (bsw1–bsw500) incorporate the effect of weight perturbation (the wtpumf) on the variance. 
+
+Data quality
+Response rates
+As previously noted, CSTADS implementation includes multiple levels of recruitment. Within each province, survey representatives recruit school boards (divisions/districts) and schools, and then the team works with participating schools to recruit students to participate. As a result, non-response occurs at various levels. 
+Board-level recruitment and participation
+A total of 204 school boards were approached, of which 109 (53%) participated in this survey; 23 (11%) were recruited but no students participated; and 72 (35%) refused, did not respond, could not be contacted, or withdrew their participation. 
+School-level recruitment and participation
+A total of 509 eligible public, Catholic, and private schools were approached, of which 280 (55%) participated in this survey and 229 (45%) refused, did not respond, could not be contacted, or withdrew their participation. 
+Student-level recruitment and participation
+A total of 93,786 students across nine provinces were eligible to participate (according to school contacts for participating classes), of whom 62,104 participated (completion rate of 65%) and 61,096 were retained in the dataset. Of those who participated, approximately 92% participated with passive permission and 8% participated with active permission. 
+Survey errors 
+The estimates derived from this survey are based on a sample of schools. Somewhat different estimates might be obtained if a complete census had been taken using the same questionnaire, data collection staff, and processing methods. The difference between the estimates obtained from the sample and those resulting from a complete count taken under similar conditions are called the sampling error of the estimate.  
+Errors that are not related to sampling may occur at almost every phase of survey implementation. Administrators may misunderstand instructions, respondents may refuse to participate in the survey, be unable or unwilling to answer questions, or make errors in answering questions, the answers may be incorrectly entered on the questionnaire, and errors may be introduced in the processing and tabulation of the data. These are all examples of non-sampling errors.
+Over a large number of observations, randomly-occurring errors will have little effect on estimates derived from the survey; however, errors occurring systematically will contribute to biases in the survey estimates. Considerable time and effort are taken to reduce non-sampling errors in the survey. Quality assurance measures are implemented at each step of the data collection and processing cycle to monitor the quality of the data. These measures include:
+Providing detailed instructions for administrators (e.g., teachers) and participating students; 
+Conducting extensive training of project staff regarding survey procedures; 
+Implementing procedures to minimize data capture errors; 
+Conducting coding and editing quality checks to verify the processing logic; and 
+Adjusting survey weights for total (survey) non-response.
+
+Guidelines for tabulation, analysis and release
+This section details guidelines for users when tabulating, analyzing, and publishing or otherwise releasing any data derived from the CSTADS 2021–22 Public Use Microdata File (PUMF). With the aid of these guidelines, PUMF users will be able to generate results that are consistent with those of other users and, at the same time, will be able to develop currently unpublished figures in a manner consistent with these established guidelines. Please note that these guidelines are consistent where possible with past implementations and were initially adapted from the 2002 YSS User Guide written by Statistics Canada.
+Importance of survey and bootstrap weights
+When producing simple population estimates, including the production of ordinary statistical tables, users must apply the proper survey and bootstrap weights. There are three reasons why the survey weight variable and the bootstrap weight variables should be used when performing analyses.
+Total population versus sample size. Users may want results based on population figures instead of estimates based on the sample of individuals included in the study. For example, the CSTADS survey weight, when used, will produce results based on a national population estimate of N, which represents all the students in the participating provinces (grades 7-12) instead of n, which is the total number of students who actually completed the survey (i.e., the sample size of the CSTADS).
+Adjusting for sampling and non-response. If every member of a population had an equal probability of being selected in a sample and had the same likelihood of participating in the survey, each case would carry the same survey weight and the survey weight for all individuals would be the inverse probability of selection and response. However, CSTADS sampling employed more complex considerations, and non-response was not homogeneous across provinces and strata. As a result, individuals did not have an equal probability of participating in the survey. To correct for this unequal probability, the survey weight variable was created. In short, using the survey weight variable permits the user to make generalizations to the population from the sample of respondents.
+Adjusting for the complex survey design. If every member of a population had an equal chance of being selected for a sample, variances could be easily calculated by measuring how much each data point differs from the average. However, since CSTADS does not give every student an equal probability of being selected, variance estimation must account for a more complex sampling design, which introduces additional biases and larger sampling errors. To address this, bootstrap weight variables were created to accurately calculate variances and ensure reliable conclusions from the data.
+If survey weights are not used, the estimates derived from the data cannot be considered as representative of the survey population and will not correspond to estimates produced by Health Canada. Additionally, if bootstrap weights are not used, statistical software will assume a simple random design, leading to inaccurate variance estimates and overly narrow confidence intervals. Producing estimates without survey weights and/or bootstraps weights may produce biased results, leading to erroneous conclusions and misinterpretation of the data.
+Using survey and bootstrap weights
+This section discusses how to use the weight variable (wtpumf) and the bootstrap weight variables (bsw1–bsw500). Users should know how to apply these variables within their software package. 
+Calculating weighted estimates
+Estimates of population sizes can be obtained from the CSTADS PUMF by summing the final weights (wtpumf) for all records that belong to the population of interest. For example, to obtain an estimate of the total number of current smokers (derived variable DVTY1ST=1) in grade 9 (secondary III in Quebec), sum the weights wtpumf for all records having GRADE equal to 9 and DVTY1ST equal to 1. Note that this quantity will be underestimating the true population size by the extent to which grade 9 students did not report their smoking status (DVTY1ST=99, for Not Stated). A method to adjust estimates for such item non-response is given below.
+Estimates of quantities can be obtained by multiplying the value of the variable of interest by the final weight for each record, then summing this quantity over all records of interest. For example, to obtain an estimate of the total number of whole cigarettes smoked in the past 7 days prior to the survey by students in grade 9, multiply the value reported in the derived variable DVCIGWK (number of whole cigarettes smoked in the past 7 days prior to the survey) by the final weight for the record (wtpumf), then sum this product for all records where DVCIGWK < 996 and GRADE equals 9. 
+Estimates of ratios are obtained by taking the ratios of weighted estimates. For example, to obtain an estimate of the average number of whole cigarettes smoked in the past 7 days prior to the survey by students in grade 9, divide the preceding estimate of the total number of whole cigarettes smoked in the past 7 days prior to the survey by students in grade 9 by the estimate of the number of grade 9 students, or by the estimate of the number of grade 9 students who are smokers, if that is desired. 
+Adjusting weighted estimates for item non-response
+The final survey weights (wtpumf) are adjusted to account for total non-response (non-response to the survey), but not for item nonresponse (non-response to individual questions). Adjusting for item non-response is necessary to avoid biases in survey estimates. The adjustment can be simple or complicated, depending on the statistic being estimated, the information available for nonrespondents, and the model used for non-response.
+A simple adjustment for item non-response consists of multiplying the final weights (wtpumf) of each respondent in the population of interest by the ratio of the sum of final weights for all records in the population of interest divided by the sum of final weights for all respondents to that question in the population of interest. For example, consider the following survey results for DVTY1ST for grade 9 students.
+
+To adjust estimates of current smokers, former smokers and never smokers in grade 9 for non-response, multiply their weights wtpumf by the ratio 384468.2/(6802.1 + 696.8 + 375630.6) = 1.00349 before summing. The non-response adjusted estimate for the number of current smokers in grade 9 will thus be 6,825.8. The adjustment is small because there is very low non-response to that question.
+The non-response adjustment for the estimate of the total number of whole cigarettes smoked in the past 7 days prior to the survey by students in grade 9 is slightly more complicated because the variable DVCIGWK is subject to a skip based on answers to an earlier question (SS_030: Have you ever smoked a whole cigarette?) which itself is subject to non-response. What is important is to determine which records to use to adjust for non-response. In some cases, it may be necessary to carry out two separate adjustments; first, for non-response to the filter question (SS_030) and then, for non-response to the question of interest (DVCIGWK). In this particular case, since nonrespondents to SS_030 were not made to skip the question of interest, we do not have to deal with question SS_030 when adjusting for non-response to DVCIGWK. Consider the following responses to DVCIGWK among grade 9 students.
+
+The adjustment for non-response to DVCIGWK for grade 9 consists of multiplying the weights wtpumf of respondents by the ratio of the sum of weights for all grade 9 students who were administered the question (10358.1 + 11866.2 + 4731.3) divided by the sum of weights for those who responded (10358.1 + 11866.2), which is 1.21289. The estimate of cigarettes smoked should be calculated using these adjusted weights instead of weights wtpumf, otherwise cigarette consumption may be underestimated by about one-sixth.
+When estimating a quantity that is based on more than one question or item, such as a ratio, the set of respondents would normally consist of records that have reported all questions or items (i.e., reported values for both the numerator and the denominator, in the case of ratios).
+Finally, note that the nonrespondent adjustment can be refined by being carried out separately by subgroup. This is recommended when item non-response rates are not very small and the non-response patterns differ for different sub-populations (e.g., by gender, grade, and/or geography), and these sub-populations are identifiable on the PUMF. 
+Calculating variance estimates using bootstrap weights
+To generate the 500 bootstrap estimates for an estimate, it is necessary to replicate all the steps that were used to generate the original estimate, including any adjustment for item non-response, e.g., wtadj,j = wtj (Σall wtj /Σresp wtj ), except that the set of wtpumf values are successively replaced by each of the sets of bsw values (bsw1–bsw500) from the bootstrap weights file. These estimates are then inserted into the formula for the bootstrap variance.
+Users must specify a variance formula for mean bootstrap weights in their software package. However, as some packages (e.g., SAS) do not provide this option, the Fay’s modified balanced repeated replication (BRR) method for variance estimation should be specified instead, with a Fay coefficient set to 0.71132487.
+For example, to generate the 15th bootstrap estimate of the total number of current smokers in grade 9, sum the non-response-adjusted 15th bootstrap weights for all records having GRADE equal to 9 and DVTY1ST equal to 1. The non-response-adjusted 15th bootstrap weights are the weights bsw15 multiplied by the ratio of the sum of bsw15 for all records in grade 9 divided by the sum of bsw15 for all grade 9 records with DVTY1ST < 99.
+Rounding guide 
+Rounding is a technique that helps protect privacy and prevents estimates from seeming more exact than they really are. Users are encouraged to adhere to the following guidelines for rounding estimates: 
+Estimates in the main body of a statistical table are to be rounded to the nearest hundred units using the normal rounding technique. In normal rounding, if the first or only digit to be dropped is 0 to 4, the last digit to be retained is not changed. If the first or only digit to be dropped is 5 to 9, the last digit to be retained is raised by 1. For example, in normal rounding to the nearest 100, if the last two digits are between 00 and 49, they are changed to 00 and the preceding digit (the hundreds digit) is left unchanged. If the last digits are between 50 and 99, they are changed to 00 and the preceding digit is incremented by 1. 
+Marginal sub-totals and totals in statistical tables are to be derived from their corresponding un-rounded components and then are to be rounded themselves to the nearest 100 units using normal rounding. 
+Averages, proportions, rates and percentages are to be computed from un-rounded components (i.e., numerators and/or denominators) and then are to be rounded to one decimal using normal rounding. In normal rounding to a single digit, if the final or only digit to be dropped is 0 to 4, the last digit to be retained is not changed. If the first or only digit to be dropped is 5 to 9, the last digit to be retained is increased by 1. 
+Sums and differences of aggregates (or ratios) are to be derived from their corresponding un-rounded components and then are to be rounded themselves to the nearest 100 units (or the nearest one decimal) using normal rounding. 
+Under no circumstances are un-rounded estimates to be published or otherwise released by users. Un-rounded estimates imply greater precision than actually exists. 
+Release guidelines 
+Before releasing and/or publishing any estimate from the CSTADS 2021–22, users should first determine the quality level of the estimate. The quality levels are Acceptable, Marginal, and Unacceptable. Data quality is affected by both sampling and non-sampling errors (as discussed in section 7). However, for this purpose, the quality level of an estimate will be determined only on the basis of sampling error as reflected by the coefficient of variation (i.e., standard error divided by the estimate, multiplied by 100) as shown in Table 1 below. 
+First, users should determine the unweighted number of respondents who contributed to the numerator in the calculation of the estimate. If this number is less than 30, the estimate must be considered to be of unacceptable quality and cannot be released. For estimates based on sample sizes of 30 or more, users should then determine the coefficient of variation of the estimate and follow the guidelines in Table 1. Apply these quality level guidelines to the weighted and rounded estimate, produced using the survey and bootstrap weights (see section 8.2) and the rounding guide (see section 8.3). 
+If the weighted estimate can be released, it is considered best practice to report the sampling error of the estimate through its 95% confidence interval (CI). The confidence interval should be released with the estimate, in the same table as the estimate. We do not recommend constructing the confidence interval using the commonly used Wald interval method. Instead, we recommend that users construct confidence intervals for proportions using alternative methods (in order of preference): the modified Wilson interval, the modified Clopper-Pearson interval, or the logit interval (see Korn and Graubard, 1998; and Liu and Kott, 2009).
+Table 1. Quality Level Guidelines for Weighted Estimates
+
+Variable Description
+Table 2 describes the variables included in the CSTADS 2021–22 PUMF, excluding derived variables which are detailed in the subsequent section.
+
+Table 2. Variable description, values and labels.
+
+
+Derived Variables
+The PUMF includes derived variables, created by combining questionnaire items, to facilitate data analysis and ensure consistency across users. Table 3 describes the derived variables included in the CSTADS 2021–22 PUMF.
+
+Table 3. Algorithms for derived variables.
+

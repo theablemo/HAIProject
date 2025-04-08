@@ -1,0 +1,404 @@
+Created: 2025-02-14T18:21:21.501888
+Name: Bill_C-368_at_HESA-_Standing_Committee_on_Health
+Original URL: https://open.canada.ca/data/dataset/bff0ebc2-297a-49e5-ac39-3e95ab76cfaa/resource/fffe72b9-4172-4c15-b024-f2c4db64c1f7/download/bill-c-368-at-hesa-standing-committee-on-health-eng.pdf
+Package ID: bff0ebc2-297a-49e5-ac39-3e95ab76cfaa
+Keywords: ['Natural Health Products', 'Health', 'Parliamentary Committee appearance']
+Notes: Minister Hollands briefing binder for his appearance at HESA on Bill C-368.
+-------------------------------
+Extracted Text:
+Unclassified / Non classifié
+Bill C-368 at HESA-Standing Committee on Health
+Minister Holland Binder
+October 29th, 2024
+Bill C-368 at HESA-Standing Committee on Health
+Minister Holland Binder
+Table of Contents
+1. Questions and Answers
+2. Key Facts
+Questions & Answers
+BillC-368 (natural health products)
+Q1.What is the objective of Bill C-368, and how does it propose to amend the Food and Drugs Act?
+A1.On December 5, 2023, Bill C-368 An Act to Amend the Food and Drugs Act (natural health
+products) was introduced in the House of Commons by Conservative MP Blaine Calkins. Bill C-368
+seeks to amend the Food and Drugs Act (FDA) by removing “natural healthproducts” from the
+definition of “therapeutic product”. The bill reverses the regulatory oversight provided by Bill C-47,
+Budget Implement Act 2023, which brought NHPs under the purview of the Protecting Canadians
+from Unsafe Drugs Act (Vanessa’s Law).
+The preamble of the bill clarifies a purpose that natural health products are not therapeutic
+products within the meaning of that Act and therefore are not subject to the same monitoring
+regime as other drugs.
+Q2. What is Vanessa’s Law, when was it first introduced, and why?
+A2. The Protecting Canadians from Unsafe Drugs Act (also known as Vanessa’s Law) received Royal
+Assent in November 2014 and amended the FDA to give Health Canada additional transparency,
+post-market monitoring, and compliance and enforcement tools for therapeutic products, such as
+prescription and over-the-counter drugs, biologic drugs, and medical devices. While NHPs were
+initially intended for inclusion in Vanessa’s Law, there was a strong effort from a minority of
+stakeholders to remove them. As a result, NHPs were ultimately scoped out of Vanessa’s Law in
+2014, and Health Canada had to rely on voluntary action by industry when health and safety issues
+associated with NHPs occurred.
+For example, Vanessa’s Law grants the Minister of Health with the powers to 1) order recalls; 2)
+require a product label or package change if necessary; and 3) impose tougher fines and penalties
+for non-compliance, etc. Additional authorities such as adding terms and conditions to licences, or
+requiring mandatory reporting of serious adverse drug reactions and medical device incidents by
+healthcare institutions may also be enabled for NHPs with the development of regulations in the
+future.
+With the experience gained through 20 years of regulating these products, we have seen
+considerable evidence of non-compliance with the Natural Health Product Regulations, resulting in
+health and safety risks to Canadians. For years now, Health Canada hasstressed that its inability to
+take swift action on NHPs when health and safety issues are identified, like the ability to mandate a
+recall of unsafe or non-complaint NHPs, was problematic and needed to be addressed.
+It cannot be overstated that while NHPs are often perceived as low-risk, these products are not risk
+free, especially if used improperly and without appropriate regulatory oversight. Some products
+also include addictive substances, such as nicotine replacement therapies.
+Q3. Why was Vanessa’s Law extended to cover NHPs, and what gaps did it address?
+Unclassified / Non classifié
+A3.Prior to the extension, NHPs were the only type of health product exempt from key post-market
+tools which were available for all other health products that Health Canada regulates, such as
+drugs and medical devices.
+For years, Health Canada had stressed the importance of exploring legislative amendments to
+strengthen its ability to deter and address non-compliance, as was possible for other health
+products. The existing tools can be effective in situations when the regulated party is cooperative
+and takes swift action. However, they are ineffective at obtaining compliance and mitigating risk
+when a regulated party refuses to cooperate or partake in voluntary mechanisms.
+For example, existing authorities to issue a stop sale order, licence suspension, or licence
+cancellation prohibits future sales of the harmful product in question; a recall order goes further
+and targets already sold and distributed products, getting themcorrected or removing them from
+retailers or wholesalers. For the same reasons that the Minister shouldn’t need to rely on
+companies to voluntarily suspend and cancel their product licences, the Minister shouldn’t need to
+rely on companies to voluntarilyrecall their products when there is a serious or imminent risk of
+injury to health.
+In 2023, Health Canada extended Vanessa’s Law to NHPs to protect the health of Canadians by
+enabling Health Canada to take swift action if a serious risk to health is suspected or identified with
+NHPs on the market, consistent with other health products and food. For example, these
+amendments allowed Health Canada to order a recall of a product or add warnings on labels to
+support safe use, if necessary, which it couldn’t do before. To mandate a recall for example, these
+new authorities will only be used ifa serious risk to health is identified and if a company refuses to
+partake in voluntary mechanisms.
+Q4. Has Health Canada observed safety issues with NHPs over the years?
+A4. From 2004 until December 2021, Health Canada received reports of over 8,000 adverse
+reactions in which NHPs use had a suspected role, of which over 5,000 were serious. More recently,
+for a two-year period beginning in 2021, Health Canada received 1,019reports of adverse reactions
+in which NHPs had a suspected role, of which 772 were serious (e.g., required hospitalization or
+were life threatening). And these are only the reports which Health Canada received. Adverse
+reactions are known to be significantly underreported both in Canada and internationally.
+It is important to note, adverse reaction reports are suspected associations with the reported NHP;
+they often don’t include enough information for Health Canada to determine if the reaction was the
+result of using a specific health product. In 2021, Health Canada reviewed four Canadian adverse
+reaction reports of liver injury associated with products containing Artemisia annellua, a common
+type of wormwood; however, the adverse reaction reports did not contain sufficient information for
+Health Canada to conclude a causal link between the product and the reported risk.
+See Key Facts Document for more information
+Q5. How would Bill C-368 impact Health Canada's current approach to regulating NHPs (mandate
+recalls, label changes, adverse event reporting, etc.)?
+A5.The adoption of Bill C-368 would repeal the Vanessa's Law provisions for NHPs, and thus
+significantly weaken Health Canada's ability to protect consumer safety. Without the ability to issue
+mandatory recalls, unsafe products could remain on the market for longer periods, significantly
+increasing the risk of serious harm or injury to Canadians. This would leave consumers vulnerable
+to potentially severe health risks that could otherwise be swiftly addressed.
+Furthermore, the loss of authority to enforce label changes would mean Health Canada could not
+compel manufacturers to update safety warnings or dosage instructions, even when serious risks
+to injury are identified. Similarly, it would prevent Health Canada from enacting additional
+Vanessa’s Law authorities currently pending legislation to be enacted. This includes authorities
+such as adding terms and conditions to licences, or requiring the mandatory reporting of serious
+adverse drug reactions and medicaldevice incidents by healthcare institutions. Doing so would
+greatly reduce Health Canada’s ability to track patterns of harm or emerging health risks associated
+with an NHP in the future.
+Q6.How would Bill C-368 affect Health Canada's ability to respond to health risks for NHPs
+(timeframes for action, enforcement capabilities, industry compliance, etc.)?
+Unclassified / Non classifié
+A6. Bill C-368’s rollback of Vanessa’s Law would slow Health Canada’s ability to respond quickly to
+health risks, as it would no longer have the authority to mandate certain corrective actions such as
+recalls or label changes. Currently, with Vanessa’s Law, Health Canada can take action swiftly
+when a serious risk to injury is identified, enforcing immediate recalls or safety warnings without
+needing to wait for companies to act voluntarily.
+Under Bill C-368, Health Canada would lose this capacity for immediate enforcement, meaning
+that unsafe products could remain on the market until companies choose to take action. Moreover,
+without the ability to impose penalties or enforce recalls or labelchanges, Health Canada's
+enforcement capabilities would be severely reduced, making it harder to manage the risks that exist
+for Canadians. In addition, companies might be less motivated to adhere to safety regulations
+promptly, knowing that there would be fewer consequences for non-compliance. This would
+increase the risk of prolonged consumer exposure to unsafe products.
+Q7. What is the impact of Bill C-368 on Nicotine Replacement Therapy Ministerial Order?
+A7. On August 28, 2024, Health Canada published a Ministerial Order in the Canada Gazette, Part II
+using the authorities introduced through Bill C-69 for the first time following growing concerns that
+the popularity of new and emerging orally administerednicotine replacement therapies that are
+natural health products was leading to recreational use by people who do not smoke, and, in
+particular, young people under 18 years of age.
+This order introduced supplementary rules to reduce the appeal of, access to, and use of these
+products by young people for unintended uses while maintaining access for adults wishing to quit
+smoking. Health Canada has seen the impacts that vaping had on youth in Canada and the
+increased interest in newer products that have emerged, such as nicotine pouches.
+Health Canada shares the strong concerns expressed by health care professionals about youth
+using new nicotine replacement therapies like pouches recreationally, and the Department acted
+quickly to prevent youth access and appeal to these products. If BillC-368 is implemented
+however, the new Ministerial authorities introduced through Bill C-69 would no longer apply to
+NHPs. Removing NHPs from the Food and Drugs Act’s definition of therapeutic products would
+mean that Health Canada could no longer have these safeguards in place for young people to
+reduce their exposure to nicotine and addiction, and leave them exposed in a way that will
+significantly impact their future health.
+Q8. How does Bill C-368 compare with the recommendations outlined in the 2021 CESD Audit and
+subsequent 2022 PACP report?
+A8. Bill C-368 contradicts the recommendations made in both the 2021 CESD Audit and
+subsequent 2022 PACP Report, which called for stronger post-market oversight for NHPs. For
+example, the CESD audit specifically remarked that Health Canada did not have theauthority to
+order a change to a label or force a mandatory recall of a natural health product for any reason,
+including when a product presents a serious or imminent risk of injury to health.
+The audit made a number of recommendations, including the need to strengthen post-market
+oversight for NHPs. This was reinforced by the Standing Committee on Public Accounts in 2022,
+who specifically requested that Health Canada revise the fines and penalties currently in place for
+NHPs. This is an important point, as the lack of a proper deterrent has led to high levels of non-
+compliance within the NHP industry. For decades, the maximum fine a company could receive for
+an infraction was $5,000, a fundamental misalignment and less effective as a deterrent for
+noncompliance when compared to the $5,000,000 maximum fines for all other health products.
+These reports emphasized the need for regulatory tools, the majority of which were addressed by
+Bill C-47 but would be reversed under Bill C-368. By removing NHPs from the scope of vanessa's
+law, Bill C-368 directly undermines these key recommendations, leaving gaps in consumer
+protection and reducing Health Canada’s ability to ensure the safety of NHPs.
+Q9. What are examples of how Vanessa's Law could improve NHP safety?
+A9.With the authorities conferred by Vanessa’s Law. Health Canada has been able to better protect
+consumer safety, gathering better post-market safety information. For example, 18,990 mandatory
+reports of serious adverse events for drugs and medical devices submitted by hospitals from
+Unclassified / Non classifié
+December 2019 to November 2022. In addition, 964 notifications following information issued by a
+foreign regulator concerning the safety of a product regulated in another jurisdiction were received.
+Vanessa’s Law has supported health products safety. For example, in August 2020 following a
+safety review for ulipristal (a drug used to treat uterine fibroids) that took place after data was
+received involving liver injury, the Minister had questions pertaining to the risk benefit balance for
+some patients and whether the risk could be effectively mitigated. This work was facilitated by
+Vanessa’s Law.
+Another example is the use of authorities under Vanessa’s Law which permitted Health Canada to
+standardize and strengthen the post-market oversight of prescription opioids, allowing for earlier
+identification of risks, and to put in place targeted risk minimization activities to prevent or
+decrease prescription opioid-related harms in Canada, and to better inform Canadian patients
+about the safe use of opioids and their associated risks. Terms and Conditions Letters were issued
+to approximately 50 opioid MAHs for more than 100 opioid products, which enabled risk
+minimization measures for these products.
+Q10.Which industry stakeholders, such as CHFA and NHPPA, have been most vocal in supporting
+Bill C-368, and what are their main concerns with the current regulatory framework under
+Vanessa’s Law?
+A10.A small stakeholder community vocally opposed the amendments included in Bill C-47. These
+included the Canadian Health Food Association (CHFA) who initiated a lobbying campaign called
+“Save our Supplements”, and the Natural Health Products Protection Association (NHPPA), who
+launched the “Pressure your MP” initiative.
+While these associations represent a minority in the stakeholder community, they have aggressively
+lobbied against Government reforms on NHP regulations by spreading misinformation online and
+encouraging the public to send pre-drafted letters to MPs, officials, and senior-level public
+servants. The two associations’ efforts to mobilize thousands of Canadians have been successful,
+with MPs reporting receiving flyers and other correspondence from constituents stating their
+disapproval of Health Canada’s recent efforts to modernize the regulation of NHPs.
+Furthermore, the campaigns have received vocal support from the CPC, which has emerged as
+strong proponents of these associations’ efforts, and encouraged further public opposition through
+townhalls, Parliamentary committee tactics, and media interventionsto oppose these measures. A
+large number of Parliamentary petitions have also been tabled in the House of Commons as a
+result of this mobilization, all of which have been sponsored by CPC MPs in the 44th Parliament.
+The stakeholders’ primary concerns include that Health Canada is overregulating NHPs, which will
+lead to increased costs for consumers and fewer products being available. Profitability should rely
+on commercializing products that comply with the regulations, and therefore any concerns on this
+front are only a problem in cases where industry is not compliant.
+Q11.How are stakeholders within the broader healthcare sector reacting to Bill C-368?
+A11.Stakeholders across the healthcare sector strongly support maintaining robust regulation for
+NHPs. Patient safety organizations and professional bodies emphasize the importance of Health
+Canada's role in ensuring that unsafe products are swiftly removed from the market and that safety
+information is regularly updated.
+Key healthcare professionals, including the Institute for Safe Medication Practices (ISMP), the
+Canadian Pharmacists Association (CPhA), or the Healthcare Excellence Canada / Patients for
+Patient Safety Canada, have emphasized the need for continued oversight to ensure patient safety.
+Overall, the broader healthcare sector has remained consistent in its commitment to minimizing
+health risks and ensuring patient safety two strong regulatory frameworks for NHPs.
+To contribute to the Committee’s study of Bill C-368, the Canadian Medical Association submitted
+a written brief in September 2024 stating the Association had strong concerns with Bill C-368. The
+CMA argued against removing NHPs from the definition of therapeutic products as this would
+effectively eliminate oversight of the NHP industry and expose Canadians to unnecessary risks.
+With respect to the impacts of Bill C-368 on the recent measures put in place to better regulate
+nicotine pouches, prominent health stakeholders such as the Canadian Cancer Society and the
+Canadian Lung Association have raised strong concerns with youth access and appeal to these
+products and welcomed the introduction of new measures which were announced in August to
+Unclassified / Non classifié
+help prevent youth harms. Health stakeholders are expected to express concern with any impacts
+stemming from Bill C-368 on recent federal action on nicotine pouches.
+Q12.Stakeholders claim they were caught off-guard by Health Canada’s regulatory changes. How
+has Health Canada engaged with stakeholders in the past?
+A12.Since the introduction of the Self-Care Framework, Health Canada has signalled its intention
+to improve NHP labelling, examine a cost recovery approach for NHPs, and consider post-market
+tools for NHPs such as fines and penalties and the ability to requirea recall. This was also
+communicated in Health Canada’s response to the 2021 CESD Audit, which is available both
+directly within the Audit or in the Department’s public Management Response and Action Plan. This
+was again communicated at PACP in response to their study of the Audit and subsequent 2022
+report.
+Health Canada has consulted extensively in developing and implementing Self-Care Framework
+initiatives. Leading up to and following the launch of the fee proposal for NHPs in May 2023,Health
+Canada held multilateral meetings and technical sessions with stakeholders, including key industry
+associations. In May 2024, Health Canada held a full-day engagement session with stakeholders
+regarding the revised fee proposal.
+In June 2024, Health Canada engaged with key industry stakeholders to discuss the next steps in
+advancing the Self-Care Framework. Health Canada is currently engaging and consulting
+stakeholders on monograph updates, labelling implementation, and revised GMP and Quality
+Guidance.
+Q13.What are the key Parliamentary positions on the Bill?
+A13.The positions on Bill C-368 differ across party lines, and the key parliamentary positions are as
+follows:
+Conservative Party (Sponsor): CPC are the primary proponent of Bill C-368 arguing that NHPs
+should not be regulated as pharmaceuticals, as the current oversight under Vanessa's Law places
+unnecessary burden on industry. They claim this regulation increasescosts and limits product
+availability, maintaining that NHPs are generally safe and require lighter regulation.
+During the second reading of Bill C-368, the major issues that the CPC raised included: the need for
+freedom of choice in healthcare, the importance of not tampering with NHP industry, the lack of
+safety issues with products, the protection of small and medium-sized business from
+overregulation, and the need to preserve innovation and not stifle business in Canada.
+At a recent parliamentary study of federal regulatory modernization initiatives where NHPs were
+raised (September 2024 at OGGO), CPC expressed the concern of financial implications of new
+regulations on small and medium-sized businesses; implications on Canadians who rely on NHPs;
+the industry being caught off-guard; and the importance of Bill C-368 to maintain consumer
+accessibility to NHPs.
+New Democratic Party: While the NDP acknowledges the need for consumer safety, they have
+expressed concerns about over regulating the industry. They are also opposed to the way Bill C-47
+was introduced (via the Budget Implementation Act), arguing this approach has not provided the
+opportunity for comments and amendments.
+During second reading of Bill C-368, the major issues that the NDP raised included: the historical
+significance of NHPs for thousands of years across many cultures, the robustness of the existing
+framework, the use of omnibus legislation and need for fulsome stakeholder testimony, the
+impacts on small businesses, and the inappropriateness of regulating NHPs like pharmaceutical
+products.
+At a recent parliamentary study of federal regulatory modernization initiatives where NHPs were
+raised (September 2024 at OGGO), NDP raised the issue of a lack of data on NHP risks and
+acknowledged that Vanessa’s Law could help obtain high quality data. NDP also questioned how to
+determine a balanced definition of drugs.
+Bloc Québécois: The Bloc Québécois has mixed views, and while they oppose heavy regulation that
+could negatively impact Quebec's industry, they have not taken a clear stance. They may seek to
+modify the bill to balance industry interests with consumer safety.
+During second reading of Bill C-368, the major issues raised by the Bloc Québécois were: potential
+negative impacts on small and medium-sized businesses, the need to maintain choice of
+Unclassified / Non classifié
+alternative health products, methodological issues and missing data on risks, and need for more
+consultation.
+At a recent parliamentary study of federal regulatory modernization initiatives where NHPs were
+raised (September 2024 at OGGO), the Bloc Québécois raised the issues of clear and flexible
+regulations and a balance between safety and access to NHPs.
+Key Facts Document
+Bill C-368 (natural health products)
+Size and Scope of the NHP Industry
+50,000+–Estimated number of NHPs currently on the market.
+136,000+–Number of Natural Product Numbers (NPNs) issued by Health Canada since 2004,
+spread across 8,900 companies.
+$13.2 billion–The size of the Canadian NHP market in 2021, according to a Deloitte report, with
+exports growing from $0.7 billion (2007) to $3.6 billion (2021)
+12,000–average number of NHP product applications received by Health Canada annually.
+7,500–average number of new NPNs issued per year by Health Canada.
+1,800–average number of NPN amendments per year by Health Canada.
+60%–Proportion of NHPs sold by small and medium enterprises, with the majority being Canadian-
+owned and family-run.
+Consumption Habits and Demographics
+73%–Proportion of Canadians who reported using NHPs in 2023.
+57%–Proportion of Canadians who report daily use of NHPs in 2023.
+52%–Proportion of Canadians whose interest in NHPs increased during the COVID-19 pandemic,
+driven by a focus on self-care.
+$700 million–Estimated spending by Canadians on vitamins and herbs alone for the 2015-2016
+period.
+78%–Proportion of people aged 45 to 65 years old who reported using NHPs, representing the
+highest prevalence of supplement use across age groups.
+80%–Proportion of women who reported using NHPs (compared to 66% of men).
+48%–Proportion of people aged 65 + years old who reported using homeopathic products daily,
+compared to 61% who reported using traditional medicine daily.
+79%–Proportion of parents and other caregivers who reported using NHPs daily, representing one
+of the most likely groups (alongside 79% of members of the 2SLGBTQI+ community, and 78%
+members of an ethnocultural group) when compared with other Canadians’usage of NHPs.
+Product Type and Licensing Breakdown
+12,000–Licenses issued for homoeopathic products.
+17,500–Licenses issued for Traditional Chinese Medicines
+2,000–Licenses issued for Ayurvedic medicines.
+783–Number of active domestic site licenses issued by Health Canada, including
+358 for manufacturing (including 6 sterile manufacturers)
+399 for packaging
+467 for labeling
+447 for importing (including 30 sterile product importers)
+50–Average number of new license holders per year.
+51%–Proportion of site license holders in Ontario (398), making it the highest in Canada. The full
+breakdown for provinces and territories include:
+398 for Ontario, 168 for Québec, 144 for British Columbia, 39 for Alberta, 10 for Manitoba, 9 for
+Nova Scotia, 7 for Saskatchewan, 4 for Newfoundland and Labrador, 3 for Prince Edward Island,
+and 1 for New Brunswick.
+Unclassified / Non classifié
+39%–Percentage of site license holders who have held their license for at least 10 years.
+Safety Issues and Adverse Reactions Reporting
+8,000+–Reports of adverse reactions involving NHPs since 2004, with 5,000+ being reports of
+serious adverse events(e.g.,hospitalization or life-threatening).
+772 Serious Adverse Reactions–From the 1,019 reports of adverse events received by Health
+Canada between 2021-2023.
+170+–Number of voluntary recalls of licensed hand sanitizers during the COVID-19 pandemic
+(either due to incorrect labeling, use of unsafe ingredients, or inadequate product testing).
+18,990–Total number of mandatory reports of serious adverse reactions from hospitals (2019-
+2022), with 5,471 medical device incidents and 13,149 serious adverse drug reactions.
+964–Number of safety notifications received by Health Canada from foreign regulators about
+NHPs and other products regulated in other jurisdictions (2019-2022).
+Government Audits, Reports, and Pilots
+2021 Commissioner of the Environment and Sustainable Development (CESD) Audit, and 2022
+Standing Committee of Public Accounts (PACP) Report, identified significant gaps in Health
+Canada’s post-market oversight of NHPs:
+88% of a sample of 75 NHPs reviewed were found to have misleading advertising.
+56% of the same sample of 75 NHPs had incorrect or incomplete labeling, creating risks for
+consumers.
+1 in 4 of the 75 NHPs reviewed did not display their Natural Product Number (NPN).
+$5,000–maximum penalty for NHP non-compliance (at the time), compared to $5,000,000 for
+therapeutic products under Vanessa’s Law.
+2021 Pilot Good Manufacturing Practices (GMP) Risk-Based Inspection Program conducted by
+Health Canada:
+36–Total number of sites (18 manufacturers and 18 importers of non-sterile NHPs) inspected over
+six-month period starting March 2021 to assess compliance with regulations.
+42%–Percentage of inspected sites found to have serious non-compliance issues.
+7 days–Average amount of time spent by inspectors when inspecting each site.
+2021 Pilot Risk-Based Advertising Monitoring Program conducted by Health Canada:
+3,800–Number of product advertising verified for compliance, including products web links, over
+the pilot’s 6-month period.
+1,695–Number of authorized products found to be making false or misleading cancer-related
+claims.
+263–Number of unauthorized products found to be making false or misleading cancer-related
+claims.
+Product Safety Issues and Noncompliance
+Contamination with Foreign Matter or Dangerous Ingredients:
+Metal Fibre–In 2024, a company recalled various multivitamins and supplements sold under a
+variety of brand names due to the potential presence of metal fibres.
+Fibreglass–In 2022, a company recalled one lot of TUMS Peppermint Regular Strength tablets after
+some tablets were found to contain fragments of fibreglass and other material, including paper and
+aluminum foil.
+Lead–In 2021, Health Canada seized unauthorized health products sold as natural health
+products at an Ayurvedic clinic that had unacceptable levels of heavy metals (arsenic, lead,
+mercury).
+Benzene–Some of the 170+ voluntary recalls of hand sanitizers due to safety issues were found to
+contain benzene, which is classified as a human carcinogen, ethyl acetate, which may cause dry
+skin, and methanol, which may cause dermatitis, eye irritation, upper respiratory system irritation
+and headaches (2022).
+Labelling Issues and False or Misleading Advertisement:
+Unclassified / Non classifié
+Inaccurate Dosing–6 reports of adverse reactions from August 2018 to March 2020 were attributed
+to dosing errors in Canadian patients taking mineral supplements. The lack of clear dosing
+instructions resulted in safety issues and led to hospitalisations.
+2021 GMP Pilot Inspection Program: Health Canada found instances of non-compliance in all 36
+inspections. Problems were significant enough at 15 of the inspections that Health Canada
+informed the companies that the Department was considering suspending, orin some cases
+immediately suspending, their site and/or product licences.
+Undisclosed Ingredient: In February 2021, a teenager was hospitalized for 10 days due to severe
+kidney issues [hypercalcemia, acute kidney injury, and nephrocalcinosis] after consuming an
+authorized natural health product. Product testing detected dangerous levels of undisclosed
+Vitamin D.
+Misleading Brand Name: In 2023, Health Canada was notified of reports from consumers
+describing confusion with the brand name of an infant probiotic drop that falsely implied the
+presence of vitamin D in the product.
+Advertising Unauthorized Benefits: In 2021, Health Canada addressed reports of false, misleading,
+and deceptive advertising of hand sanitizers with respect to COVID-19 claims. The same year, a
+monitoring pilot revealed that more than half of unauthorized products we're making unauthorized
+cancer claims.
+Noncompliance with GMP and Lack of Cooperation
+Unsanitary conditions: Health Canada has found numerous facilities operating under unsanitary
+conditions. As an example, in March 2024, following notification of unsanitary conditions at a
+company’s premises, Health Canada conducted an unannounced visit atthe facility. Inspectors
+identified serious deficiencies, including inadequate pest management and a lack of
+ventilation/filtration systems that resulted in cross-contamination of products.
+2021 GMP Pilot Inspection Program: Health Canada found instances of non-compliance in all 36
+inspections. Problems were significant enough at 15 of the inspections that Health Canada
+informed the companies that the Department was considering suspending, orin some cases
+immediately suspending, their site and/or product licences.
+Refusal to Recall Unsafe Product: In September 2021, Health Canada tested a sample of PURE75
+hand sanitizer as part of a compliance monitoring project. Testing of the product identified
+methanol levels above Health Canada’s acceptable limit. Methanol is poisonous to humans.
+Despite Health Canada request for a recall, company refused to comply and kept the product
+available for sale for a sustained period before eventually taking action.

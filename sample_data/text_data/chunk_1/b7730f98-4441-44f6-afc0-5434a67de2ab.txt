@@ -1,0 +1,16 @@
+Created: 2024-06-11T20:10:31.119172
+Name: BC_sector_study_VOC_dataset
+Original URL: https://open.canada.ca/data/dataset/b7730f98-4441-44f6-afc0-5434a67de2ab/resource/1870677b-cf8d-47eb-a4c3-67fb0a634b48/download/bc-sector-study-voc-dataset-specification.txt
+Package ID: b7730f98-4441-44f6-afc0-5434a67de2ab
+Keywords: ['VOC', 'Volatile Organic compounds']
+Notes: The BC Sector Study in Trail and Kitimat was conducted in October and November of 2011 to measure the spatial variability of air pollutants in two small towns with a single industrial source. Four 1-week (7 Day) integrated samples were collected at 12 outdoor locations in Trail and 11 locations in Kitimat using 3M OVM 3500 badge sampler to collect 26 volatile organic compounds (VOCs). This dataset presents the descriptive statistics obtained as part of the study and does not provide any interpretation or detailed analysis of the data or trends (e.g., comparing seasons, indoor/outdoor concentrations).
+-------------------------------
+Extracted Text:
+BC Sector Study VOC dataset Specification
+
+The BC Sector Study in Trail and Kitimat was conducted in October and November of 2011 to measure the spatial variability of air pollutants in two small towns with a single industrial source. 																	
+Four 1-week (7 Day) integrated samples were collected at 12 outdoor locations in Trail and 11 locations in Kitimat using 3M OVM 3500 badge sampler to collect 26 volatile organic compounds (VOCs).																	
+This dataset presents the descriptive statistics obtained as part of the study and does not provide any interpretation or detailed analysis of the data or trends (e.g., comparing seasons, indoor/outdoor concentrations). 																	
+																	
+MDL: Method Detection Limit; VOC: Volatile Organic Compounds; CAS: Chemical Abstract Service																	
+concentrations in ug/m3

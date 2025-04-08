@@ -1,0 +1,2343 @@
+Created: 2024-09-27T17:45:15.232315
+Name: Committee_of_The_Whole_Appearance_Main_Estimates_Backpocket
+Original URL: https://open.canada.ca/data/dataset/c8ca6f4f-51d1-4ad9-9242-2ecba39c1096/resource/3c178d7c-beb3-4ec7-bae5-a2254b7b86fe/download/cotw-backpocket-eng.pdf
+Package ID: c8ca6f4f-51d1-4ad9-9242-2ecba39c1096
+Keywords: ['Health', 'committee', 'Main Estimates']
+Notes: Committee of The Whole Appearance
+Main Estimates Backpocket
+
+-------------------------------
+Extracted Text:
+Committee of The Whole Appearance
+Main Estimates Backpocket
+May 29, 2024
+Committee of the Whole- Main Estimates Appearance
+BACKPOCKET – TABLE OF CONTENTS
+May 29th, 2024
+A – HOT ISSUE ONE PAGERS
+1. Opioid Crisis
+2. Dental Care
+3. CHA Compliance/Abortion Access
+4. Healthcare Funding/Bilateral Agreements to PTs Mental Health
+5. MAID
+6. Pharmacare (including Drugs for Rare Diseases and Canada Drug Agency)
+7. Primary Care/health workforce challenges
+8. Quebec Issues Sheet
+9. Safe Long-Term Care Act
+10. Forest Fires
+C – QUESTION PERIOD NOTES
+11. Sperm Donation
+12. Thalidomide
+D – TRANSFERS AND AGREEMENTS
+13. PT Health Funding
+E – HEALTH CARE SYSTEM
+14. Health Workforce Capacity Indicators and Policy Implications
+15. Backgrounder – PT Actions (Working Together Agreements)
+F – PHARMACARE
+16. Qs&As
+17. News Release
+18. Technical Deck
+19. Backgrounder – Contraceptives
+20. Backgrounder – Diabetes
+ISSUE SHEET- OPIOIDS
+Overdose Death Numbers and Trends
+42,494 apparent opioid toxicity deaths between January 2016-September 2023
+82% of accidental opioid toxicity deaths from January-September 2023 involving fentanyl
+57% of accidental opioid toxicity deaths from January-September 2023 also involving a stimulant
+80% of accidental stimulant toxicity deaths from January-September 2023 also involving an opioid
+Death most common among males, and for both males and females aged 20-59 years old
+From January-September 2023 – males account for 72% of accidental opioid toxicity deaths
+From 2016 to September 2023, in youth (0-19), the total number of opioid and stimulant-related
+poisoning hospitalizations among females was consistently higher compared to their male
+counterparts (1,329 opioid-related and 1,647 stimulant-related hospitalizations among females
+aged 0-19, compared to 973 and 954, respectively in males aged 0-19).
+This is largely driven by intentional poisoning hospitalizations.
+When looking only at accidental opioid- and stimulant-related poisoning hospitalizations among
+youth, males have higher counts than females (653 opioid-related and 441 stimulant-related
+hospitalizations among males aged 0-19, compared to 527 and 351, respectively, among females
+aged 0-19).
+Data points to people commonly dying of overdoses alone and mostly indoors.
+In Ontario, from March to December of 2020, 73% of fatal opioid-related overdoses occurred where
+no one was present to intervene.
+In BC, in the first three months of 2024 (January-March), 84% of fatal overdoses occurred indoors,
+more specifically, 47% occurred in private residences.
+Majority (88%) of accidental opioid toxicity deaths from January-September 2023 occurred in: BC,
+AB, ON.
+Declaration of Emergrncies
+P/T declarations:
+British Columbia – Public Health Emergency – April 2016
+Alberta – Public Health Crisis – May 2017
+Yukon – Call to Action (Substance Use Health Emergency) – January 2022
+In 2024 alone, emergency declarations have been made by the City of Belleville, ON, and several
+First Nations communities across BC, AB, MB and ON.
+Provincial Statistics
+Alongside Ontario and Alberta , British Columbia continues to be one of the jurisdictions most
+impacted by the overdose crisis; together, these three provinces represented 88% of all accidental
+opioid toxicity deaths reported from January-September 2023.
+BC
+2,304 deaths in 2021
+2,385 deaths in 2022
+2,551 deaths in 2023
+572 deaths so far in 2024 (January to March)
+First Nations people in BC died of an overdose at 6.0 times the rate of other BC residents from
+January-June 2023.
+AB
+1,634 opioid-related deaths in 2021
+1,517 opioid-related deaths in 2022
+1,706 opioid-related deaths from January to November of 2023
+Edmonton – 608
+Calgary – 581
+In Alberta, First Nations people died of an accidental opioid overdose at seven times the rate of
+other residents between January and June of 2020.
+ON
+2,857 opioid-related deaths in 2021
+2,535 opioid-related deaths in 2022
+659 opioid-related deaths from January to March 2023
+In Ontario, in 2021, the rate of opioid-toxicity deaths among First Nations people was seven times
+higher than the rate for non-First Nations people.
+Impact on Healthcare System
+Though these numbers have appeared to stabilize in recent years, since national surveillance
+began 2018:
+The percentage of all opioid-related poisoning hospitalizations that involved fentanyl and its
+analogues has increased 100%
+Compared to the two-year period before the pandemic (April 2018 – March 2020, 9,470
+hospitalizations) there was a 24 percent increase in opioid-related poisoning hospitalizations in
+Canada during the first two years of the pandemic (April 2020 – March 2022, 11,765
+hospitalizations).
+The percentage of all opioid-related poisoning emergency department visits that involved fentanyl
+and its analogues has increased 120% since 2018 when national surveillance began
+Federal Actions/ Funding
+Since 2017, guided by the Canadian Drugs and Substances Strategy (CDSS), the Government of
+Canada has taken urgent action to address the overdose crisis and made significant investments of
+over $1.1 billion. These commitments include $359.2 million announced through Budget 2023 to
+support a renewed CDSS and $150 million through Budget 2024 for an Emergency Treatment Fund
+to help municipalities and Indigenous communities provide rapid responses to emergent, critical
+needs related to the overdose crisis. Canada’s approach recognizes that a full continuum of
+strategies is necessary to address substance use-related harms and the overdose crisis and
+includes efforts to:
+improve access to treatment services;
+increase access to harm reduction services, including supervised consumption sites;
+support a range of innovative approaches to harm reduction, treatment, and prevention at the
+community level;
+strengthen law enforcement capacity to address illegal drug production and trafficking;
+increase awareness and prevention efforts; and,
+build the evidence base through investments in research and surveillance.
+On February 7, 2023, the Government of Canada announced it will increase health funding to
+provinces and territories by nearly $200 billion over 10 years, in order to improve Canada’s health
+care system. This investment includes $25 billion for shared health priorities, including increasing
+access to mental health and substance use services and supports and $2 billion for the Indigenous
+Health Equity Fund to address unique challenges Indigenous Peoples face when it comes to fair
+and equitable access to quality and culturally safe health care services. These commitments are in
+addition to existing bilateral agreements with provinces and territories for health priorities,
+including $5 billion over 10 years for Mental Health and Addictions that were put in place in 2017.
+These investments will set the foundation for long-term, integrated and sustained health care
+system change that builds on existing, targeted actions to address substance use-related harms
+and the overdose crisis.
+Prescribed Alternatives Pilot Programs
+As of April 1, 2024, Health Canada is currently supporting 22 prescribed alternatives pilot projects
+across Canada through the Substance Use and Addictions Program.
+We are seeing some promising early outcomes.
+These include reduced emergency department visits and hospitalizations. We are also hearing
+reports from safer supply clients across multiple programs of reduced overdoses, illegal drug use,
+and criminal activity.
+Some providers and clients have described additional benefits, such as improvements in social
+functioning, health and mental health, access to housing and income supports, and the time and
+stability needed to pursue personal goals.
+We will continue to monitor outcomes so that our response to the overdose crisis is evidence-
+based and focussed on saving lives.
+We are also aware of some concerns, such as diversion, and are committed to taking action where
+necessary.
+We are working with prescribed alternatives pilot projects to strengthen their approaches to
+minimizing diversion risk.
+Going forward, all prescribed alternatives pilot projects are required to meet new requirements
+related to diversion mitigation, including patient intake and assessment, patient engagement,
+operational and dosing protocols, and remedial actions, as well as additional reporting
+requirements.
+Diversion of drugs from safer supply programs is illegal.
+Health Canada supports law enforcement actions to address drug trafficking and support
+community safety, wherever it takes place.
+We will continue to evaluate all available and emerging evidence in regard to prescribed
+alternatives programs to understand the potential benefits and risks.
+ISSUE SHEET – DENTAL
+UNMET DENTAL CARE NEEDS
+Access to quality oral health care is an integral part of overall health yet many Canadians face
+barriers.
+2.26 million school days are missed each year due to dental-related illness.
+Tooth decay accounts for one-third of all day surgeries performed on children between the ages of
+one and five in Canada1.
+Much of the burden of dental disease is concentrated in disadvantaged children: those from low-
+income families; Indigenous children; new immigrants; and children with special health care
+needs.
+In 2022, 55% of Canadians reported having dental expenses covered by private insurance, 4%
+reported having only public dental insurance, and 35% (over a third) of Canadians reported not
+having any dental insurance. Further, 40% of people without dental insurance reported having
+avoided going to a dental professional due to the cost, nearly three times more than those with
+private dental insurance (14%).
+Canadians with financial resources or insurance are more likely to experience good oral health.
+CURRENT DENTAL PROGRAMS IN CANADA
+$18.4 billion was spent on dental services in 2022 :
+95% was covered through private insurance or out-of-pocket spending;
+40% was paid out-of-pocket
+5% was covered through public sector spending (existing federal, provincial, and territorial plans).
+PTs provide coverage for medically-necessary oral health services that take place in hospital and
+offer some form of public dental coverage.
+The federal government provides dental coverage for public servants, members of the Armed
+Forces and veterans, people incarcerated in federal correctional facilities, some newcomers,
+registered First Nations people and recognized Inuit.
+FEDERAL ACTIONS / FUNDING
+The interim Canada Dental Benefit (CDB) provides direct payments to eligible applicants of up to
+$650 per child under 12 years old, per year and up to $1,300 over two years.
+Budget 2023 proposed funding of $13.1 billion over five years starting in 2023-24, and $4.4 billion
+ongoing, to implement the Canadian Dental Care Plan. It also proposed $250 million over three
+years, starting in 2025-26, and $75 million ongoing to Health Canada to establish an Oral Health
+Access Fund, which will address oral health gaps for vulnerable populations and reduce barriers to
+accessing care, and $23.1 million over two years, starting in 2023-24 to support Dental Care Data.
+CANADA DENTAL BENEFIT – interim measure
+The CDB launched on December 1, 2022 and is administered by the Canada Revenue Agency
+(CRA).
+It represents the first step towards fulfilling the Government of Canada’s commitment to the
+development of a long-term, Canada-wide dental care plan for low and middle income families.
+Depending on adjusted family net income, the CDB provides a tax-free direct payment of $260,
+$390, or $650 for each eligible child up to a maximum of two payments per child.
+There are two benefit periods for the CDB. The first period ran from December 1, 2022 to June 30,
+2023 and helped approximately 323,000 children get brighter smiles and healthy teeth.
+Applications are currently being received for the second benefit period, which will run from July 1,
+2023 to June 30, 2024. As of April 30, 2024, over 350,000 children have been helped during the
+second benefit period.
+CANADIAN DENTAL CARE PLAN (CDCP) – long-term measure
+The Government of Canada launched the CDCP in December 2023 with the aim of improving
+access to care as well as oral health outcomes for Canadian residents with adjusted family net
+incomes below $90,000 annually and who do not have dental insurance.
+Up to 9 million uninsured Canadian residents with an adjusted family net income under $90,000
+could benefit from the CDCP.
+To meet anticipated demand and ensure a smooth process, the CDCP is being rolled out using a
+phased approach, starting with seniors. Automated phone applications were used by seniors aged
+70 and above to apply for the CDCP, until it was decommissioned on April 30, 2024.
+In May 2024, applications opened for eligible seniors 65 and older through an online portal. Adults
+between 18 and 64 with a valid Disability Tax Credit certificate and children under the age of 18 will
+be able to apply online as of June 2024. Finally, all remaining eligible Canadian residents between
+the ages of 18 and 64 will be able to apply online in 2025.
+On May 1, 2024, the first million seniors over 70 are able to access dental care under the plan and
+oral health providers were able to submit their claims right away through the Sun Life CDCP claims
+processing system.
+Sun Life will continue to enrol 500,000 new members per month, along with participating oral
+health providers.
+An Oral Health Access Fund, led by Health Canada, will begin to provide grants and contributions
+funding in 2025-26. It will complement the CDCP by supporting projects that further reduce access
+barriers for Canada’s vulnerable populations (e.g. those living in rural and remote communities and
+equity seeking groups, such as persons with disabilities).
+ISSUE SHEET – CHA COMPLIANCE/ABORTION ACCESS
+USE OF PRIVATE FACILITIES FOR DELIVERY OF INSURED SERVICES
+Under the Canada Health Act (CHA), medically necessary hospital and physician services may be
+provided in private facilities, so long as patients are not charged to access care.
+Several PTs have been expanding the use of private facilities to deliver medically necessary services
+to address the service backlogs.
+PTs have used private facilities to deliver medically necessary services since the 1990’s and have
+various mechanisms in place to ensure patients are not charged for their care.
+FEDERAL ACTIONS / FUNDING
+DEDUCTIONS AND REIMBURSEMENTS FROM CHT PAYMENTS FOR PATIENT CHARGES
+Since 2015, the Government of Canada has levied close to $267 million in mandatory CHT
+deductions to jurisdictions that allow patient charges for insured health services.
+In March 2024, BC, ON, NB and NL faced mandatory CHT deductions for patient charges levied in
+2021-2022 for insured health care services provided in private facilities. BC, AB, SK, MB, QC, NB,
+and NS also faced mandatory deductions for patient charges levied in 2021-2022 for insured
+diagnostic services received in private facilities (under the Diagnostic Services Policy).
+Deductions are generally based on amounts of patient charges reported by PTs on an annual basis
+to HC. If there is evidence that a PT has not reported accurately, HC is required to estimate the
+amount of patient charges, based on the best evidence available.
+HC was required to take deductions based on estimates for AB, SK, QC, NB, and NS.
+BC, MB, ON, and NL reported amounts to HC and a deduction in the same amount was levied from
+the province’s CHT.
+PTs are eligible for reimbursement within two years of the date of deduction under the CHA’s
+Reimbursement Policy if they choose to work with HC on a Reimbursement Action Plan and take
+the necessary steps to eliminate patient charges, and the circumstances that led to them.
+In March 2024, due to actions taken to curb patient charges, six provinces (BC, AB, MB, ON, QC,
+and NL) were eligible for reimbursements totalling $90,072,387.
+In instances where partial reimbursement was made to acknowledge actions taken by PTs to
+eliminate patient charges, further reimbursement is possible, should the PT take additional
+measures to eliminate these barriers to care.
+The first deductions eligible for reimbursement under the policy were those taken in March 2018
+and, since then, $175,010,504 in deductions have been reimbursed to provinces as a result of their
+efforts to eliminate patient charges and the circumstances that led to them.
+FOR ABORTION SERVICES
+NEW BRUNSWICK
+Deductions: $444,041 since March 2020.
+Reimbursements: None to date.
+Issue: Surgical abortion services are only insured under the NB health insurance plan if performed
+in hospital; procedures provided in the private clinic in Fredericton, which closed in February 2024,
+were not covered.
+Status: Prior to the clinic’s closure, HC raised this issue with NB at the officials' and Ministerial
+levels with no resolution. Given the retrospective nature of reporting under the CHA, NB still faces
+deductions for patient charges levied in 2022-2023 and 2023-2024. NB deductions are informed by
+a survey published by the Canadian Institute for Health Information, which provides volume data on
+the services provided at the clinic. The most recent survey, released on March 21, 2024, is
+expected to inform the March 2025 deduction amount.
+ONTARIO
+Deductions: $86,065 since March 2021.
+Reimbursements: $43,296 in reimbursements to date.
+Issue: A number of private abortion clinics in ON charge fees for uninsured services, while not
+consistently informing patients these fees were optional to access insured surgical abortion
+services.
+Status: In recognition of ON’s Reimbursement Action Plan efforts, including the introduction of new
+legislation in 2023, which is expected to eliminate these patient charges, HC has issued $43,296 in
+partial reimbursements.
+FOR SURGICAL SERVICES
+BRITISH COLUMBIA
+Deductions: $88,812,438 since March 2018.
+Reimbursements: $74,839,233 in reimbursements to date.
+Issue: A number of private surgical clinics in BC charge patients for insured surgical services.
+Status: In recognition of BC’s Reimbursement Action Plan efforts, HC has issued $74,839,233 in
+partial reimbursements.
+NEWFOUNDLAND AND LABRADOR
+Deductions: $79,667 since March 2019.
+Reimbursements: $79,667 in reimbursements to date.
+Issue: An ophthalmologist was charging patients for insured cataract surgeries.
+Status: In recognition of NL’s Reimbursement Action Plan efforts to successfully eliminate these
+patient charges, HC has issued full reimbursement totalling $79,667.
+FOR DIAGNOSTIC SERVICES
+BRITISH COLUMBIA
+Deductions: $28,435,525 since March 2023.
+Reimbursements: $24,170,197
+(85% partial reimbursement).
+ALBERTA
+Deductions: $34,231,327 since March 2023.
+Reimbursements: $20,538,796
+(60% partial reimbursement).
+SASKATCHEWAN
+Deductions: $1,826,960 since March 2023.
+Reimbursements: NIL.
+MANITOBA
+Deductions: $354,477 since March 2023.
+Reimbursements: $354,477
+(100% reimbursement).
+QUEBEC
+Deductions: $77,881,356 since March 2023.
+Reimbursements: $46,728,814
+(60% partial reimbursement).
+NEW BRUNSWICK
+Deductions: $3,072,294 since March 2023.
+Reimbursements: NIL.
+NOVA SCOTIA
+Deductions: $3,072,294 since March 2023.
+Reimbursements: NIL.
+HEALTH CARE FUNDING
+On February 7, 2023, the Government of Canada announced an investment of close to $200 billion
+over 10 years, including $46.2 billion in new funding for provinces and territories to improve health
+care services for Canadians; and, is committed to working with provinces and territories to ensure
+these investments are used in ways that respect the principles of the Canada Health Act.
+ISSUE SHEET – HEALTHCARE FUNDING / BILATERAL AGREEMENTS TO PTS
+REGULAR SUPPORT TO PTs VIA CANADA HEALTH TRANSFERS (CHT)
+2023-24 - $49.4 billion through the CHT (an increase of 9.3%)
+$11 billion to Quebec
+2024-25 - $52.1 billion through the CHT (an increase of 5.4%)
+$11.5 billion to Quebec
+CANADA DENTAL BENEFIT
+Budget 2023 committed $13.0 billion over five years, starting in 2023-24, and $4.4 billion ongoing to
+Health Canada to implement the Canadian Dental Care Plan to provide access to dental care for
+more Canadians when they need it.
+The interim measure will provide up to $650 annually (per child) for two years directly to families
+who earn $90,000 or less, to pay for dental care for children under 12 years of age.
+Coverage for qualifying seniors (aged 87 and above) began in December 2023 with coverage for the
+remainder of the population commencing over the course of 2024 and 2025.
+BUDGET 2023 – WORKING TOGETHER TO IMPROVE HEALTH CARE FOR CANADIANS
+Close to $200 billion over ten years
+$200.7 billion in increased health funding for PTs over 10 years, including $46.5 billion in new
+funding. This funding includes:
+An immediate, unconditional $2 billion top-up to the CHT (provided June 2023)
+A 5 per cent CHT guarantee for the next five years, resulting in a permanent funding increase
+(expected value of $17.5 billion over 10 years)
+$25 billion over 10 years to support shared health priorities through tailored bilateral agreements
+$1.7 billion over 5 years to support personal support workers and related professions
+$350 million over ten years for the Territorial Health Investment Fund
+$2 billion federal direct investment over 10 years to provide additional support for Indigenous
+health priorities, and $505 million over five years to the Canadian Institute for Health Information,
+Canada Health Infoway, and federal data partners
+BILATERAL AGREEMENT FUNDING INCLUDED IN THE WORKING TOGETHER PLAN
+Bilateral agreement funding included in the Working Together plan is being delivered to provinces
+and territories through two distinct bilateral agreements:
+1. Agreements to Work Together to Improve Health Care for Canadians
+$25 billion over 10 years (Budget 2023) to support shared health priorities, including family health
+services, health workers and backlogs, mental health and substance use, and modernized health
+data systems
+$2.4 billion over 4 years to improve access to mental health, substance use and addictions services
+(Budget 2017)
+2. Aging with Dignity Funding Agreements
+$2.4 billion over 4 years to improve access to home and community care services (Budget 2017)
+$3 billion over five years to improve the quality and safety of Long Term Care facilities (Budget 2021)
+OTHER BILATERAL AGREEMENT SUPPORT
+$150 million for 5 years (Budget 2018) – the Emergency Treatment Fund provides support to PTs to
+help address the opioid crisis
+$150 million to PTs for rapid deployment of virtual care services, and $50 million to Canada Health
+Infoway to develop pan-Canadian standards on secure messaging and videoconferencing and
+support PTs (part of the May 2020 $240.5 million announced to support virtual care and digital
+tools)
+$35 million over four years beginning in 2021-22 to PEI under the "Improving Affordable Access to
+Prescription Drugs Program" to add new drugs to its list of covered drugs, and lower out of pocket
+costs for drugs covered under existing public plans for Island residents.
+$1 billion (2020 Fall Economic Statement) – Safe Long-term Care Fund
+FUNDING FOR QUEBEC
+As part of the Working Together federal funding plan first announced on February 7th 2023, Quebec
+will receive an additional $11 billion over ten years over and above its regular CHT transfer:
+approximately $6.7 billion through new tailored bilateral agreements and approximately $4.3 billion
+through the 5% CHT growth guarantee and its share of the $2 billion CHT top-up.
+This is all in addition to Quebec’s regular annual CHT allocation, which will flow $11 billion to
+Quebec in 2023-24 and $11.5 billion in 2024-25.
+Through the Emergency Treatment Fund bilateral agreement (expires March 31, 2023), Quebec
+received $22 million to address harms and deaths associated with problematic substance use.
+To help address long-standing and systemic challenges in Canada's long-term care (LTC) facilities,
+Quebec received $221 million through the Safe Long-Term Care fund and is eligible to receive
+$646M over 5 years through the Budget 2021 LTC investment to ensure that provinces and
+territories can provide a high standard of care in their LTC facilities.
+SAFE RESTART AGREEMENTS AND ADDITIONAL CHT FUNDING TO PTs
+$19 billion – Safe Restart Agreement.
+June 2023 - $2 billion one-time top-up to the CHT to address immediate health system pressures,
+especially in pediatric hospitals and emergency rooms, and long wait times for surgeries.
+July 2022 - $2 billion one-time top-up to the CHT to help address pandemic-related health system
+pressures, including backlogs.
+July 2021 - $5 billion
+$4 billion – one-time top-up to CHT to clear backlog resulting from COVID.
+$1 billion – to support vaccine roll-out
+March 2020 - $500 million CHT top up to PTs for critical health care system needs
+COVID-19 FUNDING
+Between 2019 and 2028, the federal government estimates that federal health-related COVID-19
+spending will total over $72 billion.
+ISSUE SHEET – MEDICAL ASSISTANCE IN DYING (MAID)
+LEGISLATIVE TIMELINE FOR MAID AND MENTAL ILLNESS
+March 2021: Former Bill C-7 removed the reasonably foreseeable natural death (RFND) eligibility
+criterion, created a 2-track system of safeguards and temporarily excluded mental illness eligibility
+until March 2023.
+As required under former Bill C-7, the federal Ministers of Health and Justice initiated an
+independent expert review on MAID and mental illness (Summer 2021). The Expert Panel on MAID
+and Mental Illness tabled their final report in Parliament in May 2022.
+A Special Joint Parliamentary Committee (AMAD) examined MAID where mental illness is the sole
+underlying condition, and produced an interim report in June 2022.
+Fall 2022: Concerns raised whether the health care system would be ready to safely assess MAID
+requests where the sole underlying condition is a mental illness in March 2023.
+Divergent opinions on level of readiness; recognized a great deal of progress made to prepare for
+MAID requests; some PTs indicated to federal officials that they needed more time – this included
+political opposition by AB, which was expressed publicly in the media.
+Federal government also needed time to consider the recommendations of the AMAD final report,
+published February 15, 2023.
+March 2023: Former Bill C-39 delayed the lifting of the temporary exclusion of mental illness for
+MAID eligibility for one year, until March 17, 2024.
+Prudent approach to allow time for the dissemination and uptake of key resources (Model MAID
+Practice Standards; MAID Training Curriculum) and other activities (Indigenous engagement;
+enhanced data collection; oversight) to support health system preparedness.
+October 18, 2023: Private Members Bill C-314 (CPC Ed Fast) was defeated at second reading in the
+House of Commons. The Bill proposed to permanently eliminate MAID eligibility for people with
+mental illness as a sole underlying medical condition.
+Fall 2023: Among others, provinces and territories raised concerns about health care system
+readiness by March 2024.
+February 29, 2024: Bill C-62 received Royal Assent. It delays the lifting of the temporary exclusion
+of mental illness for MAID eligibility for three years, until March 17, 2027. This delay allows more
+time for the provinces and territories to prepare their health care systems and practitioners to
+participate in training and become more familiar with available guidelines and supports.
+RECENT PUBLIC POLLING ON MAID AND ON EXPANSION OF MAID FOR MENTAL ILLNESS
+Majority of Canadians (64%) support the previous rules governing MAID, first passed in 2016 and
+also when the law was updated in 2021 (60%) removing the requirement for a reasonably
+foreseeable natural death.
+There is more hesitation when it comes to the planned expansion for eligibility MAID for mental
+illness in March 2024. Three-in-ten (28%) say they support allowing those whose sole medical
+condition is mental illness to seek MAID, while half are opposed (50%). (Sept 2023 Angus Reid)
+When asked whether an adult with the capacity to provide informed consent should be able to seek
+an assessment for MAID, and if eligible, receive MAID, for a severe, treatment-resistant mental
+disorder for which they experience intolerable suffering, 35% of Canadians surveyed strongly
+supported, and 45% somewhat supported, (June 2023, Ipsos)
+When surveyed, 41% of members of the Canadian Psychiatric Association (CPA) agreed or strongly
+agreed when asked whether persons whose sole underlying medical condition is a mental disorder
+should be considered for eligibility for MAID, while 39% disagreed or strongly disagreed and 20%
+were undecided (October 2020)
+In the same survey, when CPA members were asked if it is possible for a mental disorder to be
+considered grievous and irremediable: 65% Agree or Strongly Agree; 25% Disagree or Strongly
+Disagree; 12% Undecided (October 2020)
+FEDERAL ANNUAL REPORTS ON MAID IN CANADA
+New Data from the Fourth Annual Report
+The total number of medically assisted deaths reported in Canada since the introduction of federal
+MAID legislation in 2016 is 44,958.
+In 2022, there were a total of 13,241 MAID provisions reported in Canada, accounting for 4.1% of all
+deaths in Canada. This number includes both RFND (12,778 individuals) and non-RFND (463
+individuals) (This falls within the range experienced in other jurisdictions with similar assisted dying
+regimes (Belgium, 2.5% in 2022; Netherlands, 5.1% in 2022)
+The number of cases of MAID in 2022 represents a growth rate of 31.2% over 2021. All provinces
+except Manitoba and the Yukon continued to experience a steady year-over-year growth in 2022.
+The average age of individuals at the time MAID was provided in 2022 was 77.0 years which is
+slightly higher than the averages of 2019 (75.2), 2020 (75.3) and 2021 (76.3).
+Similar to all other years, Cancer (63.0%) remains the most cited underlying medical condition
+among MAID provisions in 2022. This is followed by cardiovascular conditions (18.8%), other
+conditions (14.9%), respiratory conditions (13.2%) and neurological conditions (12.6%).
+In 2022, 3.5% of the total number of MAID provisions (463 individuals), were individuals whose
+natural deaths were not reasonably foreseeable (non-RFND). This is an increase from 2.2% in 2021
+(223 individuals). Non-RFND MAID provisions account for about 0.1% of all deaths in Canada.
+The most cited underlying medical condition for non-RFND MAID cases was neurological (50.0%),
+followed by other conditions (37.1%), and multiple comorbidities (23.5%), which is similar to 2021
+results.
+The average age of non-RFND individuals receiving MAID was 73.1 years, slightly higher than 70.1 in
+2021 but lower than the average age of 77.0 for all MAID recipients in 2022.
+In 2022, MAID practitioners reported that the majority of MAID recipients (77.6%) had received
+palliative care, a level similar to the three previous years.
+In 2022, 560 individuals were assessed as ineligible for MAID. The reason for a determination of
+ineligibility varies depending on whether an individual’s death was reasonably foreseeable or not
+reasonably foreseeable.
+The main reason for ineligibility for individuals whose natural death was reasonably foreseeable
+was that the individual was not deemed capable of making decisions with respect to their health
+(41.3%), consistent with previous years.
+For individuals whose natural death was not reasonably foreseeable, the main reasons for a finding
+of ineligibility were not having a serious illness, disease, or disability (54.4%), not being in an
+advanced state of decline (54.0%) and not having intolerable suffering (45.1%).
+KEY CONCERNS RELATED TO EXPANSION
+Some of the concerns expressed either in the media or from stakeholder groups opposed to the
+expansion focus on:
+Defining grievous and irremediable in the context of a mental illness
+Distinguishing between a request for MAID and suicidal ideation
+Need for guidelines and standards for consistent practice of MAID
+Education and training tools for assessors and psychiatrists
+Data collection and evidence gathering to help evaluate MAID implementation
+The impact of the expansion on suicide prevention
+The impact on health systems and health care (i.e. human resources/access to mental health
+supports/wait times)
+PROVINCIAL-TERRITORIAL PREPAREDNESS ACTIVITIES FOR EXPANSION
+creating specific teams to support complex case assessments (i.e., clinical consultation/review), a
+process that supports the objectives of prospective oversight
+developing / refining retrospective oversight mechanisms (i.e., reviewing cases after MAID delivery)
+adding resources (e.g. health workforce) to support navigation / assessment or leveraging
+resources in other jurisdictions where requests/provisions are low
+encouraging training using the newly launched nationally accredited MAID training curriculum to
+help clinicians in addressing requests for more complex MAID cases, including where mental
+illness is the sole underlying medical condition.
+updating MAID practice standards, many referencing the Model MAID Practice Standard
+At the recent October 2023 Health Ministers Meeting, PT Ministers (BC, NU, SK, NB, NWT)
+unanimously expressed concerns about preparedness for March 2024 (citing inadequate time to
+implement operational processes and perceived challenges with system capacity, especially as it
+relates to mental health supports/services). Quebec passed legislation in June 2023 prohibiting
+mental disorder as an eligible medical condition for MAID eligibility.
+In a letter dated January 29, 2024, a majority of PT Ministers of Health indicated that they would
+continue to support practitioners in meeting their legislative requirements and responsibilities, and
+enact appropriate guidance and practices in accordance with the MAID legislative framework.
+However, they clearly indicated that more time is needed to put the necessary measures in place to
+address capacity concerns that are expected to result from the expansion of MAID eligibility and the
+need to assess more complex cases.
+FEDERAL ACTIONS
+The Government of Canada has supported valuable work towards preparing for the expansion in
+March 2024. This work has gone a long way to addressing many but not all of the concerns
+expressed by those opposed to MAID expansion.
+Release of a Model Practice Standard for MAID (March 2023): provides regulatory bodies and
+clinicians with advice on the assessment of complex MAID requests, including persons with a
+mental disorder as their sole medical condition. An Advice to the Profession document provides a
+series of questions and responses which elaborate upon specific clinical questions raised by the
+Model Standard including assessing incurability and differentiating between a request for MAID and
+suicidal ideation.
+While some PT regulatory bodies have successfully implemented practice standards developed by
+an independent task group made up of clinical, regulatory and legal experts into their guidance
+documents for clinicians (i.e., AB, NS, NL, ON), others are in the process of reviewing and updating
+their existing standards (i.e., BC, MB, SK, NB, NWT). Still others have indicated that they have not
+made any advancements on this front.
+Knowledge Exchange Workshops (June 2023): Health Canada funded a Knowledge Exchange
+Workshop held in Montreal, bringing together over 40 MAID practitioners and psychiatrists from
+each jurisdiction to discuss roles and responsibilities for assessing and managing requests based
+solely on mental disorder, and how to support local training related to MAID for mental disorders. A
+subsequent workshop held in Toronto (September 2023) supported discussions on planning and
+coordination to support MAID assessors/providers and those requesting MAID.
+Launch of MAID Curriculum (August-Sept 2023): Launch of a nationally accredited, bilingual
+Canadian MAID Curriculum (developed by the Canadian Association of MAID Assessors and
+Providers-CAMAP) gives practitioners (those new to MAID practice and those with experience)
+important information, guidance and tools to improve their assessment skills.
+As of March 31 , 2024, over 1,304 physicians and nurse practitioners (including over 208
+psychiatrists) have registered to have access to the curriculum.
+Approximately 960 clinicians and others have completed at least one of the seven modules,
+including over 130 clinicians completing modules on MAID assessment and provision and almost
+100 completing the module on MAID and mental disorder. Feedback has been positive.
+Since the curriculum was launched in August 2023, 45 facilitated sessions will have been offered
+in eight jurisdictions (BC, AB, SK, MB, ON, QC, NS, NL) by May , 2024. CAMAP is also developing
+system coordination guides, patient journey maps and clinical assessment tools for complex cases
+including where mental illness is involved.
+Indigenous Engagement (ongoing)
+The Government of Canada has launched a three year engagement process on MAID to hear the
+perspectives of First Nations, Inuit and Métis, including urban Indigenous people, Indigenous
+people living off-reserve, Indigenous people living with disabilities, and Two-Spirit, LGBTQQIA+ and
+gender-diverse Indigenous people.
+The engagement takes a two-pillar approach through both Indigenous-led and Health Canada-led
+engagement activities. Since 2022, over $3.3M has been invested with Indigenous organizations to
+lead engagement within their communities on MAID and/or palliative and end-of-life care.
+Health Canada is supporting with engagement activities including an online survey open until June
+30, 2024, and a suite of 21 national knowledge exchange roundtables, led by an Indigenous-owned
+firm, that took place between February and April 2024 in seven locations across Canada and
+virtually.
+Health Canada provided an official update to Parliament on Indigenous engagement on MAID in
+March 2024.
+ISSUE SHEET- PHARMACARE INITIATIVES
+PHARMACARE ACT
+On February 29, 2023, the federal government introduced Bill C-64: An Act respecting pharmacare
+(Pharmacare Act), which proposes the foundational principles for the first phase of national
+universal pharmacare in Canada and describes the Government of Canada’s intent to work with
+provinces and territories (PTs) to provide universal, single-payer coverage for a number of
+contraception and diabetes medications.
+If passed, Bill C-64 will:
+Set the federal government’s framework to guide its efforts with partners to improve prescription
+drug accessibility, affordability, universal coverage and appropriate use, for all Canadians.
+Formalize a requirement to work collaboratively with provinces and territories and Indigenous
+peoples to build national universal pharmacare through a step-by-step approach.
+Outline the Government’s intent to provide universal, single-payer coverage for a range of
+contraception and diabetes medications through collaborative arrangements with willing provinces
+and territories.
+Support the development of a national formulary of essential prescription drugs and related
+products and the development of a national bulk purchasing strategy, to be led by Canada’s Drug
+Agency.
+Establish a committee of experts to make recommendations on the operation and financing of
+national, universal, single-payer pharmacare in Canada.
+In Budget 2024, the Government of Canada announced $1.5 billion over 5 years to support the
+launch of national pharmacare and coverage for contraception and diabetes medications.
+PRINCE EDWARD ISLAND (PEI) INITIATIVE
+On August 11, 2021, the Government of Canada announced the signing of the first agreement with
+the Government of Prince Edward Island (PEI) to inform the advancement of national pharmacare.
+Through this agreement, PEI will receive $35 million in federal funding, to:
+add new drugs to its list of covered drugs, and
+lower out of pocket costs for drugs covered under existing public plans for Island residents.
+The Government of Canada will use early lessons from PEI’s efforts to inform its ongoing work to
+advance national universal pharmacare.
+Since January 23, 2023, PEI expanded access to more than 100 new medications to treat a variety
+of conditions including cancer, heart disease, migraine, and multiple sclerosis.
+Effective June 1, 2023, PEI expanded its provincial drug coverage to reduce co-pays to $5 for almost
+60% of medications regularly used by Islanders and removed barriers to the High-Cost Drug
+Program making it available to all income levels. As of December, 2023, Islanders have saved over
+$2.0 million in out-of-pocket costs on more than 230,000 prescriptions under the $5 co-pay
+program.
+PEI also lowered the cap on the amount of money a household spends on eligible medications
+under the Catastrophic Drug Program as of July 1, 2023.
+DRUGS FOR RARE DISEASES
+On March 22, 2023, the Government of Canada announced the launch of the first-ever National
+Strategy for Drugs for Rare Diseases, supported by investments of up to $1.5 billion over three
+years. This first phase aims to increase access to and affordability of effective drugs for rare
+diseases, which will contribute to improving the health of patients across Canada.
+As part of the overall investment, the federal government will make available up to $1.4 billion over
+three years to provinces and territories to improve access to new and emerging drugs, as well as to
+support enhanced access to existing drugs, early diagnosis, and screening for rare diseases.
+Similarly, to ensure that First Nations and Inuit patients living with rare diseases also benefit, the
+Government is providing up to $33 million over the first three years to support eligible First Nations
+and Inuit clients through Indigenous Services Canada’s Non-Insured Health Benefits Program.
+The Federal Government is also making key investments of a total of up to $68 million for various
+initiatives to be led by the Canadian Agency for Drugs and Technologies in Health (CADTH), the
+Canadian Institute for Health Information (CIHI), and the Canadian Institutes of Health Research
+(CIHR) to advance the collection and use of evidence to support decision making and critical rare
+disease research.
+Health Canada is now working with provinces and territories on bilateral agreements, starting with
+jointly determining a small set of new and emerging drugs that would be cost-shared and covered in
+a consistent way across the country. Constructive discussions between federal, provincial, and
+territorial officials are continuing.
+CADTH/CIHI are making progress on six key activities to support decision-making across the
+pharmaceutical lifecycle, including completing needs assessments with stakeholders and
+provinces and territories, drafting of criteria to guide analysis of disease registries, and establishing
+and launching advisory structures and panels in keys areas of patient registries and newborn
+screening.
+CIHR launched four funding opportunities between June and August 2023. The recipient of the
+largest of these opportunities was announced in February 2024, and includes $20M over 5 years to
+the Maternal Infant Child and Youth Research Network (MICYRN) to create RareKids-CAN – a
+Pediatric Rare Disease Clinical Trials and Treatment Network. Funding is expected to start flowing
+for the remaining three projects beginning in spring 2024.
+Health Canada continues work to establish national governance structures, including the launch of
+a patient and stakeholder Implementation Advisory Group (IAG) in October 2023. Comprised of
+individuals drawn from a range of perspectives and roles, including patients, caregivers, clinicians,
+and industry, the IAG will be central to keeping patients at the centre of the Strategy as Health
+Canada moves through Strategy implementation.
+CANADIAN DRUG AGENCY (CDA)
+On December 18, 2023, the Government announced that it will proceed with the creation of the
+Canadian Drug Agency (CDA), built from the existing Canadian Agency for Drugs and Technologies
+in Health (CADTH) and in partnership with provinces and territories (PTs). The CDA will provide the
+dedicated leadership and coordination needed to make Canada's drug system more sustainable
+and better prepared for the future, helping Canadians achieve better health outcomes. The
+Government is investing $89.5 million over five years to establish the CDA, in addition to the
+existing federal funding of $34.2 million annually to support CADTH. CADTH officially launched as
+Canada’s Drug Agency on May 1, 2024.
+This announcement follows more than two years of extensive consultation that included over 400
+meetings and roundtables with a broad range of stakeholders, including: provinces and territories,
+patients, insurers, pharmaceutical companies, prescribers and academics.
+Informed by extensive consultations – including over 400 meetings and roundtables with
+stakeholders, provinces and territories – the CDA builds on CADTH's existing mandate and
+functions (health technology assessment, post-market safety and effectiveness), expanding to
+include new work streams:
+Improving the appropriate prescribing and use of medications, for better patient health and to
+support system sustainability;
+Increasing pan-Canadian data collection and expanding access to drug and treatment data,
+including real-world evidence data, to better support patients, inform health decisions and enable
+robust system data analytics; and
+Reducing drug system duplication and lack of coordination that causes expensive inefficiencies
+and pressures.
+The CDA will also support critical activities outlined in the pharmacare bill, including development
+of an initial list of essential medicines to inform development of a national formulary, and a national
+bulk purchasing plan.
+NATIONAL FORMULARY
+As set out in Bill C-64, Canada’s Drug Agency will be asked by the Minister of Health prepare a list of
+essential prescription drugs and related products This list would be a starting point for partners to
+consider which pharmaceutical products should be included under national universal pharmacare.
+It would also help set out parameters for future bilateral agreements with PTs.
+Upon completion of this list, the Minister must initiate discussions with PTs, Indigenous peoples
+and other partners and stakeholders with the aim of continuing to work toward the first phase of
+national universal pharmacare.
+The steps outlined in Bill C-64 build on previous work to advance the development of a national
+formulary.
+In June 2022, following broad consultations, a multidisciplinary national panel established to
+develop a draft formulary framework released its final report.
+The panel recommended:
+guiding principles;
+a staged approach, including a proposed sample list of commonly prescribed drugs and related
+products for three common conditions (heart disease, diabetes, mental health)
+other key elements such as a deliberative process to select and evaluate products and an appeal
+process
+The panel’s work was overseen by the Canadian Agency for Drugs and Technologies in Health
+(CADTH), at the request of Health Canada.
+The panel was composed of 2 co-chairs and 12 members. Its members were recruited from across
+Canada and represented diversity across gender, culture, and race. The panel brought together a
+range of expertise and experience, including health care providers (nursing, pharmacy, and
+medicine), persons with lived and living experience, and individuals with backgrounds in ethics and
+health policy.
+ISSUE SHEET – PRIMARY CARE
+ACCESS TO A REGULAR HEALTHCARE PROVIDER
+In national surveys between 2019 and 2021 (from the Canadian Institute of Health Information
+(CIHI)), about 88% of Canadians aged 12 and over reported having a regular healthcare provider,
+with approximately 12% of Canadians reporting not having one , . This is similar to the Statistics
+Canada figure of approximately 14% of Canadians without a regular health care provider, but with
+Quebec excluded from the national average.
+Based on CIHI data, the highest percentage of the population who reported having access to a
+regular healthcare provider were in Ontario and New Brunswick (both at about 90%), with only
+about 10% reporting not having one in these provinces.
+Canadians in Nunavut (24%) and Northwest Territories (52%) reported the lowest rates of having a
+regular healthcare provider .
+For the remainder of the provinces and territories, Canadians reported access to a regular
+healthcare provider ranging between 81% to 88%, with 12% to 19% of the population in these PTs
+indicating that they do not have one.
+Recently, the Commonwealth Fund Survey indicated that in 2023, 86% of Canadians (the lowest
+rate across surveyed countries) had a doctor or place they usually go to for medical care, which
+shows a declining trend from 93% in 2016 and 90% in 2020.
+While the Commonwealth Fund Survey indicates a significant decline from 2016 to 2023 in
+Canadians having access to a doctor or place they usually go to for medical care, data from
+Statistics Canada indicates a relatively stable trend, with 84.2%-86% of Canadians reporting having
+a regular health provider over roughly the same time period.
+WAIT TIMES FOR NON-URGENT HEALTH NEEDS
+Among Canadians who had a regular healthcare provider, 58.3% reported waiting three days or less
+to see them or another provider from the same office for a minor problem in 2021 .
+Manitoba (61.3%), Saskatchewan (62.6%), Ontario (65.3%), Alberta (66.3%), and Nunavut (72.4%)
+had the highest percentage of its population being able to see their regular healthcare provider
+within three days.
+In contrast, Nova Scotia (31.9%) and New Brunswick (38.3%) had the lowest proportion being able
+to see their regular healthcare provider within three days.
+ACCESS FOR UNDERSERVED POPULATIONS
+Indigenous Peoples:
+Indigenous people have experienced long-standing health disparities compared to the non-
+Indigenous population , including issues with access to health care that have likely worsened with
+severe shortages of primary health care physicians across Canada.
+In 2017-2020 , 20.3% of First Nations people living off-reserve, 17.9% of Métis, and 56.5% of Inuit
+across Canada reported being without a regular health care provider.
+Regionally, access to a regular health care provider was lowest in the territories and highest in
+Ontario among First Nations people living off-reserve and Métis.
+Rural Communities:
+In 2021, 17.8% of Canadians lived in rural communities , but they were served (in 2022) by 12.8% of
+family medicine physicians practicing in Canada.
+FEDERAL ACTIONS / FUNDING
+Budget 2023 outlined the federal government’s plan for Working Together to Improve Health Care
+for Canadians, which provides close to $200 billion over ten years in health transfers to provinces
+and territories.
+his plan includes $25 billion in new funding through tailored bilateral agreements with provinces
+and territories to address four shared health priorities:
+expanding access to family health services;
+supporting health workers and reducing backlogs;
+increasing mental health and substance use support; and,
+modernizing health systems through standardized health data and digital tools.
+Bilateral agreements are intended to be flexible and provinces and territories have options to tailor
+their respective Action Plans in response to the unique needs of their populations and geography.
+The Government has now signed bilateral agreements with all provinces and territories to begin
+delivering the $25 billion in new funding available in the ten-year health care plan.
+Agreements and action plans are available online from the Government of Canada and provinces
+and territories will provide annual progress updates to their residents
+Through the bilateral agreements, PTs are directly investing in expanding access to family health
+care services, including with many focusing on leveraging federal funding to strengthen team-based
+care. For example:
+AB is providing stimulus funding for team-based care through its Modernizing Alberta’s Primary
+Health Care System (MAPS) initiative;
+ON is creating additional interdisciplinary primary care teams, with a focus on communities with
+the greatest needs;
+NS is strengthening the role of community-based primary health centers and expanding Primary
+Care Clinics, Urgent Treatment Centres, and community pharmacy primary care clinics; and
+PEI is establishing up to 30 patient medical homes across the province, which are collaborative
+team-based models of primary care.
+In parallel to these direct investments, complementary investments through other shared health
+priorities will also play a key role in strengthening primary care.
+Investments to support health workers will improve primary care by ensuring the appropriate
+resources are available to deliver timely access to family health services, including through team-
+based models of care.
+Investments focused on modernizing health systems through digital tools and health data will help
+strengthen the coordination and integration of primary care and drive efficiencies of how care is
+delivered.
+Supporting the Health Workforce: HHR Work Underway:
+Budget 2024 proposes to provide $77.1 million over four years, starting in 2025-26, to address
+critical health human resource supply challenges. This funding will support the integration of IEHPs
+into Canada’s health workforce by reducing barriers and addressing critical gaps in training
+opportunities. Funding will create 120 medical residency training positions, increase capacity to
+support accelerated licensure processes and get IEHPs working more quickly and provide support
+to help IEHPs navigate credential recognition systems.
+On October 12, 2023, FPT Ministers of Health issued a public statement reaffirming their
+commitment to supporting Canada’s health workforce so our health workers are able to provide
+high-quality, accessible, and effective health services for people living in Canada. In particular, FPT
+governments committed to concrete actions focusing on:
+Retention, reducing rates of stress and burnout and improving workplace culture, flexibility, and
+wellness so health workers can stay in their jobs;
+Domestic education supply and demand, enhancing Canada’s capacity to produce a domestic
+supply of key health professionals, including more training opportunities for Indigenous Peoples
+that meets national demand for care and keeps pace with a growing and aging population;
+Foreign credential recognition and ethical recruitment, making Canada a country of choice for
+health care providers by reducing the time it takes for internationally educated health professionals
+(IEHPs) to join our workforce;
+Labour mobility, supporting an agile and flexible workforce to support access to care; and
+Health workforce data and planning, improving the availability, sharing and standardization of
+health workforce data to support health workforce planning.
+In order to advance these priorities, the Government of Canada is taking action, including:
+Focusing efforts on retaining our health workforce through the creation of the “Nursing Retention
+Toolkit: Improving the Working Lives of Nurses in Canada”, released on March 4, 2024, and the
+Nursing Retention Forum.
+Funding the creation of Health Workforce Canada, a partnership with the Canadian Institute for
+Health Information that will lead a collaborative pan-Canadian approach to improve data
+collection, analysis, knowledge mobilization and policy advice.
+Funding a study of the education and training supply and demand for key healthcare professions to
+identify the best pan-Canadian approaches to meet future healthcare demands for Canadians over
+the next decade, including misalignment across regions and settings.
+On November 1, 2022, the Government of Canada established a Coalition for Action for Health
+Workers. The Coalition’s efforts are focused on identifying approaches to drive pan-Canadian
+action and progress on policy implementation, informed by real world perspectives. The Coalition
+is comprised of representatives from key groups, including nurses, doctors, personal support
+workers, colleges and universities, patients, and equity-seeking communities.
+ISSUE SHEET – QUEBEC (QC)-RELATED ISSUES
+BILATERAL HEALTH FUNDING AGREEMENT
+Issue and Current Status
+All provinces and territories, including QC, signed bilateral agreements by the March 31, 2024
+deadline, enabling them to access funding under the Working Together to Improve Health Care for
+Canadians plan.
+All provinces and territories, including QC, signed bilateral agreements by the March 31, 2024
+deadline, enabling them to access funding under the Working Together to Improve Health Care for
+Canadians plan.
+A total of 26 agreements were signed (two per jurisdiction – Working Together and Aging with
+Dignity)
+Background
+The Government of Canada committed to flexible and tailored bilateral agreements, so that
+provinces and territories, including QC, can address the unique needs of their populations, and
+report on progress to their residents.
+QC is eligible to receive an estimated $6.7 billion over 10 years through the Working Together and
+Aging with Dignity agreements.
+Through the Canada-Quebec Agreement on Federal Funding to Support Quebec’s Health Priorities
+(2023-24 to 2026-27), QC is receiving $2.5 billion over 4 years to improve access to family health
+teams, reduce surgical and diagnostic backlogs, accelerate digital health, and strengthen mental
+health and social services.
+Through the Canada-Quebec Agreement on Federal Funding to Support Home and Community
+Care and Long-term Care (2023-24 to 2027-28), QC is receiving ~$1.2 billion over 5 years to improve
+access to home and community care, and improve safety and quality of life for LTC residents.
+The Government of Canada committed to flexible and tailored bilateral agreements, so that
+provinces and territories, including QC, can address the unique needs of their populations, and
+report on progress to their residents.
+Responsive Lines
+As planned, bilateral agreements were signed with every province and territory fiscal year 2023-24
+and are providing all provinces and territories with the resources needed to support health care
+improvements.
+Like other provinces and territories, QC has developed plans outlining how federal funds will help
+advance the shared priorities outlined in the Working Together to Improve Health Care for
+Canadians plan.
+We will continue to work with provinces and territories on the implementation of these agreements,
+including the public reporting of progress and improvements.
+PHARMACARE AND DRUGS FOR RARE DISEASES
+Issue and Current Status
+On March 22, 2023, the federal government announced the National Strategy for Drugs for Rare
+Diseases (the National Strategy). On February 29, 2024, the federal government introduced Bill C-
+64, An Act respecting pharmacare (Pharmacare Act).
+In Budget 2024, the Government of Canada announced $1.5 billion over 5 years to support the
+launch of national pharmacare and coverage for contraception and diabetes medications.
+QC has publicly stated its position that it will seek to opt out from any national strategy related to
+pharmacare with full compensation and without conditions.
+Background
+The National Strategy was announced on March 22, 2023. It aims to increase access to, and
+affordability of, effective drugs for rare diseases to improve the health of patients across Canada,
+including children.
+As part of the overall investment under the National Strategy, the Government of Canada will make
+available up to $1.4 billion to provinces and territories over the next three years through bilateral
+agreements. This funding will help provinces and territories improve access to new and emerging
+drugs and support enhanced access to existing drugs, early diagnosis, and rare diseases screening.
+Health Canada and PT officials (QC as an observer) have been making progress in discussions to
+finalize a framework for bilateral agreements.
+QC announced a policy on rare diseases in 2022, and a four-year action plan and associated
+funding of $17.2 million in spring 2023.
+Bill C-64, the Pharmacare Act, proposes foundational principles for the first phase of national
+universal pharmacare in Canada and describes the Government of Canada’s intent to work with
+provinces and territories to provide universal, single-payer coverage for a number of contraception
+and diabetes medications.
+As outlined in Bill C-64, there is a commitment to maintaining long-term funding for the provinces,
+territories, and Indigenous peoples to improve the accessibility and affordability of pharmaceutical
+products.
+QC has indicated its desire to opt out unconditionally, with full financial compensation, from the
+National Strategy as well as any national pharmacare plan.
+Responsive Lines
+The federal government understands QC has its own public drug plan and the integral role that the
+Institut national d'excellence en santé et services sociaux (INESSS) plays in the appropriate use
+and evaluation of the cost-effectiveness of medicines.
+The Government of Canada welcomes future conversations with QC, and all provinces and
+territories, on the topic of national pharmacare.
+The Government of Canada also welcomes discussions with QC, and all provinces and territories,
+about building on existing efforts and delivering the benefits of the National Strategy for Drugs for
+Rare Diseases for all patients with rare diseases, including those living in QC.
+When it comes to affordable access to medications, all patients, including those residing in QC,
+can benefit from collaboration.
+DENTAL CARE
+Issue and Current Status
+The phased rollout of the Canadian Dental Care Plan (CDCP) is underway in all jurisdictions,
+including QC.
+More than 1.8M seniors aged 70 and older have applied and are deemed eligible for CDCP, with
+more than 500K in QC.
+As of May 1, the first one million eligible applicants across Canada can now access coverage under
+the CDCP. The next 500,000 eligible applicants will have access to coverage starting on June 1, and
+more will be added each month.
+Seniors aged 65 years and older are now able to apply to the CDCP using the online application.
+Children under 18 and adults with a valid disability tax credit certificate will be able to use the
+online application to apply for enrolment beginning in June.
+QC has requested to opt out of the CDCP, pending negotiations on the terms. Health Canada is
+continuing to engage with QC at the Deputy Minister level to promote short-term cooperation as the
+CDCP is rolled out, while being open to discussions regarding opt-out over the longer term.
+Background
+The CDCP aims to help ease financial barriers to accessing oral health care services and provide
+coverage for eligible Canadian residents without access to dental insurance. It is intended to
+complement existing PT dental programs and fill gaps in coverage for those programs.
+The CDCP continues to be rolled out across Canada, including in QC, and is administered with the
+support of the contracted service provider, Sun Life.
+Prior to the launch of the CDCP, all provinces and territories were provided with the opportunity to
+opt out of federal delivery with compensation, providing they implement a comparable plan and
+meet certain terms and conditions. QC requested to opt out but rejected these terms.
+The QC Assemblée nationale has voted unanimously for QC to opt out with full compensation with
+no conditions. QC’s Budget 2024-25 also cites opting out of the CDCP with full compensation as a
+measure to help balance the QC budget, indicating that the province intends to use funds from any
+opt-out to offset its existing expenditures on QC dental programs.
+Responsive Lines
+The CDCP is being rolled out in all thirteen jurisdictions simultaneously and we are committed to
+working with provinces and territories and oral health care professionals to ensure that Canadians
+continue to have access to affordable, accessible, and essential oral health care.
+The Government of Canada wants to ensure that Quebecers, like other Canadians, are able to
+benefit from increased access to oral health care to the greatest extent possible, starting with
+seniors this month.
+Health Canada continues its dialogue with QC to ensure equal access to dental care for Quebecers
+aimed not only at improving their oral health, but their overall health too.
+CANADA HEALTH ACT
+Issue and Current Status
+QC historically has not recognized the CHA or the federal government’s authority under the Act. QC
+remains committed to its position that health care falls exclusively under provincial jurisdiction.
+Deductions from QC’s Canada Health Transfer were levied in March 2023 ($41,867,224) and in
+March 2024 ($36,014,132) for patient charges for medically necessary diagnostic services at private
+clinics, which are not permitted under the CHA’s Diagnostic Services Policy.
+Recognizing the province has taken some action to improve access to publicly insured diagnostic
+services, a partial reimbursement to QC was also recently made (March 2024) for these deductions
+($46,728,814). QC could be eligible for additional reimbursement if it takes further action to
+eliminate patient charges. Health Canada continues to engage with the province to encourage
+them to do so.
+Background
+Following Health Canada engagement with QC, the province provided the Department with
+information on how Bill 15 and contracting out with private clinics, including diagnostic clinics, will
+help improve access to publicly insured health services. This information fulfilled the requirement
+for a Reimbursement Action Plan under the CHA’s Reimbursement Policy. The province was
+informed that, in light of progress made to eliminate patient charges, they were eligible for a partial
+reimbursement (60%) of their March 2023 and March 2024 deductions.
+On March 11, QC officials were notified by Finance Canada of deduction ($36,014,132) and
+reimbursement ($46,728,814) amounts, which were subsequently applied to the March 18 and
+March 20 Canada Health Transfers to the province. QC was also informed further reimbursement
+could be possible if it took additional actions to eliminate patient charges.
+Responsive Lines
+I am pleased that QC has made strides to increase public access to needed care, including
+diagnostic services, which helps protect patients from being charged for these services.
+Due to the efforts made by QC to improve access to publicly funded diagnostic services, Health
+Canada made a partial reimbursement of the province’s March 2023 and March 2024 deductions
+under the CHA’s Reimbursement Policy, totalling more than $46 million.
+The objective of the CHA is not to levy penalties but to ensure patients do not have pay to access
+medically required care. Health Canada continues to work with QC to encourage them to eliminate
+patient charges for medically necessary services, which would allow the province to be reimbursed
+for the remainder of its March 2023 and 2024 deductions.
+MEDICAL ASSISTANCE IN DYING (MAID)
+Issue and Current Status
+In June 2023, the QC National Assembly passed Bill 11, An Act to amend the Act respecting end-of-
+life care and other legislative provisions which created a provincial regime to permit advance
+requests for MAID (to come into force on a date set by the provincial government that can be no
+later than June 7, 2025).
+QC has requested the federal government explore options to remove legal barriers and permit
+implementation of its advance request regime – most recently through a QC National Assembly
+motion passed in February 2024 requesting the federal Parliament amend the Criminal Code.
+Background
+The Criminal Code does not permit MAID based on an advance request because it requires that a
+person be experiencing enduring and intolerable suffering and be able to provide consent
+immediately before MAID is provided, with limited exception. With an advance request, a person
+would make a request for MAID before they are experiencing enduring and intolerable suffering, and
+receive MAID after they have lost capacity to consent.
+The Special Joint Committee on MAID (AMAD) reviewed advance requests as one of several topics
+addressed in its report tabled in February 2023. AMAD recommended that the Government of
+Canada amend the Criminal Code to allow for advance requests following a diagnosis of a serious
+and incurable medical condition, disease, or disorder leading to incapacity. The federal
+government’s response to the report notes further consultation and study is required; no
+commitments are made to expanding federal legislation.
+Responsive Lines
+We are aware there is strong support among the public for advance requests, particularly for
+persons diagnosed with capacity-limiting diseases like Alzheimer’s. However, we have also heard
+that practitioners place a great deal of value on obtaining a “final consent” as confirmation of a
+person’s wishes.
+Amending the Criminal Code to permit advance requests would be a complex undertaking and first
+require a great deal of consultation and study with provinces and territories, experts, and health
+care stakeholders.
+The Government of Canada remains open to discussing the issue of advance requests with
+provinces and territories.
+ISSUE SHEET – SAFE LONG-TERM CARE ACT
+KEY FACTS ON LONG-TERM CARE
+At the peak of the first wave, outbreaks in long-term care (LTC) and seniors’ homes accounted for
+81% of deaths in Canada. This proportion has constantly decreased since then, but the pandemic
+continued to disproportionately affect Canadians receiving long-term care in community settings,
+specifically long-term care facilities, assisted living facilities, and seniors’ residences.
+According to data from the Canadian Institute for Health Information (CIHI), nearly 19 out of 20
+individuals living in long-term care facilities are seniors, with an average age of 81.
+Based on data reported by CIHI on national health expenditure trends, PTs spend approximately
+$28.5 billion annually on long-term care.
+Based on Census data, more than 200,000 Canadians live in long-term care facilities
+According to the Conference Board of Canada, by 2035, Canada will need an additional 199,000
+beds to meet future demand (approximately doubling the current stock).
+According to CIHI data, 2/3 of long-term care residents have moderate to severe cognitive
+impairment, with 62% being diagnosed with dementia. 71% of residents have some form of
+cognitive ailment.
+In addition, 84% of long-term care residents have significant care needs (e.g., assistance with
+personal hygiene, locomotion, eating)
+About half of long-term residents are admitted directly from a hospital setting. Nearly 3/4 of
+residents die during their long-term care residence.
+An Angus Reid survey from March 2021 found three-quarters of Canadians said either significant
+changes (45%) or a total overhaul (31%) is necessary if LTC is to be improved.
+The same survey found that at least three-in-five residents in British Columbia, Manitoba, Ontario,
+and Atlantic Canada agreed that the Government of Canada should be directly involved in creating
+standards for the industry; however, in Alberta, Saskatchewan and Quebec, the same number
+argued that it should be solely up to the provinces.
+The federal government does not own any long-term care facilities, including federal departments
+responsible for the delivery of long-term care (i.e., Veterans Affairs Canada (VAC), Indigenous
+Services Canada).
+FEDERAL ACTIONS / FUNDING
+LTC standards:
+On December 1, 2022, CSA Group posted their new National Standard for LTC home operations
+and infection prevention and control. This standard addresses the design, operation and infection
+prevention and control practises in long-term care homes.
+On January 31, 2023, HSO released their new National LTC Services Standard, which addresses the
+delivery of safe, reliable, and high-quality LTC services. It focuses on resident-and-family-centred
+care practises; safe, reliable and high-quality care; a healthy and competent workforce; and an
+organizational culture that is outcome-focused and strives towards the safety and well-being of all
+Canadians.
+The federal government welcomed the release of these complementary, independent LTC
+standards. While these standards are independent, the Government of Canada provided close to
+$850,000 in funding to HSO and CSA Group to support enhanced engagement and consultations.
+Safe Long-Term Care Act:
+During summer and fall 2023, the federal government engaged Canadians on the development of a
+Safe LTC Act to help ensure seniors get the care they deserve, while respecting provincial and
+territorial jurisdiction.
+The Safe LTC Act is also being informed by significant engagement and consultations with
+Canadians and stakeholders already carried out by HSO and the CSA Group.
+Federal funding:
+Budget 2023 confirmed the federal government’s Working Together To Improve Health Care for
+Canadians plan to provide close to $200 billion over ten years in health transfers to provinces and
+territories, including $46.2 billion in new funding for provinces and territories to support the health
+system through bilateral agreements, including $25 billion over 10 years to support the 4 shared
+health priorities: expanding access to family health services, supporting health workers and
+reducing backlogs, increasing mental health and substance use support, and modernizing health
+systems.
+$2.4 billion for mental health and substance use services remaining from the 2017 federal budget
+commitment to advance the Common Statement of Principles on Shared Health Priorities.
+In addition to the Working Together agreements, the Government of Canada is collaborating with
+provinces and territories to implement a second set of bilateral agreements focused on the shared
+priority of helping Canadians age with dignity close to home.
+These Aging with Dignity agreements include:
+$2.4 billion over four years to improve access to home and community care from Budget 2017; and
+$3 billion over five years from Budget 2021 to apply standards of care in long-term care facilities
+and help support workforce stability.
+Some of the Aging with Dignity agreements are finalized. Examples of initiatives under these
+agreements include:
+British Columbia:
+Improve the quality of dementia care, palliative, and end-of-life care in Long Term Care through
+implementation of evidence-based practice knowledge, standardized education, and monitoring
+tools.
+Strengthen the appropriateness, safety, and quality of LTC by enabling consistent, appropriate
+standards of care and oversight of LTC services.
+Continue to stabilize and support the LTC workforce.
+Manitoba:
+Increased staffing and operational supports to long-term care facilities.
+Implementation of an infection prevention and control (IPAC) provincial program to improve
+integration, coordination and safety in IPAC practices.
+support significant staffing expansions in facilities in line with increasing quality of care for
+residents and improving safety.
+Northwest Territories:
+Workforce stability- helping meet NWT’s LTC staffing standard of 3.6 hours of direct care per
+resident per day.
+Territorial housekeeping specialist to address deficiencies and furniture and equipment
+replacement.
+Nunavut:
+Development of a Made-in-Nunavut Personal Support Worker Program.
+Support the continuing education of Continuing Care workers.
+Provide virtual Nurse Practitioner resources to support the long-term care facilities in various areas.
+Strengthen best practice supports for long-term care residents
+Build capacity of Nunavut’s Home and Continuing Care Division
+The federal government also:
+Committed $1.7 billion over five years to support hourly wage increases for personal support
+workers and related professions.
+Invested $1 billion, through the Safe LTC Fund, to support provinces and territories to protect those
+living and working in LTC settings.
+Committed $41.3 million over six years, and $7.7 million ongoing, starting in 2021-22, for Statistics
+Canada to improve data infrastructure and data collection on supportive care, primary care, and
+pharmaceuticals.
+Committed $90 million over three years, starting in 2021-22, to Employment and Social
+Development Canada (ESDC) to launch the Age Well at Home initiative.
+Is increasing Old Age Security for seniors 75 and over, beginning in 2022.
+Announced an investment of $48,160,000 to implement a program that would support pilot
+projects providing retirement savings incentives to Personal Support Workers without workplace
+retirement security coverage. Authorities are currently being sought for access to these funds.
+ISSUE SHEET – WILDFIRES
+THE RESPONSIBILITIES OF THE HEALTH PORTFOLIO ON WILDFIRES
+The Health Portfolio is responsible for developing public health guidance, conducting surveillance,
+providing public health surge capacity, and, through the National Emergency Strategic Stockpile,
+responding to requests for assistance for surge assets such as cots, blankets, and masks.
+Through its Air Quality Program, the Health Portfolio provides air quality monitoring surge capacity
+and leads the development of messaging related to the impacts of wildfire smoke on air quality and
+health, including the Air Quality Health Index (AQHI).
+ACTIONS TAKEN ON WILDFIRES
+Last year, the Health Portfolio worked effectively with federal partners to support
+provincial/territorial (PT) and local responses during the wildfire season.
+The Portfolio is preparing early for the upcoming wildfire season, holding portfolio-wide planning
+meetings to prepare for the wildfire season, updating public health guidance documents, and
+providing support to PTs and Indigenous Services Canada on wildfire smoke health effects and
+ways to reduce exposure.
+Health Canada is equipped to respond to emergency requests for air quality monitoring assistance
+and can provide guidance to PTs on the use of small sensors, data interpretation and health
+messaging during wildfire smoke events.
+BACKGROUND
+The World Health Organization (WHO) has called climate change the biggest global public health
+threat of the 21st century. People in Canada are already feeling the effects of climate change on
+their health, including from severe events like heatwaves, wildfires, floods and droughts and the
+expansion of infectious diseases including vector-borne diseases, like Lyme disease, into Canada.
+In June 2023, the Government of Canada released the final National Adaptation Strategy (NAS) and
+supporting Government of Canada Adaptation Action Plan (GOCAAP). The Strategy lays out an
+agreed-upon framework to reduce the risk of climate-related disasters, improve health outcomes,
+protect nature and biodiversity, build and maintain resilient infrastructure, and support a strong
+economy and workers.
+ISSUE SHEET – ASSISTED HUMAN REPRODUCTION
+UPDATED DONOR SCREENING CRITERIA FOR SPERM AND OVA DONORS
+On May 8, 2024, Health Canada updated its screening criteria for sperm and ova donors, integrating
+the latest scientific evidence and input from consultations with subject-matter experts in donor
+screening, industry, patient associations, and 2SLGBTQIA+ groups.
+The updated policy is more inclusive, replacing the previous screening questions relating to men
+who have sex with men (MSM) with gender-neutral, sexual behaviour-based donor screening
+questions.
+The updates build on similar changes made for blood donors in 2022. The Government of Canada is
+committed to ensuring that its sperm and ova donation policy is safe, inclusive and scientifically
+based.
+PRIVATE SPERM DONORS IN QUEBEC
+Health Canada is aware of the situation in Quebec, where it has been reported that hundreds of
+children have been born as a result of privately donated sperm from three related men.
+Private sperm donations from an individual to a recipient for their own use are beyond the scope of
+the Assisted Human Reproduction Act and the related Safety of Sperm and Ova Regulations.
+This is largely a provincial matter, owing to the division of powers which limits the federal role in
+overseeing assisted human reproduction in Canada. Health Canada is open to discussions with the
+province, based on our respective roles and responsibilities in this space.
+ISSUE SHEET – THALIDOMIDE
+CURRENT CONTEXT
+The Canadian Thalidomide Survivors Support Program (CTSSP) was established by Order in Council
+(OIC) in April 2019. The OIC sets out a probability-based medical assessment process for
+determining eligibility under the program, which is designed to align with international best
+practices. An independent third-party administrator is responsible for determining eligibility of
+applicants.
+The CTSSP is currently helping to support 127 survivors. Although new survivors are being admitted
+to the program each year, a few existing survivors have passed away.
+The CTSSP application process was launched on June 3, 2019, for a period of five years. The
+deadline for submitting an application for eligibility is June 3, 2024.
+To date, 291 applications have been submitted to the administrator and are at various stages of the
+probability based medical assessment process.
+Applicants denied at any step of the process are given an opportunity to provide additional
+information to support their submission.
+The CTSSP offers:
+an immediate ex gratia payment of $250,000,
+ongoing yearly support payments of $25K-$100K, indexed at 2% beginning at current year levels;
+and
+access to an Extraordinary Medical Assistance Fund to help with extraordinary health support
+needs such as specialized surgeries, home or vehicle adaptations and some ongoing costs related
+to chiropractic care, physiotherapy and attendant services, among others. The Fund is set at
+$1M/year, indexed at 2%.
+LEGAL LANDSCAPE AND IMPACTS ON THE ASSESSMENT PROCESS
+On April 29, 2024, the Federal Court rendered a decision in the matter known as Richard v. Attorney
+General of Canada, striking the date of birth criteria as an admissibility requirement for the CTSSP.
+all applicants previously denied based on the date of birth criteria were advised of the Court’s
+decision and the opportunity to submit for reconsideration.
+Applicants who meet all three criteria at Step 1, will receive information and materials for
+proceeding to an application for Step 2.
+The Crown’s decision whether to appeal is pending (must be filed within 30 days of judgement).
+On August 2022, a Federal Court judgement was rendered allowing all previously denied step 2
+applications to move to step 3, generating an influx of files for review by the multidisciplinary
+committee.
+The committee is made up of medical geneticists, experts in thalidomide embryopathy and legal
+experts.
+The committee members must carefully review the totality of the information submitted before
+making a recommendation on the probability that thalidomide caused injury. Given the complexity
+of thalidomide embryopathy and the sheer volume of information in each file, this review is time
+consuming.
+The availability of experts world wide is very limited, making it difficult to scale up capacity at this
+stage of the assessment process.
+OTHER LEGAL CHALLENGES
+In February 2021, a group of six confirmed thalidomide survivors, who refer to themselves as the
+Thalidomide Survivors Task Group, filed a Charter Claim against the Crown (Ontario Superior
+Court). The claim alleges that the Crown breached the individuals’ rights with respect to the
+provision of services to individual plaintiffs, mismanagement of the impact of thalidomide on the
+plaintiffs, and the overall funding and management of the CTSSP.
+OTHER CHALLENGES
+There is no definitive medical test for thalidomide (genetic or other), making it a complex issue.
+To this day, a number of children are born with spontaneous or otherwise unaccountable
+malformations similar to those caused by thalidomide.
+According to the World Health Organization, congenital malformations may be the result of one or
+more genetic, infectious, nutritional, or environmental factors. Approximately half of all birth
+defects cannot be linked to a specific cause.
+HISTORY
+Thalidomide, developed as a non-addictive sedative, was approved by the Department of National
+Health and Welfare (now Health Canada) and prescribed off-label to treat morning sickness in
+expectant mothers.
+Government records show that thalidomide was authorized for use in Canada in sample form on
+June 23, 1959. It was licensed for prescription use on April 1, 1961, and remained legally available
+in Canada until March 2, 1962, when it was removed from the market due to its side effects.
+In 1991, the Government of Canada finalized an Extraordinary Assistance Plan (EAP) of $8.5M for
+persons born with disabilities as a result of thalidomide.
+In 2015, the Thalidomide Survivors Contribution Program (TSCP) was introduced, utilizing the same
+evidence-based eligibility criteria as were applied in 1991. Like the CTSSP, supports included a tax-
+free, lump sum payment, ongoing annual payments based on level of disability, and access to an
+Extraordinary Medical Assistance Fund (EMAF) to cover medical expenses such as specialized
+surgery and home or vehicle adaptations not otherwise covered by provincial/territorial health care
+plans.
+Working Together to Improve Health Care for Canadians
+Canada Health Transfer (CHT) and other Health Related Transfers
+This table shows the funding amounts allocated to provinces and territories through the Canada
+Health Transfer (CHT) in 2024-25, as well as, the PT allocations under other programs and transfers,
+such as, Substance Use and Addictions Program (SUAP), the Emergency Treatment Fund, Virtual
+Care, and the 2017 Bilateral Agreements on Home and Community Care and Mental Health and
+Addictions Services.
+NL
+Canada Health Transfer (in millions) (2024-25)
+688
+Substance Use and Addictions Program (in millions) (estimate is for a seven year period)
+2.4
+Emergency Treatment Fund*(in millions) (estimate is for a five year period)
+1.5
+Virtual Care Bilateral Agreement (in millions) (2020-21)
+4.5
+Bilateral Agreement for Home and Community Care and Mental Health and Addiction Services (in
+millions) (estimate is for a ten year period)
+151
+NS
+Canada Health Transfer (in millions) (2024-25)
+228
+Substance Use and Addictions Program (in millions) (estimate is for a seven year period)
+2.5
+Emergency Treatment Fund*(in millions) (estimate is for a five year period)
+3.2
+Virtual Care Bilateral Agreement (in millions) (2020-21)
+5.9
+Bilateral Agreement for Home and Community Care and Mental Health and Addiction Services (in
+millions) (estimate is for a ten year period)
+285
+NB
+Canada Health Transfer (in millions) (2024-25)
+1,379
+Substance Use and Addictions Program (in millions) (estimate is for a seven year period)
+5.3
+Emergency Treatment Fund*(in millions) (estimate is for a five year period)
+2.8
+Virtual Care Bilateral Agreement (in millions) (2020-21)
+5.3
+Bilateral Agreement for Home and Community Care and Mental Health and Addiction Services (in
+millions) (estimate is for a ten year period)
+227
+PEI
+Canada Health Transfer (in millions) (2024-25)
+1,085
+Substance Use and Addictions Program (in millions) (estimate is for a seven year period)
+0.9
+Emergency Treatment Fund*(in millions) (estimate is for a five year period)
+0.52
+Virtual Care Bilateral Agreement (in millions) (2020-21)
+3.5
+Bilateral Agreement for Home and Community Care and Mental Health and Addiction Services (in
+millions) (estimate is for a ten year period)
+47
+QC
+Canada Health Transfer (in millions) (2024-25)
+111,455
+Substance Use and Addictions Program (in millions) (estimate is for a seven year period)
+53.2
+Emergency Treatment Fund*(in millions) (estimate is for a five year period)
+22
+Virtual Care Bilateral Agreement (in millions) (2020-21)
+28.1
+Bilateral Agreement for Home and Community Care and Mental Health and Addiction Services (in
+millions) (estimate is for a ten year period)
+2,479
+ON
+Canada Health Transfer (in millions) (2024-25)
+20,2829
+Substance Use and Addictions Program (in millions) (estimate is for a seven year period)
+135.4
+Emergency Treatment Fund*(in millions) (estimate is for a five year period)
+51
+Virtual Care Bilateral Agreement (in millions) (2020-21)
+46
+Bilateral Agreement for Home and Community Care and Mental Health and Addiction Services (in
+millions) (estimate is for a ten year period)
+4,262
+MB
+Canada Health Transfer (in millions) (2024-25)
+1,889
+Substance Use and Addictions Program (in millions) (estimate is for a seven year period)
+8.2
+Emergency Treatment Fund*(in millions) (estimate is for a five year period)
+4.1
+Virtual Care Bilateral Agreement (in millions) (2020-21)
+7
+Bilateral Agreement for Home and Community Care and Mental Health and Addiction Services (in
+millions) (estimate is for a ten year period)
+399
+SK
+Canada Health Transfer (in millions) (2024-25)
+1,565
+Substance Use and Addictions Program (in millions) (estimate is for a seven year period)
+6.4
+Emergency Treatment Fund*(in millions) (estimate is for a five year period)
+5
+Virtual Care Bilateral Agreement (in millions) (2020-21)
+6.5
+Bilateral Agreement for Home and Community Care and Mental Health and Addiction Services (in
+millions) (estimate is for a ten year period)
+341
+AB
+Canada Health Transfer (in millions) (2024-25)
+6,164
+Substance Use and Addictions Program (in millions) (estimate is for a seven year period)
+11.9
+Emergency Treatment Fund*(in millions) (estimate is for a five year period)
+24
+Virtual Care Bilateral Agreement (in millions) (2020-21)
+15.9
+Bilateral Agreement for Home and Community Care and Mental Health and Addiction Services (in
+millions) (estimate is for a ten year period)
+1,279
+BC
+Canada Health Transfer (in millions) (2024-25)
+7,172
+Substance Use and Addictions Program (in millions) (estimate is for a seven year period)
+62.6
+Emergency Treatment Fund*(in millions) (estimate is for a five year period)
+34
+Virtual Care Bilateral Agreement (in millions) (2020-21)
+18
+Bilateral Agreement for Home and Community Care and Mental Health and Addiction Services (in
+millions) (estimate is for a ten year period)
+1,494
+YK
+Canada Health Transfer (in millions) (2024-25)
+58
+Substance Use and Addictions Program (in millions) (estimate is for a seven year period)
+0.7
+Emergency Treatment Fund*(in millions) (estimate is for a five year period)
+0.5
+Virtual Care Bilateral Agreement (in millions) (2020-21)
+3.1
+Bilateral Agreement for Home and Community Care and Mental Health and Addiction Services (in
+millions) (estimate is for a ten year period)
+12.3
+NWT
+Canada Health Transfer (in millions) (2024-25)
+57
+Substance Use and Addictions Program (in millions) (estimate is for a seven year period)
+2.4
+Emergency Treatment Fund*(in millions) (estimate is for a five year period)
+.5
+Virtual Care Bilateral Agreement (in millions) (2020-21)
+3.1
+Bilateral Agreement for Home and Community Care and Mental Health and Addiction Services (in
+millions) (estimate is for a ten year period)
+13.1
+NU
+Canada Health Transfer (in millions) (2024-25)
+52
+Substance Use and Addictions Program (in millions) (estimate is for a seven year period)
+-
+Emergency Treatment Fund*(in millions) (estimate is for a five year period)
+0.5
+Virtual Care Bilateral Agreement (in millions) (2020-21)
+3.1
+Bilateral Agreement for Home and Community Care and Mental Health and Addiction Services (in
+millions) (estimate is for a ten year period)
+11.3
+Total
+Canada Health Transfer (in millions) (2024-25)
+52,081
+Substance Use and Addictions Program (in millions) (estimate is for a seven year period)
+291.9
+Emergency Treatment Fund*(in millions) (estimate is for a five year period)
+150
+Virtual Care Bilateral Agreement (in millions) (2020-21)
+150
+Bilateral Agreement for Home and Community Care and Mental Health and Addiction Services (in
+millions) (estimate is for a ten year period)
+11,000
+Note: Budget 2024 proposes to provide and additional $150 million over three years, starting in
+2024-25, to Health Canada for an Emergency Treatment Fund, open to municipalities and
+Indigenous communities to help provide rapid responses to emergent, critical needs related to the
+opioid crisis. These funds have yet to be allocated.
+Totals may not add due to rounding
+LONG-TERM CARE
+This table shows the funding amounts that were allocated to provinces and territories in 2021-22 for
+the $1 billion Safe Long-Term Care fund that was first announced in the 2020 Fall Economic
+Statement. It also shows the proposed allocation to provinces and territories under the $3 billion
+long-term care funding that was announced in Budget 2021 and has subsequently become part of
+the Working Together to Improve Health Care for Canadians Health Funding Plan, first announced in
+February 2023, and confirmed in Budget 2024 (see Working Together Table above).
+Jurisdiction
+NL
+Safe Long-Term Care (2020 Fall Economic Statement)
+$15M
+Long-Term Care (Budget 2021) 5 year funding commitment
+$43M
+Jurisdiction
+PEI
+Safe Long-Term Care (2020 Fall Economic Statement)
+$6M
+Long-Term Care (Budget 2021) 5 year funding commitment
+$19M
+Jurisdiction
+NS
+Safe Long-Term Care (2020 Fall Economic Statement)
+$27M
+Long-Term Care (Budget 2021) 5 year funding commitment
+$81M
+Jurisdiction
+NB
+Safe Long-Term Care (2020 Fall Economic Statement)
+$22M
+Long-Term Care (Budget 2021) 5 year funding commitment
+$65M
+Jurisdiction
+QC
+Safe Long-Term Care (2020 Fall Economic Statement)
+$221M
+Long-Term Care (Budget 2021) 5 year funding commitment
+$646M
+Jurisdiction
+ON
+Safe Long-Term Care (2020 Fall Economic Statement)
+$380M
+Long-Term Care (Budget 2021) 5 year funding commitment
+$1,149M
+Jurisdiction
+MB
+Safe Long-Term Care (2020 Fall Economic Statement)
+$37M
+Long-Term Care (Budget 2021) 5 year funding commitment
+$110M
+Jurisdiction
+SK
+Safe Long-Term Care (2020 Fall Economic Statement)
+$32M
+Long-Term Care (Budget 2021) 5 year funding commitment
+$95M
+Jurisdiction
+AB
+Safe Long-Term Care (2020 Fall Economic Statement)
+$115M
+Long-Term Care (Budget 2021) 5 year funding commitment
+$350M
+Jurisdiction
+BC
+Safe Long-Term Care (2020 Fall Economic Statement)
+$135M
+Long-Term Care (Budget 2021) 5 year funding commitment
+$413M
+Jurisdiction
+YT
+Safe Long-Term Care (2020 Fall Economic Statement)
+$3M
+Long-Term Care (Budget 2021) 5 year funding commitment
+$9M
+Jurisdiction
+NWT
+Safe Long-Term Care (2020 Fall Economic Statement)
+$3M
+Long-Term Care (Budget 2021) 5 year funding commitment
+$9M
+Jurisdiction
+NU
+Safe Long-Term Care (2020 Fall Economic Statement)
+$3.0M
+Long-Term Care (Budget 2021) 5 year funding commitment
+$9M
+Jurisdiction
+Total
+Safe Long-Term Care (2020 Fall Economic Statement)
+$1 B
+Long-Term Care (Budget 2021) 5 year funding commitment
+$3B
+Working Together Agreements - Summary
+Overview
+The funding for the current bilateral agreements includes the 3 years (4 years for Quebec) of the
+federal funding commitment of:
+$25 billion over 10 years to support the 4 shared health priorities ($2.5B/year)
+$2.4 billion for mental health and substance use services for the remaining four years of the 2017
+federal budget commitment to advance the Common Statement of Principles on Shared Health
+Priorities ($600M/year)
+The bilateral agreements include action plans that are flexible and tailored by the provinces and
+territories to address the unique needs of their populations and geography. Provinces and territories
+are using federal funds to support one or more of the 4 shared health priorities outlined within the
+Working Together to Improve Healthcare for Canadians plan:
+expanding access to family health services, including in rural and remote areas.
+supporting health workers and reducing backlogs for health services such as surgeries and
+diagnostics.
+improving access to quality mental health, substance use and addictions services.
+modernizing the health care system with standardized information and digital tools so health care
+providers and patients have access to electronic health information.
+Estimate of Federal Funding to PTs – Working Together Agreements ($ millions)*
+PT Signed 3-year Agreements Total 10-year funding commitment
+B2023 Working Together B2017 MHSU Total B2023 Working Together B2017 MHSU Total
+AB 856 210 1,066 2,852 280 3,132
+BC 976 246 1,222 3,253 328 3,581
+MB 369 65 434 1,229 87 1,316
+NB 276 38 313 920 50 970
+NL 232 24 256 772 32 805
+NWT 22 2 24 74 3 76
+NS 308 47 355 1,028 63 1,091
+NU 21 2 23.6 71 3 74
+ON 2,496 699 3,195 8,321 932 9,252
+PEI 87 8 94 288 10 299
+QC 1,984 531 2,515 5,000 531 5,531
+SK 336 55 391 1,118 74 1,192
+YK 22 2 23.8 73 3 75
+Amounts may not equal totals due to rounding, and are subject to annual adjustments based on
+Statistics Canada's population estimates.
+Current QC agreement is 4 years.
+Examples of Initiatives within Provincial and Territorial Action Plans
+PT Expanding access to family health services, including in rural and remote areas
+AB Increase access to primary care by expanding team-based care and enhancing virtual care.
+BC N/A – no spending in action plan
+MB N/A – no spending in action plan
+NB Increase the quality and availability of primary care providers across the province, including
+by allowing nurse practitioners to provide non-urgent care as an alternative
+to emergency department visits.
+NL Increase access to primary care by continuing to add new family care teams, creating
+urgent care centres to service the Northeast Avalon, and adding new positions to substantially
+improve how children receive care.
+NWT Increase coordination and access to primary care across the regions by establishing a
+territorial public health unit.
+NS Increase access to health care providers by expanding clinic hours in rural and remote
+communities, and introducing mobile health services and virtual urgent care.
+NU Increase coordination and access to primary care across the regions, including expanding
+existing paramedic care to all 25 Nunavut communities.
+Increase the number of Inuit in health care positions through an Inuit-specific radiological
+technician program with 150 graduates over three years.
+ON Expand enrollment in health care education programs by over 700 seats.
+PEI Building 16 new Patient Medical Homes and establishing a network of team-based health
+providers and services across the province through Patient Medical Neighbourhoods.
+QC Improve access to family health teams by opening new front-line clinics, make it easier
+to book appointments through the “Votre Santé” portal, and improve care for patients with rare or
+chronic diseases.
+SK Improve access to family health services and acute and urgent care including by creating
+new permanent acute care and complex care beds in Regina and Saskatoon hospitals.
+YK Improve access to family health services, including establishing a new walk-in primary
+care clinic expected to help at least 1,500 patients annually.
+PT Supporting our health workers and reducing backlogs
+AB Funding community providers to increase diagnostic imaging capacity in the
+province, reducing wait times for CT scans and MRIs.
+BC Develop an innovative model of care so nurses can spend more time with patients.
+MB Hire 400 more doctors, 300 more nurses, 200 paramedics, and 100 home care
+workers to address staffing shortages.
+Support new acute care beds to increase system capacity and the number of acute
+care beds.
+NB Support recruitment, retention, and training for health care workers to reduce
+backlogs, such as by incentivizing doctors to move to rural and underserved areas, including
+Francophone communities, and making it easier for health professionals with international
+credentials to practice.
+NL Institute models of care that address surgical backlogs and increase access to
+health services, including by expanding orthopaedic surgeries in Carbonear.
+NWT Support recruitment, retention, and training initiatives for health workers.
+NS Increase the number of family physicians, nurse practitioners, and registered nurses
+to address workforce needs.
+NU Help reduce backlogs, for example, by acquiring key medical equipment to reduce
+reliance on patient travel to Ottawa.
+Address orthopedic needs by purchasing a CT scanner, acquiring a portable MRI,
+and purchasing a C-Arm to increase in-territory medical procedures and reduce the reliance on
+patient travel.
+ON Removing barriers to foreign credential recognition, simplifying licensing processes,
+and increasing program access for highly educated and skilled health professionals.
+PEI Advance interprovincial and foreign credential recognition in the health workforce,
+by developing a strategic plan to recruit internationally educated health professionals, and by
+leveraging technology for streamlined training.
+Increase access to diagnostic services by expanding laboratory services, extending
+hours of operation, and reducing wait times for patients.
+QC Reduce surgical and diagnostic backlogs, by supporting the new approach
+developed for vaccination and screening and extending it to other front-line services.
+SK Help reduce backlogs through the recruitment of new health care workers, and by
+supporting the expansion of 550 post-secondary training seats.
+YK N/A – no spending in action plan
+PT Improving access to quality mental health, substance use, and addictions services
+(including B2023 Working Together and B2017 MHSU funding)
+AB Reduce wait times for community mental health and substance use services by
+establishing new treatment spaces and improving existing ones.
+BC Enhance access to mental health and addictions services by building on existing
+efforts in areas of integrated youth services, treatment and recovery, and innovative approaches to
+respond to the ongoing overdose crisis.
+MB Hire more psychologists to help reduce wait times for counselling.
+Support addictions treatment services, peer support, and other community-based
+mental health.
+NB Expand mental health and substance use supports, including for Indigenous
+communities, particularly youth, and increasing the number of beds in mental health care facilities.
+NL Increase the number of people with access to mental health teams.
+Improve access to services for rural and Indigenous communities and offer
+community- based services, substance use support, and innovative online mental health services.
+NWT Enhance culturally appropriate mental wellness and suicide prevention
+programming, including crisis response.
+NS Enhancing access to youth mental health and substance use services by adding
+three active Integrated Youth Services sites by 2025-26.
+NU Expand the delivery of culturally appropriate mental health and addiction services
+and specialized care.
+Support training for paraprofessionals to ensure Inuit in Nunavut can access Inuit-
+specific, culturally, and linguistically relevant mental health services and programs.
+ON Reduce barriers to accessing early intervention and prevention mental health and
+addictions supports for children and youth.
+PEI Invest in Mobile Mental Health units and Student Well-being Teams to reach an
+additional 2,500 patients by 2026.
+QC Strengthen mental health care, and homelessness and addictions services,
+including by creating new services and spaces for youth and children with disabilities.
+SK Expand mental health and substance use services for youth.
+YK Expand the delivery of mental health and additions services, for example, by
+creating Yukon’s first residential managed alcohol withdrawal program with a capacity of ten beds
+by 2025-26.
+PT Modernizing health systems with health data and digital tools
+AB Enhance access to digital health services and health information by implementing
+e- referral services and accelerating the secure exchange of data across the health system.
+BC Increase the percentage of people in the province who have access to their own
+electronic health information, and increase the percentage of family health service providers that
+can securely share patient health information.
+MB N/A – no spending in action plan
+NB Improve timely access to both virtual and in-person primary care through eVisitNB
+and NB Health Link for those who do not have a primary care provider.
+NL Increase the number of Newfoundlanders and Labradorians who can access their
+own health record electronically.
+NWT N/A – no spending in action plan
+NS Developing digital tools to make it easier for people in the province to access their
+health information, book appointments, and access virtual health services.
+NU N/A – no spending in action plan
+ON Modernize digital infrastructure, including information reporting, collection, and
+sharing.
+Make health care more convenient, connected, and patient-centred by expanding
+the availability of electronic health information and increasing the number of health professionals
+who can securely access and share it.
+PEI N/A – no spending in action plan
+QC Accelerate digitalization across the health care network to make it easier for
+patients to access their information and faster for doctors to update charts.
+SK Modernize health care systems with health data and digital tools by continuing
+investments in eHealth and health sector information technology.
+YK N/A – no spending in action plan
+Questions & Answers
+Pharmacare Bill Legislation
+Q1. How much is this going to cost?
+The bill sets out that discussions would need to first occur between provinces and territories (PTs)
+with respect to the funding of universal, single-payer coverage for a range of contraception and
+diabetes medications. Further information on the cost will be subject to forthcoming discussions
+and subsequent agreements with willing PTs.
+Separate from this Bill, the Government of Canada would also create a fund for diabetes devices
+and supplies. This fund would be rolled out to support access to diabetes devices such as
+continuous glucose monitors, insulin pumps, syringes and test strips.
+Also as set out in the Bill, the Minister will establish a committee of experts to make
+recommendations respecting options for the operation and financing of national, universal, single-
+payer pharmacare, which would include information on costs starting with contraception and
+diabetes medications.
+If pressed on the cost of universal pharmacare,
+The Bill outlines a mechanism, through collaboration and agreements with willing PTs, that will put
+in place a universal single-payer model for the coverage of specific contraception and diabetes
+medications. The intent of this funding would be to enhance, rather than replace, existing PT
+spending on public drug benefit programs.
+There are a range of costing estimates depending on model of coverage and formulary so it would
+be impossible to give a definitive answer to this question. This Bill provides for a committee of
+experts to make recommendations related to the financing and operation of single-payer
+pharmacare.
+If pressed on the $1.5 billion cost stated in news articles and Budget 2024
+The announcement of $1.5B over five years in Budget 2024 confirms the federal government’s
+commitment to provide funding to launch national pharmacare in Canada.
+As outlined in Bill C-64, there is a commitment to maintaining long-term funding for the provinces,
+territories, and Indigenous peoples to improve the accessibility and affordability of pharmaceutical
+products.
+The Bill also states the Government’s intention to work with provinces and territories to increase
+existing public pharmacare coverage to provide universal, single-payer coverage for specific
+contraception and diabetes medications.
+The Minister has had some preliminary discussions with his provincial and territorial counterparts.
+The federal government will discuss with provinces and territories how we can work together to
+achieve these commitments, while recognizing the unique drug coverage context within each
+jurisdiction. As these discussions unfold, more information will become available.
+Q2. Why were contraception and diabetes drugs chosen specifically?
+These targeted measures will improve equity, affordability, and health outcomes and have the
+potential of long-term savings to the health care system.
+Access to contraception reduces the risk of unintended pregnancies and improves people’s ability
+to determine their own contribution to society and the economy. In Canada, there are more than 9
+million people of reproductive age who make up nearly one quarter of the Canadian population
+(22.5% in 2022). Cost has consistently been identified as the single most important barrier to
+access to these medications and the cost is unevenly borne by women and gender diverse
+Canadians.
+Diabetes is a very complex disease affecting more than 3.7 million Canadians and can be treated
+with safe and effective medications. Additionally, uncontrolled diabetes and its complications can
+lead to high and unnecessary costs incurred from lost productivity and elevated health-care system
+use. Access to diabetes medications can improve the health of Canadians living with diabetes and
+reduce the risk of serious life-changing health complications such as blindness or amputations.
+More information is available in the backgrounders.
+Q3. When will other drugs be added and what is the process to do that?
+This Bill outlines a framework that would help guide collaboration with provinces, territories,
+Indigenous Peoples, stakeholders and partners to develop national universal pharmacare over
+time, based on the foundational principles outlined in the Bill.
+The Bill also sets out processes and next steps for other foundational elements of a national
+pharmacare program, including work on a national formulary, a national bulk purchasing plan, an
+appropriate use strategy and an expert committee. The consideration of adding other drugs would
+evolve against the backdrop of these other elements, in addition to ongoing collaboration with
+provinces, territories, stakeholder and partners.
+In addition to work that will be carried out through the Bill, the Government of Canada is already
+moving forward, in collaboration with PTs, on other pharmacare initiatives that are delivering
+results. This includes work on the National Strategy for Drugs for Rare Diseases, the Improving
+Affordable Access to Prescriptions Drugs Initiative with Prince Edward Island, and work to establish
+the Canadian Drug Agency.
+Q4. Is this coverage of contraception and diabetes medications truly “single payer” model?
+Canada currently relies on more than 100 government-run drug insurance programs designed to
+serve people in vulnerable groups, and more than 100,000 private drug insurance plans that largely
+provide employment-based coverage. A “single-payer” system means that a government pays for
+services on behalf of all its citizens. In the Canadian context, where PTs deliver health care, the
+term “single-payer” means PT governments, which is often supported by federal funding.
+The Bill outlines a mechanism, through collaboration and agreements with willing PTs, that will put
+in place a universal single-payer model for the coverage of specific contraception and diabetes
+medications. The intent of this funding would be to enhance, rather than replace, existing PT
+spending on public drug benefit programs.
+Q5. What could be the impact on private drug insurance? Should people opt-out of their private
+insurance plan if their province accepts funding for contraception and diabetes?
+The Bill does not reference private drug insurance or legislate any of its activities. Workplace health
+benefit plans often cover a range of costs beyond drug coverage, including services from other
+health providers (such as physiotherapy) and include benefits like life insurance and disability
+benefits. Employers use these plans for recruitment and retention of employees, as part of an
+employee’s compensation. Until agreements are in place with PTs, employers and employees
+would be unlikely to want to make any changes to their drug plans.
+Canadians that do have private drug insurance would also have coverage for a broader scope of
+drug classes beyond the specific contraception and diabetes medications outlined in the Bill.
+Furthermore, access to the specific contraception and diabetes medications will be dependent on
+the establishment of bilateral agreements with PTs before implementation of this initiative
+commences.
+Q6. Would there need to be changes to the CHA to roll-out full pharmacare?
+There are no plans to make amendments to the Canada Health Act (CHA) and this Bill does not
+require the CHA be amended.
+In recognition of PT jurisdiction on the delivery of health care services and the essential role they
+play in implementing pharmacare, it is important that the Canadian government take a
+collaborative approach with partners as we move forward.
+This Bill provides a flexible approach to allow for discussions to occur with PTs and subsequently
+working with them to implement national universal pharmacare over time.
+Furthermore, the Bill contains other pharmacare commitments such as a national formulary and a
+national bulk purchasing plan which would be outside the scope of the CHA.
+Q7. Why doesn’t this Bill follow the recommendations outlined in the Advisory Council/ Hoskins
+report?
+This preamble text of the Bill recognizes the work and recommendations of the Advisory Council
+and the Bill follows several recommendations of the report, including:
+Taking a step by step approach to the implementation of pharmacare in partnership with PTs and
+Indigenous populations;
+Having essential medicines as a starting point in the development of a national formulary;
+Establishing a Canadian Drug Agency (CDA) that would help develop a national formulary, a
+purchasing strategy, and provide guidance on appropriate use; and,
+Recognizing the need to improve access to drugs for rare diseases.
+Q8. Why is there currently funding to PEI for its program and no other province or territory?
+The PEI demonstration initiative is giving real world lessons in how pharmacare principles can be
+implemented in Canada's distinct pharmaceutical landscape.
+PEI signaled its interest in participating in a demonstration initiative and an agreement was
+announced on August 11, 2021. Through this agreement, PEI received $35 million in federal funding
+to add new drugs to its list of covered drugs and lower out of pocket costs for drugs covered under
+existing public plans for Island residents.
+To date, the PEI project has increased access to over 100 drugs, reduced copays and other cost
+barriers for residents, and reduced paperwork to access certain medications. Within the first 6
+months alone, PEI residents have saved over $2 million on over 230,000 prescriptions. These
+actions under the PEI demonstration initiative have helped demonstrate practically how
+affordability and accessibility principles can be achieved in the real world.
+The Government of Canada will use these lessons to inform future discussions with PTs.
+Q9. Have discussions taken place with other provinces and territories? Are they supportive?
+This Bill sets the framework for future collaboration in implementing national universal pharmacare
+with willing jurisdictions and also key partners including Indigenous Peoples, patients, and
+stakeholders.
+The Government of Canada would work with willing PTs to implement coverage for specific
+contraception and diabetes medications through bilateral agreements.
+The Government of Canada is already engaging PTs on other pharmacare initiatives that are
+delivering results, including the National Strategy for Drugs for Rare Diseases, the Improving
+Affordable Access to Prescriptions Drugs initiative and working to establish the CDA.
+Q10. What will the national formulary look like and how will it be covered under national universal
+pharmacare?
+A national formulary is a list of approved prescription drugs and products which all Canadians
+should have access to under national universal pharmacare.
+To inform the development of a national formulary, this Bill sets out that the Minister would request
+the CDA prepare a list of essential prescription drugs and related products. This list would be a
+starting point for partners to consider which pharmaceutical products should be included under
+national universal pharmacare. It would also help set out parameters for future bilateral
+agreements with PTs.
+Upon completion of this list, the Minister must initiate discussions with PTs, Indigenous peoples
+and other partners and stakeholders with the aim of continuing to work toward the first phase of
+national universal pharmacare.
+The CDA is an expert in this area and is best placed to develop this starting point in collaboration
+with PTs, Indigenous Peoples, and other partners and stakeholders. The CDA would be expected to
+develop this list no later than the first anniversary of the day on which this Bill gets approved.
+Q11. How long will it take to get to full pharmacare if this is a foundational step?
+The 2019 Advisory Panel proposed a step-by-step approach and implementation over seven years
+as it recognized the complexity of the current situation with regard to prescription drug affordability
+and access in Canada, taking into consideration the various ways Canadians may receive drug
+coverage.
+This Bill would guide collaboration with PTs, Indigenous Peoples, stakeholders, and partners to
+develop national universal pharmacare over time, based on the foundational principles outlined in
+the Bill.
+This will also be dependent on the forthcoming discussions with PTs regarding specific
+contraception and diabetes medications and subsequent agreements that will be put in place with
+willing PTs.
+Q12. What is the bulk purchasing strategy?
+This Bill tasks the Minister to request the CDA to develop advice on a national bulk purchasing
+strategy no later than the first anniversary of the day on which the Act receives royal assent.
+In simple terms, a bulk purchasing strategy means a coordinated price negotiation approach to
+maximize negotiating power and lead to lower drug prices for Canadians. Because the purchase is
+made in bulk form, a better deal can be negotiated.
+The bulk purchasing strategy will not include the physical purchase and stockpile of drugs by the
+Government of Canada on behalf of responsible governments.
+Q13. Does this Bill create the mandate for the Canadian Drug Agency?
+No. The Bill does not create anything regarding the Agency’s organizational mandate, governance,
+or funding. The creation of the CDA was announced on December 18, 2023.
+The Bill describes the Minister’s power to request advice from the CDA. It states that the Minister of
+Health must request that the CDA prepare a list of essential prescription drugs and related
+products to inform the development of a national formulary and develop a national bulk purchasing
+strategy.
+If pressed on the role and functions of the CDA:
+The CDA will be built from the existing Canadian Agency for Drugs and Technologies in Health
+(CADTH) and in partnership with PTs. The CDA will incorporate and expand on CADTH’s expertise in
+the pharmaceutical sector, including its strong leadership and technical proficiency.
+The CDA will work to improve the appropriate prescribing and use of medications; increase access
+to drug and treatment data; and reduce drug system duplication and lack of coordination.
+Q14. What will be the impact of the pharmacare bill on Indigenous Peoples in Canada?
+The Bill commits to engaging and collaborating with First Nations, Inuit, and Métis governments and
+representative organizations on the implementation of national universal pharmacare.
+The Bill has no impact on any current federal programs for Indigenous Peoples, such as drug
+coverage for registered First Nations and recognized Inuit through the Non-Insured Health Benefits
+(NIHB) Program.
+Q15. What if a province opts out with the expectation of full compensation?
+As outlined in the Bill, in order to receive federal funding to provide universal, single-payer coverage
+for contraception and diabetes medications, a bilateral agreement would need to be made
+between the Government of Canada and a willing province or territory.
+The Bill also recognizes the jurisdiction of PTs in the provision of health care, including the coverage
+of prescription drugs and related products.
+Q16. In BC, contraceptives are already free. What will this new federal program mean for them?
+As outlined in the Bill, in order to receive federal funding to provide universal, single-payer coverage
+for contraception and diabetes medications, a bilateral agreement would need to be made
+between the Government of Canada and a province or territory.
+We will take the necessary time to work with provinces and territories, like BC, to discuss the
+details of bilateral agreements recognizing the unique public drug coverage contexts across all of
+the PTs.
+Q17. How will this Bill apply in Quebec for contraceptive and diabetes coverage?
+Quebec has a mixed payer model which ensures that their residents always have some form of
+public or private drug coverage.
+This Bill outlines the framework for discussions to come with willing jurisdictions as partners in
+implementing national universal pharmacare, including Quebec. It also sets out foundational
+principles for affordability, accessibility, appropriate use and universality that can be applied to any
+drug coverage model in Canada.
+Q18. If this Bill is only framework legislation, what is the Government doing now to make drugs
+more accessible and affordable for Canadians?
+The Government continues its work to streamline the approval of new drugs while ensuring their
+safety, efficacy, and quality; advance on national pharmacare; implement a national strategy for
+drugs for rare diseases; and proceed with an ambitious biomanufacturing and life sciences
+strategy.
+These developments will improve the accessibility of new medicines for people in Canada and
+support the sustainability of the health care system, while at the same time supporting innovation
+and investment in the pharmaceutical sector.
+On March 22, 2023, the Minister of Health announced measures in support of the first-ever
+National Strategy for Drugs for Rare Diseases, with an investment of up to $1.5 billion over three
+years to increase access to, and affordability of, effective drugs for rare diseases to help improve
+the health and lives of patients living with a rare disease in Canada. This investment in improving
+the accessibility and affordability of drugs for rare diseases is an important piece of pharmacare.
+The Government of Canada has also been working in collaboration with PTs to help Canadians
+access more common prescription medications. In August 2021, the Government announced the
+Improving Affordable Access to Prescriptions Drugs agreement to provide Prince Edward Island
+(PEI) with $35 million over four years starting in 2021-22 to support the province’s efforts to provide
+its residents with more affordable access to prescription drugs.
+In June 2023, PEI’s $5 copay program reduced copays for almost 60% of medications regularly used
+by Island residents for eligible medications used for cardiovascular disease, diabetes and mental
+health covered under the public drug programs. The High-Cost Drug Program was also modified to
+remove barriers making the program available to all income levels. In addition, in July 2023, PEI
+adjusted the Catastrophic Drug Program to lower the annual cap on the amount of money a
+household spends on eligible medications.
+As of November 2023, PEI residents have saved over $2 million out-of-pocket costs on more than
+230,000 prescriptions.
+The Government of Canada also supports the work of the pan-Canadian Pharmaceutical Alliance
+(pCPA) which negotiates drug prices for public drug plans. These negotiations have produced
+savings of $3.4 billion annually.
+Q19. What are the options for models that the government is considering (or that you have studied)
+for pharmacare?
+The Bill does not identify a model of pharmacare
+The Bill commits that the Government of Canada would continue to collaborate with partners and
+stakeholders in implementing national universal pharmacare.
+Specific models, including the operation and financing of universal, single payer pharmacare, will
+be studied by the expert committee described in the Bill.
+News Release
+For Immediate Release
+Government of Canada Introduces Legislation for First Phase of National Universal Pharmacare
+Legislation includes universal access to contraception and diabetes medications.
+February 29, 2024 | Ottawa, Ontario | Health Canada
+Today, the Honourable Mark Holland, Minister of Health, introduced Bill C-64, An Act respecting
+pharmacare (Pharmacare Act), which proposes the foundational principles for first phase of
+national universal pharmacare in Canada and describes the Government of Canada’s intent to
+work with provinces and territories (PTs) to provide universal, single-payer coverage for a number of
+contraception and diabetes medications.
+The Minister also announced the government’s plan to establish a fund to support Canadians’
+access to supplies that diabetics require to manage and monitor their condition and administer
+their medication, such as syringes and glucose test strips.
+This legislation is an important step forward to improve health equity, affordability, and outcomes
+and has the potential of long-term savings to the health care system.
+Coverage for contraceptives will mean that 9 million Canadians of reproductive age will have better
+access to contraception and reproductive autonomy, reducing the risk of unintended pregnancies
+and improving their ability to plan for the future. Cost has consistently been identified as the single
+most important barrier to access to these medications and the cost is unevenly borne by women
+and gender diverse Canadians. Bill C-64 will ensure that Canadians will have access to a
+comprehensive suite of contraceptive drugs and devices.
+Diabetes is a complex disease that has no cure but can be treated with safe and effective
+medications. One in four Canadians with diabetes have reported not following their treatment plan
+due to cost.
+Improving access to diabetes medications will help improve the health of 3.7 million Canadians
+living with diabetes and reduce the risk of serious life-changing health complications such as
+blindness or amputations.
+Over the past year, the Government of Canada has delivered on key actions to provide better and
+more accessible health care in Canada. Financial barriers should not be an impediment to
+accessing safe and effective prescription drugs and related products. We are determined to work
+towards a plan where Canadians can obtain their medication as prescribed, regardless of where
+they live or their ability to pay.
+The Bill demonstrates the Government of Canada’s commitment to consulting widely about the
+way forward and working with provinces, territories, Indigenous peoples and other partners and
+stakeholders to improve the accessibility, affordability and appropriate use of pharmaceutical
+products, by reducing financial barriers and contributing to physical and mental health and well-
+being.
+Bill C-64 also provides that the new Canadian Drug Agency work towards the development of a
+national formulary, develop a national bulk purchasing strategy, and support the publication of a
+pan- Canadian strategy regarding the appropriate use of prescription medications.
+Together, these elements would form the key next steps towards national universal pharmacare in
+Canada. The Minister would further establish a committee of experts to make recommendations on
+the operation and financing of national, universal, single-payer pharmacare in Canada.
+Bill C-64 proposes a significant change to our heath care landscape, which, together with the
+learnings from ongoing initiatives such as the National Strategy for Drugs for Rare Diseases and the
+Improving Affordable Access to Prescriptions Drugs initiative with Prince Edward Island, are part of
+the Government of Canada’s plan to ensure Canadians can access the medicines they need and
+pave the way forward towards the implementation of national universal pharmacare in Canada.
+Quotes
+“Each and every Canadian should have access to the prescription drugs they need. That’s why
+we’re working with our partners towards the first phase of national universal pharmacare. This
+important next step will provide universal access to contraception and diabetes medication that
+will be transformational in improving health outcomes in Canada.”
+The Honourable Mark Holland Minister of Health
+Quick Facts
+On December 18, 2023, the Government of Canada announced the creation of the Canadian Drug
+Agency with an investment of over $89.5 million over 5 years, starting in 2024-25. The Agency will
+provide the dedicated leadership and coordination needed to make Canada’s drug system more
+sustainable and prepared for the future and help Canadians achieve better health outcomes.
+On March 22 2023, the Government of Canada announced measures in support of the first-ever
+National Strategy for Drugs for Rare Diseases, with an investment of up to $1.5 billion over three
+years to help increase access to, and the affordability of, effective drugs for rare diseases. Bill C-64
+commits to a model for long-term funding, beginning with funding for the National Strategy for
+Drugs for Rare Diseases and to be primarily provided through bilateral agreements with provinces
+and territories.
+PEI residents have saved over $2 million in out-of-pocket costs on more than 230,000 prescriptions
+under PEI’s $5 copay program, which was launched in June 2023 and reduced copays for almost
+60% of medications regularly used by Island residents. These latest improvements are an important
+milestone of the Improving Affordable Access to Prescriptions Drugs (IAAPD) initiative that provides
+federal funding to PEI to improve access to prescription drugs and make prescriptions drugs more
+affordable for Island residents.
+Associated Links
+Backgrounder: Universal Access to Contraception
+Backgrounder: Universal Access to Diabetes Medications, and Diabetes Device Fund for Devices
+and Supplies
+Final Report of the Advisory Council on the Implementation of National Pharmacare
+Prescription drug insurance coverage
+Canada’s Plan for Universal Pharmacare
+Steps towards national universal pharmacare
+2019:
+Final Report of the Advisory Council on the Implementation of National Pharmacare
+Budget 2019 Commitment for foundational elements: Canadian Drug Agency (CDA), National
+Formulary and National Strategy for Rare Diseases
+2020:
+Speech from the Throne commitment to PT engagement towards national, universal pharmacare,
+proceeding with National Strategy for Rare Diseases, advancing work to establish the CDA
+2021:
+Investment of $35M with Prince Edward Island for the Improving Affordable Access to Prescription
+Drugs Initiative
+2022:
+June 2022, a multidisciplinary national panel convened by the Canadian Agency for Drugs and
+Technology in Health (CADTH), at the request of Health Canada, recommended a framework for
+developing a national formulary and a sample list of drugs.
+Budget 2022 commitments to introduce Pharmacare Bill and task CDA to develop a national
+formulary
+2023:
+March 2023, the National Strategy for Drugs for Rare Diseases (DRD) was launched with an
+investment of up to $1.5B over 3 years to increase access to, and affordability of, DRDs.
+December 2023 creation of the Canadian Drug Agency (CDA) with an investment of $89.5 million
+over 5 years, starting in 2024-25.
+An Act respecting pharmacare
+This Bill represents the first phase in the federal government’s commitment to establish national
+universal pharmacare.
+Sets the federal government’s framework to guide its efforts with partners to improve prescription
+drug accessibility, affordability, universal coverage and appropriate use, for all Canadians.
+Formalizes a requirement to work collaboratively with provinces and territories and Indigenous
+peoples to build national universal pharmacare through a step-by-step approach.
+Describes the Government’s intent to provide universal, single-payer coverage for a range of
+contraception and diabetes medications through collaborative arrangements with willing provinces
+and territories.
+Supports the development of a national formulary of essential prescription drugs and related
+products and the development of a national bulk purchasing strategy, to be led by the Canadian
+Drug Agency.
+Principles
+The bill outlines that the Minister is to consider the following principles and the Canada Health Act,
+when collaborating with provinces, territories, Indigenous peoples and other partners and
+stakeholders towards national universal pharmacare:
+a. improve the accessibility of pharmaceutical products, including through their coverage, in a
+manner that is more consistent across Canada;
+b. improve the affordability of pharmaceutical products, including by reducing financial barriers for
+Canadians;
+c. support the appropriate use of pharmaceutical products — namely, in a manner that prioritizes
+patient safety, optimizes health outcomes and reinforces health system sustainability — in order to
+improve the physical and mental health and well-being of Canadians; and
+d. provide universal coverage of pharmaceutical products across Canada.
+The principles included in the bill are intended to guide efforts to improve coverage for Canadians
+and align with ongoing work related to drugs for rare diseases and the Canadian Drug Agency.
+Bilateral Agreements and Funding
+This Bill legislates a path to bilateral agreements with willing provinces and territories by providing a
+federal commitment to long-term pharmacare funding beginning with existing funding for drugs for
+rare diseases as announced in Budget 2019.
+If the Minister enters in a bilateral agreement with a willing province or territory, the Minister may
+provide funding to that province or territory, to increase any existing pharmacare coverage, allowing
+the province or territory to provide universal, single-payer, first dollar coverage, for specific
+prescription drugs and related products intended for contraception or the treatment of diabetes.
+Specific Contraception and Diabetes Medications
+The Government will work with willing provinces and territories to implement coverage for specific
+contraception and diabetes medications through bilateral agreements, per the Bill. Funding will
+enhance, rather than replace, existing provincial and territorial spending on public drug benefit
+programs.
+The specific contraception and diabetes medications are listed in the backgrounders.
+Specific Contraception and Diabetes Medications (cont’d)
+Starting with these drugs is part of the step-by-step approach set out in the Bill.
+Provides an opportunity to test the application of the principles of improving access, affordability,
+appropriate use and universal coverage at a national scale within the context of the complexity of
+Canada’s healthcare system.
+Provides for a nationally consistent approach that some provinces have already begun to
+implement to support uptake of effective contraception methods.
+Benefits people living with and managing diabetes and helps ensure that these individuals are able
+to afford the drugs that they need.
+The Minister will also work with PTs to establish a fund for diabetes devices and supplies to support
+patients in managing their diabetes and administering their medication.
+The Canadian Drug Agency (CDA)
+On December 18, 2023, the Government of Canada announced the creation of the Canadian Drug
+Agency (CDA). The CDA will be built from the existing Canadian Agency for Drugs and Technologies
+in Health (CADTH) and in partnership with provinces and territories (PTs).
+The bill outlines the functions of the CDA, a key foundational element of national pharmacare, as
+outlined below:
+Clinical and cost-effectiveness analysis
+Advice to inform formulary listing by federal, provincial and territorial drug plans
+Pharmaceutical data and analytics
+Appropriate prescribing and use
+Pharmaceutical system coordination
+National Formulary and Bulk Purchasing Strategy
+After discussions with the provinces and territories, the Bill requires that the Minister request that
+the CDA:
+1. prepare a list of essential prescription drugs and related products to inform the development of a
+national formulary that will establish the scope of prescription drugs and related products to which
+Canadians should have access under national universal pharmacare.
+Upon completion of this list, the Minister must initiate discussions with provinces, territories,
+Indigenous peoples and other partners and stakeholders with the aim of continuing to work toward
+the implementation of national universal pharmacare.
+2. develop, in collaboration with partners and stakeholders, a national bulk purchasing strategy.
+The Minister must request the CDA complete the list and strategy no later than the first anniversary
+of the day on which this Act receives royal assent.
+Appropriate Use Strategy
+Work to advance a pan-Canadian strategy for appropriate use began in March 2023, with the launch
+of an Advisory Committee to inform the strategy and a corresponding program.
+An Appropriate Use Strategy section commits the Minister to:
+ensuring that a pan-Canadian strategy for appropriate use is published no later than one year after
+royal assent of the Act and,
+requesting that the CDA prepare reports every three years on the progress made in advancing the
+strategy.
+Committee of Experts
+The Minister must, within 30 days of the day on which this Act receives royal assent, establish a
+committee of experts, and provide for its membership, to make recommendations respecting
+options for the operation and financing of national, universal, single-payer pharmacare.
+The committee must, no later than the first anniversary of the day on which this Act receives royal
+assent, provide a written report to the Minister setting out its recommendations.
+Summary of Next Steps
+Should this Bill be passed:
+The Minister will establish a committee of experts, within thirty days of the day after this Act
+receives royal assent. Appointment of committee members would be shared publicly.
+Ministerial outreach will commence on next steps, including discussions with provinces and
+territories regarding bilateral agreements.
+The Minister will request that within one year on which this Act receives royal assent, the Canadian
+Drug Agency:
+prepare a list of essential prescription drugs and related products to inform the development of a
+national formulary, and
+develop a national bulk purchasing strategy.
+Initiatives that are underway related to affordable prescription medicines in Prince Edward Island,
+efforts under the National Strategy for Drugs for Rare Diseases, and work by the Canadian Drug
+Agency, will all continue and will be evaluated for their lessons learned for national universal
+pharmacare in Canada.
+Backgrounder: Universal Access to Contraception
+February 29, 2024
+Today, the Honourable Mark Holland, Minister of Health, announced the Government of Canada’s
+next step toward national universal pharmacare with the introduction of Bill C-64, An Act respecting
+pharmacare, into Parliament, and the intention to provide universal, single-payer coverage for a
+range of contraception medications and devices in collaboration with provinces and territories
+(PTs).
+Contraceptives
+Contraception, also known as birth control, is used to prevent pregnancy. In Canada, there are
+more than 9 million people of reproductive age, nearly one quarter of the Canadian population.
+Contraceptive drugs were chosen as part of this next step of universal pharmacare specifically
+because improved access to contraception improves equality. It reduces the risk of unintended
+pregnancies and improves reproductive rights.
+Cost has been identified by Canadian contraceptive care providers as the single most important
+barrier to access to these medications. Oral contraceptives cost approximately $25 per unit, or
+$300 per year. Intrauterine Devices (IUDs), which are effective for five years, cost approximately up
+to $500 per unit.
+Cost can discourage people both from accessing contraception, and from choosing more effective
+methods of contraception with a higher upfront cost. For example, oral contraceptives have a
+typical use failure rate of 9% compared to 0.20% for IUDs. Not having affordable access to effective
+contraception can increase the risk of unintended pregnancies, which can impact life plans such
+as going to school and advancing in one’s career.
+Some populations are disproportionally affected by the lack of coverage. Women, people with low
+incomes and young people, all of whom are all more likely to work in part‑time or contract
+positions, often lack access to private coverage. One study found that women and girls from lower-
+income households are more likely to use less-effective contraceptive methods or no contraceptive
+method.
+Although most drug plans list a range of contraceptive products, only a fraction of Canadians are
+eligible for prescription birth control at low or no cost through a public drug plan. If they do not have
+drug coverage through an employment-based private health benefit plan, Canadians would
+typically have access to only a public safety net coverage plan intended to protect residents from
+very high drug costs. The high deductibles under these plans (e.g., 3-20% of household income), in
+addition to co-payments, mean these plans typically offer little relief for routine drug expenses,
+such as contraception.
+Studies have demonstrated that publicly funded no-cost universal contraception can result in
+public cost savings. Evidence from the University of British Columbia (BC) estimated that no- cost
+contraception has the potential to save the BC health care system approximately $27 million per
+year.
+Types of Contraceptives Being Covered
+Today’s announcement will ensure that, following agreement with PTs, people in Canada will have
+access to a comprehensive suite of contraceptive drugs and devices to choose from according to
+their medical suitability and personal circumstances.
+This includes oral contraceptives, copper and hormonal IUDs, injections, implants, rings, and
+morning-after pills.
+The Government of Canada will be launching discussions with PTs on providing universal, single-
+payer coverage based on the list of contraceptive drugs and devices attached to this backgrounder.
+List of contraception to be discussed with provinces and territories for specific coverage
+Dosage Form Brand Name Generic Name
+Oral birth control pills Alesse 21 ethinyl estradiol 20 mcg
+levonorgestrel 0.1 mg
+Alesse 28 ethinyl estradiol 20 mcg
+levonorgestrel 0.1 mg
+Alysena 21 ethinyl estradiol 20 mcg
+levonorgestrel 0.1 mg
+Alysena 28 ethinyl estradiol 20 mcg
+Dosage Form Brand Name Generic Name
+levonorgestrel 0.1 mg
+Apri 21 ethinyl estradiol 30 mcg
+desogestrel 0.15 mg
+Apri 28 ethinyl estradiol 30 mcg
+desogestrel 0.15 mg
+Audrina 21 ethinyl estradiol 20 mcg
+levonorgestrel 0.1 mg
+Audrina 28 ethinyl estradiol 20 mcg
+levonorgestrel 0.1 mg
+Aviane 21 ethinyl estradiol 20 mcg
+levonorgestrel 0.1 mg
+Aviane 28 ethinyl estradiol 20 mcg
+levonorgestrel 0.1 mg
+Brevicon 0.5/35 (21) ethinyl estradiol 35 mcg
+norethindrone 0.5 mg
+Brevicon 0.5/35 (28) ethinyl estradiol 35 mcg
+norethindrone 0.5 mg
+Brevicon 1/35 (21) ethinyl estradiol 35 mcg
+norethindrone 1 mg
+Brevicon 1/35(28) ethinyl estradiol 35 mcg
+norethindrone 1 mg
+Drospirenone and Ethinyl Estradiol Tablets ethinyl estradiol 20 mcg
+drospirenone 3 mg
+Drospirenone and Ethinyl Estradiol Tablets 21 ethinyl estradiol 30 mcg
+drospirenone 3 mg
+Drospirenone and Ethinyl Estradiol Tablets 28 ethinyl estradiol 30 mcg
+drospirenone 3 mg
+Freya 21 ethinyl estradiol 30 mcg
+desogestrel 0.15 mg
+Freya 28 ethinyl estradiol 30 mcg
+desogestrel 0.15 mg
+Jencycla norethindrone 0.35 mg
+Linessa 21 ethinyl estradiol 25 mcg
+desogestrel 0.1/ 0.125/ 0.15 mg
+Linessa 28 ethinyl estradiol 25 mcg
+desogestrel 0.1/ 0.125/ 0.15 mg
+Marvelon 21 ethinyl estradiol 30 mcg
+Dosage Form Brand Name Generic Name
+desogestrel 0.15 mg
+Marvelon 28 ethinyl estradiol 30 mcg
+desogestrel 0.15 mg
+Min-Ovral 21 ethinyl estradiol 30 mcg
+Levonorgestrel 0.15 mg
+Min-Ovral 28 ethinyl estradiol 30 mcg
+levonorgestrel 0.15 mg
+Mirvala 21 ethinyl estradiol 30 mcg
+desogestrel 0.15 mg
+Mirvala 28 ethinyl estradiol 30 mcg
+desogestrel 0.15 mg
+Movisse norethindrone 0.35 mg
+Mya ethinyl estradiol 20 mcg
+drospirenone 3 mg
+Ovima 21 ethinyl estradiol 30 mcg
+levonorgestrel 0.15 mg
+Ovima 28 ethinyl estradiol 30 mcg
+levonorgestrel 0.15 mg
+Portia 21 ethinyl estradiol 30 mcg
+levonorgestrel 0.15 mg
+Portia 28 ethinyl estradiol 30 mcg
+levonorgestrel 0.15 mg
+Synphasic 21 ethinyl estradiol 35 mcg
+norethindrone 0.5/ 1 mg
+Synphasic 28 ethinyl estradiol 35 mcg
+norethindrone 0.5/ 1 mg
+Tri-Cira 21 ethinyl estradiol 35 mcg
+norgestimate 0.18/0.215/ 0.25 mg
+Tri-Cira 28 ethinyl estradiol 35 mcg
+norgestimate 0.18/0.215/ 0.25 mg
+Tri-Jordyna 21 ethinyl estradiol 35 mcg
+norgestimate 0.18/0.215/ 0.25 mg
+Tri-Jordyna 28 ethinyl estradiol 35 mcg
+norgestimate 0.18/ 0.215/ 0.25 mg
+Tricira-Lo 21 ethinyl estradiol 25 mcg
+norgestimate 0.18/0.215/ 0.25 mg
+Tricira-Lo 28 ethinyl estradiol 25 mcg
+Dosage Form Brand Name Generic Name
+norgestimate 0.18/ 0.215/ 0.25 mg
+Triquilar 21 ethinyl estradiol 30 mcg
+levonorgestrel 0.05/ 0.075/ 0.125 mg
+Triquilar 28 ethinyl estradiol 30 mcg
+levonorgestrel 0.05/ 0.075/ 0.125 mg
+Yasmin 21 ethinyl estradiol 30 mcg
+drospirenone 3 mg
+Yasmin 28 ethinyl estradiol 30 mcg
+drospirenone 3 mg
+Yaz ethinyl estradiol 20 mcg
+drospirenone 3 mg
+Zamine 21 thinyl estradiol 30 mcg
+drospirenone 3 mg
+Zamine 28 ethinyl estradiol 30 mcg
+drospirenone 3 mg
+Copper IUD Flexi-T 300
+Flexi-T +300
+Flexi-T 380
+Liberte UT 380 Short
+Liberte UT 380 Standard
+Liberte TT 380 Short
+Liberte TT 380 Standard
+Liberté UT 380 Silver-Copper Standard
+Liberté UT 380 Silver-Copper Short
+Mona Lisa 10
+Mona Lisa 5 Mini
+Mona Lisa 5 Standard
+Mona Lisa N
+Hormonal IUD Kyleena levonorgestrel 19.5 mg
+Mirena levonorgestrel 52 mg
+Contraceptive Injection Depo-Provera medroxyprogesterone acetate 150 mg
+Hormonal Implant Nexplanon etonogestrel 68 mg
+Hormonal vaginal ring Haloette etonogestrel / ethinyl
+estradiol 11.7 mg / 2.7 mg
+Emergency contraceptives Contingency One levonorgestrel 1.5 mg
+Backup Plan One-Step levonorgestrel 1.5 mg
+Plan B levonorgestrel 1.5 mg
+Backgrounder: Universal Access to Diabetes
+Medications, and Diabetes Device Fund for Devices and Supplies
+February 29, 2024
+Today, the Honourable Mark Holland, Minister of Health, announced the Government of Canada’s
+next step toward the first phase of national universal pharmacare with the introduction of Bill C-64,
+An Act respecting pharmacare, into Parliament, and the intention to provide universal, single-payer
+coverage for a range of diabetes medications in collaboration with willing provinces and territories
+(PTs).
+In addition, the federal government is announcing its intention to establish a fund to enable work
+with PT partners to support Canadians’ access to supplies that diabetics require to manage and
+monitor their condition and administer their medication, such as syringes and glucose test strips.
+Diabetes medications
+Diabetes is one of the most common chronic diseases affecting people living in Canada. Around
+3.7 million people in Canada, or 9.4% of the population, live with diagnosed diabetes. The number
+of people living with diabetes has doubled over the last decade and is expected to continue to
+increase as Canada's population ages and grows.
+In 2015, 25% of Canadians with diabetes indicated following their treatments were affected by
+cost, in some cases rationing medications to save money. Uncontrolled diabetes can have very
+serious short and long-term health impacts and represents a burden to individuals, families, and
+Canadian society. High and unnecessary costs are incurred from lost productivity and elevated
+health-care system use due to diabetes and its complications, including heart attack, stroke,
+kidney failure, blindness and amputation. The full cost of diabetes to the healthcare system in 2018
+is estimated to be around $27 billion and could exceed $39 billion by 2028.
+Diabetes is a chronic condition that develops when the body either does not produce or effectively
+use insulin, which it needs to turn sugar into energy. Diabetes can lead to serious health
+complications if not properly managed.
+Diabetes disproportionately affects certain populations within Canada. Evidence shows that First
+Nations and Métis people, and people of African, East Asian and South Asian ethnic backgrounds
+have higher rates of Type 2 diabetes compared to the general population.
+There are three major types of diabetes, each with different causes and sometimes different
+treatments:
+Type 1 diabetes happens when the body stops producing insulin. Type 1 diabetes usually develops
+in childhood or early adulthood. About 5 to 10% of people living with diabetes have type 1.
+Type 2 diabetes happens when the body does not make enough insulin or does not respond well to
+the insulin it makes. People usually receive a diagnosis for Type 2 diabetes after the age of 40, but it
+is becoming more common in younger people. About
+90% to 95% of people living with diabetes have type 2.
+Gestational diabetes is a form of diabetes that develops during pregnancy and disappears after
+delivery. Gestational diabetes develops in about 10% of pregnancies.
+There is currently no cure for diabetes, but some treatments may help to manage it and improve
+quality of life.
+Types of Diabetes Medications Being Covered
+Today’s announcement would ensure that, following agreement with PTs, diabetics in Canada will
+have access to first-line treatments for diabetes that lower blood glucose levels, including:
+Insulin, which is used by patients with type 1 and type 2 diabetes. Insulin can cost in the range of
+$900-$1,700 per year, depending on the type and dosage required.
+Metformin, which is used by patients with type 2 diabetes. Metformin can cost about
+$100 per year.
+Medications often used in combination with insulin and metformin by patients with type 2 diabetes,
+including Sulfonylureas, and SGLT-2 inhibitors. The cost of these medications can range from
+approximately $100 to over $1,000 per year.
+Existing drug insurance coverage for diabetes medications and supplies varies widely across
+Canada. All PTs include many of the commonly-prescribed drugs to treat diabetes on their
+formularies although the cost to the patient can vary greatly.
+Improving the affordability of these medications will improve the health of Canadians living with
+diabetes and reduce the risk of serious life-changing health complications such as blindness or
+amputations.
+The Government of Canada will be launching discussions with PTs on providing universal, single-
+payer coverage based on the list of diabetes drugs attached to this backgrounder.
+List of diabetes medications to be discussed with PTs for specific coverage
+Drug Class Brand Names Generic Names
+Combination Formulations Synjardy Empagliflozin & metformin
+Jentadueto Linagliptin & metformin
+Komboglyze Saxagliptin & metformin
+Insulins Trurapi, Kirsty Aspart biosimilar
+Apidra Glulisine
+Admelog Lispro biosimilar
+Humulin R, Novolin ge Toronto Regular, Human
+Entuzity Concentrated Regular, Human
+Hypurin Regular Insulin Pure Pork regular insulin
+Hypurin Nph Insulin Isophane Pork Insulin Isophane, Pork Pure
+Humulin-N, Novolin GE NPH Isophane Human, NPH
+Levemir Detemir
+Basaglar Glargine biosimilar
+Semglee Glargine biosimilar
+Humulin 30/70, Novolin 30/70 Reg-Isophane, NPH Human
+Insulin Secretagogues Diamicron MR Gliclazide
+Glyburide
+Biguanides Glucophage Metformin
+SGLT2 Inhibitors Forxiga Dapagliflozin
+Diabetes devices and supplies
+Canadians using insulin require the necessary equipment to administer their medication. This can
+include syringes, insulin pens and pen tips, or insulin pumps and supplies such as insertion sets
+and insulin cartridges.
+People living with diabetes must also closely monitor their blood sugar levels to ensure their sugar
+levels are in a safe range, and to adjust their medication as needed. Equipment to monitor sugar
+levels can include glucometers, test strips and lancets, as well as flash and continuous glucose
+monitoring devices (CGM). Use of CGM or Flash GM devices leads to fewer complications and
+reduces long-term costs associated with hospitalization.
+These devices and supplies can cost thousands of dollars per year. All PTs offer some form of
+coverage or financial assistance for diabetes-related medical devices and supplies but the
+programs vary in terms of the support provided and eligibility.
+Separate from Bill C-64, the federal government is announcing its intention to establish a fund to
+support access to diabetes devices and supplies. Further details regarding this fund will be
+provided following discussions with PT partners, who will be essential partners to its roll out.

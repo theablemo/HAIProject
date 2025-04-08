@@ -1,0 +1,6 @@
+Created: 2016-12-01T12:24:56.778968
+Name: Evaluation_of_the_Canadian_Health_and_Safety_Marketing_Campaign_–_ACET_Survey_2012
+Original URL: https://www.hc-sc.gc.ca/data-donnees/por-rop/cdn-health-safety-acet_sante-securite-eval-campaigne.csv
+Package ID: 970e8958-2449-4abb-bc02-f78c6193d0fc
+Keywords: ['health and safety', 'tobacco', 'radon', 'HIV', 'AIDS', 'Nutrition Facts Table', 'marketing', 'health care system', 'youth', 'campaign', 'First Nations', 'obesity', 'drinking water', 'immunization.']
+Notes: A series of health-related data sets from various quantitative public opinion research studies.

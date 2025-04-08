@@ -1,0 +1,15 @@
+Created: 2022-01-05T15:12:12.778036
+Name: Canadian_Total_Diet_Study_-_Bisphenol_A_(BPA)_2008-2012,_2016
+Original URL: https://health.canada.ca/apps/open-data/tds-eat/bpa/Total%20Diet%20Study%20Bisphenol%20A%20(BPA)%20results%202008-2012,%202016.csv
+Package ID: 0497695c-dd4c-42d6-8201-45d63509f416
+Keywords: ['Total', 'Diet', 'Foods', 'Composites', 'Bisphenol A', 'BPA', 'market basket survey', 'TDS', 'Total Diet Study', 'contaminants']
+Notes: Bisphenol A (BPA) is a chemical used in the production of polycarbonate (PC) and epoxy resins. PC is used in food storage containers such as water bottles, and epoxy resins are used in the internal coating for food and beverage cans to protect the food from direct contact with metal. Under certain conditions, small amounts of BPA can migrate from PC plastic containers and cans with epoxy coating into foods, especially at elevated temperatures. BPA is an endocrine disruptor, and mimics the action of the hormone estrogen, although its potency is orders of magnitude lower than endogenous estrogens. 
+
+BPA has been shown to cause negative health effects in animal studies, however, humans metabolize BPA differently than rodents and there are uncertainties related to the human relevance of these findings. Due to consumer concerns and initiatives by Health Canada, industry has already abandoned or phased out the use of BPA-containing packaging for liquid infant formula, and early results suggest that concentrations of BPA in some canned foods have decreased. If a potential concern to human health is identified, immediate and appropriate action will be taken.
+
+Reference
+Cao, X.-L.; Popovic, S. (2015) Bisphenol A and three other bisphenol analogues in canned fish products from Canadian market 2014. Journal of Food Protection, 78(7), 1402-1407.
+
+Learn about the Canadian Total Diet Study (https://www.canada.ca/en/health-canada/services/food-nutrition/food-nutrition-surveillance/canadian-total-diet-study.html)
+
+Search through Health Canada's food contaminant data on CANLINE (https://open.canada.ca/data/en/dataset/01c12f93-d14c-4005-b671-e40030a3aa2c)

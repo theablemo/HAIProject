@@ -1,0 +1,67 @@
+Created: 2025-01-31T15:30:55.854668
+Name: Public_Opinion_Research:_Motivators_and_barriers_to_participation_in_government-led_participatory_research/citizen_science
+Original URL: https://open.canada.ca/data/dataset/7586c7e8-7037-407b-942d-52c246088d82/resource/b004e01e-1232-488c-b820-c8b72ad25705/download/data_dictionary_en1.txt
+Package ID: 7586c7e8-7037-407b-942d-52c246088d82
+Keywords: ['Public Opinion Research; Citizen science; Participatory research; Public engagement']
+Notes: Health Canada commissioned Nanos Research to conduct a public opinion survey to support the use of citizen science to address government and departmental science and research priorities, as well as Open Science initiatives. A total of 4,702 Canadians were surveyed using an online panel and recruited to reflect the Canadian population. The online survey was conducted between March 16th and March 30th, 2023.
+-------------------------------
+Extracted Text:
+Data Dictionary - English
+
+Referring to all columns:
+
+#NULL! = respondent did not select option or left option blank
+
+
+Referring to column headings:
+
+Columns: gender_other; q14; q15_oth; q22; q23; q45; q46_other; q47_other; q67_other; q_73 = open text from respondents
+
+Columns: q1_1 to q1_10:
+1= Participated in a public meeting	
+2= Spoken at a public meeting
+3= Written a letter to an editor (newspaper, magazine, etc)
+4= Contacted an elected official
+5= Discussed a community issue on social media	
+6= Volunteered (e.g. handed out brochures, campaigned) with a community organization or non-profit 	
+7= Read a newspaper, magazine or other publication about issues of importance to your community	
+8= Participated in cultural events specific to your community	
+9= Spoken up against the sharing of information you knew to be false (mis/disinformation)	
+10= None of the above
+20= I have taken other actions to help my community
+
+Column: q11= respondents answered on a scale from 0-10; 0= not familiar at all; 10= very familiar
+
+Columns: q13; and q16 to q21 = respondents answered on a scale from 0-10; 0=not interested at all; 10=very interested
+
+Columns: q14a; q22a; q23a; q45a= category/code for open text response in corresponding question
+
+Columns: q15_1 to q15_20b
+3=Environmental health (e.g., air quality, water quality)	
+4=Mental health	
+5=Well-being (e.g., physical activity, sleep, sedentary behaviour)	
+6=Traffic and built environment (e.g., traffic patterns, active transportation, greenspace usage)	
+7=Food and nutrition	
+8=Health products (e.g., pharmaceuticals, natural health products, vaccines, medical devices)	
+9=Substance use (e.g., opioids, alcohol, tobacco, stimulants, cannabis)	
+10=Consumer products (e.g., household products, toys)	
+11=Pesticides and chemicals (use and exposure)	
+12=Climate change	
+13=Healthcare system	
+20.00= Other, please specify: __	
+99=None, not interested	
+
+
+Columns: q24 to q44= respondents answered on a scale from 1-4; 1=Not at all; 4=Very much
+
+Columns: q46_1 to q46_20 and q47_1 to q47_7
+1= Emails (active notification)	
+2= Smart phone notifications and/or text messages (active notification)	
+3= Social media feeds	
+4= Community meetings	
+5= Newsletter (active notification)	
+6= Updates on webpage/Participatory Research/Citizen Science platform when I 
+choose to visit (passive notification)	
+20.00= Other, please specify: __	
+
+Columns: q50 to q55= respondents answered on a scale from 0 to 10; 0= very uncomfortable; 10= very comfortable

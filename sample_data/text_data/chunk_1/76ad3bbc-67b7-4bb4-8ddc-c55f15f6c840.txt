@@ -1,0 +1,10 @@
+Created: 2016-12-01T12:33:32.723447
+Name: Children's_Health_and_Safety:_Baseline_Survey
+Original URL: https://epe.lac-bac.gc.ca/100/200/301/pwgsc-tpsgc/por-ef/health/2011/020-10/index.html
+Package ID: 76ad3bbc-67b7-4bb4-8ddc-c55f15f6c840
+Keywords: ['health and safety', 'tobacco', 'radon', 'HIV', 'AIDS', 'Nutrition Facts Table', 'marketing', 'health care system', 'youth', 'campaign', 'First Nations', 'obesity', 'drinking water', 'immunization']
+Notes: A series of health-related data sets from various quantitative public opinion research studies.
+
+-------------------------------
+Extracted Text:
+Children's health and safety campaign : baseline survey : final report Children's health and safety campaign : baseline survey : final report Report Sommaire Summary Data Tables

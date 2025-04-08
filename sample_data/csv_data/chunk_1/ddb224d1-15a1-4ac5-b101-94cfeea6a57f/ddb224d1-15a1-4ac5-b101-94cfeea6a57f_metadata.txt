@@ -1,0 +1,6 @@
+Created: 2019-02-28T18:51:25.371287
+Name: Usual_Sodium_and_Potassium_Intakes_from_the_2015_Canadian_Community_Health_Survey_(CCHS),_Nutrition_component
+Original URL: https://health.canada.ca/apps/open-information/sodium-potassium/Potassium-usual-intake-each-percentile-Canada-excl-territories-2015-en.csv
+Package ID: ddb224d1-15a1-4ac5-b101-94cfeea6a57f
+Keywords: ['Sodium', 'Potassium', 'Salt', 'Foods', 'intake', 'consumption', 'daily', 'populations', 'age', 'baby', 'infants', 'adults', 'children', 'teenagers', 'sex', 'male', 'female', 'nutrition', 'CCHS', 'usual intakes', 'life stage', 'blood pressure']
+Notes: 2015 Canadian Community Health Survey (CCHS) data has been used to calculate usual intakes for sodium and potassium (mean and percentiles) for age, sex and life stage groupings and other variables.

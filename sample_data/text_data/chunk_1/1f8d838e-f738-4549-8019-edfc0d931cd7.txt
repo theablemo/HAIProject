@@ -1,0 +1,44 @@
+Created: 2022-11-04T17:57:51.185356
+Name: Cannabis_Market_Data
+Original URL: https://open.canada.ca/data/dataset/1f8d838e-f738-4549-8019-edfc0d931cd7/resource/27919321-673d-42f4-afa5-bf6fb2a25b9e/download/cannabis_market_data_terms_and_definitions_-_donnees_sur_le_marche_du_cannabis_termes_et_definit.txt
+Package ID: 1f8d838e-f738-4549-8019-edfc0d931cd7
+Keywords: ['cannabis market data', 'cannabis data', 'cannabis sales', 'cannabis medical sales', 'cannabis non-medical sales', 'cannabis inventory', 'dried cannabis', 'edible cannabis', 'cannabis extracts', 'cannabis topicals', 'cannabis plants', 'cannabis seeds']
+Notes: Health Canada collects data on cannabis under the Cannabis Tracking System Ministerial Order. Data collected is for these types of cannabis in the legal industry: dried cannabis, edible cannabis, cannabis extracts, cannabis topicals, cannabis plants and cannabis seeds. Data categories includes: medical sales, non-medical sales, packaged inventory, unpackaged inventory and licensed area.
+-------------------------------
+Extracted Text:
+Definitions of terms for the cannabis market data/ Les dÃ©finitions des termes pour les donnÃ©es sur le marchÃ© du cannabis :
+
+1. year-month / annÃ©e-mois : The reporting period. / La pÃ©riode de rapport.
+
+2. product type / types de produit :
+	-dried cannabis / cannabis sÃ©chÃ© : Any part of a cannabis plant, except seeds, that has been through a drying process (dried flowers, pre-ground/milled (trim/shake), pre-rolls) / Toute partie d'une plante de cannabis, Ã  l'exception des graines, qui a subi un processus de sÃ©chage (fleurs sÃ©chÃ©es, cannabis prÃ©moulu ou broyÃ© (retailles ou restes), cannabis prÃ©roulÃ©).
+	-edible cannabis / cannabis comestible : Products that are solid or liquid at a temperature of 22 Â± 2Â°C and that are intended to be eaten or drunk the same way as foods such as chocolate, cookies, sodas, teas. / Produits solides ou liquides Ã  une tempÃ©rature de 22 Â± 2 Â°C et destinÃ©s Ã  Ãªtre mangÃ©s ou bus de la mÃªme maniÃ¨re que les aliments tels que le chocolat, les biscuits, les sodas et les thÃ©s.
+	-cannabis extracts / extraits de cannabis : Products made using extraction processing methods or by synthesizing phytocannabinoids and intended for inhalation or ingestion, including by absorption in the mouth or other routes of administration (e.g. vape pens, hash, tinctures, softgels, suppositories). / Produits crÃ©Ã©s en utilisant des mÃ©thodes d'extractions ou en synthÃ©tisant des phytocannabinoÃ¯des et destinÃ©s Ã  Ãªtre inhalÃ©s ou ingÃ©rÃ©s, notamment par absorption buccale ou d'autres moyens d'administration (p. ex. cigares Ã©lectroniques, haschisch, teintures, gÃ©lules, suppositoires).
+	-cannabis topicals / cannabis pour usage topique : Products that include cannabis as an ingredient and that are intended for use on external body surfaces such as skin, hair, or nails. / Des produits qui contiennent du cannabis comme ingrÃ©dient et qui sont destinÃ©s Ã  Ãªtre utilisÃ©s sur les surfaces externes du corps, telles que la peau, les cheveux et les ongles.
+	-whole cannabis plants / plantes de cannabis entiÃ¨res : Budding or flowering cannabis plants (unpackaged only). / Plantes en train de bourgeonner ou de fleurir (non emballÃ©es seulement).
+	-vegetative cannabis plants / plantes de cannabis vÃ©gÃ©tatives : Cannabis plants that are not budding or flowering (clones and seedlings). / Plantes de cannabis qui ne sont pas en train de bourgeonner ni de fleurir (clones et semis).
+	-cannabis seeds / graines de cannabis : Viable (growable) seeds of a cannabis plant. / Graines viables (cultivables) d'une plante de cannabis.
+
+3. unpackaged production / production de cannabis non emballÃ© : Cannabis held in stock by a cultivator or processor that is not packaged for sale to consumers at the retail level. / La quantitÃ© de cannabis produit Ã  partir d'activitÃ©s menÃ©es sur place par un titulaire d'une licence de culture et/ou de transformation et ajoutÃ© Ã  au stock de cannabis non emballÃ© pendant la pÃ©riode de rapport.
+
+4. unpackaged inventory / stock de cannabis non emballÃ© : The amount of cannabis produced from activities conducted onsite by cultivators and/or processors and added to the Unpackaged inventory during the reporting period. / Cannabis en stock, que possÃ¨de un titulaire d'une licence de culture ou de transformation, qui n'est pas emballÃ© pour la vente au dÃ©tail aux consommateurs.
+
+5. packaged production / production de cannabis emballÃ© : The number of cannabis products resulting from unpackaged cannabis being placed into final packaging for sale to consumers at the retail level during the reporting period. / La quantitÃ© de produits du cannabis qui sont du cannabis non emballÃ©s et qui sont placÃ©s dans un emballage final pour la vente au dÃ©tail aux consommateurs pendant la pÃ©riode de rapport.
+
+6. packaged inventory / stock de cannabis emballÃ© : Cannabis held in stock by a cultivator, processor, distributor, or retailer that is packaged for sale to consumers at the retail level. / Cannabis en stock, que possÃ¨de un titulaire d'une licence de culture, un titulaire d'une licence de transformation, un distributeur ou un dÃ©taillant, qui est emballÃ© pour la vente au dÃ©tail aux consommateurs.
+
+7. sales - medical / ventes Ã  des fins mÃ©dicales : Cannabis products sold directly to medical clients by holders of a federal licence for medical sales. / Les produits du cannabis vendus directement Ã  des clients (patients) par les titulaires d'une licence fÃ©dÃ©rale de vente Ã  des fins mÃ©dicales.
+
+8. sales - non-medical / ventes Ã  des fins non mÃ©dicales : Cannabis products sold directly in the Canadian retail market, online or in-person, by a provincially or territorially authorized distributor or retailer, for non-medical purposes. / Les produits du cannabis vendus directement dans le marchÃ© de dÃ©tail canadien (en ligne ou en personne) Ã  des fins non mÃ©dicales par un distributeur ou un dÃ©taillant autorisÃ© par une province ou un territoire.
+
+9. hectare / hectare : A unit of measure equal to 10,000 square meters. / Une unitÃ© de mesure Ã©quivalente Ã  10 000 m2.
+
+10. indoor growing area / zone de culture intÃ©rieure : The area, in square metres, within a licensed site where indoor cultivation activities occurred. / La zone, en mÃ¨tres carrÃ©s, d'un lieu autorisÃ© oÃ¹ des activitÃ©s de culture intÃ©rieures sont exercÃ©es.
+
+11. processing area / zone de transformation : The area, in square metres, within a licensed site where processing activities occurred. / La zone, en mÃ¨tres carrÃ©s, d'un lieu autorisÃ© oÃ¹ des activitÃ©s de transformation sont exercÃ©es.
+
+12. total building area / superficie totale des bÃ¢timents : The total area, in square metres, of all buildings within a licensed site. / La superficie totale, en mÃ¨tres carrÃ©s, de tous les bÃ¢timents d'un lieu autorisÃ©.
+
+13. outdoor growing area / zone de culture extÃ©rieure : The area, in hectares, within a licensed site where outdoor cultivation activities occurred. / La zone, en hectares, d'un lieu autorisÃ© oÃ¹ des activitÃ©s de culture extÃ©rieure sont exercÃ©es.
+
+14. employment estimate / estimation de l'emploi : Employment figures estimated based on voluntarily reported employment figures, and capacity data as reported under the Cannabis Tracking System Order. / Les chiffres dâemploi sont estimÃ©s Ã  partir des dÃ©clarations facultatives, et que les donnÃ©es relativement Ã  la capacitÃ© son dÃ©clarÃ©es selon lâArrÃªtÃ© ministÃ©riel concernant le systÃ¨me de suivi du cannabis.

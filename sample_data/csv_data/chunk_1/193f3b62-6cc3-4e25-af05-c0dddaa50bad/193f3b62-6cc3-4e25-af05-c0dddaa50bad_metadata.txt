@@ -1,0 +1,7 @@
+Created: 2016-12-01T13:01:51.180217
+Name: Canadian’s_Understanding_and_Use_of_the_Nutrition_Facts_Table:_Baseline_National_Survey_Results__
+Original URL: https://www.hc-sc.gc.ca/data-donnees/por-rop/nutrition-facts-table-baseline-survey_sondage-reference-tableau-valeur-nutritive-2010.csv
+Package ID: 193f3b62-6cc3-4e25-af05-c0dddaa50bad
+Keywords: ['health and safety', 'tobacco', 'radon', 'HIV', 'AIDS', 'Nutrition Facts Table', 'marketing', 'health care system', 'youth', 'campaign', 'First Nations', 'obesity', 'drinking water', 'immunization.']
+Notes: A series of health-related data sets from various quantitative public opinion research studies.
+

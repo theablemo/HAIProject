@@ -1,0 +1,1700 @@
+Created: 2020-08-19T15:50:27.516742
+Name: APPEARANCE_OF_THE_MINISTER_OF_HEALTH_
+Original URL: https://open.canada.ca/data/dataset/d689eb97-7bce-44a2-a422-8adc9f294ca6/resource/14bf8073-92a4-4b46-a5ba-7cf41b344fea/download/cusersjdavitskdesktopcow-april-20-english.pdf
+Package ID: d689eb97-7bce-44a2-a422-8adc9f294ca6
+Keywords: ['COVID-19', 'pandemic', 'Coronavirus', 'Parliamentary Committee appearance']
+Notes: Briefing binder for the Minister of Health’s appearance at Committee of the Whole on April 20, 2020
+-------------------------------
+Extracted Text:
+APPEARANCE OF THE MINISTER OF HEALTH
+House of Commons Committee of the Whole
+April 20, 2020 (TBD)
+TABLE OF CONTENTS
+1. PPE
+A. Procurement and Stockpiles
+B. PPE guidance for frontline workers
+C. Guidance for general public on use of non-medical masks
+2. Strengthening Health System Capacity
+A. Launch of National Recruitment Campaign
+B. Mental Health Tools
+C. Hospital/Health Care Capacity
+D. Health Human Resources
+3. Drug, Health Products and Medical Devices
+A. Drug Shortages
+B. Regulatory Review of Drugs and Devices
+C. Claims to treat, prevent or cure COVID
+D. Ventilator Supply
+4. Vulnerable Populations
+A. Indigenous Communities / North
+B. Support for opioid users during COVID-19 Outbreak
+C. Long-term care guidance
+D. Federal correctional facilities
+5. Test Kits
+A. Test Kit Approval
+B. Testing Capacity / PT testing strategies / rapid testing
+C. Procurement of Reagents
+6. Border, Travel, Quarantine and Self-Isolation
+A. Border measures
+7. Serological Surveillance
+A. Future Steps
+8. International
+A. WHO – Impacts of US funding decision
+B. G7 and G20
+9. Communications to Canadians
+A. Websites, phone lines, digital tools and apps
+10. Vaccine
+A. Vaccine Research
+B. Timeline for Vaccine Development
+11. Modelling
+A. Projections on cases and deaths
+B. PT modelling - Differences in infection rates
+1.A - Procurement and Stockpile
+ The Government of Canada is continuously working to
+secure contracts for critical PPE supplies and medical
+equipment, and expedite delivery of supplies to our
+frontline healthcare workers.
+ Canada is receiving PPE shipments, and is working rapidly
+to allocate the supplies to the provinces and territories as
+per an approach agreed upon by federal-provincial-
+territorial Ministers of Health.
+ For example, since April 1, we have shipped approximately
+1.2 million N95 respirators, 6 million surgical masks, and 8
+million nitrile gloves to provinces and territories, and more
+are expected to arrive and be distributed in the coming
+days.
+ The Public Health Agency of Canada (PHAC) is also
+deploying PPEs and ventilators from its National
+Emergency Strategic Stockpile (NESS) in response to
+urgent requests for assistance from provinces and
+territories.
+ In addition, the Government of Canada is also receiving
+offers of donations from international and domestic
+organizations via the donations portal on the Government
+of Canada COVID-19 website.
+ We have received and shipped to provinces and territories
+donations of 10,000 industrial N95 masks, 350,000 N95
+and equivalent masks, 200,000 face masks (not N95), and
+400,000 gloves.
+ The Government of Canada is committed to taking the
+necessary action to continue to protect the health and
+safety of Canadians during this pandemic.
+IF PRESSED ON HOW THE GOVERNMENT OF CANADA IS ADDRESSING THE
+GLOBAL SHORTAGE OF PPE SUPPLIES …
+ We are expecting to receive on-going deliveries of N95
+masks, face shields, medical gowns, and additional
+surgical masks beginning the week of April 20, which will
+be allocated and delivered to provinces and territories.
+ To date, the Government of Canada has ordered 11.2
+million swabs. We are working with provinces and
+territories to monitor and mitigate the impact of any
+shortages.
+ The Government of Canada, through the leadership of my
+colleagues the Minister of Public Services and
+Procurement Canada, and the Minister of Innovation,
+Science and Industry, has galvanized Canadian industry to
+increase domestic manufacturing capacity, including re-
+tooling facilities to produce PPEs and medical equipment
+and supplies, including ventilators and rapid testing kits.
+IF PRESSED ON HOW THE GOVERNMENT OF CANADA IS ADDRESSING THE
+EXPEDITED DELIVERIES OF PPE SUPPLIES TO PROVINCES AND TERRITORIES…
+ The Government of Canada awarded a contract to
+Amazon to manage the logistics of distributing PPE and
+supplies to support the COVID-19 response.
+ Amazon is working directly with Canada Post to provide
+warehousing, and Purolator, to deliver the products to
+provincial and territorial health authorities, across the
+country, for the frontline healthcare response.
+IF PRESSED ON HOW THE GOVERNMENT OF CANADA IS ENSURING THE QUALITY
+OF PPE SUPPLIES …
+ The safety of our healthcare providers is critical not only to
+their health, but to mitigating the spread of COVID-19.
+ PPEs and medical supplies received by the Government of
+Canada, whether procured or donated, are verified by
+PHAC as meeting the safety specifications for COVID-19
+prior to distribution to provinces and territories.
+ For example, N95 masks undergo visual inspection to
+verify for defects in design and construction, and are
+tested to assess flow rate, pressure drop and penetration.
+Surgical masks undergo a fluid resistance and a breathing
+resistance test.
+ Supplies that do not meet specifications are subsequently
+assessed, including determining their potential for use in
+non-healthcare settings.
+IF PRESSED ON THE MANAGEMENT OF THE NATIONAL EMERGENCY STRATGEIC
+STOCKPILE …
+ Canada's NESS contains supplies that provinces and
+territories can request in emergencies when their own
+resources are insufficient, such as during infectious
+disease outbreaks, natural disasters and other public
+health events.
+ In addition to PPEs and ventilators, the NESS inventory
+includes medication and vaccines that require controlled
+environmental conditions.
+ In 2013, following an independent assessment of the
+federal warehouse network, the NESS moved from nine
+locations across Canada to six locations to offer the most
+efficient distribution system without sacrificing response
+capacity.
+ The Government of Canada has committed to continue to
+review how it manages its NESS, including ways to
+optimize product life cycle management.
+1.B - PPE guidance for frontline workers
+ The Government of Canada recognizes the dedication and
+commitment shown by our frontline health care workers in
+this unprecedented time.
+ Protecting these frontline workers, who are often caring for
+the most vulnerable members of our society, remains a
+priority of this government.
+ Protection of frontline workers is a responsibility that is
+shared across governments and employers.
+ The Government is actively engaged with organizations
+such as the WHO in evaluating the latest science on how
+to most effectively and responsibly employ personal
+protective equipment.
+ The Government of Canada is committed to taking the
+necessary action to continue to protect the health and
+safety of Canadians during this pandemic.
+IF PRESSED ON PPE GUIDANCE FOR FRONTLINE WORKERS …
+ The Public Health Agency of Canada is developing
+additional guidance that will take into account the latest
+scientific evidence in order to ensure that our frontline
+workers are protected.
+ For example, upcoming guidance on keeping Home Care
+workers and their clients safe will reflect the best scientific
+evidence that is available.
+ Recognizing that the amount of evidence on COVID-19
+increases everyday, the Public Health Agency of Canada
+is putting in place ways to update guidance, more quickly
+to ensure that frontline worker have access to the most up-
+to-date ways to stay safe.
+ You can be assured that protecting frontline worker’s, and
+the people they care for, is the single goal of this
+government and this guidance is developed in pursuit of
+that single goal.
+1.C - Guidance for general public on use of non-medical
+masks
+ We know that staying home, physical distancing, hand
+hygiene and coughing or sneezing into your arm or sleeve
+are the most effective ways to prevent transmission of the
+COVID-19 virus.
+ Wearing a non-medical mask or face covering when you
+cannot maintain a 2 meter physical distance from others, is
+an additional measure you can take to prevent further
+transmission of the virus to those around you.
+ The Public Agency of Canada has developed guidance for
+Canadians on how to construct and wear non-medical
+masks and face coverings, as well as how they can be
+used in the community and workplace settings.
+ It is important to recognize that wearing a non-medical
+mask or face covering does not protect the person wearing
+it, but can prevent them from unknowingly spreading the
+virus to others.
+ Wearing a non-medical mask does not mean you can back
+off the public health measures that we know work to
+protect you; no mask will ever replace physical distancing.
+IF PRESSED ON USE ON NON-MEDICAL MASKS FOR HEALTHCARE WORKERS…
+ Healthcare workers need medical masks, including
+surgical, medical procedure masks and respirators such as
+N95 masks. It is extremely important that we keep the
+supply of medical masks for healthcare workers where it is
+urgently needed for medical procedures and to care for
+individuals who have COVID-19.
+IF PRESSED ON WHY POSITION ON MASK USE BY THE GENERAL PUBLIC HAS
+CHANGED…
+ Canadian public health guidance related to COVID-19 has
+been changing as the evidence base and our
+understanding of COVID-19 evolves. We are continually
+looking at the evidence as it is being produced and
+working with our partners across the country and around
+the world to learn more.
+ With the emerging information on pre-symptomatic and
+asymptomatic transmission, and our goal to stop the
+spread of COVID-19 by all means possible, wearing a non-
+medical mask is an additional measure we can take to
+protect others, particularly when physical distancing is not
+possible in public settings (e.g., grocery shopping, in close
+settings such as public transit).
+2.A National Volunteer Recruitment Campaign
+ As part of the comprehensive federal, provincial and
+territorial response to COVID-19, the Government of
+Canada is supporting provinces and territories by
+facilitating an inventory for recruitment and mobilization
+of skilled Canadians to provide surge capacity in the
+following key areas:
+1. Case tracking and contact tracing;
+2. Health system surge capacity; and
+3. Case data collection and reporting.
+ As of April 18, there were 36,899 volunteers registered
+in the inventory from which provincial and territorial
+governments can draw upon as needed.
+ To date, referrals from the inventory have been shared
+with a number of jurisdictions, mostly to support LTC
+needs:
+o 919 volunteers referred to Nova Scotia
+o 1,118 volunteers referred to Quebec
+o 24 volunteers referred to Northwest Territories
+o Saskatchewan and Ontario are also in the process
+of seeking referrals
+ As needs evolve, support in other areas requiring
+assistance may be provided.
+2.B New portal offers easy access to mental health and
+substance use supports to Canadians
+ The Government of Canada recognizes that COVID-19
+is creating stress and anxiety for many Canadians,
+particularly those who do not have ready access to their
+regular support networks. That is why the Government
+has launched a new online portal that provides access
+to a virtual network of psycho-social supports.
+ This new portal, called Wellness Together Canada,
+provides 24/7 access to free evidence-based tools and
+resources for Canadians in all provinces and territories
+to help meet their needs for mental health and
+substance use supports.
+ Wellness Together Canada makes it easy for
+Canadians to access self-directed tools and find
+credible information on mental health and substance
+use issues. The portal also connects Canadians to peer
+support workers, social workers, psychologists and
+other professionals for confidential chat sessions or
+phone calls.
+ These supports will complement, and not replace,
+existing provincial and territorial services.
+ Use of the portal will be closely monitored to ensure
+that the information and services it provides is aligned
+with the needs of Canadians.
+IF PRESSED ON HEALTH PORTFOLIO’S ACTIONS TO ADDRESS IMPACT OF COVID-
+19 ON CANADIANS’ MENTAL HEALTH…
+ The government has published guidance material to help
+the public take care of their mental health. We are also
+providing $7.5 million to Kids Help Phone to respond to
+the increased demand for counselling services for
+children and youth.
+ The Canadian Institutes of Health Research is currently
+supporting 99 research projects on COVID-19, including
+nine projects studying the mental health impact of the
+current pandemic ($3.4 million from CIHR and partners).
+These important projects will look at mental health during
+and after the pandemic and will generate new evidence
+to combat misinformation, stigma and fear. They will help
+inform policy making and offer new evidence-based
+treatments and services to all Canadians.
+ Statistics Canada launched a survey of Canadians
+related to COVID-19; Wave 2 of this survey will include
+more questions on mental health and results will be
+available in May.
+ Taken together these efforts will help ensure vulnerable
+Canadians have access to the health services they need
+during the serious health threat posed by COVID-19.
+2.C Hospital/Health Care System Impacts
+ As a result of the unprecedented efforts taken so far to
+practice physical distancing and to free up hospital
+capacity, Canada’s health care systems have not been
+overwhelmed by COVID-19 as was initially feared.
+ I am proud of how our health care systems and
+providers have worked together to handle the needs of
+patients with COVID-19.
+ But that’s not to say our systems haven’t been
+challenged. I continue to be concerned about the long-
+term care sector, particularly in Quebec and Ontario
+where we have seen significant outbreaks.
+ More needs to be done to bolster capacity in that sector,
+but I am encouraged by the steps that been taken so far,
+including shifting health care workers from other settings
+into long-term care facilities.
+IF PRESSED on how modelling is helping to inform
+decisions about health system capacity…
+ Governments continue to work collaboratively to model
+demands on health systems under different modelling
+scenarios, both at the provincial level and at the national
+level with support from the Canadian Institute of Health
+Information.
+ While we are eager to restore normal health care
+operations, we will also need to maintain sufficient surge
+capacity to meet the subsequent waves of infection we
+unfortunately expect to see until a vaccine is available.
+IF PRESSED on whether we will have enough capacity…
+ At this time, provinces and territories have indicated that
+they have sufficient health system capacity to address
+COVID-19 for their epidemic control scenarios.
+ But we know too that in our worst case scenario models,
+our systems would be severely stressed, despite efforts
+to put in place extra capacity.
+ That is why governments are now thinking very carefully
+about how best to de-escalate public health restrictions
+in a way that will avoid future spikes in demand for
+health services as we live with COVID-19 in the new
+normal.
+Background
+ A committee of federal/provincial/territorial Deputy
+Ministers of Health is meeting regularly to assess health
+care capacity and support governments in their efforts to
+expand available capacity.
+ This joint work builds on the work provinces and
+territories are already doing to put into action the
+pandemic plans and procedures they prepared for use in
+times like this, based on international experiences and
+guidance. Provinces and territories have taken a range
+of actions to increase system capacity and meet
+projected needs. This includes cancelling elective
+surgeries, physically reconfiguring spaces to fit more
+beds and create more isolation areas, and transferring
+patients who no longer need to be in hospital to other
+settings.
+ Many provinces have also increased use of publicly
+funded virtual care services and online screening
+assessments. This is reducing pressure on emergency
+departments and is also complementing physical
+distancing measures. Provinces and territories are also
+running training exercises and simulations, and are
+hiring or rehiring staff to meet health system needs.
+ At the same time, because the surge of COVID-19
+cases has been lower than predicted by provinces to
+date, there is currently significant capacity sitting idle.
+Once the services cancelled to free up extra capacity
+are reintroduced into the system – like elective surgeries
+– addressing pent up demand for those services will
+pose its own challenges for system capacity.
+Governments are working collaboratively to determine
+when and how best to ease restrictions in a way that will
+best balance the needs of COVID-19 and non-COVID-
+19 patients.
+2.D Health human resources - increasing surge capacity
+to respond to COVID-19
+ The Government of Canada is committed to working
+with provinces and territories and taking the necessary
+actions to protect the health and safety of Canadians
+during this pandemic.
+ Provinces and territories determine the specific roles
+needed to support the COVID-19 response in their
+jurisdictions.
+ As part of a comprehensive response to COVID-19, the
+Government of Canada is supporting the provinces and
+territories by creating a virtual inventory for the
+recruitment and mobilization of skilled Canadians to
+provide surge capacity in key areas.
+ We can be proud of the spirited response Canadians
+have made to this call. As of April 18, there were more
+than 36,000 volunteers registered in the inventory which
+provincial and territorial governments can draw upon.
+ So far, over 2,000 referrals from the inventory have been
+shared with jurisdictions to support surge capacity
+requirements, which have primarily included support to
+long-term care facilities and contact tracing.
+ Surge capacity pressures identified by provinces and
+territories will evolve as the pandemic continues. The
+federal government will continue to support them by
+facilitating the identification of needed resources to help
+meet those needs.
+IF PRESSED ON WHAT WILL BE DONE TO PROTECT THE HEALTH AND SAFETY OF
+NEW RECRUITS…
+ We all need do our part to help stop the spread of the
+virus among the residents of long-term care facilities, as
+well as the workers who care for them.
+ Canada is working to rapidly allocate PPE and medical
+supplies to the provinces and territories as per an
+approach agreed upon by federal-provincial-territorial
+(FPT) Ministers of Health.
+ We are aware of shortages of some personal protective
+equipment (PPE) across Canada and are committed to
+doing what is necessary to protect the health of
+Canadians, especially frontline healthcare workers, from
+COVID-19.
+3.A Drug Shortages – Committee of the Whole
+April 20, 2020
+ The COVID-19 pandemic is having a major impact on
+Canadians and our health care system.
+ Our government is taking proactive measures to mitigate
+the impact of any drug or medical device shortages
+related to COVID-19 on Canadians. We are doing this in
+collaboration with provinces and territories, industry, and
+other healthcare partners.
+ Through this work, we have been able to secure
+additional supplies of needed drugs and medical devices
+for Canada. For example, we have worked with multiple
+companies to facilitate access to additional supplies of
+drugs such as muscle relaxants (e.g. cisatracurium),
+inhalers (e.g. salbutamol) and sedatives (e.g. propofol)
+to help support COVID-19 patients.
+ We have expedited the issuance of over 550 medical
+device establishment licences related to the importation
+and manufacturing of PPE such as masks and gowns.
+ We have increased cooperation with international
+regulatory partners (US, EU, UK, Australia), which has
+resulted in earlier risk identification and response
+planning for new shortages.
+ We are working with key federal partners –like Global
+Affairs Canada, Innovation, Science and Economic
+Development and Public Services and Procurement
+Canada – to increase access to needed drugs.
+ For example, Health Canada is working with Public
+Services and Procurement Canada to develop Requests
+for Information for critical drugs that are in high demand
+or are reported to be in shortage. We are asking
+companies to indicate if they have access to additional
+supplies of critical drugs to stabilize and build Canada’s
+supply of these drugs, such that they can be secured for
+Canada.
+ These efforts will help ensure Canadians have access to
+the drugs and medical devices they need during the
+serious health threat posed by COVID-19 – now and as
+the situation continues to evolve.
+ We also continue to monitor the drug supply chain
+beyond shortages of drugs used to support patients with
+COVID-19 and will take action to try to prevent or
+mitigate those shortages.
+IF PRESSED ON HEALTH CANADA’S ACTIONS TO ADDRESS COVID-19
+RELATED SHORTAGES …
+ Health Canada is actively monitoring the supply of drugs
+on the Canadian market and has implemented new,
+more agile processes to help ensure Canadians have
+access to the drugs they need.
+ I authorized an Interim Order on March 30 to help
+prevent and alleviate shortages related to COVID-19.
+This Order permits the exceptional importation and sale
+of drugs, medical devices, and foods for a special
+dietary purpose that may not fully meet Canadian
+requirements related to licensing and labelling, but are
+manufactured according to comparable standards.
+Companies must notify Health Canada five days in
+advance of importation.
+ Health Canada has also taken action to facilitate
+expedited access to hand sanitizers and disinfectants to
+help Canadians and health care workers access
+products that limit the spread of COVID-19. As of April
+17, over 226 products have already qualified for
+immediate import and sale.
+ In addition, Health Canada has expedited the
+authorization of 33 disinfectants, 1,051 hand sanitizers
+and 684 site licences by reducing service standards to
+as little as 24 hours.
+ In collaboration with industry, provinces and territories,
+and other healthcare partners, we will continue to work
+to mitigate the impact of shortages related to COVID-19
+on Canadians.
+IF PRESSED ON THE INTERIM ORDER TO PREVENT OR ALLEVIATE
+SHORTAGES RELATED TO COVID-19 …
+ The Interim Order I authorized on March 30 set up a
+regulatory framework to help prevent and alleviate
+shortages of drugs, medical devices, and foods for a
+special dietary purpose.
+ It allows for the exceptional importation and sale of
+products that may not fully meet Canadian requirements
+related to licensing and labelling, but are manufactured
+according to comparable standards.
+ Health Canada designates the products eligible for
+importation and sale under the Interim Order.
+Companies with an establishment licence may import
+these drugs and devices after notifying Health Canada
+five days in advance.
+ As of April 17, there are 14 drugs permitted to be
+imported and sold under the Interim Order. These drugs
+include sedatives and muscle relaxants, such as
+Propofol, Midazolam, and Ketamine, used in the
+treatment of symptoms in patients with COVID-19.
+ Health Canada has also designated 14 medical devices
+permitted for exceptional importation, including masks,
+N95 respirators and ventilators.
+ Other products permitted to be imported and sold under
+this measure include antibiotics, pain killers, masks and
+gowns. More products will continue to be added to help
+address shortages of critical supplies in Canada.
+ The Interim Order also requires that any shortages of
+critical medical devices, such as ventilators, be reported
+to Health Canada and publicly communicated. Public
+reporting of shortages help manufacturers and the
+health care system plan and react to supply disruptions,
+in order to mitigate the impact on patients.
+ These new tools allow Health Canada to address critical
+supply issues in an expedited manner when shortages
+occur and help protect the health and safety of
+Canadians during the pandemic.
+IF PRESSED ON THE REQUESTS FOR INFORMATION FOR CRITICAL
+DRUGS …
+ Health Canada is taking action to stabilize the regular
+supply of critical drugs Canada and to develop a safety
+net for future supply.
+ We are working with Public Services and Procurement
+Canada to develop Requests for Information (RFI) for
+these critical drugs that are in high demand or reported
+to be in shortage. We are asking companies to indicate if
+they have access to additional supplies of critical drugs.
+ The RFIs will be used to identify additional supply that
+has not already been earmarked to meet Canada’s
+current needs. We are not looking for information on
+products already identified to mitigate the shortage, but
+new products to bolster the overall supply.
+ The initial “wave” of RFIs will focus on Salbutamol,
+Cisatracurium, Fentanyl for injection and Propofol. The
+RFIs indicate that the Government of Canada is
+interested in procuring up to a twelve-month supply at
+the elevated demand levels which could be acquired
+incrementally.
+ Following this initial four, we plan to issue additional
+RFIs for other critical drugs in shortage and drugs that
+are showing promise in clinical trials as potential COVID-
+19 treatments.
+IF PRESSED ON ENGAGEMENT WITH PROVINCES AND TERRITORIES
+…
+ Drug shortage management requires a multi-stakeholder
+effort.
+ Over the last number of years, capacity has been built
+up across governments leading to a more coordinated
+and effective approach to dealing with shortages.
+ We have strengthened existing mechanisms in place to
+manage drug shortages, including FPT infrastructure to
+identify, report, and assess shortages in cooperation
+with industry and patient groups.
+ Health Canada has leveraged this FPT infrastructure
+and increased cooperation with our provincial and
+territorial partners to identify shortage signals earlier,
+especially for critical drugs required for COVID-19.
+ We are taking action with our partners to mitigate the
+impact of any shortages related to COVID-19 on
+Canadians.
+IF PRESSED ON GLOBAL SUPPLY CHAIN CHALLENGES DURING THE
+COVID-19 PANDEMIC …
+ COVID-19 is clearly putting pressure on the global drug
+supply chain. There are currently four areas of concern.
+ First, export restrictions and/or bans continue to be a
+challenge. While some of the earlier restrictions have
+been lifted (particularly in India), some remain in place.
+ Second, manufacturing slowdowns were seen earlier
+in the pandemic in both India and China. While there
+have been positive signs lately with foreign production
+levels beginning to rise, we are keeping a close eye on
+this.
+ Third, transportation/logistical constraints are leading
+to delays in getting product to Canada.
+ Fourth, increased demand is also creating pressure on
+the system. Countries from around the world are now
+competing for limited supplies of drugs.
+ All impacted departments are working together to
+address these challenges and find ways to secure
+needed drugs for Canadians during the pandemic.
+ We also remain mindful of other drugs that Canadians
+depend on and continue to monitor supply of those as
+well.
+3.B Drugs and Devices
+KEY MESSAGES
+ The COVID-19 pandemic is unlike anything we have
+seen in recent history. Health Canada is working
+urgently to fight this virus and ensure the safety of
+Canadians.
+ Health Canada plays a vital role in the Government’s
+COVID-19 response. To that end, Health Canada is
+working with a sense of urgency and is proactively doing
+all it can to respond to the pandemic in its role as health
+product regulator.
+ As the virus continues to spread in our communities, it is
+very important to get drugs and medical supplies quickly
+to the frontlines.
+ Health Canada is focused on expediting the review and
+approval of drugs and devices to address COVID-19,
+while continuing to ensure that these products are safe
+and effective for Canadians.
+ On March 18, I approved an Interim Order to expedite
+the review of medical device regulatory applications,
+including test kits. An interim order is one of the fastest
+mechanisms available to address large-scale public
+health emergencies.
+ So far, 71 medical devices have been authorized,
+including diagnostic devices, personal protective
+equipment, ventilators, and others.
+ In addition to this streamlined application and review
+process for medical devices, we are making sure that
+important COVID-19 related information is available on
+our website, including lists of authorized health products.
+ I also authorized an Interim Order on March 30 to help
+prevent and alleviate shortages. It permits the import
+and sale of drugs, medical devices, and foods for a
+special dietary purpose that that may not fully meet
+Canadian requirements related to licensing and
+labelling, but are manufactured according to comparable
+standards.
+ Health Canada has also taken action to facilitate
+expedited access to hand sanitizers and disinfectants to
+help Canadians and health care workers access
+products that limit the spread of COVID-19 Health
+Canada has also taken action to facilitate expedited
+access to hand sanitizers and disinfectants.
+ In addition, over 1,000 hand sanitizers and 33
+disinfectants have been authorized through expedited
+service standards that approve products in as little as 24
+hours.
+ Another key element of the Government’s response to
+COVID-19 is ensuring we have the legislative authorities
+and tools we need to take appropriate action to protect
+the health and safety of Canadians.
+ The Government of Canada welcomed the passage of
+amendments to the Food and Drugs Act and the Patent
+Act on March 25 that will streamline processes and
+provide the Government with additional powers.
+ The amendments will:
+o help prevent and alleviate shortages of drugs and
+medical devices;
+o seek additional information from companies about
+their products and activities to, for example, confirm
+that products are safe for Canadians or to assess
+the impact of a shortage; and
+o make, use, or sell a patented invention, such as a
+medication, that is needed to respond to this
+pandemic.
+ Interim measures are also improving access to products
+that are approved or registered in other jurisdictions with
+similar regulatory frameworks and quality assurances,
+but may not fully meet some of the regulatory
+requirements under the Food and Drugs Act — such as
+packaging requirements.
+ Health Canada is working closely with stakeholders in
+other sectors of our economy, many of which are scaling
+up or re-tooling their manufacturing capacity to provide
+much needed tests or medical supplies. We are taking a
+whole-of-government approach to mobilize industry,
+providing them with information and support for
+research, market approval, manufacturing and supply.
+ Finally, Canadian researchers are also contributing to
+clinical trials for treatments of COVID-19. As of April 18,
+there are 18 trials ongoing in Canada.
+ The health and safety of Canadians remains the top
+priority and Health Canada will continue to use all tools
+at its disposal to expedite the supply of safe and
+effective health products to manage this situation and
+adapt quickly.
+IF PRESSED …
+Clinical Trials
+ Health Canada is facilitating clinical trials related to
+COVID-19 in Canada. Clinical trials are conducted to
+determine whether new drugs, diagnostics or treatments
+are both safe and effective in human beings. Clinical
+trials ensure the quality of the study product, protection
+of the patient, and the proper collection and retention of
+outcomes. At the same time, clinical trials provide
+access to trial volunteers before new drugs, diagnostics
+or treatments are approved.
+ Several existing drugs have been repurposed to assess
+their potential in treating or preventing COVID-19, while
+other new drugs are under development. Since no drug
+treatments have been proven safe and efficacious for
+COVID-19, Health Canada recommends that any
+treatments be investigated in clinical trials.
+ Clinical trial applications will be reviewed and approved
+by Health Canada in under 15 days. To date, Health
+Canada has authorized 18 clinical trials for treatments
+targeting COVID-19, most of which are repurposing
+existing drugs.
+ Health Canada is also closely monitoring vaccine
+development and is in active discussions with several
+vaccine manufacturers and researchers to provide
+regulatory advice for vaccine trials that may launch in
+Canada.
+ Until a vaccine or drug is available on the Canadian
+market, another option for access is Health Canada's
+Special Access Program. This Program is available to
+practitioners requiring access to drugs that provide
+supportive treatments to the infection. Our goal is to
+ensure that Canada is prepared for whatever challenges
+come our way.
+ The Special Access Program has authorized access to
+an experimental drug for the treatment of 11 seriously ill
+patients infected with COVID-19.
+Medical Devices
+ Health Canada designates the products eligible for
+importation and sale under the Interim Order.
+Companies with an establishment licence may import
+these drugs and devices after notifying Health Canada
+five days in advance.
+ As of April 17, there are 14 drugs permitted to be
+imported and sold under the Interim Order. These drugs
+include sedatives and muscle relaxants, such as
+Propofol, Midazolam, and Ketamine, used in the
+treatment of symptoms in patients with COVID-19.
+ Health Canada has also designated 14 medical devices
+permitted for exceptional importation, including masks,
+N95 respirators and a ventilator.
+ To date, we have authorized a total of 71 COVID-19
+medical devices, including:
+o 13 diagnostic testing devices
+o 46 personal protective equipment devices (gloves,
+gowns and medical and non-medical masks)
+o 4 decontamination devices for N95 respirators
+o 3 ventilatory management devices
+o 1 artificial intelligence diagnostic software
+Hand Sanitizers and Disinfectants
+ Because of current supply shortages of pharmaceutical
+and food-grade ethanol, Health Canada has temporarily
+authorized the use of certain sources of technical-grade
+ethanol in hand sanitizer products.
+ Each source of technical-grade ethanol must undergo a
+case-by-case risk assessment. I If approved, products
+must meet specific conditions such as providing
+additional information on their product labels to support
+their safe use. Manufacturers are also required to
+provide distribution information to Health Canada to
+assist with supply chain monitoring. As soon as the
+supply of higher grade ethanol returns to a sufficient
+level, these approvals will cease to be in effect
+International Collaboration
+ Health Canada is leveraging its strong international
+partnerships with: the US Food and Drug Administration;
+the European Medicines Agency; the International
+Coalition of Medicines Regulatory Authorities; the World
+Health Organization; the Pan-American Health
+Organization and the Australia, Canada, Singapore,
+Switzerland Consortium. We are collaborating with
+member countries to share information and to raise our
+collective level of awareness of evidence-based
+approaches for vaccines and treatments. The objective
+is to work towards alignment on regulatory requirements.
+ Health Canada, through the International Coalition of
+Medicines Regulatory Authorities, known as ICMRA, is
+participating in COVID-19 specific discussions, is
+collaborating with member countries to share information
+and to raise our collective level of awareness of
+evidence-based approaches for vaccines and
+treatments. The objective is to work towards alignment
+on regulatory requirements. We are in discussions
+regarding the treatments and vaccines that are under
+development or testing in clinical trials in our respective
+countries.
+Stakeholder Engagement
+ Health Canada recognizes that many stakeholders,
+health professionals and Canadians are looking for more
+information about health products for COVID-19.. We
+have consolidated Health Canada information into a new
+website for the health product industry, so they know
+how to apply for regulatory approval and who to contact
+for questions. We are also making sure information
+relevant to health professionals and Canadians is
+provided on the COVID-19 website.
+ Health Canada is actively engaging with stakeholders in
+the health product industry to proactively identify, track
+and provide support to sponsors of clinical trials,
+potential diagnostic tests, treatments and vaccines
+related to COVID-19.
+3.C Claims to prevent/treat COVID
+ Health Canada has not authorized any product to
+prevent, treat or cure COVID-19. Selling unauthorized
+health products or authorized products that make false
+or misleading claims to prevent, treat or cure COVID-19
+is illegal in Canada. Our Government takes this matter
+very seriously and is taking action to stop this illegal
+activity.
+ As a result of proactive monitoring activities and
+complaints received, a wide range of products that are
+either unauthorized, or authorized but make false or
+misleading claims related to COVID-19, have been
+identified. Health Canada has issued compliance letters
+to multiple companies directing them to immediately stop
+selling such products and remove references to these
+products from their websites.
+ Our Government takes this issue seriously and will not
+hesitate to use all mechanisms and tools at its disposal
+to stop these activities.
+ Health Canada is also coordinating with other
+government agencies such as the Competition Bureau
+to address the issue of false and misleading claims
+related to COVID-19.
+IF PRESSED ON HEALTH CANADA’S ACTIONS TO DATE
+ As of April 15, Health Canada has followed up on nearly
+200 cases of health products making false or misleading
+claims related to COVID-19 identified through proactive
+monitoring activities or complaints received.
+ Various compliance and enforcement options are
+available to manage the risk posed to public health and
+safety by false or misleading claims related to COVID-
+19, including on site inspections, regulatory letters,
+recalls, public communications or product seizures.
+ In certain circumstances, when the regulatory
+enforcement responses are not appropriate to achieve
+compliance, Health Canada may also refer its findings to
+the Public Prosecution Service of Canada for potential
+prosecution.
+3.D Ventilator Supply
+ Our Government, in collaboration with our partners, is
+supporting Canadian manufacturers in their efforts to
+supply ventilators to the Canadian healthcare system.
+ On March 30th, I signed an Interim Order to help prevent
+and alleviate drug and medical device shortages. An
+interim order is one of the fastest mechanisms available
+to address large-scale public health emergencies.
+ My Department has expedited the approval of over 550
+medical device establishment licence applications
+related to devices being manufactured, imported and
+distributed to help combat COVID-19.
+ These actions are showing results, with almost 150 new
+medical devices authorized to help in the fight, including
+a new model of ventilator, the Newport HT-50, that is
+already being distributed by the Public Health Agency of
+Canada.
+If pressed on further measures…
+ In addition to the streamlined application and review
+process for medical devices, we are making sure, by
+way of our website, that important COVID-19 related
+information is available for Canadians, health care
+providers, and manufacturers. We also maintain an up to
+date list of authorized COVID-19 devices in Canada.
+This is key to ensure the healthcare system is aware of
+the medical devices that have been authorized and
+ready for access.
+If pressed on the March 30 interim order…
+ The Interim Order permits the exceptional importation
+and sale of drugs and medical devices such as
+ventilators that may not fully meet Canadian
+requirements related to licensing and labelling, but are
+manufactured according to comparable standards.
+ There are currently 14 medical devices permitted for
+exceptional importation and sale under the Interim
+Order, including one ventilator that is being distributed
+by the Public Health Agency of Canada. Other products
+permitted to be imported and sold under this measure
+include masks and gowns and more products will
+continue to be added to help increase supplies in
+Canada.
+ The Interim Order also requires that any shortages of
+critical medical devices such as ventilators be reported
+to Health Canada and publicly communicated. Public
+reporting of shortages help manufacturers and the
+health care system plan and react to supply disruptions,
+in order to mitigate the impact on patients.
+4.A Support for Indigenous and Northern communities
+ As part of our response to COVID-19, the Government of
+Canada is supporting First Nations and Inuit communities in
+preparing for, monitoring and responding to the virus.
+ On March 18, 2020, the Government of Canada announced
+that it would provide $305 million for a new distinctions-based
+Indigenous Community Support Fund, to address immediate
+needs in First Nations, Inuit, and Métis communities. These
+funds will flow directly to Indigenous communities and groups
+across the country in order to provide the flexibility needed to
+prepare and react to the spread of COVID-19.
+ The provision of health services to Indigenous peoples is an
+area of shared jurisdiction, and the federal government, through
+Indigenous Services Canada, supports health programs and
+services for First Nations and Inuit that supplement those
+provided by provinces and territories.
+ ISC’s COVID-19 response efforts to date have focused on
+working with communities and partners to respond to
+immediate needs, while supporting pandemic preparedness
+efforts across all areas.
+ Strong engagement continues between ISC Regions and First
+Nations and Inuit regional partners and communities to identify
+and address risk factors and receive, track, and respond to
+requests from communities and partners.
+ The Government of Canada is working with provincial and
+territorial public health laboratories to meet the demand for
+testing, including the testing needs of Indigenous communities.
+The Government of Canada is exploring a range of rapid test
+kits, including the recently approved Spartan Bioscience’s rapid
+testing kit, to improve testing capabilities in rural and remote
+communities.
+ We know that some Indigenous businesses are also facing
+unique challenges, including being in rural or remote locations
+and having less access to capital, and are disproportionately
+affected by this unprecedented situation.
+ On April 18 we announced $306.8 million to help small and
+medium-sized Indigenous businesses, and to support
+Aboriginal Financial Institutions that offer financing to these
+businesses through short-term, interest-free loans and non-
+repayable contributions. These measures will help 6,000
+Indigenous-owned businesses get through these difficult times
+.
+ The Government is working through Public Safety’s
+Government Operations Centre and ISC to coordinate a
+response to COVID-19 in northern and isolated communities,
+as well as prepare for the upcoming flood and fire season. We
+are monitoring the status of communities across the country so
+that any needs for assistance can be identified and offered
+proactively.
+ Our government has also been working with northern and
+Indigenous partners to address the unique and critical needs of
+Northerners. These supports will ensure that northern residents
+have the supports they need to prepare for and respond to the
+COVID-19 pandemic. From access to health services, to the
+continuation of the supply chain through air supports, and
+greater subsidies on essential items, we are taking actions to
+help Northerners when they need it most.
+ These measures include $72.6 million to the governments of
+Yukon, Northwest Territories, and Nunavut to support their
+COVID-19 health and social services preparations and
+response. This funding will help territories address the critical
+priorities they identified to minimize the spread of the virus.
+4.B Intersection of CoVID-19 and substance use
+ During the pandemic, we must not forget that many regions of
+the country continue to struggle with historic rates of drug
+overdose and harms.
+ Tragically, in these communities, the pandemic is compounding
+this deadly and ongoing public health crisis.
+ The Government is very concerned that people who use drugs
+are at increased risk of CoVID-19. This is due to risks that
+come with multiple close contacts and unique difficulties of
+social distancing; increased likelihood of underlying health
+conditions; and increased risks of overdose when using drugs
+alone.
+ In response, the Government has taken important measures to
+enable the health system to better meet the needs of people
+with substance use disorder as a part of its response to the
+pandemic. We have made it easier for them to access the
+medications they need, such as those necessary for opioid
+agonist treatment, like Suboxone and methadone.
+ Ministerial exemptions issued under the Controlled Drugs and
+Substances Act now permit prescribers to use verbal
+prescriptions to order narcotics, and pharmacists to extend and
+transfer prescriptions to support ongoing treatment, as well as
+have these medications delivered to patients.
+ By providing for these new measures, vulnerable people will be
+better able to get the supports they need, while respecting
+public health directives for physical distancing and self-
+isolation.
+IF PRESSED ON HEALTH CANADA’S ACTIONS TO ADDRESS
+COVID-19 IN COMMUNITIES WHERE THERE IS CHRONIC
+OVERCROWDING, INCLUDING A SHORTAGE OF HOUSING …
+ We understand the unique challenges associated with
+containing the spread and protecting homeless Canadians from
+CoVID-19.
+ On April 6, we proactively took steps to make it easier for
+overdose prevention sites to be rapidly established in
+temporary community shelters for individuals exposed to
+CoVID-19, and to allow existing supervised consumption site
+operators to adjust their services to support physical distancing
+and respect public health directives.
+ These measures will not only make it easier for people who are
+staying at shelters to respect public health directives to distance
+and isolate, they will also protect them from the risks and harms
+of overdose.
+ Health Canada is also supporting community-based projects
+funded under the Substance Use and Addictions Program in
+order to allow for funds to be re-directed to support immediate
+CoVID-19 needs in their communities.
+ In addition, my department is working to identify additional
+areas where federal exemptions, national guidelines or funding
+opportunities could help mitigate the impacts of the dual public
+health crises of CoVID-19 and opioid-related overdose and
+death.
+ Taken together these efforts will help ensure vulnerable
+Canadians have access to the health services they need during
+the serious health threat posed by COVID-19.
+4.C - Long Term Care Guidance
+ There are some populations such as residents of long term
+care facilities who are especially vulnerable to acquiring
+infection with COVID-19 due to behavioural factors, shared
+spaces and underlying chronic conditions and age.
+ Recognizing this, the Public Health Agency of Canada has
+released infection prevention and control guidance to
+assist long term care facilities prevent transmission of
+COVID-19 to this at-risk population.
+ The Government of Canada is committed to taking the
+necessary action to continue to protect the health and
+safety of Canadians during this pandemic.
+IF PRESSED ON LONG-TERM CARE GUIDANCE …
+ The Public Health Agency of Canada’s guidance on
+infection prevention and control in long term care facilities
+is designed to limit the possibility of introducing COVID-19
+into these facilities by recommending that only those who
+are essential to the care of residents can enter the facility.
+ In this guidance, staff in long term care facilities are
+encouraged to take their own steps to protect the residents
+by monitoring their health twice a day, following routine
+infection control practises and wearing a mask for the
+duration of their shifts.
+ This guidance also recommends that staff restrict their
+work to only one facility in order to prevent transmitting
+COVID-19 between facilities.
+ The Government of Canada is committed to taking the
+necessary action to continue to protect the health and
+safety of Canadians during this pandemic.
+IF PRESSED ON NATIONAL VOLUNTEER RECRUITMENT CAMPAIGN …
+ As part of the comprehensive federal, provincial and
+territorial response to COVID-19, the Government of
+Canada is supporting provinces and territories by
+facilitating an inventory for recruitment and mobilization of
+skilled Canadians to provide surge capacity in the following
+key areas:
+4. Case tracking and contact tracing;
+5. Health system surge capacity; and
+6. Case data collection and reporting.
+ As of April 18, there were 36,899 volunteers registered in
+the inventory from which provincial and territorial
+governments can draw upon as needed.
+ To date, referrals from the inventory have been shared
+with a number of jurisdictions, mostly to support LTC
+needs:
+o 919 volunteers referred to Nova Scotia
+o 1,118 volunteers referred to Quebec
+o 24 volunteers referred to Northwest Territories
+o Saskatchewan and Ontario are also in the process of
+seeking referrals
+As needs evolve, support in other areas requiring assistance
+may be provided.
+4.D - Federal Correctional Facilities
+ The Public Health Agency of Canada is working closely
+with Correctional Service Canada to strengthen measures
+to prevent introduction and transmission of COVID-19 into
+federal correctional institutions across Canada.
+ Correctional Service Canada has been working in concert
+with the Public Health Agency of Canada to identify
+additional measures required to control the outbreak at
+Mission and to prevent or contain outbreaks elsewhere.
+ In the immediate term, the focus is on controlling the
+outbreak at Mission Institution (medium unit which houses
+306 inmates) by:
+Mobilizing a field epidemiologist, an Infection Prevention
+o
+and Control expert, and a Workplace Health and Safety
+person this past weekend [April 18] to review and audit
+the practices around donning and doffing PPE
+equipment, and cleaning and disinfecting practices; and
+Prioritizing additional facilities for further assessments.
+o
+ The Public Health Agency of Canada’s National
+Microbiology Laboratory has been working with the British
+Columbia Centre for Disease Control to ensure that there
+is sufficient laboratory testing capacity for Mission.
+CSC and PHAC are also focusing on preventing and
+
+containing the spread of the virus across institutions by:
+Assessing and strengthening measures to prevent and
+o
+contain the transmission of the virus;
+Reviewing and auditing the infection prevention and
+o
+control practices; and
+Reviewing and auditing the workplace health and safety
+o
+practices.
+Furthermore, Correctional Service Canada and the Public
+
+Health Agency of Canada are working collaboratively to
+strengthen the outbreak management and coordination at
+both local and national levels by establishing Local and
+National Outbreak Coordinating Committees, which will
+include local and provincial/territorial public health
+authorities, CSC and PHAC members.
+Finally, Correctional Service Canada and the Public Health
+
+Agency of Canada have worked together to address the
+concerns expressed by BC’s Chief Medical Officer by:
+Having experts deployed to Mission Institution to review
+o
+the institution’s practices around donning and doffing
+masks and cleaning protocols;
+Establishing protocols to complete detailed case report
+o
+forms;
+Ensuring staff do not work at multiple sites;
+o
+Establishing a protocol to inform the provincial health
+o
+authority of inmates released; and
+Establishing a protocol among CSC, CDC and Fraser
+o
+Health for the sharing of data on testing and its results.
+ In addition, the Public Health Agency of Canada and
+Correctional Service Canada are working with local and
+provincial/ territorial public health authorities across the
+country to ensure that all of the appropriate public health
+and infection prevention and control practices are in place
+to prevent or rapidly control further outbreaks.
+ The National Microbiology Laboratory is working with BC
+and other provincial public health laboratories to ensure
+that federal correctional institutions have access to
+sufficient laboratory testing capacity to rapidly identify and
+manage cases.
+IF PRESSED ON THE COVID-19 OUTBREAK AT MISSION …
+ The Public Health Agency of Canada is working closely
+with officials at Correctional Service Canada, as well as
+with the public health authorities locally and with British
+Columbia’s Centre for Disease Control, to bring the
+outbreak at Mission under control.
+ The Public Health Agency of Canada is in daily contact
+with Correctional Service Canada, and have mobilized
+experts in epidemiology, infection prevention and control,
+and workplace health and safety to Mission to support
+Correctional Services Canada and local public health
+authorities in bringing the outbreak under control.
+5.A Test Kit Approvals
+Key Messages
+ Only diagnostic tests authorized by Health Canada can
+be imported or sold in Canada.
+ On March 18, 2020, I approved an interim order to
+expedite the review of medical devices, including test
+kits. An interim order is one of the fastest mechanisms
+available to address large-scale public health
+emergencies.
+ Health Canada reviews all COVID-19-related
+submissions and applications as quickly as possible
+without compromising patient safety.
+ Unauthorized tests may not produce accurate results,
+leading to potential misdiagnosis.
+ Health Canada has confirmed that authorized COVID-19
+tests are well supported by evidence indicating they will
+provide accurate and reliable results.
+IF PRESSED
+…
+ Health Canada has received submissions for two types
+of diagnostic testing devices:
+– nucleic acid-based tests
+– serological-based tests
+ These technologies have different levels of reliability and
+are used for different purposes.
+ Nucleic acid amplification testing has proven to be a
+reliable method to diagnose COVID-19 infection by
+detecting the virus itself. Health Canada has authorized
+13 nucleic acid tests as of April 17.
+ Serologic tests detect antibodies developed against the
+virus and could be useful in assessing the population
+that contracted the disease. However, these are not
+used for diagnosis. Lack of scientific evidence about the
+immune response generated by SARS-CoV-2 limits the
+ability to rely on these tests for now.
+ To date Health Canada has not issued authorizations for
+any serological tests.
+ My department is working with leading regulators and
+world-renowned national laboratories to identify
+serological tests that will produce accurate and reliable
+results.
+ These efforts will help ensure Canada has access to the
+testing devices needed during the serious health threat
+posed by COVID-19.
+5.B - Testing Capacity/PT Testing Strategy/Rapid Testing
+ Public Health Agency of Canada is working with provinces
+and territories to ensure that persons under investigation
+for the novel coronavirus are confirmed or ruled out
+through laboratory testing.
+ National Microbiology Laboratory is working closely with
+provincial and territorial public health laboratories to
+increase testing capacity across the country ensuring a
+steady supply of equipment for testing. National
+Microbiology Laboratory are actively exploring other testing
+options and approaches.
+ To support rapid testing in rural, remote and Indigenous
+communities, the Public Health Agency of Canada is
+actively validating rapid test kits including Spartan
+Bioservices approved on April 11. The Public Health
+Agency of Canada will be working in collaboration with
+provincial and territorial governments to procure and
+determine the distribution of test kits to communities most
+in need.
+ The Government of Canada is committed to taking the
+necessary action to continue to protect the health and
+safety of Canadians during this pandemic.
+IF PRESSED ON RAPID TEST KITS …
+ The Public Health Agency of Canada has placed orders
+from Spartan Biosciences to order 600 test instruments
+and enough test kits to perform 1.92 million tests and is
+working closely with provinces and territories to determine
+the need of rural, remote, and Indigenous communities.
+The Public Health Agency of Canada is also actively
+looking at other instruments and platforms that could be
+used to support testing in rural, remote, and Indigenous
+communities.
+IF PRESSED ON WHETHER ALL CANADIANS SHOULD BE TESTED …
+ Canada has and will continue to test symptomatic
+individuals, as part of our evidence-based approach, while
+considering the evolving science on other testing
+scenarios. As the science evolves, our approach will keep
+pace, and policies and protocols will be updated
+accordingly.
+ As new products or platforms become available and
+approved for use in Canada, the Public Health Agency of
+Canada will work with provincial public health laboratories
+to acquire new products and platforms to augment existing
+testing capacity.
+ These efforts will help ensure Canadians have access to
+the testing they need during the serious health threat
+posed by COVID-19.
+IF PRESSED ON SEROLOGY TESTING …
+ The National Microbiology Laboratory is working on
+developing a number of in-house serological tests in
+addition to evaluating a variety of commercial tests for
+COVID-19.
+ Developing and applying a serological test for COVID-19
+has its challenges as this is an emerging virus and the
+performance of new tests require additional research. The
+National Microbiology Laboratory, working with Health
+Canada and other partners, is in the process of assessing
+a number of serological tests and collecting samples to
+evaluate them.
+5.C - Procurement of Reagents
+ Public Health Agency of Canada is working closely with
+provincial and territorial governments to monitor the supply
+of reagents for laboratory testing purposes in Canada. We
+are taking action with our partners to mitigate the impact of
+any shortages related to COVID-19 for Canadians.
+ For example, we were informed of shortages of reagents in
+some jurisdictions. We are actively working with industry
+partners to secure a steady supply of reagents for
+laboratory testing purposes.
+ The Public Health Agency of Canada has put in a bulk
+procurement of testing reagents on behalf of the P/Ts with
+the aim to increase Canada’s allocation on the global
+scale.
+ The National Microbiology Lab developed a recipe to
+produce a reagent within Canada to secure a steady
+supply of reagents. The Public Health Agency of Canada
+signed a contract with LuminUltra, a New Brunswick based
+company, to produce reagents using the National
+Microbiology Lab recipe for 500,000 tests a week for the
+next year.
+ This domestic supply of reagents from LuminUltra is
+expected to exceed current testing demands in Canada.
+ The Public Health Agency of Canada continues to explore
+other options and approaches to bolster the existing supply
+chain and be prepared for future testing scenarios. These
+efforts will help ensure Canadians have access to
+laboratory testing they need during the serious health
+threat posed by COVID-19.
+6.A - Border Measures (COVID-19)
+ The health and safety of Canadians is our top priority. We
+are taking unprecedented action to respond to the COVID-
+19 pandemic.
+ Since February 3, the Public Health Agency of Canada has
+enacted ten Emergency Orders under the Quarantine Act
+to minimize the risk of exposure to COVID-19 in Canada –
+to reduce risks from other countries, to repatriate
+Canadians, and to strengthen measures at the border to
+reduce the impact of COVID-19 in Canada.
+ The Public Health Agency of Canada has been working
+with federal partners to facilitate commercial traffic to
+maintain the flow of essential goods and services, while
+continuing to protect the health of Canadians.
+ In mid-March, we put in place a travel ban prohibiting
+foreign nationals from entering into Canada, with some
+exceptions, such as temporary foreign workers,
+international students and medical professionals.
+ At the end of March, we enacted an order requiring
+mandatory isolation that required all travelers to isolate or
+quarantine upon return. At that time, we differentiated
+between symptomatic and asymptomatic travelers.
+Symptomatic travelers were not permitted to isolate with
+vulnerable persons, nor could they take public transport to
+their place for isolation.
+ As we learned more about the virus, and the fact that
+people who are asymptomatic could transmit the virus, we
+responded appropriately.
+ On April 15, we enacted an order requiring mandatory
+isolation for both symptomatic and asymptomatic travelers
+arriving in Canada. Both symptomatic and asymptomatic
+travelers are required to confirm that they have a suitable
+place to isolate – a place with access to necessities where
+they are not in contact with vulnerable people. In addition,
+all travelers arriving in Canada must now wear a non-
+medical mask or face covering while in transit to isolation
+or quarantine.
+ Those who do not have an appropriate place in which to
+isolate or quarantine must go to a place designated by the
+Chief Public Health Officer of Canada.
+ Canada’s Chief Public Health Officer has designated
+quarantine facilities (e.g., hotels) in a number of locations,
+including in Vancouver, Calgary, Toronto and Montréal.
+ Our border actions have been complementary to those
+taken under the Aeronautics Act to require health
+screening of travelers before boarding flights to Canada
+and now all travelers are required to wear a non-medical
+mask during travel or in airports.
+ The Public Health Agency of Canada is working with the
+RCMP and provincial law enforcement agencies to verify
+compliance with the Mandatory Isolation Order.
+ Penalties include a fine of up to $750,000 or imprisonment
+for six months, or both, for failure to comply with this
+Order.
+ A ticketing scheme is now in place to allow for fines for
+non-compliance ranging from $275 to $1000.
+If pressed on masks …
+ Wearing an appropriate non-medical mask or face
+covering can be useful for short periods to prevent
+respiratory droplets from contaminating others or landing
+on surfaces.
+ An appropriate non-medical mask or face covering is made
+of protective layers of absorbent fabric that fit snuggly over
+the nose and mouth and is secured to the face with ties or
+loops. Masks or coverings should allow for easy breathing,
+stay the same shape after machine washing and drying
+and be changed as soon as possible if damp or dirty.
+If pressed on thermal scanners …
+ In the Severe Acute Respiratory Syndrome (SARS)
+outbreak in 2003, more than 6.5 million screening
+transactions occurred at Canadian airports including
+inbound and outbound travelers. Of these, 2.3 million
+travelers were screened using thermal scanners.
+ Despite this intensive screening effort, no cases of SARS
+were detected using these methods.
+If pressed on maximum penalties under the Quarantine Act …
+ A person who causes a risk of imminent death or serious
+bodily harm to another person while willfully or recklessly
+contravening the Quarantine Act or the regulations could
+be liable for a fine of up to $1 million or imprisonment of up
+to three years, or both.
+7.A - Serological Surveillance – Future Steps
+ Managing Canada’s COVID-19 epidemic in the near and
+medium term depends on knowing where the virus has
+been and where it is going, who has been infected, and the
+resulting levels of immunity in populations.
+ Gathering this information through serological testing or
+‘serosurveillance’ will help inform public health measures
+such as vaccination and physical distancing as this
+pandemic evolves.
+ To support this important work:
+o The Government of Canada is exploring the
+development of a national serosurveillance program. It
+will connect and leverage expertise nationally to
+deliver a coordinated agenda for Canada to measure
+the scope and scale of COVID-19 infection and rapidly
+feed this information to decision-makers.
+o These efforts will inform, and be informed by,
+international serosurveillance efforts.
+ The Public Health Agency of Canada’s National
+Microbiology Laboratory will be a key collaborator in this
+initiative, providing their scientific expertise in testing
+standardization and serological tests.
+IF PRESSED ON SEROLOGY, OR ON FUTURE ACTIONS ON SEROLOGICAL
+SURVEILLANCE …
+ A serological test is a blood test that detects the presence
+of virus-specific antibodies in a patient’s blood. If the
+antibody is detected, it means that the person has, at
+some point, been infected with the virus that causes
+COVID-19.
+ Information from serological surveys can also help guide
+important public health decisions for immunization
+strategies once a vaccine becomes available.
+ Developing, evaluating and applying a serological test for
+COVID-19 has its challenges as this is an emerging virus.
+Researchers at the National Microbiology Laboratory and
+its partners are in the process of assessing a number of
+serological tests and collecting samples to evaluate them.
+IF THE FUNDING IS ANNOUNCED (INCLUDING THE CONSORITUM) …
+ This Consortium will mobilize Canada’s top public health
+professionals and scientists throughout the country in
+coordinating a series of studies using blood tests that can
+determine if an individual has been infected with COVID-
+19.
+ This will give us an excellent snapshot of the immunity
+status in the general population and in vulnerable
+populations such as Indigenous communities, and
+residents of nursing homes and long-term care facilities.
+ Sharing data from such a large-scale surveillance initiative
+will allow Canadian and global researchers to work
+together to develop innovative approaches for better
+understanding of immunities and emerging aspects of
+SARS-CoV-2. For example, Canada will play an important
+contributing role in global COVID-focused initiatives such
+as the World Health Organisation’s Solidarity II and Unity
+studies.
+8.A - Suspension of U.S. Contributions to the World Health
+Organization (WHO)
+ The WHO has been providing critical global and regional
+leadership during these unprecedented times.
+ Canada has valued WHO’s leadership and coordination on
+many aspects of the COVID-19 response, including its
+role:
+o overseeing the International Health Regulations, the
+foundational legal global public health instrument
+designed to help prevent, protect against, control and
+respond to the international spread of disease
+o driving collaborative global research efforts towards new
+vaccines and effective treatments
+o working with all actors to address shortages of critical
+medical supplies and personal protective equipment,
+and
+o supporting the most vulnerable countries in their
+preparedness and response efforts.
+ We have confidence that the WHO bases their guidance
+and recommendations on the best available science and
+evidence, which has been rapidly evolving in the current
+context.
+ For example, the WHO has helped to build a common
+understanding of this new disease based on science and
+research, and helped keep our front-line workers safe
+through guidance on the proper use of personal protective
+equipment during COVID-19.
+ We understand that the U.S. has taken a decision to
+temporarily suspend their funding to WHO while the
+Administration conducts a review of the organization’s
+response to COVID-19.
+ We agree that all have lessons to be learned. We continue
+to have trust that our multilateral institutions are working
+with all countries, for all countries.
+ Canada has and will continue to be a strong supporter of
+the WHO. Since February 11, our government has
+provided $15.5 million to WHO, and a further $1.5 million
+to Pan American Health Organization (PAHO), the regional
+WHO office for the Americas, to prepare and respond to
+COVID-19 events.
+ Our continued commitment to the WHO includes our
+interest in making it a strong, accountable, and well-
+governed institution. We will continue to participate in
+oversight and accountability processes to help reinforce
+transparency, confidence, and trust in the organization.
+ This includes after-action reviews, which will be important
+at all levels following this crisis and can provide critical
+insights to support necessary change.
+ We have seen how important these reviews can be. For
+example, a review process following the Ebola outbreak in
+West Africa in 2014 led to important and meaningful
+reforms of WHO’s emergency program, which Canada
+strongly supported.
+ However, we remain in the midst of the
+pandemic. Undermining the WHO right now will not
+strengthen our response, and risks damaging the general
+public’s trust in WHO’s evidence-based guidance when it
+is needed more than ever.
+ Now is not the appropriate time to draw resources and
+focus away from where they are needed most: the health
+and safety of Canadians and people around the world.
+Background
+ On April 14, President Donald Trump announced that the
+U.S. will temporarily suspend funding to World Health
+Organization (WHO) for 60-90 days while the
+Administration conducts a review of the organization, due
+to misgivings over the WHO’s management of the
+pandemic and a perceived bias towards China.
+ The Trump Administration has long been skeptical towards
+the United Nations system and multilateralism more
+broadly.
+ The U.S. is the top Member State contributor to the WHO,
+contributing approximately 15% of the organization’s
+funding. The WHO is assessing of how this funding
+suspension will affect its work.
+8.B. G7 and G20
+ Canada has engaged with its international counterparts
+through various means since the beginning of COVID-19
+pandemic. With the outbreak evolving rapidly around the
+world, we must work closely with our international partners
+to help reduce risks to Canadians and the global
+community.
+ Since early February, I have been engaging my G7
+counterparts on a weekly basis to share information on
+public health measures and identify possible joint actions
+to tackle this outbreak.
+ Canada’s regular exchange with its G7 allies – some of
+who are ahead of us in terms of epidemiological curve –
+has allowed us to learn from others’ experiences and best
+practices, which continue to help inform our domestic
+response. For example, Canada’s sterilization plan on
+personal protective equipment has been adapted from
+lessons learned from the United States.
+ Just yesterday, I also participated in the G20 Health
+Ministers Meeting to discuss the COVID-19 pandemic,
+among other health priorities. As the G20, we shared
+national best practices and exchanged views on the
+importance of multilateral collaboration through the World
+Health Organization, as well as other institutions such as
+the Global Alliance for Vaccines and Immunizations, and
+the Coalition for Epidemic Preparedness Innovations.
+ Prime Minister Trudeau and my cabinet colleagues are
+also engaged with their G7 and G20 counterparts. We
+remain committed to advancing a whole-of-government
+and multi-sectoral response to COVID-19.
+ We are committed to continue to work closely with our
+international partners, both within the G7, the G20 and
+beyond, to protect the health and safety of Canadians and
+around the world.
+9.A - Communications for Canadians – websites, phone
+lines, digital tools and apps
+ Since the start of the COVID-19 outbreak, the Government
+of Canada has provided Canadians and health care
+providers with the timely, trusted, accessible and evidence-
+based information they need to protect themselves, their
+families, their communities and their businesses.
+ We have used a wide variety of channels to provide
+information and updates to Canadians, including through:
+o the dedicated website Canada.ca/coronavirus, which
+has had more than 100 million visits since its launch,
+o daily briefings to the media,
+o a toll-free information line [1-833-784-4397] with
+service available in 200+ languages, social media
+and digital advertising.
+ We are using a variety of methods to ensure that
+Canadians who may not have access to or use online
+technology, or who live in rural or remote communities, get
+the information they need so they can make informed
+decisions and protect their health. For example, we
+distributed a nation-wide mail-out on COVID-19 to every
+household in Canada.
+ Over the past month, you would have likely seen, heard or
+read a Government of Canada ad on TV or radio, or in
+print publications across the country.
+ Through our website, Canadians can access:
+o plain-language guidance and advice for travellers,
+healthcare professionals, essential workers,
+Indigenous communities and all Canadians
+o downloadable factsheets and infographics on a
+variety of topics, in multiple languages;
+o a self-assessment tool to check for symptoms of
+COVID-19; and
+o a dashboard that shows how the outbreak of COVID-
+19 is evolving in Canada.
+ To complement the website, the Government of Canada
+launched the Canada COVID-19 mobile app, which
+provides users with easy access to trusted health
+resources and allows them to track COVID-19 symptoms
+daily.
+ The Government of Canada has also launched Wellness
+Together Canada, a mental health and substance use
+support portal to provide access to credible information
+and to connect Canadians to peer support workers, social
+workers, psychologists and other professionals for
+confidential chat sessions or phone calls.
+ The Government of Canada continues to work closely with
+provinces and territories, vendors and stakeholders to
+make additional tools widely available to Canadians and
+their families.
+If pressed on the Wellness Together Canada portal…
+ During these difficult times, it is critical that Canadians
+have access to effective tools to support their mental
+health and well-being, obtain credible and reliable
+information about mental health and substance use, and
+access services.
+ The Wellness Together Canada portal provides Canadians
+with access to a virtual network of psycho-social
+information services and supports.
+If pressed on the Canada COVID-19 app…
+ This app has more than 425,000 users as of April 17. It
+builds on what provinces and territories are doing, and
+provides another valuable resource for Canadians.
+ The Canada COVID-19 app is a central resource to access
+trusted, evidence-based information about the COVID-19
+pandemic across Canada. It does not track personal
+information, nor is it a surveillance tool.
+ The protection of Canadians’ information is a priority for the
+Government of Canada, and any tool used to collect health
+care information undergoes a rigorous privacy assessment.
+10.A. Vaccine Research
+ Vaccine research and development is a highly complex
+and long process that typically takes over 10 years.
+ Globally, there are over 100 COVID-19 candidate vaccines
+at different stages of development by academia and
+industry.
+ In Canada, there are 10 candidate vaccines in early
+development and it is anticipated that several will advance
+to human clinical trials in the coming months.
+ The Government of Canada is committed to supporting
+multiple candidate vaccines to increase the likelihood of
+success.
+IF PRESSED ON MCM ACTION PLAN …
+ The Government of Canada has committed over $275
+million in funding to support COVID-19 vaccine and
+therapeutics research and development.
+ For example, investments have been made in vaccine
+development efforts by Quebec-based Medicago and
+Saskatchewan-based VIDO-Intervac.
+ We are working closely with academia and the private
+sector to advance research and development of candidate
+vaccines by partnering on pre-clinical research, bio-
+manufacturing requirements to support large-scale
+production, enhancing capacity and access for clinical
+trials, and seeking solutions for domestic capacity.
+10.B - Timelines for Vaccine Development
+ Generally, it can take 10 to 20 years to develop a vaccine
+due to the extensive research required to ensure a safe
+and effective product.
+ There are over 100 vaccine candidates globally that are at
+different stages of development by academia, small and
+medium enterprise and large, and multinational
+pharmaceutical organizations.
+ Of these, six have demonstrated promise and have
+advanced to Phase 1 clinical trials in China, the US, and
+the UK. Early results of Phase 1 clinical trials are expected
+as early as July 2020.
+ In Canada, there are 10 candidate vaccines in early
+development and it is expected that several will advance to
+clinical trials in the coming months.
+ The Government of Canada is supporting multiple
+organizations, who are working at unprecedented speed to
+develop candidate vaccines.
+ Health Canada is reviewing its regulatory pathways to help
+expedite access to safe and effective vaccine.
+IF PRESSED ON TIMELINES FOR VACCINE DEVELOPMENT …
+ The Government of Canada has committed over $275
+million in funding to support COVID-19 vaccine and
+therapeutics research and development.
+ For example, investments have been made in vaccine
+development efforts by Quebec-based Medicago and
+Saskatchewan-based VIDO-Intervac.
+ While every effort in Canada is being made to expedite
+vaccine development, we must not compromise safety,
+efficacy and quality.
+ Early planning is underway to prepare for vaccine
+availability and administration through public programs.
+11.A - Projections on cases and deaths
+ It is important to recognize that models are imperfect and
+cannot predict what will happen in terms of cases or
+deaths in Canada.
+ Specifically, what models can provide, is a prediction of
+what could happen under various scenarios to allow us to
+prepare for the worst case and drive public health action to
+enable the best possible outcome.
+ Our ambition is for public health measures to result in
+‘epidemic’ control, with less than 10% of Canadians
+affected and fewer than 40,000 deaths.
+ Based on our most recent modeling, it is forecast that by
+the end of the week of April 19th, total numbers of cases
+will reach 33,000-37,000 and total numbers of deaths will
+reach 1600-1900.
+ We all play a role in influencing these numbers and their
+trajectory. We must continue to control the epidemic using
+tried and true public health measures. If we ease up too
+early, we will lose the considerable progress we have
+made.
+ The Government of Canada is committed to taking the
+necessary action to continue to protect the health and
+safety of Canadians during this pandemic.
+IF PRESSED ON PHAC’S ACTIONS TO PREDICT COVID-19 CASES …
+ For the estimates provided today, projected numbers of
+cases and deaths were developed through modelling
+studies conducted by the Public Health Agency of Canada,
+informed by external experts in Canada and internationally.
+ We continue to collaborate with provincial partners. Based
+on our most recent modeling, it is forecast that by the end
+of the week of April 19th, total numbers of cases will reach
+33,000-37,000 and total numbers of deaths will reach
+1600-1900.
+ We all play a role in influencing these numbers and their
+trajectory. We must continue to control the epidemic using
+tried and true public health measures. If we ease up too
+early, we will lose the considerable progress we have
+made.
+ The Government of Canada is committed to taking the
+necessary action to continue to protect the health and
+safety of Canadians during this pandemic.
+IF PRESSED ON PHAC’S ACTIONS TO PREDICT COVID-19 CASES …
+ For the estimates provided today, projected numbers of
+cases and deaths were developed through modelling
+studies conducted by the Public Health Agency of Canada,
+informed by external experts in Canada and internationally.
+ We continue to collaborate with provincial and territorial
+governments and universities to explore modelling
+scenarios and forecasts for COVID-19 in Canada.
+11.B - PT modelling - Differences in infection rates
+ The COVID-19 epidemic in Canada comprises a number
+of different epidemics in the different provinces and
+territories.
+ Modelling studies have been conducted to predict the
+numbers of cases and deaths at a national scale by the
+Public Health Agency of Canada.
+ Some provincial and territorial public health authorities are
+conducting their own modelling to determine the projected
+numbers of COVID-19 related cases and deaths, and to
+plan for health system capacity.
+ Modelling results from the provinces align with those
+conducted by the Public Health Agency of Canada, but
+provide more province-specific detail for within-province
+planning.
+ The Government of Canada is committed to taking the
+necessary action to continue to protect the health and
+safety of Canadians during this pandemic.
+IF PRESSED ON PT ACTIONS TO PREDICT COVID-19 CASES …
+ As for studies conducted by the Public Health Agency of
+Canada, those conducted by provinces are for planning
+purposes and are not predictions of the future.
+ Different types of modelling are being conducted by
+different jurisdictions.
+ Dynamical (mathematical) modelling approaches are being
+used by British Columbia, Alberta, Saskatchewan,
+Manitoba, Ontario, and Prince Edward Island.
+ “What if” forecasting approaches have been, or are being,
+used by British Columbia, Ontario, Quebec, New
+Brunswick, Nova Scotia and Newfoundland & Labrador.
+ Dynamical modelling approaches are in the process of
+being adopted by the Territories, while the Public Health
+Agency of Canada is assisting Indigenous communities
+with modelling needs.

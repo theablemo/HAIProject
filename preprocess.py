@@ -1,4 +1,4 @@
-from Backend.embedding_manager import EmbeddingManager
+from agent.embedding_manager import EmbeddingManager
 import os
 from tqdm import tqdm
 
@@ -35,15 +35,15 @@ def process_csv_files(embedding_manager: EmbeddingManager, base_dir: str):
 
 
 if __name__ == "__main__":
-    embedding_manager = EmbeddingManager()
+    embedding_manager = EmbeddingManager(persist_directory="./sample_embedding_db")
     
     # Process text files
-    text_data_dir = "health_data/canada_data/text_data"
+    text_data_dir = "./sample_data/text_data"
     print("Processing text files...")
     process_text_files(embedding_manager, text_data_dir)
     
     # Process CSV files
-    csv_data_dir = "health_data/canada_data/csv_datasets_health"
+    csv_data_dir = "./sample_data/csv_data"
     print("\nProcessing CSV files...")
     process_csv_files(embedding_manager, csv_data_dir)
     

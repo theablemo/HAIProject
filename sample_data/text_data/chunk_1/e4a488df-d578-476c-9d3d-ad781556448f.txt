@@ -1,0 +1,786 @@
+Created: 2016-12-01T12:02:22.828865
+Name: Evaluating_the_Children’s_Health_and_Safety_Marketing_Campaign_–_ACET_Survey__
+Original URL: https://health.canada.ca/apps/open-data/por-rop/cdn-health-safety-acet-sante-security-eval-campaigne-data-dictionary-eng.txt
+Package ID: e4a488df-d578-476c-9d3d-ad781556448f
+Keywords: ['health and safety', 'tobacco', 'radon', 'HIV', 'AIDS', 'Nutrition Facts Table', 'marketing', 'health care system', 'youth', 'campaign', 'First Nations', 'obesity', 'drinking water', 'immunization.']
+Notes: A series of health-related data sets from various quantitative public opinion research studies.
+-------------------------------
+Extracted Text:
+Canadian Health and Safety Advertising Campaign Evaluation (ACET)  Data Dictionary
+HCPOR-12-01
+POR Registration No: POR 027-12
+
+RespondentID
+
+Language of interview
+EN  English
+FR  French
+
+Province of Residence
+AB  Alberta
+BC  British Columbia
+MB  Manitoba
+NB  New Brunswick
+NL  Newfoundland and Labrador
+NS  Nova Scotia
+NT  Northwest Territories
+ON  Ontario
+PE  Prince Edward Island
+QC  Quebec
+SK  Saskatchewan
+
+Q1A:Over the past few weeks or so, have you seen, heard or read any advertising about the safety of health and consumer products, food and vehicles in Canada?
+1 Yes
+2 No
+8 Dont know
+9 Refused
+
+Q1B: What can you remember about this advertising? What words, sounds or images come to mind? - MENTION 1
+50 Other
+98 Dont Know
+99 Refused
+
+Q1B: What can you remember about this advertising? What words, sounds or images come to mind? - MENTION 2
+50 Other
+98 Dont Know
+99 Refused
+
+Q1B: What can you remember about this advertising? What words, sounds or images come to mind? - MENTION 3
+50 Other
+98 Dont Know
+99 Refused
+
+Q1B: What can you remember about this advertising? What words, sounds or images come to mind? - MENTION 4
+50 Other
+98 Dont Know
+99 Refused
+
+Q1B: What can you remember about this advertising? What words, sounds or images come to mind? - MENTION 5
+50 Other
+98 Dont Know
+99 Refused
+
+Q2AA: Do you remember seeing a television ad over the past few weeks or so featuring a teddy bear with three other toys in a police line-up.
+1 Yes
+2 No
+7 Not applicable / Do not watch television (volunteered)
+8 Dont know
+9 Refused
+
+Q2AB: Over the past few weeks or so, do you remember seeing this same ad as an Internet video that is shown before watching a television show or another video on the Internet?
+1 Yes
+2 No
+7 Not applicable / Do not use the Internet (volunteered)
+8 Dont know
+9 Refused
+
+Q2AC: And do you remember seeing this ad at a movie theatre?
+1 Yes
+2 No
+7 Not applicable / Do not go to the movie theatres or cinema (volunteered)
+8 Dont know
+9 Refused
+
+Q2BA: Do you remember seeing a television ad over the past few weeks or so featuring a coughing pill bottle.
+1 Yes
+2 No
+7 Not applicable / Do not watch television (volunteered)
+8 Dont know
+9 Refused
+
+Q2BB: Over the past few weeks or so, do you remember seeing this same ad as an Internet video that is shown before watching a television show or another video on the Internet?
+1 Yes
+2 No
+7 Not applicable / Do not use the Internet (volunteered)
+8 Dont know
+9 Refused
+
+Q2BC: And do you remember seeing this ad at a movie theatre?
+1 Yes
+2 No
+7 Not applicable / Do not go to the movie theatres or cinema (volunteered)
+8 Dont know
+9 Refused
+
+Q2C: Finally, do you remember seeing any other ad on the Internet over the past few weeks or so about 
+the health and safety of consumer products, food and vehicles in Canada?
+1 Yes
+2 No
+7 Not applicable / Do not use the Internet (volunteered)
+8 Dont know
+9 Refused
+
+Q3: Thinking about the advertising that you saw, what do you think was the main point the advertising 
+was trying to get across?
+50 Other
+98 Dont Know
+99 Refused
+
+Q4A: Did you do anything as a result of seeing this ad?
+1 Yes
+2 No
+8 Dont know
+9 Refused
+
+Q4B: What did you do? Anything else? - MENTION 1
+50 Other
+98 Dont Know
+99 Refused
+
+Q4B: What did you do? Anything else? - MENTION 2
+50 Other
+98 Dont Know
+99 Refused
+
+Q4B: What did you do? Anything else? - MENTION 3
+50 Other
+98 Dont Know
+99 Refused
+
+
+Q4B: What did you do? Anything else? - MENTION 4
+50 Other
+98 Dont Know
+99 Refused
+
+Q4B: What did you do? Anything else? - MENTION 5
+50 Other
+98 Dont Know
+99 Refused
+
+Q5A: Thinking about the advertising you saw, who do you think produced it? That is, who paid for it?
+1 Government of Canada / Federal Government
+2 Provincial Government
+3 Municipal Government
+4 Government (General)
+5 Taxpayers
+50 Other (specify)
+98 Dont know
+99 Refused
+
+Q5B: Which level of government?
+1 Federal Government
+2 Provincial Government
+3 Municipal Government
+4 Other
+8 Dont know
+9 Refused
+
+Q6: How would you rate the performance of the Government of Canada in providing information to Canadians about the safety of health and consumer products, food and vehicles?
+
+1 01 Terrible
+2 02
+3 03
+4 04 Neither good nor bad
+5 05
+6 06
+7 07 Excellent
+98 Dont know
+99 Refused
+
+Q7: And, using the same scale how would you rate the performance of the Government of Canada in providing information to the public in general?
+
+1 01 Terrible
+2 02
+3 03
+4 04 Neither good nor bad
+5 05
+6 06
+7 07 Excellent
+98 Dont know
+99 Refused
+
+Q8: Generally speaking, how would you rate the overall performance of the Government of Canada? Once again, please use the same scale.
+
+1 01 Terrible
+2 02
+3 03
+4 04 Neither good nor bad
+5 05
+6 06
+7 07 Excellent
+98 Dont know
+99 Refused
+
+D1: Which of the following categories best describes your current employment status? Are you...?
+
+1 Working full-time (35 or more hours per week) 
+2 Working part-time (less than 35 hours per week)
+3 Self-employed
+4 Student attending full time school (not working)	
+5 Unemployed, but looking for work
+6 Not in the workforce (e.g. unemployed, but not looking for work, a full-time homemaker or parent) 
+7 Retired
+50 Other
+99 REFUSED
+
+D2: What is the highest level of formal education that you have completed to date?
+1 Elementary school or less
+2 Secondary school
+3 Some post-secondary 
+4 College, vocational or trade school
+5 Undergraduate university program
+6 Graduate or professional university program
+9 REFUSED
+
+D3: In what year were you born?
+9999 REFUSED
+
+D4: Are there any children under the age of 18 currently living in your household?
+1 Yes
+2 No
+9 REFUSED
+
+D4A: Do you have children in any of the following age groups living in your household? - MENTION 1
+1 Under 1 year old
+2 Between 1 & 3 years old
+3 Between 4 & 6 years old
+4 Between 7 & 12 years old 
+5 Between 13 & 17 years old
+8 DONT KNOW
+9 REFUSED
+
+D4A: Do you have children in any of the following age groups living in your household? - MENTION 2
+1 Under 1 year old
+2 Between 1 & 3 years old
+3 Between 4 & 6 years old
+4 Between 7 & 12 years old 
+5 Between 13 & 17 years old
+8 DONT KNOW
+9 REFUSED
+
+D4A: Do you have children in any of the following age groups living in your household? - MENTION 3
+1 Under 1 year old
+2 Between 1 & 3 years old
+3 Between 4 & 6 years old
+4 Between 7 & 12 years old 
+5 Between 13 & 17 years old
+8 DONT KNOW
+9 REFUSED
+
+D4A: Do you have children in any of the following age groups living in your household? - MENTION 4
+1 Under 1 year old
+2 Between 1 & 3 years old
+3 Between 4 & 6 years old
+4 Between 7 & 12 years old 
+5 Between 13 & 17 years old
+8 DONT KNOW
+9 REFUSED
+
+D4A: Do you have children in any of the following age groups living in your household? - MENTION 5
+1 Under 1 year old
+2 Between 1 & 3 years old
+3 Between 4 & 6 years old
+4 Between 7 & 12 years old 
+5 Between 13 & 17 years old
+8 DONT KNOW
+9 REFUSED
+
+D4A: Do you have children in any of the following age groups living in your household? - MENTION 6
+1 Under 1 year old
+2 Between 1 & 3 years old
+3 Between 4 & 6 years old
+4 Between 7 & 12 years old 
+5 Between 13 & 17 years old
+8 DONT KNOW
+9 REFUSED
+
+D5: Which of the following categories best describes your total household income? That is, the total income of all persons in your household, before taxes?
+1 Under $20,000
+2 $20,000 to just under $40,000
+3 $40,000 to just under $60,000
+4 $60,000 to just under $80,000	
+5 $80,000 to just under $100,000
+6 $100,000 to just under $120,000
+7 $120,000 to just under $150,000
+8 $150,000 and above
+99 REFUSED
+
+D6: Were you born in Canada?
+1 Yes
+2 No
+9 REFUSED
+
+D7A: In the last two weeks, have you. . . - a. Read a daily newspaper?
+1 Yes
+2 No
+8 Dont know
+9 REFUSED
+
+D7B: In the last two weeks, have you. . . - b. Read a weekly newspaper?
+1 Yes
+2 No
+8 Dont know
+9 REFUSED
+
+D7C: In the last two weeks, have you. . . - c. Watched television?
+1 Yes
+2 No
+8 Dont know
+9 REFUSED
+
+D7D: In the last two weeks, have you. . . - d. Listened to the radio?
+1 Yes
+2 No
+8 Dont know
+9 REFUSED
+
+
+D7E: In the last two weeks, have you. . . - e. Used public transit?
+1 Yes
+2 No
+8 Dont know
+9 REFUSED
+
+D7F: In the last two weeks, have you. . . - f. Read a magazine?
+1 Yes
+2 No
+8 Dont know
+9 REFUSED
+
+D7G: In the last two weeks, have you. . . - g. Used the Internet?
+1 Yes
+2 No
+8 Dont know
+9 REFUSED
+
+D7H: In the last two weeks, have you. . . - h.  Used the Internet to access Facebook?
+1 Yes
+2 No
+8 Dont know
+9 REFUSED
+
+D7I: In the last two weeks, have you. . . - i.  Used the Internet to watch videos on Youtube?
+1 Yes
+2 No
+8 Dont know
+9 REFUSED
+
+Record Gender
+1 Male
+2 Female
+
+Q1B. ADVERTISING RECALL - OPEN END - MENTION 1
+1 MEAT/MEAT PRODUCTS
+2 BEEF/BEEF INDUSTRY
+3 FOOD SAFETY
+4 FOOD ISSUES/FAULTY FOOD
+5 FOOD RECALL
+6 ISSUES WITH GENETICALLY PRODUCED
+7 TOYS RECALL
+8 SAFETY RECALLS
+9 VEHICLE/CAR SAFETY
+10 VEHICLE/CAR RECALLS
+11 FORD RECALLS
+12 TOYOTA RECALLS
+13 HONDA RECALLS
+14 TRUCKS RECALL
+15 CARS/VEHICLES
+16 PROBLEM IN CAR/VEHICLE
+17 SEAT BELTS
+18 AIRBAGS
+19 TOYS/UNSAFE TOYS
+20 GOVERNMENT WEBSITE/WEBSITE
+21 BEEF/MEAT RECALL
+22 BEEF/MEAT FROM ALBERTA
+23 ECOLI IN BEEF/MEAT
+24 BAD/ROTTEN BEEF/MEAT
+25 EXCEL FOOD/EXCEL FOOD FROM ALBERTA
+26 DANGEROUS/HAZARDOUS
+27 DRUGS/PRESCRIPTION DRUGS
+28 PROBLEMS WITH/RECALLING DRUGS/MEDICATION
+29 HEALTH/HEALTH CARE/PUBLIC HEALTH
+30 HEALTHY EATING/HEALTHY EATING PROGRAM
+31 SAFETY/SAFETY PRODUCT
+32 DIABETES
+33 GLOBE AND MAIL
+34 FLU SHOT
+35 TEDDY BEAR
+36 TREATMENT OF PIGS
+37 ANIMAL CRUELTY
+38 BUTCHERING/SLAUGHTER OF PIGS
+39 DIFFERENT ICONS FOR EACH GROUP
+40 MARKET PLACE
+41 RECALL/PRODUCT RECALL
+42 NOT TO DRINK AND DRIVE
+43 TV/TV COMMERCIAL
+44 ABOUT SMOKING/SMOKING RELATED PICTURES
+45 CHILDREN SAFETY
+46 FOOD
+47 MISC. ALL OTHER MENTIONS
+48 NONE/NOTHING
+49 DON'T KNOW
+50 REFUSED
+
+Q1B. ADVERTISING RECALL - OPEN END - MENTION 2
+1 MEAT/MEAT PRODUCTS
+2 BEEF/BEEF INDUSTRY
+3 FOOD SAFETY
+4 FOOD ISSUES/FAULTY FOOD
+5 FOOD RECALL
+6 ISSUES WITH GENETICALLY PRODUCED
+7 TOYS RECALL
+8 SAFETY RECALLS
+9 VEHICLE/CAR SAFETY
+10 VEHICLE/CAR RECALLS
+11 FORD RECALLS
+12 TOYOTA RECALLS
+13 HONDA RECALLS
+14 TRUCKS RECALL
+15 CARS/VEHICLES
+16 PROBLEM IN CAR/VEHICLE
+17 SEAT BELTS
+18 AIRBAGS
+19 TOYS/UNSAFE TOYS
+20 GOVERNMENT WEBSITE/WEBSITE
+21 BEEF/MEAT RECALL
+22 BEEF/MEAT FROM ALBERTA
+23 ECOLI IN BEEF/MEAT
+24 BAD/ROTTEN BEEF/MEAT
+25 EXCEL FOOD/EXCEL FOOD FROM ALBERTA
+26 DANGEROUS/HAZARDOUS
+27 DRUGS/PRESCRIPTION DRUGS
+28 PROBLEMS WITH/RECALLING DRUGS/MEDICATION
+29 HEALTH/HEALTH CARE/PUBLIC HEALTH
+30 HEALTHY EATING/HEALTHY EATING PROGRAM
+31 SAFETY/SAFETY PRODUCT
+32 DIABETES
+33 GLOBE AND MAIL
+34 FLU SHOT
+35 TEDDY BEAR
+36 TREATMENT OF PIGS
+37 ANIMAL CRUELTY
+38 BUTCHERING/SLAUGHTER OF PIGS
+39 DIFFERENT ICONS FOR EACH GROUP
+40 MARKET PLACE
+41 RECALL/PRODUCT RECALL
+42 NOT TO DRINK AND DRIVE
+43 TV/TV COMMERCIAL
+44 ABOUT SMOKING/SMOKING RELATED PICTURES
+45 CHILDREN SAFETY
+46 FOOD
+47 MISC. ALL OTHER MENTIONS
+48 NONE/NOTHING
+49 DON'T KNOW
+50 REFUSED
+
+Q1B. ADVERTISING RECALL - OPEN END - MENTION 3
+1 MEAT/MEAT PRODUCTS
+2 BEEF/BEEF INDUSTRY
+3 FOOD SAFETY
+4 FOOD ISSUES/FAULTY FOOD
+5 FOOD RECALL
+6 ISSUES WITH GENETICALLY PRODUCED
+7 TOYS RECALL
+8 SAFETY RECALLS
+9 VEHICLE/CAR SAFETY
+10 VEHICLE/CAR RECALLS
+11 FORD RECALLS
+12 TOYOTA RECALLS
+13 HONDA RECALLS
+14 TRUCKS RECALL
+15 CARS/VEHICLES
+16 PROBLEM IN CAR/VEHICLE
+17 SEAT BELTS
+18 AIRBAGS
+19 TOYS/UNSAFE TOYS
+20 GOVERNMENT WEBSITE/WEBSITE
+21 BEEF/MEAT RECALL
+22 BEEF/MEAT FROM ALBERTA
+23 ECOLI IN BEEF/MEAT
+24 BAD/ROTTEN BEEF/MEAT
+25 EXCEL FOOD/EXCEL FOOD FROM ALBERTA
+26 DANGEROUS/HAZARDOUS
+27 DRUGS/PRESCRIPTION DRUGS
+28 PROBLEMS WITH/RECALLING DRUGS/MEDICATION
+29 HEALTH/HEALTH CARE/PUBLIC HEALTH
+30 HEALTHY EATING/HEALTHY EATING PROGRAM
+31 SAFETY/SAFETY PRODUCT
+32 DIABETES
+33 GLOBE AND MAIL
+34 FLU SHOT
+35 TEDDY BEAR
+36 TREATMENT OF PIGS
+37 ANIMAL CRUELTY
+38 BUTCHERING/SLAUGHTER OF PIGS
+39 DIFFERENT ICONS FOR EACH GROUP
+40 MARKET PLACE
+41 RECALL/PRODUCT RECALL
+42 NOT TO DRINK AND DRIVE
+43 TV/TV COMMERCIAL
+44 ABOUT SMOKING/SMOKING RELATED PICTURES
+45 CHILDREN SAFETY
+46 FOOD
+47 MISC. ALL OTHER MENTIONS
+48 NONE/NOTHING
+49 DON'T KNOW
+50 REFUSED
+
+Q1B. ADVERTISING RECALL - OPEN END - MENTION 4
+1 MEAT/MEAT PRODUCTS
+2 BEEF/BEEF INDUSTRY
+3 FOOD SAFETY
+4 FOOD ISSUES/FAULTY FOOD
+5 FOOD RECALL
+6 ISSUES WITH GENETICALLY PRODUCED
+7 TOYS RECALL
+8 SAFETY RECALLS
+9 VEHICLE/CAR SAFETY
+10 VEHICLE/CAR RECALLS
+11 FORD RECALLS
+12 TOYOTA RECALLS
+13 HONDA RECALLS
+14 TRUCKS RECALL
+15 CARS/VEHICLES
+16 PROBLEM IN CAR/VEHICLE
+17 SEAT BELTS
+18 AIRBAGS
+19 TOYS/UNSAFE TOYS
+20 GOVERNMENT WEBSITE/WEBSITE
+21 BEEF/MEAT RECALL
+22 BEEF/MEAT FROM ALBERTA
+23 ECOLI IN BEEF/MEAT
+24 BAD/ROTTEN BEEF/MEAT
+25 EXCEL FOOD/EXCEL FOOD FROM ALBERTA
+26 DANGEROUS/HAZARDOUS
+27 DRUGS/PRESCRIPTION DRUGS
+28 PROBLEMS WITH/RECALLING DRUGS/MEDICATION
+29 HEALTH/HEALTH CARE/PUBLIC HEALTH
+30 HEALTHY EATING/HEALTHY EATING PROGRAM
+31 SAFETY/SAFETY PRODUCT
+32 DIABETES
+33 GLOBE AND MAIL
+34 FLU SHOT
+35 TEDDY BEAR
+36 TREATMENT OF PIGS
+37 ANIMAL CRUELTY
+38 BUTCHERING/SLAUGHTER OF PIGS
+39 DIFFERENT ICONS FOR EACH GROUP
+40 MARKET PLACE
+41 RECALL/PRODUCT RECALL
+42 NOT TO DRINK AND DRIVE
+43 TV/TV COMMERCIAL
+44 ABOUT SMOKING/SMOKING RELATED PICTURES
+45 CHILDREN SAFETY
+46 FOOD
+47 MISC. ALL OTHER MENTIONS
+48 NONE/NOTHING
+49 DON'T KNOW
+50 REFUSED
+
+Q1B. ADVERTISING RECALL - OPEN END - MENTION 5
+1 MEAT/MEAT PRODUCTS
+2 BEEF/BEEF INDUSTRY
+3 FOOD SAFETY
+4 FOOD ISSUES/FAULTY FOOD
+5 FOOD RECALL
+6 ISSUES WITH GENETICALLY PRODUCED
+7 TOYS RECALL
+8 SAFETY RECALLS
+9 VEHICLE/CAR SAFETY
+10 VEHICLE/CAR RECALLS
+11 FORD RECALLS
+12 TOYOTA RECALLS
+13 HONDA RECALLS
+14 TRUCKS RECALL
+15 CARS/VEHICLES
+16 PROBLEM IN CAR/VEHICLE
+17 SEAT BELTS
+18 AIRBAGS
+19 TOYS/UNSAFE TOYS
+20 GOVERNMENT WEBSITE/WEBSITE
+21 BEEF/MEAT RECALL
+22 BEEF/MEAT FROM ALBERTA
+23 ECOLI IN BEEF/MEAT
+24 BAD/ROTTEN BEEF/MEAT
+25 EXCEL FOOD/EXCEL FOOD FROM ALBERTA
+26 DANGEROUS/HAZARDOUS
+27 DRUGS/PRESCRIPTION DRUGS
+28 PROBLEMS WITH/RECALLING DRUGS/MEDICATION
+29 HEALTH/HEALTH CARE/PUBLIC HEALTH
+30 HEALTHY EATING/HEALTHY EATING PROGRAM
+31 SAFETY/SAFETY PRODUCT
+32 DIABETES
+33 GLOBE AND MAIL
+34 FLU SHOT
+35 TEDDY BEAR
+36 TREATMENT OF PIGS
+37 ANIMAL CRUELTY
+38 BUTCHERING/SLAUGHTER OF PIGS
+39 DIFFERENT ICONS FOR EACH GROUP
+40 MARKET PLACE
+41 RECALL/PRODUCT RECALL
+42 NOT TO DRINK AND DRIVE
+43 TV/TV COMMERCIAL
+44 ABOUT SMOKING/SMOKING RELATED PICTURES
+45 CHILDREN SAFETY
+46 FOOD
+47 MISC. ALL OTHER MENTIONS
+48 NONE/NOTHING
+49 DON'T KNOW
+50 REFUSED
+
+Q1B. ADVERTISING RECALL - OPEN END - MENTION 6
+1 MEAT/MEAT PRODUCTS
+2 BEEF/BEEF INDUSTRY
+3 FOOD SAFETY
+4 FOOD ISSUES/FAULTY FOOD
+5 FOOD RECALL
+6 ISSUES WITH GENETICALLY PRODUCED
+7 TOYS RECALL
+8 SAFETY RECALLS
+9 VEHICLE/CAR SAFETY
+10 VEHICLE/CAR RECALLS
+11 FORD RECALLS
+12 TOYOTA RECALLS
+13 HONDA RECALLS
+14 TRUCKS RECALL
+15 CARS/VEHICLES
+16 PROBLEM IN CAR/VEHICLE
+17 SEAT BELTS
+18 AIRBAGS
+19 TOYS/UNSAFE TOYS
+20 GOVERNMENT WEBSITE/WEBSITE
+21 BEEF/MEAT RECALL
+22 BEEF/MEAT FROM ALBERTA
+23 ECOLI IN BEEF/MEAT
+24 BAD/ROTTEN BEEF/MEAT
+25 EXCEL FOOD/EXCEL FOOD FROM ALBERTA
+26 DANGEROUS/HAZARDOUS
+27 DRUGS/PRESCRIPTION DRUGS
+28 PROBLEMS WITH/RECALLING DRUGS/MEDICATION
+29 HEALTH/HEALTH CARE/PUBLIC HEALTH
+30 HEALTHY EATING/HEALTHY EATING PROGRAM
+31 SAFETY/SAFETY PRODUCT
+32 DIABETES
+33 GLOBE AND MAIL
+34 FLU SHOT
+35 TEDDY BEAR
+36 TREATMENT OF PIGS
+37 ANIMAL CRUELTY
+38 BUTCHERING/SLAUGHTER OF PIGS
+39 DIFFERENT ICONS FOR EACH GROUP
+40 MARKET PLACE
+41 RECALL/PRODUCT RECALL
+42 NOT TO DRINK AND DRIVE
+43 TV/TV COMMERCIAL
+44 ABOUT SMOKING/SMOKING RELATED PICTURES
+45 CHILDREN SAFETY
+46 FOOD
+47 MISC. ALL OTHER MENTIONS
+48 NONE/NOTHING
+49 DON'T KNOW
+50 REFUSED
+
+Q3. MAIN POINT AD WAS TRYING TO GET ACROSS - OPEN END
+1 SAFETY PRECAUTIONS/SAFETY OF THE PRODUCT
+2 TO BUY THE PRODUCT
+3 TO BE AWARE OF SAFETY OF THE PRODUCTS WE BUY
+4 CONSUMER AWARENESS
+5 INFORMATION/SAFETY INFORMATION ON PRODUCTS/AVAILABLE IN A WEBSITE
+6 SAFETY INFORMATION/CAN CHECK SAFETY INFORMATION ON DRUGS
+7 SAFETY INFORMATION ON TOYS ARE AVAILABLE IN A WEBSITE
+8 RECALLS INFORMATION ARE AVAILABLE  IN A WEBSITE/GOVERNMENT WEBSITE
+9 GOVERNMENT IS HELPING US TO FIND OUT THE SAFETY OF THE PRODUCTS
+10 TO LET THE CUSTOMER KNOW THAT ANY PRODUCT CAN BE RECALLED
+11 HEALTH AND SAFETY/GOVERNMENT IS TRYING TO PROTECT HEALTH AND SAFETY OF CONSUMERS
+12 INFORMATIVE, UNSPECIFIED
+13 SAFETY INFORMATION/CAN CHECK SAFETY INFORMATION ON VEHICLES
+14 SAFETY INFORMATION/CONCERNS ON FOOD
+15 SAFETY/SAFE PRODUCTS FOR CHILDREN
+16 INFORMATION/WARNINGS ON DRINKING AND DRIVING
+17 DO NOT TRUST ADVERTISEMENTS/LABELS/CLAIMS
+18 ABOUT ALLERGIES
+19 MISCELLANEOUS
+20 NONE/NOTHING/NA
+21 DON'T KNOW
+22 REFUSED
+
+Q4B. ACTIONS TAKEN EXPLANATION - OPEN END - MENTION 1
+1 CHECKED WITH THE WEBSITE
+2 WATCHING MORE ON THE PRODUCTS WHAT WE ARE BUYING
+3 CHECKED THE RECALLED INFORMATION OF VEHICLES
+4 DISCUSSED WITH FAMILY MEMBERS
+5 CHECKED THE INFORMATION ON THE DRUGS USED AT HOME
+6 CHECKED FOR MORE INFORMATION/RECALLS/DID MORE RESEARCH
+7 READ LABELS MORE
+8 CHECKED THE TOYS WE BROUGHT
+9 CHECKING THE PANTRY/STORE WHAT WE HAVE BOUGHT
+10 MISCELLANEOUS
+11 NONE/NOTHING/NA
+12 DON'T KNOW
+
+Q4B. ACTIONS TAKEN EXPLANATION - OPEN END - MENTION 2
+1 CHECKED WITH THE WEBSITE
+2 WATCHING MORE ON THE PRODUCTS WHAT WE ARE BUYING
+3 CHECKED THE RECALLED INFORMATION OF VEHICLES
+4 DISCUSSED WITH FAMILY MEMBERS
+5 CHECKED THE INFORMATION ON THE DRUGS USED AT HOME
+6 CHECKED FOR MORE INFORMATION/RECALLS/DID MORE RESEARCH
+7 READ LABELS MORE
+8 CHECKED THE TOYS WE BROUGHT
+9 CHECKING THE PANTRY/STORE WHAT WE HAVE BOUGHT
+10 MISCELLANEOUS
+11 NONE/NOTHING/NA
+12 DON'T KNOW
+
+Q4B. ACTIONS TAKEN EXPLANATION - OPEN END - MENTION 3
+1 CHECKED WITH THE WEBSITE
+2 WATCHING MORE ON THE PRODUCTS WHAT WE ARE BUYING
+3 CHECKED THE RECALLED INFORMATION OF VEHICLES
+4 DISCUSSED WITH FAMILY MEMBERS
+5 CHECKED THE INFORMATION ON THE DRUGS USED AT HOME
+6 CHECKED FOR MORE INFORMATION/RECALLS/DID MORE RESEARCH
+7 READ LABELS MORE
+8 CHECKED THE TOYS WE BROUGHT
+9 CHECKING THE PANTRY/STORE WHAT WE HAVE BOUGHT
+10 MISCELLANEOUS
+11 NONE/NOTHING/NA
+12 DON'T KNOW
+
+Q5A. WHO PAID FOR AD - OPEN END
+1 GOVERNMENT OF CANADA / FEDERAL GOVERNMENT
+2 PROVINCIAL GOVERNMENT
+4 GOVERNMENT (GENERAL)
+5 TAXPAYERS
+6 HEALTH CANADA
+7 PHARMACEUTICAL COMPANY
+8 CAR/AUTOMOBILE COMPANY
+9 MANUFACTURING COMPANIES
+10 CONSUMERS/CONSUMER GROUP
+11 HEALTH BOARD/COMMITTEES
+12 GOVERNMENT OF QUEBEC
+13 CANADIAN FOOD AND DRUG ASSOCIATION
+14 COMPANY (UNSPEC.)
+15 CBC
+16 DEALERS/SUPPLIERS
+17 MEDIA
+18 MISC. ALL OTHER MENTIONS
+19 DON'T KNOW
+20 REFUSED
+
+Q5A/B. WHO PAID FOR AD - OPEN END
+1 GOVERNMENT OF CANADA / FEDERAL GOVERNMENT
+2 PROVINCIAL GOVERNMENT
+4 GOVERNMENT (GENERAL)
+5 TAXPAYERS
+6 HEALTH CANADA
+7 PHARMACEUTICAL COMPANY
+8 CAR/AUTOMOBILE COMPANY
+9 MANUFACTURING COMPANIES
+10 CONSUMERS/CONSUMER GROUP
+11 HEALTH BOARD/COMMITTEES
+12 GOVERNMENT OF QUEBEC
+13 CANADIAN FOOD AND DRUG ASSOCIATION
+14 COMPANY (UNSPEC.)
+15 CBC
+16 DEALERS/SUPPLIERS
+17 MEDIA
+18 MISC. ALL OTHER MENTIONS
+19 DON'T KNOW
+20 REFUSED
+
+Q1B: What can you remember about this advertising? What words, sounds or images come to mind? - VERBATIM
+Q3: Thinking about the advertising that you saw, what do you think was the main point the advertising was trying to get across? - VERBATIM
+Q4B: What did you do? Anything else? - VERBATIM
+Q5A. WHO PAID FOR AD - VERBATIM

@@ -1,0 +1,2246 @@
+Created: 2023-02-24T21:03:09.142728
+Name: Health_Canada_–_Standing_Senate_Committee_on_National_Finance-_Minister_of_health_Briefing_Binder_–_Bill_C-31
+Original URL: https://open.canada.ca/data/dataset/dddaf01c-b47f-4fb8-a82e-8ef51f1bdc99/resource/6cc3aa12-a84a-4926-a7ba-46bfec6df81a/download/disclosure-s-committee-en-full-text.pdf
+Package ID: dddaf01c-b47f-4fb8-a82e-8ef51f1bdc99
+Keywords: ['Health Canada', 'Health', 'Government legislation', 'Senate committee', 'Senate committee on national finances', 'Bill C-31', 'dental care']
+Notes: Briefing material for the minister of Health for the apparition at the Standing Senate Committee on National Finance in November 2022 concerning Bill C-31, Dental Care
+-------------------------------
+Extracted Text:
+Bill C-31-An Act respecting cost of living relief measures related todental care and rental housing
+Committee Appearance Briefing Binder
+Standing Senate Committee on National Finance
+November 2, 2022
+Bill C-31-An Act respecting cost of living relief measures related todental care and rental housing
+Committee Appearance Briefing Binder
+Standing Senate Committee on National Finance
+November 2, 2022
+TABLE OF CONTENTS
+1. Text of the Bill
+2. QP Notes
+a. Challenges in access for those who do not file taxes
+b. P/T Jurisdiction
+c. Duplication of coverage provided through P/T programs
+d. Fiscal Implications
+e. Health Human Resources Impacts
+f. Indigenous people, governments and organizations Impacts
+g. Urgent need for Royal Assent (by October 31, 2022)
+h. Impact of the Benefit on children under 12
+i. Measures to prevent fraudulent applications
+j. Marketing and Advertising of the Benefit
+k. Work Towards a Long Term Program
+3. News Release
+4. Legislative Backgrounder
+5. Media Lines/Questions and Answers
+7. Scenario Note
+First Session, Forty-fourth Parliament,
+70-71 Elizabeth II–1 Charles III, 2021-2022
+HOUSE OF COMMONS OF CANADA
+Bill C-31
+An Act respecting cost of living relief measures related to dental care and rental housing
+AS PASSED
+BY THE HOUSE OF COMMONS
+OCTOBER 27, 2022
+RECOMMENDATION
+Her Excellency the Governor General recommends to the House of Commons the appropriation of
+public revenue under the circumstances, in the manner and for the purposes setout in a measure
+entitled “An Act respecting cost of living relief measures related to dental care and rental housing”.
+RECOMMENDATION
+Her Excellency the Governor General recommends to the House of Commons the appropriation of
+public revenue under the circumstances, in the manner and for the following amendments to
+Bill C-31, “An Act respecting cost of living relief measures related to dental care and rental housing”.
+That Bill C-31, in Clause 3, be amended by
+(a) replacing line 17 on page 18 with the following: vices, only 90% of the payment is to be taken into
+account
+(b) replacing lines 23 to 29 on page 18 with the following: purposes of paragraph (1)(g) is the total
+amount of rent paid in 2022 by the applicant.
+SUMMARY
+Part 1 enacts the Dental BenefitAct, which provides for the establishment of an application-based
+interim dental benefit. The benefit provides interim direct financial support for parents for dental care
+services received by their children under 12 years of age in the period starting inOctober 2022 and
+ending in June 2024.
+Part 2 enacts the Rental Housing Benefit Act, which provides for the establishment of a one-time rental
+housing benefit for eligible persons who have paid rent in 2022 for their principal residence and who
+apply for the benefit.
+Finally, Part 3 makes related amendments to the Income Tax Act, the Excise Tax Act and the Excise Act,
+2001.
+TABLE OF PROVISIONS
+An Act respecting cost of living relief measures related to dental care and rental housing
+ShortTitle
+1 Cost of Living Relief Act, No. 2 (Targeted Support forHouseholds)
+PART 1 Dental Benefit Act
+2 Enactment of Act
+An Act respecting benefits in relation to dental care
+Short Title
+1 Dental Benefit Act Interpretation
+2 Definitions Dental Benefit
+3 Payment of benefit
+4 Eligibility
+5 Application—first period
+6 Application—second period
+7 Application—additional dental benefit
+8 Application—form, manner and contents
+9 Amount of benefit
+10 Attestation
+General
+11 Minister of NationalRevenue
+12 Agreements or arrangements
+13 Delegation
+14 Payment out of Consolidated Revenue Fund
+15 Social Insurance Number 16 Provision of information and documents
+17 Benefit cannot be charged, etc.
+18 Reconsideration of application
+19 Request for review
+20 Return of overpayment or erroneous payment
+21 Limitation or prescription period
+22 No interest payable
+23 Violations
+24 Limitation of imposition of penalties
+25 Rescission or reduction of penalty
+26 Recovery as debt due to His Majesty
+27 Offences
+28 Designation—investigators
+29 Limitation period
+30 Sunset provision
+PART 2
+Rental Housing Benefit Act
+3 Enactment of Act
+An Act respecting benefits in relation to rental housing Short Title
+1 Rental Housing Benefit Act
+Interpretation
+2 Definitions
+Rental Housing Benefit
+3 Payment of benefit
+4 Eligibility
+5 Application
+6 Attestation
+General
+7 Corporation
+8 Minister of National Revenue
+9 Agreements or arrangements
+10 Delegation
+11 Availability of information
+12 Payment out ofConsolidated Revenue Fund
+13 Social Insurance Number
+14 Provision of information and documents
+15 Benefit cannot be charged, etc.
+16 Reconsideration of application
+17 Request for review
+18 Return of overpayment or erroneous payment
+19 Limitation or prescription period
+20 No interest payable
+21 Violations
+22 Limitation of imposition of penalties 23 Rescission or reduction of penalty
+24 Recovery as debt due to His Majesty
+25 Offences
+26 Designation—investigators
+27 Limitation period
+28 Sunset provision
+PART 3
+Related Amendments
+4 Income Tax Act
+6 Excise Tax Act
+7 Excise Act, 2001
+1st Session, 44th Parliament,
+70-71 Elizabeth II–1 Charles III, 2021-2022
+HOUSE OF COMMONS OF CANADA
+BILL C-31
+An Act respecting cost of livingrelief measures related to dental care and rental housing
+His Majesty, by andwith the advice and consent of the Senate and House of Commons of Canada,
+enacts as follows:
+Short Title
+Short title
+1 This Act may be cited asthe Cost of Living Relief Act,No. 2 (Targeted Support for Households).
+PART 1
+Dental Benefit Act
+Enactment of Act
+2 The Dental Benefit Act is enacted as follows:
+An Act respecting benefits in relation to dental care
+Preamble
+Whereas the cost ofdental care services is of particular concern for Canadians, as many have no access
+to a dental services plan and do not use those services because of the cost;
+Whereas a lack of access to dental care services notonly causes harm to children but also hasan impact
+on the health care system, with dental surgeries being regularly performed in pediatric hospitals; And
+whereas the Government of Canada recognizes the need to provide interim dental benefits for children
+under 12 years old while working towardsthe development of a long term national dental care program;
+Now, therefore, His Majesty, by and with the advice and consent of the Senate and House of Commons
+ofCanada, enacts as follows:
+Short Title
+Short title
+1 This Act may be cited as the Dental Benefit Act.
+Interpretation
+Definitions
+2 (1) The following definitions apply in this Act.
+Agency has the samemeaning as in section 2 of theCanada Revenue Agency Act. (Agence)
+base taxation year has the same meaning as in section 122.6 of the Income Tax Act. (année de base)
+benefit period means, as the case may be,
+(a) the period beginning on October 1, 2022 and ending on June 30, 2023; or
+(b) the period beginning on July 1, 2023 and ending on June 30, 2024. (période de
+prestation)
+Canada child benefit means a deemed overpayment under Subdivision A.1 of Division E of Part I of the
+Income Tax Act. (allocation canadienne pour enfants)
+cohabiting spouse or common-law partner has the same meaning as in section 122.6 of the Income Tax
+Act.(époux ou conjoint de fait visé)
+Commissioner has the same meaning as in section 2 of the Canada Revenue Agency Act. (commissaire)
+dental care services means the services that a dentist, denturist or dental hygienist is lawfully entitled to
+provide, including oral surgery and diagnostic, preventative,restorative, endodontic, periodontal,
+prosthodontic and orthodontic services. (services de soins dentaires)
+dental services plan means a contract of insurance in respect of dental care services or a dental care
+insurance plan obtained on the basis of employment or purchasedprivately. (régime d’assurance
+dentaire)
+eligible parent has the meaning assigned by the definition eligible individual in section 122.6 of the
+Income Tax Act. (parent admissible)
+His Majesty means His Majesty in right of Canada. (SaMajesté)
+Minister means the Minister of Health. (ministre) qualified dependant has the same meaning as in
+section 122.6 of the Income Tax Act. (personne à charge admissible)
+shared-custody parent has thesame meaning as in section 122.6 of the Income Tax Act. (parent ayant la
+garde partagée)
+Definition of adjusted income
+(2) For the purposes of this Act, adjusted income has the same meaning as in section 122.6 of the
+Income TaxAct, except that the reference to “at the end of the year” is to be read as a reference to “on
+December 1, 2022 in the case of an application made under section 5 or paragraph 7(a) and on July 1,
+2023 in the case of an application made under section 6 or paragraph 7(b)”.
+Dental Benefit
+Payment of benefit
+3 The Minister must pay a dental benefit to a person who is eligible for the benefit and who makes an
+application.
+Eligibility
+4 (1) Subject to subsection (4), a person is eligible for a dental benefit if they meet the following
+conditions:
+(a) they are entitled to apply for the dental benefit under section 5, 6 or 7;
+(b) they make an application in accordance with section 8 and provide the Minister with
+any information that the Minister may require in respect of the application;
+(c) their adjusted income is less than $90,000 for the base taxation year in relation to
+(i) in the case of an application made under section5 or paragraph 7(a), December 1,
+2022, and
+(ii) in the case of an application made under section 6 or paragraph 7(b), July 1, 2023;
+(d) they make the application in respect of a person who has received or will receive dental
+care services the costs of which have not been and will not be fully 15 paid or reimbursed under
+a program or plan established by the government of Canada or of a province; and
+(e) they make the application in respect of a person who is not insured under a dental
+services plan andwho does not have access to a dental care insurance plan obtained on the
+basisof the employment of the applicant, their cohabiting spouse or common law partner or
+any other person
+(i) in the case of a person who has received dentalcare services on or before the
+date of the application, on the date the person received theservices, and
+(ii) in the case of a person who will receive dental care services after the date of the
+application, on 30 the date of the application.
+Part-year residents
+(2) For the purposes of determining the applicant’s adjusted income in paragraph (1)(c), if a person was
+a nonresident in Canada for the purposes of the Income Tax Act at any time in a taxationyear, the
+person’s income forthe year is deemed to be the amount that would have been the person’s income for
+the year had the person been resident in Canada throughout the year.
+Bankruptcy
+(3) For the purposes of determining the applicant’s adjusted income in paragraph (1)(c), if in a taxation
+year aperson becomes bankrupt, their income for the taxation year is to include their income for the
+taxation year that begins on January 1 of the calendar year that includes the date of bankruptcy.
+Ineligibility
+(4) The Minister may decide that an applicant is ineligible for a dental benefit if
+(a) the Minister determines that their eligibility for a dental benefit for which they
+previously applied under section 5 was based on a misrepresentation or the concealment of a
+material fact on the part of the applicant; or
+(b) the Minister has decided that an applicant has committed a violation in relation to an
+application for a dental benefit previously made under section 5 andno decision to rescind that
+decision has been made.
+Application—first period
+5 An eligible parent may, during the period beginning on December 1, 2022 and ending on June 30,
+2023, apply to the Minister for a dental benefit in respect of each of their qualified dependants
+(a) who has received or will receive dental care services in Canada during the period
+beginning on October 1, 2022 and ending on June 30, 2023;
+(b) who is under 12 years ofage on December 1, 2022; and
+(c) in respect of whom the parent is in receipt of a Canada child benefit on that date.
+Application—second period
+6 An eligible parent may,during the period beginning onJuly 1, 2023 and ending on June 30,2024, apply
+to the Minister for a dental benefit in respect of each of theirqualified dependants
+(a) who has received or will receive dental care services in Canada during that period;
+(b) who is under 12 years of age on July 1, 2023;
+(c) in respect of whom the parent is in receipt of a Canada child benefit on that date; and
+(d) in respect of whom no person who is entitled to apply for an additional dental benefit
+under paragraph 7(a) and who is eligible for that benefit has made anapplication under that
+paragraph.
+Application—additional dental benefit
+7 A person may, during the period beginning on July 1, 2023 and ending on June 30, 2024, apply to the
+Minister for an additional dental benefit if
+(a) they make the application in respect of a person
+(i) in respect of whom they made an application for a dental benefit under section
+5 and were eligible for that benefit,
+(ii) in respect of whom no eligible parent who is entitled to apply for a dental
+benefit under section 6 and who is eligible for that benefit has made an application
+under that section, and
+(iii) who received dental care services during the period beginning on October 1,
+2022 and ending on June 30, 2023, the cost of which exceeded $650; or
+(b) they are an eligibleparent, their adjusted income was less than $90,000 for the base
+taxation year in relation to December 1, 2022 and they make the application in respect of their
+qualified dependant
+(i) in respect of whom a dental benefit was not received for the period beginning on
+December 1,2022and ending on June 30, 2023,
+(ii) in respect of whom they made an application for a dental benefit under section
+6 and are eligible for that benefit,
+(iii) who has receivedor will receive dental careservices during the period
+beginning on July 1, 2023 and ending on June 30, 2024, the cost of which has exceeded
+or will exceed $650, and
+(iv) who is not insured under a dental services plan and who does not have access
+to a dental care insurance plan obtained on the basis of the employment of the
+applicant,their cohabiting spouse or common law partner or any other person
+(A) in the case of a dependant who has received dental care services on or
+before the date of the 35 application, on the date the dependant received the
+services, and
+(B) in the case of a dependant who will receive dental care services after
+the date of the application, on the date of the application.
+Application—form, manner and contents
+8 An application for a dental benefit must be made in the form and manner established by the Minister
+and must contain the following:
+(a) the applicant’s name and address;
+(b) the attestation referred to in section 10;
+(c) the name, address and telephone number of the dentist, denturist or dental hygienist
+who provided, or who the applicant intends to have provide, dental care services for the person
+in respect of whom the application is made, as wellas the month during which theservices were
+provided or during which the applicant intends to have the services provided;
+(d) the name, address and telephone number of the employer, if any, of the applicant and
+of their cohabitingspouse or common-law partner
+(i) in the case of a person who has received dental care services on or before the
+date of the application, on the date that person received the services, and
+(ii) in the case of a person who will receive dentalcare services after the date of the
+application, on the date of the application; and
+(e) any other information that the Minister may require.
+Amount of benefit
+9 (1) Subject to subsection(2), the amount of a dentalbenefit is
+(a) $650, if an applicant’s adjusted income is less than $70,000 for the base taxation year in
+relation to
+(i) in the case of an application made under section5 or paragraph 7(a), December 1,
+2022, and
+(ii) in the case of an application made under section 6 or paragraph 7(b), July 1, 2023;
+(b) $390, if an applicant’s adjusted income is equal to or greater than $70,000 but less than
+$80,000 for thebasetaxation year in relation to
+(ii) in the case of an application made under section 6 or paragraph 7(b), July 1,
+2023; and
+c) $260, if an applicant’s adjusted income is equal toor greater than $80,000 but less than
+$90,000 for the base taxation year in relation to
+(i) in the case of an application made under section 5 or paragraph 7(a), December
+1, 2022, and (ii) in the case of an application made under section 6 or paragraph 7(b),
+July 1, 2023.
+Amount—shared-custody parent
+(2) If, at the beginning of the relevant period, an applicant is a shared-custody parent of the person in
+respect of whom the application is made, the amount of a dental benefit is 50% of the amount referred
+to in paragraph(1)(a), (b) or (c), as the case may be.
+Relevant period
+(3) For the purposes of subsection (2), the relevant period is
+(a) in the case of an application made under section 5 or paragraph 7(a), the period
+beginning on October 1,2022 and ending on June 30, 2023; and
+(b) in the case of an application made under section 6 or paragraph 7(b), the period
+beginning on July 1, 2023 and ending on June 30, 2024.
+December 1, 2022
+(4) For the purposes of subsection (2) and paragraph(3)(a), the period beginning on October 1, 2022
+and ending on June 30, 2023 is deemed to begin on December 1, 2022.
+Limit
+(5) No more than two dental benefits—or, in the case of shared-custody parents, no more than four
+dental benefits in the amount referredto in subsection (2)—may be paid in respect of a person who
+has received or will receive dental services.
+Attestation
+10 (1) The applicant must, in their application, attest that
+(a) the person in respect of whom the application is made has received dental care services
+in Canada during the relevant period or the applicant intends for the person to receive dental
+care servicesin Canada during the relevant period; and
+(b) the person in respect of whom the application is made is not insured under a dental
+services plan and does not have access to a dental care insurance plan obtained on the basis of
+the employment of the applicant, their cohabiting spouse or common law partner or any other
+person
+(i) in the case of a person who has received dental careservices on or before the
+date of the application, on the date that person received the services, and
+(ii) in the case of a person who the applicant intends to receive dental care services
+after the date of the application, on the date of the application.
+Relevant period
+(2) For the purposes of subsection (1), the relevant period is
+(a) in the case of an application made under section 5 or paragraph 7(a), the period
+beginning on October 1, 2022 and ending on June 30, 2023; and
+(b) in the case of an application made under section 6 or paragraph 7(b), the period
+beginning on July 1,2023 and ending on June 30, 2024.
+General
+Minister of National Revenue
+11 The Minister of National Revenue may provide services and carry out activities to support the
+Minister in the administration and enforcement of this Act and may authorize the Commissioner or any
+other person who is employed or engaged by the Agency or who occupies a position of responsibility in
+the Agency to provide those services or carry out those activities.
+Agreements or arrangements
+12 The Minister may enter into agreements or arrangements with any department,board or agency of
+the Government of Canada to assist the Minister in carrying out the purposes and provisions of this Act.
+Delegation
+13 The Minister may authorize the Commissioner or any other person or body, or member of a class of
+persons or bodies, to exercise any power or perform any duty or function of the Minister under this Act.
+Payment out of Consolidated Revenue Fund
+14 Allamounts payable by the Minister under section 3are to be paid out of the Consolidated Revenue
+Fund.
+Social Insurance Number
+15 The Minister is authorized to collect and use, for the purposes of the administration and enforcement
+of this Act, the Social Insurance Number of a person who makesan application under this Act.
+Provision of information and documents
+16 (1) The Minister may, for any purpose related to verifying compliance or preventing non-compliance
+with this Act, require that any person provide any information or document, including a receipt for
+payment in respect of dental care services, within the reasonable time thatthe Minister may specify.
+Ineligibility
+(2) The Minister may decide that an applicant who fails to fulfill or comply with a requirement under
+subsection (1) is ineligible for a dentalbenefit in respect of the benefit period to which the application
+relates.
+Benefit cannot be charged, etc.
+17 A dental benefit
+(a) is not subject to the operation of any law relating to bankruptcy or insolvency;
+(b) cannot be assigned, charged, attached or given as security;
+(c) cannot be retained by way of deduction, set-off or compensation under any Act of
+Parliament other than this Act; and
+(d) is not garnishable moneys for the purposes of the Family Orders and Agreements
+Enforcement Assistance Act.
+Reconsideration of application
+18 (1) Subject to subsection (5), the Minister may reconsider an application within 24 months after the
+day on which the benefit period to which the application relates ends.
+Decision
+(2) If the Minister decides on reconsideration that a person has received money by way of a dental
+benefit to which they were not entitled, or has not received money to which they were entitled, the
+Minister must calculate the amount of the money and notify the person of theMinister’s decision.
+Amount repayable
+(3) Section 20 applies if the Minister decides that a person has received money by way of a dental
+benefit to which they were not entitled.
+Amount payable
+(4) If the Minister decides that a person was entitled toreceive money by way of a dental benefit, and
+the money was not paid, the amount calculated under subsection (2) is payable to the person.
+Extended time to reconsider claim
+(5) If, in the opinion of the Minister, a false or misleading statement or representation has been made in
+connection with an application for a dental benefit, the Minister has 72 months within which to
+reconsider the application.
+Request for review
+19 (1) A person who is the subject of a decision of the Minister made under this Act may make a request
+to theMinister, in the form and manner established by the Minister, for a review of that decision at any
+time within 90 days after the day on which they are notified of the decision or any further time that the
+Minister may allow.
+Review
+(2) The Minister must reviewthe decision if a request for itsreview is made under subsection (1). On
+completion of the review, the Minister must confirm, vary or rescind the decision.
+Notification
+(3) The Minister must notify the person who made the request of the result of the Minister’s review
+under sub-section(2).
+Return of overpayment or erroneous payment
+20 (1) If the Minister determines that a person has received a dental benefit to which they are not
+entitled, or an amount in excess of the amount of such a benefit to which they are entitled, the person
+must repay theamount of the payment or the excess amount, as the case may be, as soon as feasible.
+Recovery as debt due to His Majesty
+(2) The amount of the erroneous payment or overpayment, as determined by the Minister, constitutes a
+debt due to His Majesty as of the day on which the amount was paid and the debt is payable and may be
+recovered by the Minister as of the day the Minister determined theamount of the erroneous payment
+or overpayment.
+Limitation or prescription period
+21 (1) Subject tothis section, no action or proceedings may be taken to recover money owing under this
+Act after the end of the six-year limitation or prescription period that begins on the day on which the
+money becomes due and payable.
+Deduction, set-off or compensation
+(2) Money owing by a person under this Act may be recovered at any time by way of deduction from, or
+set-offor compensation against, any sum of money, including adental benefit, that may be due or
+payable by His Majestyto the person, other than an amount payable under section 122.61 of the
+Income Tax Act.
+Acknowledgment of liability
+(3) If a person’s liability for money owing under this Act is acknowledged in accordance with subsection
+(5), the time during which the limitation or prescription period has run before the acknowledgment does
+not count in the calculation of that period.
+Acknowledgment after limitation or prescription period
+(4) If a person’s liability for money owing under this Act is acknowledged in accordance with subsection
+(5) after theend of the limitation or prescription period, an actionor proceedings to recover the money
+may, subject to subsections (3) and (6), be brought withinsix years after the date of the
+acknowledgment.
+Typesof acknowledgments
+(5) An acknowledgment of liability means
+(a) a written promise to pay the money owing, signed 30 by the person or their agent or
+other representative;
+(b) a written acknowledgment of the money owing, signed by the person or their agent or
+other representative, whether or not a promise to pay can be implied from it and whether or
+notit contains a refusal to pay;
+(c) a part payment by the person or their agent or other representative of any money
+owing; or
+(d) any acknowledgment of the money owing made by the person, their agent or other
+representative or the trustee or administrator in the course of proceedings under the
+Bankruptcy and Insolvency Act or anyother legislation dealing with the payment of debts.
+Limitation or prescription period suspended
+(6) The running of a limitation or prescription period in respect of money owing under this Act is
+suspended during any period in which it is prohibited to commence or continue an action or other
+proceedings against the person to recover money owing under this Act.
+Non-application
+(7) This section does not apply in respect of an action or proceedings relating to the execution, renewal
+or enforcement of a judgment.
+No interest payable
+22 No interest is payable on any amount owing to His Majesty under this Act as aresult of an
+overpayment oran erroneous payment.
+Violations
+23 (1) A person commits a violation if they
+(a) knowingly make, in relation to an application for adental benefit, a representation that
+is false or misleading; or
+(b) make an application for, and receive, a dental benefit knowing that they are not eligible
+to receive it.
+Penalty
+(2) The Minister may impose a penalty on a person if the Minister is of the opinion thatthe person has
+committed a violation.
+Amount of penalty
+(3) The Minister may set the amount of the penalty for each violation at not more than 50% of the
+dental benefit that was or would have been paid as a result of committing the violation.
+Maximum
+(4) The maximum amountof all penalties that may be imposed on a particular person under this section
+is $5,000.
+For greater certainty
+(5) For greater certainty, no penalty may be imposed on a person if theymistakenly believe that a
+representation is true or that they were eligible to receive the dental benefit, as the case may be.
+Purpose of penalty
+(6) The purpose of a penalty is to promote compliancewith this Act and not to punish.
+Limitation of imposition of penalties
+24 A penalty must not be imposed under section 23 if more than three years have passed after the day
+on which the act that would constitute the violation occurred.
+Rescission or reduction of penalty
+25 The Minister may rescindthe imposition of a penaltyunder section 23, or reduce the penalty, on the
+presentation of new facts or on being of the opinion that the penalty was imposed without knowledge
+of, or on the basis of a mistake as to, some material fact.
+Recovery as debt due to His Majesty
+26 A penalty imposed under section 23 constitutes adebt due to His Majesty and the debt is payable
+and may be recovered by the Minister as of the day on which the penalty is imposed.
+Offences
+27 (1) Every person commits an offence who
+(a) for the purpose of obtaining a dental benefit for themselves, knowingly uses false
+identity information or another person’s identity information;
+(b) with intent to steal all or a substantial part of another person’s dental benefit, counsels
+that person toapply for the benefit; or
+(c) knowingly makes, in relation to one or more applications under this Act, three or more
+representations that are false or misleading, if the total amount of the dental benefits that were
+or would have been paid as a result of the applications is at least $5,000.
+Punishment
+(2) Every person who is guilty of an offence under subsection (1) is liable on summary conviction to a
+fine of not more than the sum of $5,000 plus an amount of not more than double the amount of the
+dental benefitthat was or would have been paid as a result of committingthe offence, to imprisonment
+for a term of not more than two years less a day, or to both.
+Definition of identity information
+(3) In paragraph (1)(a), identity information has the samemeaning as in section 402.1 of the Criminal
+Code.
+Designation—investigators
+28 (1) The Minister may designate as an investigator any person or class of persons for the purpose of
+enforcing section 27.
+Authorization
+(2) The Minister may authorize the Commissioner to designate as an investigator any employee or class
+of employees of the Agency for the purpose of enforcing section 27.
+Limitation period
+29 Proceedings in respect of an offence under this Actmay be instituted at any time within, but not later
+than, five years after the day on which the Minister becomes aware of the subject matter of the
+prosecution.
+Sunset provision
+30 Despite any other provision of this Act, a payment out of the ConsolidatedRevenue Fund must not
+be madeunder this Act after the fifth anniversary of the day on which this Act comes into force.
+PART 2
+Rental Housing Benefit Act
+Enactment of Act
+3 The Rental Housing Benefit Act is enacted as follows:
+An Act respecting benefitsin relation to rental housing
+His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada,
+enacts as follows:
+Short Title
+Short title
+1 This Act may be citedas the Rental Housing BenefitAct.
+Interpretation
+Definitions
+2 (1) The following definitions apply in this Act.
+Agency means the Canada Revenue Agency. (Agence)
+cohabiting spouse or common-law partnerhas the same meaning as in section 122.6 of the Income Tax
+Act.(époux ou conjoint defait visé)
+Commissioner has the same meaning as in section 2 of the Canada Revenue Agency Act. (commissaire)
+Corporation means the Canada Mortgage and Housing Corporation. (Société)
+His Majesty means His Majesty in right of Canada. (SaMajesté)
+Minister means the member of the King’s Privy Council for Canada designated as Minister for the
+purposes of the Canada Mortgage and Housing Corporation Act. (ministre)
+reference day means the later of December 1, 2022 and the day on which this Act comes into force.
+(date de référence)
+rent means a payment made under a lease, licence or similar arrangement to occupy a principal
+residence, including any part of the payment that is allocated to pay for utilities or property taxes. It
+does not include any such payment, or part of any such payment,
+(a) that is paid in respect of utilities or property taxes to a person or entity who is not a
+party to the lease, licence or arrangement;
+(b) that is to be deducted from income from business under the Income Tax Act;
+(c) that is specified and that is allocated to pay for
+board or other services;
+(d) that is paid by a person to a related person, within the meaning of paragraph 251(2)(a)
+and subsection 251(6) of the Income Tax Act, and that is not income of the related person for
+the purposes of that Act; or
+(e) that is paid with respect to a capital lease.(loyer)
+Spouse or common-law partner living separate and apart
+(2) For the purposes of this Act, a person is not considered to be living separate and apart from their
+spouse or common-law partner at any time unless they are living separate and apart at that time,
+because of a breakdown of their marriage or common-law partnership, for a period of at least 90 days
+that includes that time.
+Definition of adjustedincome
+(3) In section 4, adjusted income has the same meaning as in section 122.6 of the Income Tax Act,
+except that the reference to “at the end of the year” is to be read as a reference to “on the reference
+day”.
+Rental Housing Benefit
+Payment of benefit
+3 The Minister must pay a one-time rental housing benefit of $500 to a person who is eligible to receive
+it and who makes an application under section 5.
+Eligibility
+4 (1) An applicant is eligible to receive a rental housing benefit if
+(a) they are at least 15 years of age on the reference day;
+(b) they are alive on the day on which their application is made in accordance with section
+5;
+(c) they are resident in Canada in 2022 for the purposes of the Income Tax Act and their
+principal residence is, onthe reference day, situated in Canada;
+(d) they—and, if any, their cohabiting spouse or common-law partner—have filed a
+return of income, as defined in section 122.6 of the Income Tax Act, for2021 no later than the
+120th day after the reference day;
+(e) they have an adjusted income for 2021 of no more than
+(i) $35,000, if they
+(A) have a cohabiting spouse or common-law partner on the reference day,
+(B) reside on the reference day with a qualified dependant, as defined in
+section 122.6 of the IncomeTax Act, or
+(C) claimed a deduction for 2021 under subsection 118(1) of that Act, because
+of paragraph (b) of the description of B in that subsection, and are entitled to
+that deduction, or
+(ii) $20,000, in any other case;
+f) they—or, if any, their cohabiting spouse or common-law partner—paid, in 2022, rent
+that is in respect of 2022 for the applicant’s principal residence situated in Canada; and
+g) subject to any of subsections (2) to (6) that apply in the circumstances, the total
+amount of the rent referred to in paragraph (f) is at least 30% of the applicant’s adjusted income
+for 2021.
+Unspecified amount—board or other services
+(2) If a payment for room and either board or other services is made in respect of a principal residence
+and it includes an unspecified amount for the board or other services, only 90% of the payment is to be
+taken into account as rent for the purposes of paragraph (1)(g).
+Separation from cohabiting spouse or common-law partner
+(3) If an applicant had a cohabiting spouse or commonlaw partner during 2022 but is living separate and
+apartfrom them on the reference day, the total amount of rent paid by the applicant to be taken into
+account for the purposes of paragraph (1)(g) is the total amount of rent paid in 2022 by the applicant.
+Different principal residences
+(4) If the applicant and their cohabiting spouse or common-law partner live in two different principal
+residences at any point in 2022, the applicant may take into account, for the purposes of paragraph
+(1)(g), the total amount of the rent paid in 2022 by either of them for both of those principal residences
+while they were eachother’s cohabiting spouse or common-law partner.
+Part-year residents
+(5) For the purposes of determining the applicant’s adjusted income in paragraphs (1)(e) and (g), if a
+person was non-resident in Canada for the purposes of the IncomeTax Act at any time in 2021, the
+person’s income forthe year is deemed to be the amount that would have been the person’s income for
+the year had the person been resident in Canada throughout the year.
+Bankruptcy
+(6) For the purposes of determining theapplicant’s adjusted income in paragraphs (1)(e) and (g), if a
+person becomes bankrupt in 2021, their income for that year is to include their income for the taxation
+year that begins on January 1 of 2021.
+Only one cohabiting spouse or common-law partner eligible
+(7) If two applicants who are each other’s cohabiting spouse or common-law partner on the reference
+day both apply under section 5 for a rental housing benefit and both would, but for this subsection, be
+eligible for the benefit, only the applicant that the Minister designatesiseligible to receive the benefit.
+Application
+5 An application for the benefit must
+(a) be in the form and manner established by the Minister; and
+(b) be made no earlierthan the reference day and nolater than the 120th day after the
+reference day.
+Attestation
+6 An applicant must, in their application, attest to the accuracy of the information that they provide in it,
+including the rent paid during 2022 for the principal residence, the address of the principal residence
+and thename and contact information of the person to whom the rent was paid.
+General
+Corporation
+7 The Corporation, on behalf of His Majesty and in the place of the Minister,
+(a) has all the rights and liabilities of His Majesty andthe Minister under this Act; and
+(b) exercises all the powers and performs all the duties and functions of the Minister under
+this Act.
+Minister of National Revenue
+8 The Minister of National Revenue may provide services and carry out activities to support the Minister
+inthe administration and enforcement of this Act and may authorize the Commissioner or any other
+person who is employed or engaged by the Agency or who occupies a position of responsibilityin the
+Agency to provide thoseservicesor carry out those activities.
+Agreements or arrangements
+9 The Minister may enter into agreements or arrangements with any department, board or agency of
+the Government of Canada to assist the Minister in carrying out the purposes and provisions of this Act.
+Delegation
+10 The Minister may authorize the Commissioner or anyother person or body, or member of a class of
+persons or bodies, to exercise any power or perform any duty or function of the Minister under this Act.
+Availability of information
+11(1) Information obtained, or prepared from information obtained, under thisAct may be made
+available tothe Minister of National Revenue for the administration and enforcement of the Income Tax
+Act if the Minister considers it advisable and the information is made available subject to conditions that
+are agreed on by the Minister and theMinister of National Revenue.
+Secondary release of information
+(2) The information must not be made available to any other person or body unless the Minister
+considers itadvisable, the information is made available for the same purpose and it is subject to
+conditions that are agreed on by the Minister and theMinister of National Revenue.
+Payment out of Consolidated Revenue Fund
+12 (1) All amounts to be expended in relation to this Act, including amounts payable by the Minister
+under section 3 and the costs of administering and enforcing this Act, are to be paidout of the
+Consolidated Revenue Fund to the Corporation.
+Special account
+(2) The Corporation may pay or cause to be paid all or any part of the money paid out to it under
+subsection (1) to the Receiver General, to be paid into the Consolidated Revenue Fund and credited to a
+special account in the accounts of Canada in the Corporation’s name.
+Payments charged to special account
+(3) If money is credited to the special account under subsection (2),
+(a) the Minister of National Revenue may, at the request and on behalf of the Corporation,
+make payments out of the Consolidated Revenue Fund for thepurposes of this Act and those
+payments are to be charged to the special account; and
+b) money owing to His Majesty under this Act is to be deposited into the Consolidated
+Revenue Fund and, unless the special account has been closed under paragraph 28(2)(b),
+credited to the special account.
+Social Insurance Number
+13 The Minister is authorized to collect and use, for the purposes of the administration and enforcement
+of this Act, the Social Insurance Number of a person who makesan application under this Act.
+Provision of information and documents
+14 (1) The Minister may, for any purpose related to verifying compliance or preventing non-compliance
+with this Act, require that any person provide any information or document within the reasonable time
+that theMinister may specify.
+Ineligibility
+(2) The Minister may decide that an applicant who fails to fulfill or comply with a requirement under
+subsection (1) is ineligible for a rental housing benefit.
+Benefit cannot be charged, etc.
+15 A rental housing benefit
+(a) is not subject to the operation of any law relating 2to bankruptcy or insolvency;
+(b) cannot be assigned, charged, attached or given as security;
+(c) cannot be retained by way of deduction, set-off or compensation under any Act of
+Parliament other thanthis Act; and
+(d) is not garnishable moneys for the purposes of the Family Orders and Agreements
+Enforcement Assistance Act.
+Reconsideration of application
+16 (1) Subject to subsection (5), the Minister may reconsider an application within 24 months after the
+120th day after the reference day.
+Decision
+(2) If the Minister decides on reconsideration that a person has received money by way of a rental
+housing benefit to which they were not entitled, or has not received money to which they were entitled,
+the Minister must calculate the amount of the money and notify the person of the Minister’s decision.
+Amount repayable
+(3) Section 18 applies if theMinister decides that a person has received money by way of abenefit to
+which they were not entitled.
+Amount payable
+(4) If the Minister decides that a person was entitled to receive money by way of a rental housing
+benefit, and the money was not paid, theamount calculated under sub-section (2) is payable to the
+person.
+Extended time to reconsider claim
+(5) If, in the opinion of the Minister, a false or misleading statement or representation has been made in
+connection with an application for a rental housing benefit, the Minister has 72 monthswithin which to
+reconsiderthe application.
+Request for review
+17 (1) A person who is the subject of a decision of the Minister made under this Act may make a request
+to the Minister, in the form and manner established by the Minister, for a review of that decision at any
+time within90 days after the day on which they are notified of the decision or any further time that the
+Minister may allow.
+Review
+(2) The Minister must review the decision if a request for its review is made under subsection (1). On
+completion ofthe review, the Minister must confirm, vary or rescindthe decision.
+Notification
+(3) The Minister must notify the person who made the request of the result of the Minister’s review
+under subsection (2).
+Return of overpayment or erroneous payment
+18 (1) Ifthe Minister determines that a person has received a rental housing benefit to which they are
+not entitled, or an amount in excess of the amount of such a benefit to which they are entitled, the
+person must repay the amount of the payment orthe excess amount, as the case may be, as soon as
+feasible.
+Recovery as debt due to His Majesty
+(2) The amount of the erroneous payment or overpayment, as determined by the Minister, constitutes a
+debt due to His Majesty as of the day on which the amount was paid andthe debtis payable and may be
+recoveredby the Minister as of the day the Minister determined the amount of the erroneous payment
+or overpayment.
+Limitation or prescription period
+19 (1) Subject to this section, no action or proceedingsmay be taken to recover money owing under this
+Act after the end of the six-year limitation or prescription period that begins on the day on which the
+money becomes due and payable.
+Deduction, set-off or compensation
+(2) Money owing by a person under this Act may be recovered at any time by way of deduction from, or
+set-off or compensation against, any sum of money, including a rental housing benefit, that may be due
+or payable by His Majesty to the person, other than an amount payable under section122.61 of the
+IncomeTax Act.
+Acknowledgment of liability
+(3) If a person’s liability for money owing under this Act is acknowledged in accordance with subsection
+(5), the time during which the limitation or prescription period has run before the acknowledgment does
+not count in the calculation of that period.
+Acknowledgment after limitation or prescription period
+(4) If a person’s liability for money owing under this Act is acknowledged in accordance with subsection
+(5) after the end of the limitation or prescription period, an action or proceedings to recover the money
+may, subject to subsections (3) and (6), be brought within six years after the date of the
+acknowledgment.
+Types of acknowledgments
+(5) An acknowledgment of liability means
+(a) a written promise to pay themoney owing, signed by the person or their agent or other
+representative;
+(b) a written acknowledgment of the money owing, signed by the person or their agent or
+other representative, whether or not a promise to pay can be implied from it and whether or
+not it contains a refusal to pay;
+(c) a part payment by the person or their agent or other representative of any money
+owing; or
+(d) any acknowledgment of the money owing made by the person, their agent or other
+representative or the trustee or administrator in the course of proceedings under the
+Bankruptcy and Insolvency Act or any other legislation dealing with the payment of debts.
+Limitation or prescription period suspended
+(6) The running of a limitation or prescription period in respect of money owing under this Act is
+suspended during any period in whichit is prohibited to commence orcontinue an action or other
+proceedings against the person to recover money owing under this Act.
+Non-application
+(7) This section does not apply in respect of an action or proceedings relating to the execution, renewal
+or enforcement of a judgment.
+No interest payable
+20 No interest is payable on any amount owing to His Majesty under this Act as a result of an
+overpayment or an erroneous payment.
+Violations
+21 (1) A person commits a violation if they
+(a) knowingly make, in relation to an application for a rental housing benefit, a
+representation that is false or misleading; or
+(b) make an application for, and receive, a rental housing benefit knowing that they are not
+eligible to receive it.
+Penalty
+(2) The Minister may impose a penalty on a person if the Minister is of the opinion that the person has
+committed a violation.
+Amount of penalty
+(3) The Minister may set the amount of the penalty for each violation at not more than 50% of the
+benefitthatwas or would have been paid as a result of committing the violation.
+For greater certainty
+(4) For greater certainty, no penalty may be imposed on a person if they mistakenly believe that a
+representation is true or that they were eligible to receive the benefit, asthe case may be.
+Purpose of penalty
+(5) The purpose of a penalty is to promote compliance with this Act and not to punish.
+Limitation of imposition of penalties
+22 A penalty must not be imposed under section 21 if more than three years have passed after the day
+on which the act that would constitute the violation occurred.
+Rescission or reduction of penalty
+23 The Minister may rescind the imposition of a penalty under section 21, or reduce the penalty, on the
+presentation of new facts or on being of the opinion that the penalty was imposed without knowledge
+of, or on the basis of a mistake as to, some material fact.
+Recovery as debt due to His Majesty
+24 A penalty imposed under section21 constitutes a debt due to His Majesty and the debt is payable
+and may be recovered by the Minister as of the day on which the penalty is imposed.
+Offences
+25 (1) Everyperson commits an offence who
+(a) for the purpose of obtaining a rentalhousing benefit for themselves, knowingly uses
+false identity information or another person’s identity information; or
+(b) with intent to steal all or a substantial part of another person’s rental housing benefit,
+counsels thatperson to apply for the benefit.
+Punishment
+(2) Every person who is guilty of an offence under subsection (1) is liable on summary conviction to a
+fine of not more than the sum of $5,000 plus an amount of not more than double the amount of the
+benefit that was orwould have been paid as a result of committing the offence, to imprisonment for a
+term of not more than two years less a day, or to both.
+Definition of identity information
+(3) In paragraph (1)(a), identity information has the same meaning as in section 402.1 of the Criminal
+Code.
+Designation—investigators
+26 (1) The Minister may designate as an investigator any person or class of persons for the purpose of
+enforcing section 25.
+Authorization
+(2) The Minister may authorize the Commissioner to designate as an investigator any employee or class
+of employees of the Agency for the purpose of enforcing section 25.
+Limitation period
+27 Proceedings in respectof an offence under this Actmay be instituted at any time within, but not later
+than, five years after the day on which the Minister becomes aware of the subject matter of the
+prosecution.
+Sunset provision
+28 (1) Despite any other provision of this Act, a payment out of the Consolidated Revenue Fund must
+not bemade under section 12 after the fifth anniversary of the dayon which this Act comes into force.
+Consolidated Revenue Fund
+(2) On the day after that fifth anniversary,
+(a) any money paid out under subsection 12(1) and held on that day by the Corporation is
+to be paid into the Consolidated Revenue Fund and credited to the Receiver General; and
+(b) any special account referred to in subsection 12(2) is closed and any money inthat
+account on closing is to remain in the Consolidated Revenue Fund and iscredited to the
+Receiver General.
+PART 3
+Related Amendments
+R.S., c. 1 (5th Supp.) Income Tax Act
+4 Subsection 81(1) of the Income Tax Act is amended by striking out “or” at the end of paragraph (r), by
+adding “or” at the end of paragraph (s) and by adding the following after paragraph(s):
+Dental benefits
+(t) an amount received under the Dental Benefit Act.
+5 Paragraph 241(4)(d) of the Act is amended by striking out “or” at the end of subparagraph (xviii) and
+by addingthe following after subparagraph (xix):
+(xx) to an official of
+(A) the Canada Revenue Agency solely for the purposes of the administration or
+enforcement of the Dental Benefit Act, or
+(B) the Department of Health solely for the purposes of the formulation or
+evaluation of policy for that Act,
+(xxi) to an official of the Canada Revenue Agency solely for the purposes of the
+administration or enforcement of the Rental Housing Benefit Act, or
+(xxii) to a person who is employed in the service of, who occupies a position of responsibility
+in the service of, or who is engaged by or on behalf of, the Canada Mortgage and Housing
+Corporation, solely for the purposes of theformulation or evaluation ofpolicy for the Rental
+Housing Benefit Act;
+R.S., c. E-15 Excise Tax Act
+6 Paragraph 295(5)(d) of the Excise Tax Act is amended by striking out “or” at the end of subparagraph
+(ix) and by adding the following after subparagraph (x):
+(xi) to an official of
+(A) theCanada Revenue Agency solely for the purposes of the administration or
+enforcement of the Dental Benefit Act, or
+(B) the Department of Health solely for the purposes of the formulation or
+evaluation of policy for that Act,
+(xii) to an official of the Canada Revenue Agency solely for the purposes of the
+administration or enforcement of the Rental Housing Benefit Act, or
+(xiii) to a person who is employed in the service of, who occupies a position of responsibility
+in the service of, or who is engaged by oron behalf of, the Canada Mortgage and Housing
+Corporation, solely for the purposes of theformulation or evaluation ofpolicy for the Rental
+Housing Benefit Act;
+2002, c. 22Excise Act, 2001
+7 Paragraph 211(6)(e) of the Excise Act, 2001 is amended by striking out “or” at the end of subparagraph
+(x) and by adding the following after subparagraph (xi):
+(xii) to an official of
+(A) the Agency solely for the purposes of the administration or enforcement of the
+Dental Benefit Act, or
+(B) the Department of Health solely for the purposes of the formulation or
+evaluation of policyfor that Act,
+(xiii) to an official of the Agency solely for the purposes of the administration or enforcement
+of the Rental Housing Benefit Act, or
+(xiv) to a person who is employed in the service of,who occupies a position of responsibility
+in the service of, or who is engaged by or on behalf of, the Canada Mortgage and Housing Corporation,
+solely for the purposes of the formulation or evaluationofpolicy for the Rental Housing Benefit Act;
+Published under authority of the Speaker of the House of Commons
+Available on the House of Commons website at the following address:www.ourcommons.ca
+QUESTION PERIOD NOTE
+DENTAL CARE
+Challengesaccessing the Canada Dental Benefit for potential recipients who do not file taxes.
+KEY FACTS
+• Applications for the Canada Dental Benefit will rely on income verification performed by the
+Canada Revenue Agency, based on the previous year’s tax return.
+• It is estimated that approximately 10-12% of Canadians may not be receiving benefits to which
+they may otherwise be entitled because they do not file tax returns.
+• People who have low household incomes, newcomers to Canada and members of marginalized
+groups may be part of this group.
+• Some of these groups, such as newcomers to Canada, will continue to be able to apply for
+benefits through initiatives such as the Interim Federal Health Program, administered by Immigration,
+Refugees and Citizenship Canada.
+• Potential barriers to filing include a lack of understanding of the relationship between filing an
+income tax return and benefit eligibility, not having a bank account, not having a stable address, not
+having regular access to the internet or to a telephone, or not having access to identity documents.
+KEY MESSAGES
+• Public education on the importance of filing a tax return and the relationship between tax filing
+and benefit eligibility will be an important part of ensuring that the Canada Dental Benefitreaches those
+who need it most.
+• The Canada Revenue Agency already provides robust support to help Canadians file their taxes if
+they need assistance. Health Canada will work closely with CRA to support tax filing and, in turn, uptake
+of this benefit.
+• The Canada Dental Benefit is the first stage of the Government’s plan to deliver dental care for
+families with income under $90,000 who do not have access to dental insurance, starting with uninsured
+families withchildren under the age of 12.
+• As we workto develop the long-term program to provide coverage to under 18-year-olds,
+seniors and persons living with a disability, the needs of these vulnerable populations will be taken into
+account.
+BACKGROUND
+Because this benefit will be disbursed through the Canada Revenue Agency (CRA), people who do not
+currently file taxes, or who are otherwise not engaged with the existing federal benefits infrastructure,
+will not have access to it.
+Tax Non-Filers in Canada
+Eligible individuals will only be able to apply for the Canada Dental Benefit through existing CRA
+infrastructure, either online through MyAccount or by telephone through the CRA call centres. In order
+to determine eligibility, CRA will calculate family income based on the last year’s tax return. Thismeans
+that individuals who do not file taxes, or whose household members do not, will not be eligible for the
+benefit.
+It is estimated that approximately 10-12% of Canadians do not file a tax return annually. In one study,
+people whose family income was below the Market Basket Measure were the least likely to file taxes,
+and approximately one-fifth of working-age adults inthe bottom decile for family income did not file a
+return. People with a high school degree only, newcomers to Canada, and people who rented, rather
+than owned, their homes, were also less likely to file. This raises the concern that some of the
+individuals the Canada Dental Benefit is attempting to reach may not be eligible for the benefit due to
+tax return non-filing.
+Barriers to Accessing Benefits for Children through CRA Delivery
+Since the Canada Dental Benefit will be available to eligible families currently receiving the Canada Child
+Benefit, uptake of the Canada Child Benefit may serve as a reasonable proxy for estimating uptake of
+the dental benefit.
+In the first year of availability, approximately 12% of eligible families did not receive the Canada Child
+Benefit. The reasons for this are likely to be complex and multi-factorial, but may include a lack of
+understanding of the relationship between filing an income tax return and benefit eligibility, not having
+a bank account, not having a stableaddress, not having regular access to the internet or to a telephone,
+or not having access to identity documents. Members of marginalized groups may also be reluctant to
+provide personal information to the Government of Canada in order to receive the benefit, due to a lack
+of trust in government.
+Mitigations
+Given that income must be assessed in some way for this income-tested program, and the need to
+develop and implement this benefit quickly using existing systems and definitions, the focus will be on
+helping those individuals file their taxes in order to become eligible. By doing so, they may also become
+eligible for other government benefits. The benefit application periods are long and would allow
+sufficient time for someone to file taxes and then return to apply for the benefit, should they wish.
+DENTAL CARE
+P/T Jurisdiction
+ISSUE
+• Whether the federal government can deliver a Canada Dental Benefit, in light of PT jurisdiction
+over health care delivery.
+KEY FACTS
+• Under the Canada Health Act, provinces/territories (PTs) provide residents with medically or
+dentally required emergency/catastrophic surgical-dental procedures performed by a dentist in hospital
+as publicly-insured services. Outside of those services, PTs are not required to provide dental care under
+the public health care system.
+• All PTs provide additional dental coverage, at their discretion, although eligibility and coverage is
+limited and varies greatly.
+• In total, PTs spend an estimated $650 million a year on public dental programs.
+• The federal government also plays a key role in health care in Canada. It is able to use its
+spending power, as long it is done in a manner that does not amount to regulation of a space that is
+under PT jurisdiction, which the proposed benefit does not.
+KEY MESSAGES
+• Although health care delivery is under provincial and territorialjurisdiction, the federal
+government continues to play an important role in health care in Canada and, in fact, we already play a
+significant role in dental care delivery for federal populations.
+• It is within our jurisdiction to exercise the federal spending power to provide support to
+Canadians and that is what we are doing here-so that they can get the help they need to make dental
+care for their children more affordable.
+• We remain committed to finding ways to work collaboratively with provinces and territories to
+improve access to oral health in Canada.
+DENTAL CARE
+Concerns that the interim Canada Dental Benefit will duplicate coverage provided through provincial
+and territorial dental care programs.
+KEY FACTS
+• Under the proposed legislation (Bill C-31), starting in 2022, families with children under 12 that
+have an income of less than $90,000, will be able to apply for up to $650 for each eligible child in each of
+two annual benefit periods.
+• To be eligible, the child must not have access to private dental care insurance or have their out-
+of-pocket dental care expenses fully reimbursed through a different government program.
+• Applicants covered by provincial or territorial programs will be eligible for the interim Canada
+Dental Benefit if they meet all of the criteria to qualify for the benefit. However, people whose dental
+care needs are met by those provincial and territorial program and who, as a result, don’t have out of
+pocket costs that are not fully reimbursed, won’t be eligible for the benefit and shouldn’t apply.
+• On October 20, 2022, the Office of the Parliamentary Budget Officer (PBO) released a Legislative
+Parliamentary Note that included a supplementary information table with estimates of costs for the
+interim Canada Dental Benefit for each province.
+• Some MPs have expressed concerns that these costing estimates imply that Quebec and Atlantic
+provinces with robust programs for children would be receiving a disproportionate amount of funding.
+• The proposed delivery model for the interim benefit does not include funding to the provinces
+or territories–rather the Canada Revenue Agency will make payments directly to eligible Canadians
+through the tax system.
+The eligibility criteria and level ofpayment will be the same for all Canadians across the country.
+KEY MESSAGES
+• The interim Canada Dental Benefit is intended to help parents with children under 12 manage
+the costs for their children’s dental care that they would otherwise be out of pocket for. This is an
+important measure that the Government of Canada is taking to make life more affordable for the
+youngest Canadians who need it most.
+• This interim benefit is intended to complement and not duplicate coverage provided by existing
+dentalprograms delivered by provincial governments, while wework on a longer-term solution.
+• Applicants covered by provincial or territorial programs will be eligible for the interim Canada
+Dental Benefit if they meet all of the criteria to qualify for thebenefit. However, people whose dental
+care needs are met by those provincial and territorial programs and who, as a result, don’t have out of
+pocket costs that are fully reimbursed, won’t be eligible for the benefit and shouldn’t apply.
+If pressed ondistribution of funding by province
+• Provincial and territorial dental programs for children vary widely in terms of who and what is
+covered. For example, in Quebec where a universal program exists for children under 10, important
+preventative services are not covered (and older children are not covered at all).
+• In those cases, families living in those jurisdictions with out-of-pocket expenses over and above
+what those programs cover will still be eligible to apply for the interim Canada Dental Benefit.
+• The proposed delivery model for the interim benefit does not include funding to the provinces
+or territories–rather the Canada Revenue Agency will make payments directly to eligible Canadians
+through the tax system.
+• The eligibility criteria and level of payment will be the same for all Canadians across the country.
+DENTAL CARE
+Fiscal implications of interim Canada Dental Benefit
+KEY FACTS
+• Funding to deliver the interim Canada Dental Benefit is sourced from Budget 2022, which
+provided funding of$5.3 billion over five years, starting in 2022-23, and $1.7 billion ongoing to Health
+Canada to provide dental care for Canadians.
+• It is estimated that over 500,000 Canadian children could benefit from this targeted investment
+of $938 million.
+• On October 20, 2022, the Office of the Parliamentary Budget Officer (PBO) released a Legislative
+Parliamentary Note that estimated the cost of the interim Canada Dental Benefit to be $703M.
+• Health Canada officials have met with the PBO’s office to discuss itscosting and have
+determined that the variances are primarily due to some minor differences in assumptions (e.g., Health
+Canada did not forecast savings from reduced Medical Expense Tax credits, as the PBO did) and to the
+treatment of administrative costs.
+• Health Canada cost estimates include start up and close-out costs for the interim benefit, as well
+as policy development, program oversight and compliance efforts, additional resources for the Canada
+Revenue Agency contact centres who will help applicants and answer questions, and outreach and
+communication costs.
+• These investments take into account the need to raise awareness of this benefit among eligible
+parents and to maintain the integrity of the program, given it relies on an attestation model for some
+information.
+KEY MESSAGES
+• The Government of Canada has committed to improving access to dental care and, in Budget
+2022, proposed funding of $5.3 billion over five years, starting in 2022-23, and $1.7 billion on-going for a
+national dental careprogram for Canadians who earn under $90,000 a year.
+• The cost of the interim Canada Dental Benefit will be fully covered within the funding
+announced for dental care in Budget 2022.
+• It is estimated that over 500,000 Canadian children could benefit from this targeted investment
+of over $900 million.
+• The interim Canada Dental Benefit, focusing on children under 12, is the first stage of the
+government’s plan to deliver dental care for families with income under $90,000 who do not have
+access to dentalinsurance.
+If pressed on PBO report
+• The Government of Canada welcomes and appreciates the cost estimates prepared by the PBO
+regarding theinterim Canada Dental Benefit.
+• Health Canada officials have met with the PBO’s office to discuss its costingand have
+determined that the variances are primarily due to some minor differences in assumptions (e.g., Health
+Canada did not forecast savings from reduced Medical Expense Tax credits, as the PBO did) and to the
+treatment of administrative costs.
+• Moreover, Health Canada costs estimates included its work related to providing dental care for
+Canadians–both the interim Canada Dental Benefit and the planned national dental care program.
+DENTAL CARE
+Impact of the Canada Dental Benefit on existing oral health human resources.
+KEY FACTS
+• There are an estimated 90,000 oral health professionals practicing in Canada, including
+approximately 25,000 dentists, 30,000 dental hygienists, and 30,000 dental assistants.
+• Although the Canadian DentalAssociation reported that 36% of dental offices have vacant
+positions for assistants, and the Canadian Dental Hygienists Association reported in 2021 that 28% of
+dental hygienists planned to leave the profession within the next five years, dental care experts
+consistently report that there is sufficient capacity among dentists except in some rural and remote
+areas.
+• Rural, remote, Northern, and inner-city regions are most likely to experience a shortage of
+dental services currently. Specialist dentists, particularly those with expertise in the care of patients with
+complex needs, are also in particular demand.
+• The interim Canada Dental Benefit, on its own, is unlikely to exacerbate these concerns in the
+short-term. The benefit will provide sufficient funding, in most cases, for a single visit each year and not
+all families will apply for or receive the benefit at once.
+• In rural areas, the fact that the benefit could be used to access care by not just a dentist but also
+independently practising dental hygienists, will help facilitate access to care.
+KEY MESSAGES
+• The issue of health human resources, including for dental care professionals, is one that is being
+closely monitored by the Government of Canada.
+• We believe that, at this time, there are sufficient dental professionals to meet the additional
+demand from children who will be able to care get because of this benefit.
+• The Government of Canada will continue to work with stakeholders from each of the oral health
+care professions, including professional associations and independent experts, to promote awareness of
+the Canada Dental Benefit and discuss health human resources issues that need to be considered as part
+of the long term program.
+DENTAL CARE
+Impact of theCanada Dental Benefit on Indigenous people, governments and organizations.
+KEY FACTS
+• The Canada Dental Benefit does not affect the NIHB program or the amount of funding provided
+to Indigenous governments and organizations.
+• NIHB recipients will continue to have access to the robust dental coverage available to them
+under that program.
+• First Nations and Inuit people that receive dental coverage through the Non-Insured Health
+Benefits (NIHB) program will be eligible to apply for the benefit if they meet all of the other criteria for
+the benefit.
+• Government of Canada officials anticipate that, in most cases, NIHB will meet the needs of
+recipients and that they will not have out of pocket expenses for their dental care, which is a key
+eligibility requirement of the benefit.
+• As part of the broader outreach and communications strategy to promote the Canada Dental
+Benefit, Health Canada will work with Indigenous organizations and governments to reach potential
+applicants not covered by NIHB. This includes, but is not limited to, Métis people.
+KEY MESSAGES
+• The Government of Canada is committed to working closely with Indigenous partners and
+communities across the country to advance priorities that promote and protect health, including dental
+care.
+• The Canada Dental Benefit would not replace the Non-Insured Health Benefits program,
+delivered by Indigenous Services Canada. Recipients will continue to have access to the robust dental
+coverage available to them under the Non-Insured Health Benefits program.
+• Non-Insured Health Benefits recipients will be eligible to apply for the benefit if they meet all of
+the other criteria for the benefit.
+• Heath Canada anticipates that, in most cases, the Non-Insured Health Benefits program will
+meet the needs ofrecipients and they will not have out of pocket expenses for their dental care, which
+is a key eligibility requirement of the benefit.
+BACKGROUND
+First Nations people and Inuit that receive dental coverage through the NIHB could apply for the Canada
+Dental Benefit if they meet eligibility criteria. In addition, it is anticipated that the benefit could reach a
+significant number of Métis people, as well as people without dental coverage living in Indigenous
+communities.
+Non-Insured Health Benefits (NIHB) Program
+The Non-Insured Health Benefits (NIHB) Program provides coverage for a range of medically necessary
+benefits to over 900,000 registered First Nations people and recognized Inuit. All registered First Nations
+and recognized Inuit residents of Canada are eligible for NIHB benefits, regardless of location or income
+level, unless otherwise covered under a separate agreement with federal or provincial governments, or
+through a separate self-government agreement.
+As the NIHB program is restricted to First Nations people and Inuit registered under the Indian Act and
+their children under 18 months, the program captures around half of those with anIndigenous identity.
+In 2021-22, dental expenditures through the NIHB program were approximately $300 million, with the
+majority of expenditures (90%) in fee-for-service (FFS) benefits. FFS dental expenditures generally
+increase 5-9% per year based on a Consumer Price Index + 0.5% formula. Approximately 2.34 million FFS
+dental claims were for 314,114 clients (85% of these clients accessed diagnostic services, 70%
+preventative, and 52% restorative).
+Each year, approximately 37% of eligible clients accessthe NIHB dental benefits available to them. Over
+two years, this increases to about 50%. There are approximately 25,000 registered service providers
+providing care to this client population.
+DENTAL CARE
+Urgent needfor bill to receive Royal Assent no later than October 31, 2022
+KEY FACTS
+• The Government of Canada has introduced legislation in the House of Commons that includes
+the implementation of the new, temporary Canada Dental Benefit.
+• Bill C-31 is a key stepin delivering on the Government’s Budget 2022 commitment, which
+committed to provide support starting with children under 12 in 2022.
+• The target implementation date for the Canada Dental Benefit is December 1, 2022, pending
+Parliamentary approval and Royal Assent of enabling legislation.
+• In order to be able to open the system for applications on December 1, 2022 and for children to
+begin to access care with the benefit funding this calendar year as committed, the proposed legislation
+must receive Royal Assent by the end of October.
+• If Royal Assent is not received by then, Health Canada and the Canada Revenue Agency may not
+have time to complete the necessary preparations to support delivery of the benefit for a December 1
+start.
+KEY MESSAGES
+• The Government of Canada is working diligently to design and implement a long-term national
+dental care program; this is complex work that will take time.
+• In the meantime, the proposed Canada Dental Benefit would help provide parents withchildren
+under 12 with financial support to help address theirchildren’s dental care needs.
+• The target implementation date for the Canada Dental Benefit is December 1, 2022, pending
+Parliamentary approval and Royal Assent of enabling legislation.
+DENTAL CARE
+The likely impact of the Canada Dental Benefit on children under 12.
+KEY FACTS
+• 57% of children aged six to 11 have had a cavity, with an average of 2.5 teeth affected by decay.
+• In more severe cases, tooth decay in young children (early childhood caries) is an infectious
+disease that can cause pain, interfere with sleep and growth, and cause lifelong impacts to oral and
+general health.
+• Dental surgery is a partial consequence of inadequate access to preventive care.Dental surgery
+under general anaesthesia is the most common day surgery at most pediatric hospitals in Canada,
+accounting for one-third of all day surgeries performed on children between the ages of one and five.
+The rate of surgeries is 2.5 times higherfor children in the lowest income quintile, and 3.1 times higher
+among children living in rural neighbourhoods.
+• The prevalence of tooth decay is much higher among Inuit –in 2011, more than 85% of Inuit
+preschoolers had dental cavities, with a mean of 8.2 teeth affected.
+• An estimated 2.26 million school days were lost to oral health concerns in 2010.
+• It is estimated that over 500,000 Canadian children could benefit from this targeted investment
+of $938 million.
+KEY MESSAGES
+• Access to quality dental care is an integral part of overall health and quality of life for Canadians.
+• Poor oral health disproportionately impacts children from low-income families, Indigenous
+children, new immigrants, and children with disabilities or special health care needs.
+• Giving Canadian families the means to improve their children’s oral health through the Canada
+Dental Benefit will mean those children have access to the care they need to not only improve their oral
+health but also improve their quality of life andreduce the need for more invasive and costly treatments
+later.
+• The benefit proposed in this legislation would help break the cycle of poor oral health for the
+youngest Canadians by making access to dental care for children more affordable.
+DENTAL CARE
+Measures undertaken to prevent fraudulent applications for Canada Dental Benefit payments
+KEY FACTS
+• The Government of Canada is undertaking a variety of measures to protect against fraudulent
+applications for Canada Dental Benefit payments.
+• The Canada Revenue Agency will utilize multi-factor authentication to verify applicants and has
+a range of tools at its disposal to conduct compliance and enforcement activities.
+• The Canada Revenue Agency will verify most eligibility information upfront drawing on its
+existing tax and Canada Child Benefit systems (like income, age of children and the applicant’s
+relationship to the child/ children), and when applying, an eligible parent will also be asked to provide
+information on the following to help confirm eligibility:
+- provide contact information for the dental professional who did or will provide the dental
+services,
+- provide contact information for their employer, if they have one, for purposes of verifying
+access to an employer dentalcare plan; and
+- provide any other information requested to verify their eligibility.
+• In addition, the bill provides considerable scope for post-payment compliance activities to help
+ensure this funding is spent as intended. Applicants will be aware theywill need to be able to
+demonstrate eligibility–for example by providing receipts showing they had the out of pocket expenses
+they attested to having, if asked to by CRA.
+• The Minister of Health can also decide that a person is ineligible for future benefits if they have
+committed a violation or misrepresented their eligibility information. However, this remedy would only
+relate to the period of moving from year one to year two benefits, given there would be no future
+benefits to deny for those who were found fraudulent in year two. In those cases, other measures
+described above could still be considered.
+KEY MESSAGES
+• This legislation will provide the Government with a number of tools to prevent fraudulent
+applications for payment under the Canada Dental Benefit and to take action when fraud or other
+criminal offenses related to the benefit occur.
+• Applicants’ income eligibility, presence of children and their age will be verified at the time an
+application is made, through CRA’s existing informationsystems, before a payment is made.
+• Applicants will be made aware that they will need to be able to demonstrate that they met the
+remaining eligibility conditions. This includes demonstrating that they had out of pocket costs, which
+they used the benefitto pay for, as intended (for example, by showing their receipts).
+• In addition, the Canada Revenue Agency continues to enhance the security of its digital services
+to protect Canadians from fraudulent activity. These include using security features suchas multi-factor
+authentication and making email addresses mandatory for those who use Canada Revenue Agency’s My
+Account.
+BACKGROUND
+The Canada Revenue Agency will utilize multi-factor authentication to verify applicants’ eligibility and
+has a range of tools at its disposal to conduct compliance and enforcement activities.
+The Canada Revenue Agency will verify information in its existing tax and Canada Child Benefit systems
+(like income, age of children and the applicant’s relationship to the child/ children), and when applying,
+an eligible parent will also be asked to provide information on the following to help confirm eligibility:
+- provide contact information for the dental professional who did or will provide the dental
+services,
+- provide contact information for their employer, if they have one, for purposes of verifying
+access to an employer dental care plan; and
+- provide any other information requested to verify their eligibility.
+In addition, after the fact verification and audit processes will be used, according to CRA’s standard
+practices and using the powers set out in the Bill. Where concerns are identified, funding could be
+recovered although this would be particularly difficult –based on past CRA experience–to do in the
+lower income groups.
+For particularly serious offenses, the bill also defines criminal offenses in relation to benefits provided
+for under the Act, such as using false identity information, as well as punishment for offenses, including
+fines and possible imprisonment. It states that a person commits a violation if they:
+- give false or misleading information on their application; or
+- apply for, and receive, a dental benefit for which they are not eligible.
+Furthermore, the bill states that if the Minister of Health, or the Minister of National Revenue, as
+delegated by the Minister of Health, is of the opinion that a person has committed a violation, the
+Minister may impose a penalty:
+- up to 50% of the benefit that was or would have been paid;
+- to a maximum of $5,000;
+- within three years of the day on which the violation was committed.
+The Minister of Health can also decide that a person is ineligible for future benefits if they have
+committed a violation or misrepresented their eligibility information, although this remedy would only
+relate in the period of moving from year one to year two benefits, given there would be no year 3
+benefits to deny for those who were found fraudulent in year two. In those cases, other measures
+described above could still be considered.
+DENTAL CARE
+Marketing and Advertising for the Canada Dental Benefit
+KEY FACTS
+• The Government of Canada will launch an advertising campaign for the Canada Dental Benefit
+once Royal Assent is receive and the application process is open, with tailored messaging posted to a
+Canada Dental Benefit website, a joint collaboration between Health Canada and the Canada Revenue
+Agency.
+• The focus of the campaign will be to raise awareness of the Canada Dental Benefit, including
+eligibility and the application process.
+• Stakeholders (e.g., provincial and territorial dental associations and other interested parties) will
+be encouraged to promote the benefit website on their respective websites, and to share and like social
+media content.
+• A digital toolkit will be developed in 2022-23 for distribution to partners and stakeholders (e.g.
+otherfederal departments, provinces and territories, dental associations and dentists, schools,
+community-based organizations and intermediaries or ambassadors in relevant communities).
+• Updates will be made to the toolkit on an as-needed basis, based on target audiences.
+KEY MESSAGES
+• The Government is committed to improving access to oral health services.
+• It will be important for us to work to make sure eligible parents of children under 12 hear about
+and understand how this benefit will work so they can access the support we are providing.
+• A comprehensive public education campaign is being planned.
+• Early communications ahead of the advertising campaign will encourage key audiences to sign
+up for both CRA My Account and direct deposit in order tofacilitate the quick processingof the dental
+benefit payment.
+• Content will also focus on ensuring that Canadians are aware of and capitalize on key dates,
+events and announcements. Updates to the website will be made on an as-needed basis, based on
+target audiences and benefit eligibility.
+DENTAL CARE
+Government of Canada is working toward a long term dental care program
+KEY FACTS
+• The Government of Canada has committed to making access to dental care more affordable.
+Budget2022 proposed funding of $5.3 billion over five years, starting in 2022-23, and $1.7 billion
+ongoing for a national dental care program for Canadians who earn under $90,000.
+• The Canada Dental Benefit is an interim measure that will allow Canadian families to access
+funding as soon as possible to begin dealing with some of their eligible children’s dental care needs.
+While this temporary program is in place, the Government of Canada is working to build a national
+dental care program.
+• Discussions with key stakeholders, including provinces and territories, as well as industry and
+clinical experts, are ongoing to help inform the Government’s decisions on implementing a national
+dental care program.
+• Health Canada is in the process of analyzing feedback submitted by industry partners over the
+summer through a Request for Information, which sought input to assist in the development of advice
+about the design and delivery of a national dental care program.
+• In addition, the Minister of Health and Health Canada officials have been meeting with key
+stakeholders, including experts, academics, and dentistry associations and organizations over the past
+several months to discuss the design and delivery of a national dental care program.
+• More details will be available as decisions are finalized regarding a new national dental care
+program.
+KEY MESSAGES
+• Budget 2022 committed $5.3 billion over five years, and $1.7B ongoing, to provide dental care
+for Canadians who are unable to access care because of the costs.
+• The Government remains committed to providing dental care to Canadians and continues to
+take the necessary steps to build a national dental care program.
+• Although we are working as fast as we can, it will take time to get it right.
+• The Government of Canada is committed to working with key stakeholders, industry partners,
+academics, and dentistry associations and organizations to help inform decisions on implementing a
+national dental care program.
+• For example, the Government of Canada is currently reviewing input from industry partners that
+was provided through a Request for Information issued from July 25 to August 22, 2022.
+• At the same time, Health Canada has been reaching out to provinces and territories to better
+understand their current dental care programs and seek their views on how best to implement a long-
+term program.
+• Budget 2022 committed to provide dental care starting in 2022 for families with children under
+12. The Canada Dental Benefit is an important step in this direction.
+Release
+For immediate release
+Making life more affordable for Canadians this year
+September 13, 2022 St. Andrews, New Brunswick Prime Minister’s Office
+Canadians are feeling the rising cost of living, particularly through higher food prices and rent. While
+inflation is a global challenge–caused by the COVID-19 pandemic and Russia’s illegal and unjustifiable
+invasion of Ukraine–we are helping families weather its impacts by working to put more money back in
+the pockets of the middle class and those working hard to join it this year.
+The Prime Minister, Justin Trudeau, today announced that the government’s first pieces of legislation
+introduced in the upcoming Parliamentary sitting would make life more affordable for Canadians who
+need it most.
+The measures in these bills would:
+• Double the Goods and Services Tax Credit (GSTC) for six months, delivering support to roughly
+11 million individuals and families who receive the tax credit, including about half of Canadian families
+with children, and more than half of Canadian seniors. Single Canadians without children would receive
+up to an extra $234 and couples with two children would receive up to an extra $467 in their pockets
+this year. Seniors would receive an extra $225 on average.
+• Provide a Canada Dental Benefit to children under 12 who do not have access to dental
+insurance, starting this year. Direct payments totalling up to $1,300 per child over the next two years
+(up to $650 per year) would be provided for dentalcare services. This is the first stage of the
+government’s plan to deliver dental coverage for families with income under $90,000, and will allow
+children under 12 to get the dental care they need while we develop a comprehensive national dental
+care program.
+• Provide a one-time top-up to the Canada Housing Benefit to deliver $500 to 1.8 million Canadian
+renters who are struggling with the cost of housing. This more than doubles our Budget 2022
+commitment, reaching twice as many Canadians as initially promised. This new one-time federal benefit
+will be in addition to the Canada Housing Benefit currently co-funded and delivered by provinces and
+territories. The federal benefit will be available to applicants with an adjusted net income below $35,000
+for families, or below $20,000 for individuals, who pay at least 30 per cent of their income on rent.
+These measures build on the strong action we have been taking since 2015 to make life more affordable
+and build an economy that works for all Canadians. From cutting taxes for the middle class and raising
+them on the wealthiest one per cent, to delivering a Canada Child Benefit and raising it every year to
+continue putting more money back in the pockets of nine out of 10 families with children, to cutting
+regulated child care fees in half on average by the end of this year for families across the country, we are
+delivering support for the middle class and those working hard to join it.
+Quote
+“From helping families pay rent to making sure people can afford the dental care they need and putting
+hundreds of dollars back in the pockets of Canadians, this suite of new measures will support families
+who need it the most, when they need it the most. As we head into a new Parliamentary sitting, we are
+working hard to continue delivering results for the middle class and those working hard to join it.”
+—The Rt. Hon. Justin Trudeau, Prime Minister of Canada
+Quick Facts
+• This targeted support package totals more than $4.5 billion, of which $3.1 billion is in addition to
+funding previously allocated in Budget 2022.
+• Doubling the Goods and Services Tax Credit for six months will provide $2.5 billion in relief for
+Canadians who need it most.
+• The Canada Dental Benefit would deliver over $900 million to support dental health, starting in
+2022-23. The Canada Dental Benefit for uninsured children under the age of 12 is the first stage of the
+government’s plan to deliver dental care for families with income under $90,000 who do not have
+access to dental insurance. The Canada DentalBenefit would provide direct payments to eligible
+applicants totalling up to $650 per year per child for dental care services for applicants with a family
+income under $70,000, $390 for those with a family income of $70,000 to $79,999, and $260 for those
+with a family income of $80,000 to $89,999. Parents or guardians of eligible children would need to
+apply to access payments.
+• A new national dental program is under development, with the goal of expanding dental
+coverage to under 18-year-olds, seniors, and persons living with a disability in 2023, with full
+implementation for all families with incomes under $90,000 by 2025.
+• The $500 payment for renters doubles our commitment made in Budget 2022, providing $1.2
+billion in relief for 1.8 million eligibleCanadians.
+• In addition to today’s announcement, the following measures will support Canadians this year:
+o Enhancing the Canada Workers Benefit at a cost of $1.7 billion in new support for an estimated
+three million low-income workers this year, with a couple receiving up to $2,400 more this year, and
+single workers receiving up to $1,200 more. Most recipients first received this additional support
+through their 2021 tax refund.
+o Cutting regulated child care fees in half on average for families in Canadaby the end of this year.
+o A 10 per cent increase to the Old Age Security (OAS) pension for seniors 75 years and older,
+which began in July 2022, and will provide more than $800 in new support to full pensioners over the
+first year, and increase the number of beneficiaries by more than three million seniors.
+o Providing more support for students by doubling the Canada Student Grant amount until July
+2023 and by waiving interest on Canada Student Loans through to March 2023.
+• Here’s how we will make life more affordable for Canadians this year:
+o A couple in Ontario with an income of $45,000 and a child in daycare could receive about an
+additional $7,800 above existing benefits this fiscal year.
+o A single recent graduate, living in Alberta, with an entry-level job and an income of $24,000
+could receive an approximate additional $1,300 in new and enhanced benefits.
+o A senior with a disability in Quebec could benefit from over $2,500 more this year than she
+received last year.
+• Canada has the lowest total government deficit in the G7 this year, and by far the lowest net
+debt burden among these countries (32.1 per cent of GDP versus an average of 97.5 per cent of GDP for
+the group as a whole).
+• The International Monetary Fund and the Organisation for Economic Co-operation and
+Development predict that the Canadian economy will see the strongest growth in the G7 this year and
+next.
+Related Products
+• Backgrounder: Making Dental Care More Affordable: The Canada Dental Benefit
+• Backgrounder: MakingHousing More Affordable: One-time top-up to the Canada Housing
+Benefit program
+• Backgrounder: Making Life More Affordable: Doubling the Goods and Services Tax Credit for Six
+Months
+Associated Links
+• Affordability Plan
+• Deputy Prime Minister outlines government’s Affordability Plan for Canadians
+• Government of Canada releases Budget 2022
+• Prime Minister to hold Cabinet retreat in Vancouver to focus on making life more affordable for
+Canadians
+PMO Media Relations: media@pmo-cpm.gc.ca
+This document isalso available athttps://pm.gc.ca
+Government of Canada introduces legislation to make life more affordable for Canadians
+Legislation would double the GST Credit for six months, introduce the Canada DentalBenefit, and top-up
+the Canada Housing Benefit
+September 20, 2022
+Today, the government introduced its first two pieces of legislation for this Parliamentary sitting, which
+would deliver targeted support to the Canadians who need it most. These measures build on the
+government’s Affordability Plan, which has already been putting more money back in the pockets of the
+middle class and those working hard to join it this year.
+Bill C-30, the Cost of Living Relief Act, No. 1 (Targeted Tax Relief), would double the Goods and Services
+Tax Credit for six months.
+• Doubling the GST Credit would provide $2.5 billion in additional targeted support to the roughly
+11 million individuals and families who already receive the tax credit, including about half of Canadian
+families with children and more than half of Canadianseniors. Single Canadians without children would
+receive up to an extra $234 and couples with two children would receive up to an extra $467 this year.
+Seniors would receive an extra $225 on average.
+Bill C-31, the Cost of Living Relief Act, No. 2 (Targeted Support for Households), would enact two
+important measures: the Canada Dental Benefit and a one-time top-up to the Canada Housing Benefit.
+• The Canada Dental Benefit would be provided to childrenunder 12 who do not have access to
+dental insurance, starting this year. Direct payments totalling up to $1,300 per child over the next two
+years (up to $650 per year) would be provided for dental care services. This is the first stage of the
+government’splan to deliver dental coverage for families with adjusted net income under $90,000, and
+will allow children under 12 to receive the dental care they need while the government works to
+develop a comprehensive national dental care program.
+• The one-time top-up to the Canada Housing Benefit would deliver a $500 payment to 1.8 million
+renters who are struggling with the cost of housing. This more than doubles the government’s Budget
+2022 commitment, reaching twice as many Canadians as initially promised. The federal benefit will be
+available to applicants with an adjusted net income below $35,000 for families, or below $20,000 for
+individuals, who pay at least 30 per cent of their adjusted net income on rent.
+The Canada Revenue Agency’s (CRA) application portals for the Canada Dental Benefit and Canada
+Housing Benefit will be available to Canadians following Royal Assent of Bill C-31.
+The legislation tabled in Parliament today represents the latest suite of measures to support Canadians
+with the rising costof living without adding fuel to the fire of inflation. The government’s Affordability
+Plan is delivering targeted and fiscally responsible financial support to the Canadians who need it most,
+with particular emphasis on addressing the needs of low-income Canadians who are most exposed to
+inflation.
+Quotes
+“With the legislation we have introduced today, we are building on the supports in our government’s
+Affordability Plan to deliver timely, effective financial help to millions of Canadians to make ends meet.
+For our neighbours who need this support the most, this means more money for them this year to help
+make life more affordable. We will continue to strike a balance between delivering support where and
+when it is needed most and maintaining the discipline that has given Canada the strongest fiscal position
+in the G7.”
+-The Honourable Randy Boissonnault, Minister of Tourism and Associate Minister of Finance
+“Oral health is just as important as healthy eating and being active when it comes to preventing chronic
+diseases. Everyone deserves to have access to oral health care, but for many Canadians, it’s just too
+expensive. That’s why we introduced this legislation today that would help uninsured families with
+children under 12 get the dental care they need, and show off their brightest smiles, this year.”
+-The Honourable Jean-Yves Duclos, Canada’s Minister of Health
+“With affordability on everyone’s mind, this additional support will ease more pressure on renters
+across the country. In addition to federal programs to create affordable housing and provide rental
+supports, this one-time payment is another way our government is ensuring vulnerable families are not
+left behind. These are the kinds of measures our government is putting into action right now totackle
+the housing crisis.”
+-The Honourable Ahmed Hussen, Minister of Housing and Diversity and Inclusion
+“During the pandemic, when Canadians needed support, the CRA rose to the occasion. It will do so again
+by ensuring that eligible Canadians can apply for benefits in a simple and secure way. Our government
+will ensure that Canadians can get the support and dental care they need.”
+-The Honourable Diane Lebouthillier, Canada’s Minister of National Revenue
+“The federal government is committed to supporting children and parents now, and for generations to
+come. From dental care to increasing access to early learning and child care, we will continue to ensure
+that every child has the best possible start in life, while making life more affordable for families in
+Canada.”
+-The Honourable Karina Gould, Minister of Families, Children and Social Development
+Quick Facts
+• These measures total more than $4.5 billion in targeted support for the Canadians who need it
+most, of which $3.1 billion is in addition tofunding previously allocated in Budget 2022.
+• The pieces of legislation introduced today are in addition to other measures that will support
+Canadians this year,including:
+o Enhancing the Canada Workers Benefit at a cost of $1.7 billion in new support for an estimated
+three million low-income workers this year, with a couple receiving up to $2,400 more this year, and
+single workers receiving up to $1,200 more. Most recipients first received this additional support
+through their 2021 tax refund.
+o Cutting regulated child care fees in half on average for families in Canada by the end of this year.
+o A 10 per cent increase to the Old Age Security (OAS) pension for seniors 75 years and older,
+which began in July 2022, and will provide more than $800in new support to full pensioners over the
+first year, and increase benefits for more than three million seniors.
+o Providing more support for students by doubling the Canada Student Grant amount until July
+2023 and by waiving interest on Canada Student Loans through to March 2023.
+• Examples of how the government is making life more affordable for Canadians this year:
+o A couple in Ontario with an income of $45,000 and a child in daycare could receive about an
+additional $7,800 above their existing benefits this fiscal year.
+o A single recent graduate, living in Alberta, with an entry-level job and an income of $24,000
+could receive an approximate additional $1,300 in new and enhanced benefits.
+o A senior with a disability in Quebec could benefit from over $2,500 more this year than she
+received last year.
+• This is the first step, outlined in the Supply and Confidence Agreement, to develop a national
+dental care program. The Government of Canada aims to have that program started for those under 18,
+personswith disabilities, and seniors by the end of 2023, with thefull program completed by 2025.
+• Canada has the lowest total government deficit in the G7 this year, and by far the lowest net
+debt burden among these countries (32.1 per cent of GDP versus an average of 97.5 per cent ofGDP for
+the group as a whole).
+• The International Monetary Fund and the Organisation for Economic Co-operation and
+Development predict that the Canadian economy will see the strongest growth in the G7 this year and
+next.
+Associated Links
+• Backgrounder: Making Life More Affordable: Doubling the Goods and Services Tax Credit for Six
+Months-Canada.ca
+• Backgrounder: Making Dental Care More Affordable: The Canada Dental Benefit-Canada.ca
+• Backgrounder: Making Housing More Affordable: One-time top-up to the Canada Housing
+Benefit program-Canada.ca
+• Making life more affordable for Canadians this year | Prime Minister of Canada (pm.gc.ca)
+• Affordability Plan-Canada.ca
+• Deputy Prime Minister outlines government’s Affordability Plan for Canadians -Canada.ca
+• Budget 2022-A Plan to Grow Our Economy and Make Life More Affordable
+Contacts
+Media may contact:
+Gabriel Felcarek
+Press Secretary
+Office of the Minister of Tourism and Associate Minister of Finance
+gabriel.felcarek@ised-isde.gc.ca
+Marie-France Proulx
+Press Secretary
+Office of the Honourable Jean-Yves Duclos
+Minister of Health
+613-957-0200
+Arevig Afarian
+Press Secretary
+Office of the Minister of Housing and Diversity and Inclusion
+arevig.afarian@infc.gc.ca
+Chris MacMillan
+Press Secretary
+Office of the Minister of National Revenue
+chris.macmillan@cra-arc.gc.ca
+Media Relations
+Department of Finance Canada
+mediare@fin.gc.ca
+613-369-4000
+General enquiries
+Phone: 1-833-712-2292
+TTY: 613-369-3230
+financepublic-financepublique@fin.gc.ca
+Health Canada
+613-957-2983
+media@hc-sc.gc.ca Public Enquiries:
+613-957-2991
+1-866-225-0709
+Canada Mortgage and Housing Corporation
+media@cmhc.ca
+Canada Revenue Agency
+613-948-8366
+cra-arc.media@cra-arc.gc.ca
+Stay connected
+Twitter: @financecanada
+RSS
+Backgrounder: Canada Dental Benefit
+The proposed Canada Dental Benefit would provide eligible parents or guardians with adjusted family
+net incomesunder $90,000 with direct, up-front, tax-free payments to help with dental expenses for
+their children who are under 12 years old. The Canada Revenue Agency (CRA) would process the
+applications and payments for the Canada Dental Benefit.
+This is the firststage of the Government’s plan to improve dental care for Canadians with adjusted
+family net incomes under $90,000. The Canada Dental Benefit would allow eligible children under 12 to
+start getting the dental care they need while the Government works to develop a comprehensive
+national dental care program.
+Eligibility
+Families would be eligible for the Canada Dental Benefit if they:
+• have a child under 12 years of age who does not have access to private dental care insurance
+(employer-based or purchasedthrough the applicant or other family member);
+• have an adjusted family net income under $90,000 per year;
+• have filed their most recent income tax and benefit return (for the taxation year 2021, in order
+to be eligible in 2022—for more information on how to file a return, visitCanada.ca/doing-your-taxes);
+• are the parent (or legal guardian) who receives the Canada Child Benefit for that child;
+• have incurred—or will incur—dental care expenses for the child which have not been—and will
+not be—fully reimbursed under another federal, provincial or territorial government program; and
+• have provided information on the recent or planned dental care visit that the benefit would be
+used to pay for, along with information about the dental care provider.
+Application
+The Canada Dental Benefit would provide payments up to $650 per child under 12, per year, for families
+who have an adjusted net income under $90,000 per year.
+The total maximum benefit per child would be $1,300 (up to $650 per year, or less insituations where a
+family’s adjusted net income is between $70,000 and $89,999).
+Specifically:
+• $650 would be provided for each eligible child, per year, if the family’s adjusted net income is
+under $70,000.
+• $390 would be provided for each eligible child, per year, if the family’s adjusted net income is
+between $70,000 and $79,999.
+• $260 would be provided for each eligible child, per year, if the family’s adjusted net income is
+between $80,000 and $89,999.
+Parents or guardians of eligible children would be able to apply for, and receive, the benefit up front,
+before accessing dental care. Eligible Canadians would apply via CRA’s secure My Account or by calling
+the CRA Contact Centre. Families should receive payment within five business days if they areregistered
+for direct deposit, or 10-12 business days if they are receiving a cheque by mail.
+Application periods
+The first application period will be between December 1, 2022, and June 30, 2023. Families who meet
+the eligibility criteria as of December1, 2022, can receive up to $650, depending on their income, for
+each eligible child under 12, for dental care that is received between October 1, 2022, and June 30,
+2023.
+Jennie and Samantha are parents to 11-year-old Bernie who has a dentist’s appointmenton
+November 15, 2022. Jennie and Samantha have a combined adjusted family net income of
+$72,394.
+Jennie and Samantha would be able to apply, retroactively, for the Canada Dental Benefit on
+December 1, 2022, and obtain $390 so long as Bernie was still under 12 and Jennie and
+Samantha continue to meet the other eligibility criteria as of December 1, 2022.
+The second application period will be between July 1, 2023, and June 30, 2024. Families who meet the
+eligibility criteria as of July 1, 2023, can, again,receive up to $650, depending on their income, for each
+eligible child under 12, for dental care that is received between July 1, 2023, and June 30, 2024.
+Families who had eligible dental care expenses that exceeded $650 during the first benefit period can
+choose to apply for an additional benefit for those first benefit period expenses in year two, instead of
+applying to have new expenses covered in that period. To do this, families still need to meet the
+eligibility criteria for the first benefit period, but will not be able to apply for this additional benefit until
+the second benefit period applications open on July 1, 2023. However, by choosing this option, families
+will not be able to apply for a benefit payment to cover dental care expenses incurred during the second
+benefit period, because they will have already received the maximum amount allowed under the
+benefit.
+Raman and Myra applied for the Canada Dental Benefit during the first benefit period and
+received $650 for their son Emmett’s visit to the dentist, which cost $1210. Emmett was 11
+years old.
+Since then, Emmett has turned 12 and is no longer eligible under the Canada Dental Plan.
+However, given that the cost of the first visit was more than $650, and Emmett was eligible and
+the familyreceived a benefit payment in year one, the family would be able to apply during the
+second benefit period to cover the additional expenses that were incurred during the first visit,
+even though Emmett has since turned 12. This is because Emmett was eligible when the
+expenses were incurred.
+Families who were eligible for both the first and second benefit period but did not apply in the first year,
+for whatever reason, will be able to apply to receive two payments at once during the second benefit
+period ifthey have expenses that exceed $650. Note that this option is open only to those who did not
+apply for, but could have received, a benefit payment during the first benefit period. If they have
+expenses below $650, they would still only receive only payment.
+Edgar and Amélie have two children: Kennedy is 8 and Elizabeth is 5. The family has a combined
+adjusted net income of $61,223 and meet all eligibility criteria. In August 2023, Edgar and Annie
+learned they could have been eligible during the first benefit period but didn’t realize it, even
+though Kennedy and Elizabeth saw the dentist in February 2023. Each girl’s visit cost $803, for a
+total of $1606.
+When Edgar and Amélie apply for the benefit during the second benefit period (between July 1,
+2023, and June 30, 2024), providing they all still meet all the other eligibility criteria, they can
+apply for the Canada Dental Benefit for both the first and second benefit periods, meaning they
+will receive $1300 per child (benefit coverage for both benefit periods), for a total of $2600.
+Providing this flexibility responds to the differing dental care needs of the children of applicants, giving
+them the flexibility to access the benefit when needed.
+Once the program is live, Canadians will be able tocontact the CRA for more detailed information about
+eligibility specific to their circumstances.
+The Canada Dental Benefit would not reduce other federal income-tested benefits such as the Canada
+Workers Benefit, the Canada Child Benefit, or the Goods andServices Tax Credit.
+To get ready to apply for this new benefit, Canadians should sign up for CRA My Account and direct
+deposit, make sure they are receiving the Canada Child Benefit, ensure their personal information with
+the CRA is up to date, and file their 2021 income tax return.
+Media Lines / Questions and Answers
+Canada Dental Benefit
+Context: On September 20, the Minister of Health announced that the Government has introduced
+legislation toestablish the Canada Dental Benefit. This temporary benefit would be available for families
+with children under 12 who have an adjusted family net income of less than $90,000, and who do not
+have access to private insurance.
+Key Messages:
+• Havingaccess to quality dental care is an integral part of overall health. Seeing a dental care
+professional is important for our health, but can be expensive. We know that a third of Canadians do not
+have dental insurance and, as a result, many Canadians gowithout necessary dental care.
+• The Government of Canada has introduced legislation in the House of Commons that includes
+the implementation of the new, temporary Canada Dental Benefit.
+• This is the first stage of the Government’s plan to improve dental care for Canadians in families
+with an adjusted net income under $90,000. This would allow children under 12 who do not have access
+to dental care insurance to get the dental care they need while the Government develops a
+comprehensive, long-term national dental care program.
+• The Canada Dental Benefit would allow parents to access direct payments totalling up to $1,300
+per eligible child under 12 (up to $650 per year) to support the costs of dental care services.
+• It is estimated that over 500,000 Canadian children would benefit from this targeted investment
+of up to $938 million.
+• The Canada Dental Benefit is a temporary benefit that if put in place would provide support to
+families who need it most, and give children under 12 who have developing teeth and gums the
+opportunity to get much-needed dental care.
+• The Canada Dental Benefit would be accessed through the Canada Revenue Agency’s (CRA) My
+Account. The CRA is leaning heavily on its experience and best practices in delivering essential benefits
+to Canadians in order to administer the Canada Dental Benefit on behalf of the Government of Canada.
+• The CRA is getting ready to deliver a seamless, secure and user-centric experience, to make it as
+easy as possible for eligible Canadians to getthe money they need for dental care.
+• Budget 2022, proposed funding of $5.3 billion over five years for dental care, starting in 2022
+with children under 12 years, and $1.7 billion ongoing for a national dental care program for Canadians
+who earn under $90,000.
+Questions and Answers
+Eligibility
+Q1. Who would be able to receive the Canada Dental Benefit?
+To be eligible, families would need to meet all of the following eligibility criteria:
+- Have a child under 12 years of age who does not have access toprivate dental care coverage
+(employer-based or purchased through the applicant or other family member);
+- Have an adjusted family net income under $90,000 per year.
+- Have filed their most recent income tax and benefit return (for the taxation year 2021, to be
+eligible in 2022—for more information on how to file a return, visitCanada.ca/doing-your-taxes);
+- Be the parent (or legal guardian) who receives the Canada Child Benefit for that child;
+- Have incurred—or will incur—dental care expenses for the child which have not been fully
+reimbursed under another federal, provincial or territorial government program; and
+- Have provided information on the recent or planned dental care visit that the benefit would be
+used to pay for, along with information about the dental care provider.
+Q2. What is adjusted family net income, and how would someone know if their income is within range
+or not?
+Adjusted family net income is your family net income, including the net income of your spouse or
+common-law partner if you have one, minus any universal child care benefit (UCCB) and registered
+disability savings plan (RDSP) income received plus any UCCB and RDSP amounts repaid. A calculator on
+Canada.ca/dentalis available to help Canadians determine eligibility and their adjusted family net
+income.
+Q3. Why is it only families that are able to access this benefit? Budget 2022 mentioned persons with
+disabilities, seniors and children under 18—when will they get dental care coverage? What about single
+Canadians? When will all Canadians be able to accessthe program?
+The Canada Dental Benefit is a start and would allow eligible children under 12 years of age to access
+dental care while their teeth and gums are still developing. This benefit is temporary and would be in
+place while the Government of Canada takes the necessary steps to build a comprehensive, longer-term
+national dental care program.
+Q4. In the situation of shared custody arrangements, would both parents be eligible to apply for a
+Canada Dental Benefit for their eligible children?
+Parents with a shared custody arrangement on file for the Canada Child Benefit would each be treated
+individually in the application system and, for compliance purposes, not as a unit.
+That means each parent would need to apply for their share of the benefit individually in order to
+receive it. If only one parent applies, that parent would receive their part of the funding. In the system,
+the child’s name would be auto-populated in both parents’ accounts and can be chosen/clicked on until
+that parent applies—if one parent applies it would show as completed in their account but that would
+not affect the other parent’s account.
+Similarly, each parent’s adjusted family net income would be assessed on an individual basis. If one
+parent’s adjusted family net income is below the incomethreshold and the other is above it, only the
+parent who is below can apply for their part of the benefit. One parent may also receive more if their
+income is lower, or less if their income is closer to $90,000.
+Compliance activities would be treated individually, as would any consequences. For example, if one
+parent is ineligible to apply for the benefit in a future year, the other parent could still apply for their
+part of the funding.
+Q5. Would legal guardians be eligible to apply for the Canada Dental Benefit for children under 12 years
+of age who are in their care?
+Yes, legal guardians would be eligible to apply for the Canadian Dental benefit as long as they meet all
+eligibility criteria.
+Q6. What about children in care? Are they eligible?
+Children in care would not be eligible for the Canada Dental Benefit. These children have access to
+dental care through provincial/territorial programs.
+Q7. What constitutes the definition of a child under 12? As of what date?
+According to the proposed legislation, eligible children would need to be 11 years old or under as of
+December 1, 2022, for the first year of the benefit, and as of July 1, 2023, for the second year of the
+benefit.
+Coverage
+Q8. What types of dental care would be covered by the Canada Dental Benefit?
+The Canada Dental Benefit could be used for any dental care provided by a regulated oral health
+professional licensed to practise in the place where care is provided. The exact care covered by the
+benefit would be decided between the patientand their oral health care provider.
+Q9. How much money would eligible families receive?
+The Canada Dental Benefit would provide payments up to $650 per child under 12, per year, for families
+with adjusted net income under $90,000 per year.
+• $650 wouldbe provided for each eligible child, per year, if the family’s adjusted net income is
+under $70,000.
+• $390 would be provided for each eligible child, per year, if the family’s adjusted net income is
+between $70,000 and $79,999.
+• $260 would be provided for each eligible child, per year, if the family’s adjusted net income is
+between $80,000 and $89,999.
+Q10. Would the Canada Dental Benefit be taxable?
+No, the Canada Dental Benefit is tax-free.
+Q11. If I’m eligible for this benefit, and thedental cost is less than the amount allocated, do I keep the
+money or do I need to return the rest?
+No, applicants would not be required to return any unused portions of the Canada Dental Benefit.
+Q12. Why are families able to keep the extra money even if the dental cost was less than the amount
+allocated?
+The amount of the Canada Dental Benefit is based on average, basic oral health care costs in Canada,
+including an initial exam, set of x-rays, and basic preventative care and/or a small amount of restorative
+work, like a filling. It is not expected that the benefit would exceed the cost of that care in most cases.
+Parents with any funding left over could look to further supplement their child’s oral health in other
+ways, for instance with high quality toothbrushes, fluoride toothpaste and floss, if they wished.
+Q13. How much would this benefit cost Canadians?
+The targeted investment for this benefit is up to $938 million. It is estimated that over 500,000 Canadian
+children would benefit from this investment.
+Q: $938M has been earmarked for the Canada Dental Benefit, however if you divide that by the 500,000
+children you estimate are eligible, that only comes to $650M over the two years. Can you explain the
+math?
+$938M has been set aside for work on thedental care commitment. This includes funding for both
+benefit payments to eligible parents with children under 12, but also the administrative costs of running
+the program and doing policy work related to the development of a long-term program. While we have
+estimated the number of children who will benefit at 500K, it is an estimate and the funding set aside
+for the benefit includes a buffer in case the actual number of eligible parents applying is higher.
+Q14. Would receiving the Canada Dental Benefit reduce any other federal income-tested benefits such
+as the Canada Workers Benefit, the Canada Child Benefit, or the GST Credit?
+No, the Canada Dental Benefit would not reduce other federal benefits.
+Q15. Would applicants covered by provincial or territorial programs be eligible?
+Yes. We know that provincial and territorial programs do not all cover dental care needs for children
+under 12 equally and that, in some cases, the programs focus only on emergency needs. Children under
+12 who are also covered by provincial or territorial programs would still be eligible for the Canada
+Dental Benefit if they and their family meet all of the criteria to qualify for the benefit. However families
+whose needs are met by their provincial and territorial programs and don’t have out-of-pocket costs
+won’t be eligible for the benefit and shouldn’t apply.
+Q16. Would applicants covered by the Non-Insured Health Benefits program be eligible?
+Yes. Children under 12 covered by Non-Insured Health Benefits (NIHB) would continue tobe covered by
+the robust dental coverage available to them under that program. Parents covered by NIHB would be
+eligible to apply for their children under 12 if they meet all of the other criteria for the benefit. However,
+we anticipate in most cases, NIHBwould meet their needs and they would not have out-of-pocket
+expenses for their dental care. Applicants must have out-of-pocket expenses not fully reimbursed by
+other government programs in order to be eligible for the Canada Dental Benefit.
+Q17. Would applicants covered by any benefit programs for veterans be eligible?
+Yes. Veterans covered by any federal health benefit programs would be eligible for the Canada Dental
+Benefit, as long as they meet all of the other criteria for the benefit and have out of pocket expenses for
+their children’s dental care.
+Application process
+Q18. When can families begin to apply for this benefit? Would applicants be able to apply for previous
+periods retroactively?
+The target implementation date for the Canada Dental Benefit is December 1, 2022, pending
+Parliamentary approval and Royal Assentof enabling legislation, and the benefit could cover expenses
+retroactive to October 1, 2022, for qualifying children and families who were eligible as of the December
+1, 2022, eligibility date.
+Q19. What if I do not have access to the Internet? How would I be able to apply?
+Eligible families who are unable to access the Internet would also be able to apply for the Canada Dental
+Benefit through CRA’s client contact centre.
+Q20. How would families or individuals who do not file income taxes, or do not receive the Canada Child
+Benefit, or cannot provide an address for their dentist (as is the case for many vulnerable populations),
+receive the Canada Dental Benefit?
+In order to receive the new proposed Canada Dental Benefit, applicants would need to make sure they
+have filed their 2021 tax return. Filing taxes is easy with the Community Volunteer Income Tax Program
+(if eligible) or through NETFILE-certified software. They can also file online through the services of an
+electronic filer certified to use our EFILE service.
+If applicants are unable to apply for these new programs online, they could call the CRA to get their
+application started. Before calling, applicants should check the approximate wait times on Canada.ca
+and to validate their identity, make sure they have their SIN, address, date of birth, and a copy of their
+most recently assessed tax return.
+Q21. How oftenwould applicants need to apply?
+Applicants would need to apply for the Canada Dental Benefit for each of the benefit periods.
+Q22. How would the first and second benefit application period work? Would there be flexibility?
+The first application period would be between December 1, 2022, and June 30, 2023. Families who meet
+eligibility criteria on December 1, 2022, can receive up to $650 (see Q9), depending on their income, for
+each eligible child under 12 for dental care that is received or would be received between October 1,
+2022, and June 30, 2023.
+The second application period would be between July 1, 2023, and June 30, 2024. Families who meet
+eligibility criteria on July 1, 2023, can, again, receive up to $650, depending on their income, for each
+eligible child under 12 for dental care that is received or would be received between July 1, 2023, and
+June 30, 2024.
+Families who had eligible dental care expenses that exceeded $650 during the first benefit period could
+apply for an additional benefit during year two, to help cover those extra costs. To do this, families
+would still need to meet the eligibility criteria for the first benefit period, but would not be able to apply
+for this additional benefit until the second benefit period applications opened on July 1, 2023.
+However, by choosing this option, families would not be able to apply for a benefit payment to cover
+dental care expenses incurred during the second benefit period, because they would have already
+received the maximum amount allowed under the benefit.
+Families who were eligible during both the first and second benefit period but did not apply in the first
+year, for whatever reason, could apply to receive two payments at once during the second benefit
+period if they have expenses that exceed $650. However, this option is only open to those who did not
+apply for, but could have received, a benefit payment during the first benefit period. If they have
+expenses below $650 they would still only
+Q23. Would applicants be able to request an advance for future payments if dental costs exceed the
+allotted amount?
+While there are some flexibilities in place, no one applicant may receive more than two benefit
+payments over the benefit periods, and the total amount received from this benefit would not exceed
+$1,300.
+Q24. Who would be responsible for processing the payments and how quickly can applicants expect to
+receive the money?
+CRA’s My Account would be a quick, easy and secure way to apply. In order to receive this benefit,
+parents must also be in receipt of the Canada Child Benefit. As a result, many applicants may already be
+familiar with My Account. Most applicants can expect to receive their payments within 3-5 business days
+if they are enrolled for direct deposit, and within 10-12 business days if they are receiving a cheque by
+mail.
+Q25. How would applicants’ eligibility be verified?
+The CRA would use its existing tools to ensure compliance and verify applicant eligibility, including
+income and the presence and age of children. Applicants would be asked to save their dental care
+receipts for a period of six years, to show the benefit was spent on dental care as intended in case
+verification is required.
+To determine eligibility, the CRA would proceed with an up-front verification of the applicant's income,
+child's age, family relationship and that they are in receipt of the Canada ChildBenefit for that child.
+Additionally, parents or guardians of eligible children would need to attest that:
+• the child does not have access to private dental care coverage;
+• the parent or guardian of the eligible child had or would have out of pocket dental care
+expenses for which they would use the benefit; and
+• the parent or guardian understands they would need to demonstrate how those out of pocket
+expenses occurred (e.g., show receipts), if required.
+Q26. Would the CRA be contacting my employer or dentist’s office to verify eligibility?
+The CRA would take steps to implement additional verification and security measures up-front, to help
+ensure benefit payments are delivered only to individuals who are entitled to receive them.
+In some cases, the CRA could request additional information or contact an applicant’s employer or
+dentist’s office to validate eligibility.
+Q27. How are you protecting against fraud, and would people who misuse the system deliberately, or
+accidentally, berequired to repay the benefit?
+The CRA continues to enhance the security of its digital services to protect Canadians from fraudulent
+activity. Security features include multi-factor authentication and making email addresses mandatory for
+those who use CRA My Account.
+The CRA would lean heavily on a range of existing tools from administering other government
+programs—as set out in the draft legislation—to conduct compliance, verification and collections
+activities.
+Q28. How can applicants get ready to apply for the Canada Dental Benefit?
+If the legislation passes and receives Royal Assent, to make sure they’re ready to apply for the Canada
+Dental Benefit when applications launch later in 2022, Canadians should sign up for CRA My Account
+and direct deposit, ensure they have applied for or currently receive the Canada child benefit, file their
+2021 income tax return if they have not already done so, and update their address and banking
+information if it has changed.
+Q29. What should applicants do if they’re locked out of CRA My Account?
+Individuals may become locked out of their accounts for a variety of reasons, such as incorrectly
+entering their password or multi-factor authentication passcode too many times, or as a precautionary
+security measure if suspicious activity is detected. Individuals who become locked out of their online
+account can contact the CRA at 1-800-959-8281to regain access.
+Engagement activities
+Q30. Who has the government met with to inform the design of the Canada Dental Benefit, and the
+longer-term national dental care program?
+Discussions with key stakeholders, including industry, are ongoing to help inform the Government’s
+decisions on implementing a long-term, comprehensive national dental care program. Insights gained
+from those discussions also informed the design of the Canada Dental Benefit.
+Health care strain and HHR
+Q31. Given the current health care system crisis, is this the right time to be spending money on a
+national dental care program? Wouldn’t the money be better spent increasing the Canada Health
+Transfer to provinces?
+Canadians deserve a health care system that delivers results. The Government of Canada is committed
+to protecting and strengthening Canada’s publicly funded health care system. The Government of
+Canada has taken an active role in working with provincial and territorial governments and key health
+system stakeholders, to identify both immediate and longer-term solutions to address significant health
+human resources challenges, such as access to health care services in rural and remote communities.
+Earlier this year, the Government provided an additional $2 billion one-time top-up to provinces and
+territories, distributed equally per capita. This amount—in addition to the $4.5 billion Canada Health
+Transfertop-up provided since the start of the pandemic—will further help provinces and territories to
+address immediate pandemic-related health care system pressures, as well as address longstanding
+health workforce challenges.
+The Government is also working toincrease the number of doctors andnurses in communities that need
+them most and by helping internationally trained health care professionals gettheir credentials
+recognized andfind work in the health care system.
+Budget 2022 provided $26.2 million in funding to increase the forgivable amount of student loans for
+doctors, nurses and other eligible practitioners who practise in rural and remote communities. In
+addition, the current list of professionals eligible to the program will be expanded. Budget 2022 also
+provided $115 million over five years, with $30 million ongoing, to expand the Foreign Credential
+Recognition Program and help up to 11,000 internationally trained health care professionals per year get
+their credentials recognized and find work intheir field. It will support initiatives aimed at reducing
+barriers to foreign credential recognition for health care professionals. Budget 2022 notes that the
+Government of Canada will provide continued leadership on reducing barriers to internal trade and
+labour mobility, such as in the health sector.
+While the federal government provides financial support to the provinces and territories for health care
+services, the responsibility for the management of health workforces falls within provincial and
+territorial jurisdictions. They, along with other key stakeholders, will be indispensable in addressing
+pressing health workforce challenges.
+Dental and oral health care is an important part of overall health, and supporting the development of a
+national dental care program is part of the government’s commitment to improving and strengthening
+Canada’s publicly funded health care system.
+Q32. Are there sufficient providers across the country to provide dental care at the scale of this
+program? For example, how would families in northern or remote communities access dental care so
+they can take advantageof this Canada Dental Benefit?
+The Canada Dental Benefit would address a priority need—children’s oral health—for a short period of
+time, but it is just a start. The Government of Canada is taking steps to build a long-term, comprehensive
+national dental care program.
+The long-term national dental care program
+Q33. How much money is being invested todevelop the long-term program?
+Budget 2022 committed $5.3 billion over five years, and $1.7 billion ongoing, to help with dental care for
+Canadians who are unable to access care because of the costs.
+Q34. What does it mean that the Canada DentalBenefit is a temporary program?
+The Canada Dental Benefit is a proposed interim measure that would allow Canadian families to begin to
+access funding as soon as possible to begin dealing with some of their eligible children’s dental care
+needs.
+While this temporary program is in place, the Government of Canada is working tobuild a
+comprehensive, longer-term national dental care program.
+Q35. When would thelong-term program be in place?
+The federal government remains committed to providing dental care to Canadians, and continues to
+take needed steps to build a comprehensive national long-term dental care program. The federal
+government remains committed to full implementation of a dental care program for families with
+adjusted net incomes under $90,000 by 2025.
+Q36. How would the long-term program work? Would it be managedby a third party provider, by CRA
+and HC (as the temporary one is) or by provinces and territories?
+Discussions with key partners are helping to inform the Government’s decisions on implementing the
+long-term Canadian dental care program.
+More details will be available as decisions are finalized.
+Bill C-31
+Q&As for the Minister of Health’s Appearance at the Standing Senate Committee on National Finance
+November 2, 2022
+Qs 1-19 are a subset of Qs previously provided for HESA, but updated where needed given experience
+with the Bill to date.
+New Qs begin at Q20.
+Q1–What is the purpose of Bill C-31?
+The purpose of the Bill is to establish general provisions for the administration of the interim Canada
+Dental Benefit through the new Dental Benefit Act and to also make related amendments to the Income
+Tax Act, Excise Tax Act, and Excise Act, 2001 needed to administer the benefit for eligible applicants.
+Q2–Why is this Bill needed?
+The authorities provided in this draft legislation would allow the Minister of Health to address the
+current and pressing needs of Canadians who cannot access dental care due to cost, starting with our
+youngest Canadians–children under 12–tomitigate the negative long-term consequences of
+inadequate oral health care while a longer-term program is being developed. This is a first step toward
+the Government of Canada’s commitment to improve access to dental care for Canadians.
+Q3-How will the Canada Dental Benefit work?
+The Dental Benefit Act would give the Minister of Health authority to implement an application-based
+payment, referred to as the interim Canada Dental Benefit. The Canada Revenue Agency (CRA) will act
+as the delivery agent for the Canada Dental Benefit.
+The interim Canada Dental Benefit will be available for eligible children under 12 years old who do not
+have access to private dental coverage.
+Depending on the passage of the bill, it is intended that starting in late 2022, applicants will be able to
+apply for, and receive, the benefit to pay for dental care services. Eligible Canadians will apply via CRA’s
+secure My Account portal or by calling the CRA’s client contact centre.
+Q4-Who will be responsible for processing the payments and how quickly can applicants expect to
+receive the money?
+The Canada Revenue Agency (CRA) will act as the delivery agent for the interim Canada Dental Benefit,
+predominantly through its secure My Account portal. Applications will be processed quickly
+(automatically in many cases) with payments received within a week for individuals requesting direct
+deposit and slightly longer (depending on mailing time) for those receiving payment by cheque.
+Q5-How will applicants’ eligibility be verified?
+Applicants’ income eligibility, presence of children and their age, and their receipt of the Canada Child
+Benefit, will be verified through CRA’s existing information systems, including their previous year’s
+income tax returns. Applicants will need to be ableto demonstrate that they had out of pocket costs
+they used the benefit to pay for as intended (for example, by showing their receipts), in case CRA
+requests that proof for verification purposes.
+Q6-How are you protecting against fraud, and will people who misuse the system deliberately be
+required to repay the benefit?
+The CRA continues to enhance the security of its digital services to protect Canadians from fraudulent
+activity. These include using security features such as multi-factor authentication and making email
+addresses mandatory for those who use CRA’s My Account.
+In cases of deliberate and serious misuse, like for other government programs run by the CRA, CRA will
+have a range of tools at its disposal–as set out in the draft legislation–to maintain the integrity of the
+program. The Dental Benefit Act defines violations and criminal offenses in relation to benefits provided
+for under the Act, such as using false identity information, as well as punishments, including fines and
+possible imprisonment.
+Q7-Who will be able to receive the interim Canada Dental Benefit?
+Under the proposed legislation, starting in 2022, families with children under 12 that have an adjusted
+family net income of less than $90,000 in 2021, will be able to apply for the interim Canada Dental
+Benefit of up to $650 for each eligible child. To be eligible, the child must not have access to private
+dental care insurance or have their out-of-pocket dental care expenses fully reimbursed through a
+different governmentprogram.
+Q8-How do the options set out in section 7 of the Bill work? There seems to be new options available
+to some but not all applicants.
+Beginning on July 1, 2023, eligible Canadians will be able to apply for a second benefit payment of up to
+another $650 to cover their eligible dental care expenses in the second year (for example, follow up
+visits for their eligible children).
+In cases where eligible Canadians have already received a benefit, but their expenses in the first year
+exceeded $650,they could have the option to apply for their second benefit payment and use it toward
+their first year expenses.
+Similarly, if they were eligible but did not apply for the benefit in year one but face expenses above $650
+in year two, they could be eligible to receive both payments at once to cover those excess costs.
+However, in all cases, no more than $1300 can be received for any one child over the two-year period of
+the Canada Dental Benefit.
+Q9–How many people will be eligible to receive the interim Canada Dental Benefit?
+Health Canada officials estimate that more than 500,000 children under 12 will be able to access needed
+dental care services as a result of receiving the benefit in each of the benefit years.
+Q10–How was the benefit level calculated?
+Health Canada officials, in collaboration with the Chief Dental Officer of Canada, examined average costs
+of dental care for a range of basic care needed by children, including exams, x-rays, fillings, and
+preventative care like fluoride and sealants. These amounts were also compared to average costs for
+some services in employer insurance plans, publicly available dental fee schedules, and the federal Non-
+Insured Health Benefits program.
+It is anticipated that the interim Canada Dental Benefit willenable applicants to pay for a basic level of
+care for their children.
+Q11-What will applicants need to know or do in order to apply for the interim Canada Dental Benefit?
+Applicants will need to ensure the following:
+• They have children under 12 yearsof age and are in receipt of the Canada Child Benefit for
+those children.
+• They can attest that the child does not have access to private insurance that covers dental care.
+• They have filed their most recent income tax and benefit return (e.g. for the taxation year 2021,
+in order to be eligible in 2022).
+• They will be able to demonstrate–if asked, for example, with receipts–that they had out of
+pocket dental care expenses for the child, the costs of which were not or will not be fully reimbursed,
+for which they used the benefit.
+• They will be able to provide information on their child’s planned or recent visit to a dental
+professional and about their/their spouse’s employer, if they have one.
+Eligible applicants will be encouraged to register forCRA’s My Account and direct deposit in order to
+make processing and issuing payments for the benefit easier and faster.
+Q12-Will applicants with dental coverage provided through provincial or territorial programs be
+eligible?
+Yes. Applicantscovered by provincial or territorial programs will be eligible for the interim Canada
+Dental Benefit if they meet all of the criteria to qualify for the benefit. However, people whose dental
+care needs are met by those provincial and territorial programs and who, as a result, do not have out of
+pocket costs that are not fully reimbursed, won’t be eligible for the benefit and shouldn’t apply.
+Q13-Will applicants covered by Indigenous Services Canada’s Non-Insured Health Benefits (NIHB)
+program benefits beeligible?
+Yes. However, the interim Canada Dental Benefit is not meant to replace the NIHB program. NIHB
+recipients will continue to have access to the robust dental coverage available to them under that
+program. NIHB recipients will be eligible to applyfor the benefit if they meet all of the other criteria. In
+most cases, the NIHB program will meet their needs and NIHB recipients will not have unreimbursed out
+of pocket expenses, which would make them ineligible for the benefit.
+Note, if pressed: travelexpenses (which could be an expense an NIHB recipient may incur) are not
+eligible under the benefit. The bill sets out that the benefit is to be used for services provided by
+regulated oral health care professionals only.
+Q14-Who has the government metwith to inform the design of the interim Canada Dental Benefit, and
+the longer-term national dental care program?
+Discussions with experts, including clinicians and key stakeholders, as well as industry, are ongoing to
+help inform the Government’s decisions on implementing a long-term Canadian national dental care
+program. Insights gained from those discussions also informed the design of the interim Canada Dental
+Benefit.
+Q15-What does it mean that the Canada Dental Benefit is a temporary program?
+TheCanada Dental Benefit is an interim measure that will allow families with children under 12 to
+access funding as soon as possible to begin dealing with some of their dental care needs.
+While this temporary program is in place, the Government of Canada is working as fast as it can to build
+a comprehensive, longer-term national dental care program.
+Q16-When will the long-term program be in place?
+Budget 2022 committed to provide dental care starting in 2022 with families with children under 12. The
+interimCanada Dental Benefit is an important step in this direction. More will be communicated on the
+long-term program and its launch date as soon as more is known.
+Q17-How will the long-term program work? Will it be managed by a third party provider, by CRA and
+HC (as the temporary one is) or by provinces and territories?
+The Government of Canada is committed to working with provinces and territories, key stakeholders,
+industry partners, academics and dentistry associations and organizations to help inform decisions on
+implementing the long-term Canadian dental care program. More details will be available as decisions
+are finalized regarding the long-term dental care program.
+Q18-How much will the Canada Dental Benefit cost?
+Health Canada has estimated that the interim Canada Dental Benefit will cost $938 million over the two
+benefit periods.
+Q19-Why is royal assent of the legislation needed so quickly?
+The proposed legislation must receive Royal Assent very soon in order to provide the time for Health
+Canada and the Canada Revenue Agency to make the necessary preparations to reach a target
+implementation date of December 1, 2022.
+*New Qs and As:
+Q20–Does the proposed legislation step into provincial/territorial jurisdiction over health care?
+Theproposed legislation does not step into provincial/territorial jurisdiction. The Government of Canada
+is able to use its spending power as long as it does not use that power in a way that amounts to
+substantive regulation of a space that is under Provincial/Territorial jurisdiction.
+In total, the provinces and territories spend an estimated $650 million a year on public dental programs
+and only some of that goes to children. The benefit would provide additional support to children who
+may not be covered or fully covered under available provincial/territorial programs.
+Q21-Why do Health Canada cost estimates differ from cost estimates from the Parliamentary Budget
+Officer (PBO)?
+Health Canada officials have met with the PBO’s office to discuss its costingand have determined that
+the variances are primarily due to some minor differences in assumptions (e.g., Health Canada did not
+forecast savings from reduced Medical Expense Tax credits, as the PBO did) and to the treatment of
+administrative costs.
+In thecase of administrative costs, PBO assumes costs similar to that of the well-established Non-
+insured Health Benefits program. Health Canada cost estimates include start up and close-out costs for
+the interim benefit, as well as policy development, program oversight and compliance efforts, additional
+resources for the Canada Revenue Agency contact centres who will help applicants and answer
+questions, and outreach and communication costs. These investments take into account the need to
+raise awareness of thisbenefit among eligible parents and to maintain the integrity of the program,
+given it relies on an attestation model for some information.
+Q22-Will the provinces and territories receive funding to deliver the Canada Dental Benefit?
+The proposed delivery model for the interim Canada Dental Benefit does not include funding to the
+provinces or territories–rather the Canada Revenue Agency will make payments directly to eligible
+Canadians.
+Q23-Will there be any differences on how the benefit works across the country?
+The application process, eligibility criteria, and level of payment will be the same across the country.
+Q24-We’ve heard there is no information available about the long-term program yet. In that case, what
+is the purpose of the recently launched “Intent to Qualify”?
+An Invitation to Qualify (ITQ) was released on October 28, welcoming interested third party benefits
+administrators to provide Health Canada with a clearer picture of how a national dental care program
+could be operationalized in line with the Budget 2022 commitments.
+Health Canada will carefully review information provided through this process to help inform its best
+advice to the Government on a path forward.
+Q25-What if someone receives the Canada Dental Benefit withthe intention of seeking dental care for
+their child but the date of their visit changes, or for whatever reason, does not end up receiving services
+from a dental professional?
+So long as the care is received within the eligible benefit period, the applicant will not be required to
+adjust the date of their planned visit with CRA. The important thing is we want children to get the care
+they need.
+However, if an applicant receives a payment for dental services that they intended to seek, but could or
+did notend up receiving any services at all, CRA has processes in place to allow for the repayment of the
+benefit.
+Q26-Why will some provinces or territories–those who offer less robust dental care coverage–
+receive more money than others?
+The interim Canada Dental Benefit is being issued directly to families who need it –and not to provinces
+or territories. There is no provincial or territorial “share” in that sense.
+The Bill is intended to close gaps so that children who need the most help accessing dental care,
+regardless of where they live, can have an equal chance at good oral health.
+Q27-Quebec has a universal program. So are you saying Quebec families’ money will be used to pay for
+a program they can’t benefit from?
+Provincial andterritorial programs for children vary widely in terms of who and what is covered. For
+example, in Quebec where a universal program exists for children under 10, important preventative
+services are not covered (and older children are not covered at all).
+In those cases, families living in those jurisdictions with out-of-pocket expenses over and above what
+those programs cover will still be eligible to apply for the Canada Dental Benefit.
+Q28-Is there enough capacity in the oral health human resources sector to absorb the volume of new
+patients who may use this benefit to seek care they would not otherwise get?
+There are an estimated 90,000 oral health professionals practicing in Canada, including approximately
+25,000 dentists, 30,000 dental hygienists, and 30,000 dental assistants.
+We believe that there are sufficient dental professionals to meet the additional demand from children
+who will be able to care get because of this interim benefit.
+We are aware there are some concerns about access to professionals–in rural and remote regions in
+particular–when it comes to the long-term program for all ages. We will continue to work with
+stakeholders and experts on strategies to support oral health human resources.
+Q29-What plans are in place to collectnational data on oral health?
+Data on oral health in Canada is sparse at this time. The good news is that Statistics Canada is currently
+in the field collecting data not previously been collected since 2009. This will provide important, baseline
+data for our new investments in oral health.
+In addition, Health Canada is working with oral health experts and researchers to identify additional
+data and research needs in support of the long-term program.
+Q30-Will this benefit be sufficient to pay for children’s needs?
+We anticipate that this interim benefit should provide most families with the means to address their
+child’s basic oral health needs until a comprehensive long-term program is in place.
+But we know some children will have needs that are more complex. In those cases, if a family were to
+incur more than $650 of dental expenses in one year for a child, they may qualify to apply the benefit
+payment from the second benefit year toward the remainder of the first year’s expenses, or to get both
+paymentsat once in year two.
+Q31-What if employers cancel insurance for their employees, assuming that the Benefit will cover their
+needs?
+This is an interim benefit, which will be offered for two benefit years, and for which only children under
+12 are eligible.
+Because of the short time frame and limited scope of the benefit, we anticipate that employers will
+appreciate that the interim Canada Dental Benefit should not replace comprehensive coverage offered
+to their employees.
+A robust public communicationsand outreach strategy will accompany the launch of the interim benefit,
+in an effort to ensure that all Canadians understand its eligibility requirements and intended impacts.
+Q32–If recipients of public programs can top up their benefits with this program, why can’t those with
+private insurance? Doesn’t this discourage employers from providing benefits and work against the
+efforts of unions?
+Canadians without insurance are nearly three times more likely than those with insurance to avoid
+seeking dentalcare due to cost.
+The interim Canada Dental Benefit is a targeted investment intended to provide immediate support,
+over a limited period to time, to eligible families that need it most–those without access to any dental
+coverage.
+This is consistent with provincial and territorial dental programs, most of which are similarly aimed at
+closing gaps for those who do not have access to dental coverage. Those programs have operated in
+parallel to private insurance plans for many years.
+SCENARIO NOTE
+APPEARANCE BEFORE THE STANDING SENATE COMMITTEE ON NATIONAL FINANCE (NFFN) –STUDY OF
+THE SUBJECT MATTER OF BILL C-31, AN ACT RESPECTING COST OF LIVING RELIEF MEASURES RELATED
+TO DENTAL CARE AND RENTAL HOUSING
+November 2, 2022
+MEETING SCENARIO
+• At this meeting you will be joining Minister Hussen and Minister Lebouthillier in leading the Bill,
+accompanied by the following officials:
+o Dr. Stephen Lucas, Deputy Minister, Health Canada
+o Ms. Lynne Tomson, Associate Assistant Deputy Minister,Health Canada
+o Ms. Nadine Leblanc, Senior Vice President, Policy, CMHC
+o Ms. Patricia Roset-Zuppa, Vice President, Policy Development, CMHC
+o Ms. Gillian Pranke, Assistant Commissioner, Assessment, Benefit and Service Branch, CRA.
+• The Committee meeting will begin with your opening remarks which you will have 5 minutes to
+deliver. You will then take questions from Senators for the remainder of the time.
+o There is no defined order in which Senators from the different parliamentary groups ask their
+questions.
+o Senators are generally recognized by the Chair in the order in which they indicate their desire to
+ask a question. They are given five minutes untilthe list is exhausted.
+o Further questions are allowed as time permits, with the length of questions assigned varying at
+the call of the Chair. Second and further rounds of questioners are typically given three minutes.
+COMMITTEE CONTEXT
+• This will bethe 41st time that NFFN has met since the beginning of the 1st session of the 44th
+Parliament. They have recently held hearings regarding the Main Estimates for the fiscal year ending
+March 31, 2023.
+• The Senate organizes itself differently from the Houseof Commons. While the House is defined
+by political parties connected to the electoral process, the Senate consists of a variety of Parliamentary
+Groups, consisting of Senators who collaborate on shared interests. An exception to this is the small
+group of Senators who remain from the Conservative Party’s Senate caucus. The Conservative Senators
+affiliate themselves with the political party and organize themselves as the Senate’s Official Opposition,
+mirroring the role that Conservative MPs perform in theHouse of Commons.
+• Current Senate Parliamentary Groups consist of the Independent Senators Group (ISG), the
+Progressive Senate Group (PSG), the Canadian Senators Group (CSG), and the Conservative Party Senate
+caucus (CPC).
+• The ISG is formed primarily ofSenators appointed by Prime Minister Trudeau and principally
+serves as an organizing vehicle for their work in the Senate. The PSG formed when the Liberal Party
+caucus in the Senate lost recognition due to decreasing membership. It has added members since and
+organizes itself as a force for progressive issues in the chamber. The CSG is formed of Senators who have
+come together to promotea regional focus in their work.
+• Conservative Senators are expected to oppose the legislation. The CPC’s most consistent
+presence on the committee, other than the Chair, is that of Senator Elizabeth Marshall. During the
+October 25 meeting of the Committee, she expressed concerns about the costing for the benefit and the
+verification mechanisms for identifying fraud among applicants.
+• Senators from other parliamentary groups also expressed concerns. At the October 25 meeting,
+Senator Jean-Guy Dagenais (CSG) suggested that the Bill could have a negative effect on insurance,
+implying that the provision of the Canada Dental Benefit would cause insurers to reduce coverage.
+Senator Tony Loffreda (ISG) noted that the expected uptake in dental services might strain the existing
+capacity in the dental care system. Senator Kim Pate (ISG) expressed concerns that the Canada Dental
+Benefit might result in unintended claw backs for low-income families accessing means-tested programs
+tied to fixed income percentages. These concerns continued to be raised at the October 26 meeting held
+with stakeholders including the Canadian Dental Association.
+• Other Senators were supportive, but noted the possibility of additional issues arising. At the
+October 25 meeting, Senator Ratna Omidvar (ISG) asked a number of questions about harmonizing the
+Canada Dental Benefit with existing municipal and provincial programs. Senator Margaret Dawn
+Anderson (PSG) also had questions regarding the intersection of the benefit with the already-existing
+Non Insured Health Benefits program. At the October 26 meeting, Senator Pat Duncan (ISG) raised
+several questions suggesting the Government might work on improving NIHB.
+• The Portfolio has prepared a range of briefing products, addressing a variety of concerns
+including provincial-territorial jurisdiction, the impact on dental human resources, delivery mechanisms,
+theconcerns of indigenous groups, preventing fraud, fiscal implications, public education regarding the
+benefit and the need for expedited Royal Assent.
+NEXT STEPS
+• The Committee is expected to proceed with clause-by-clause consideration of the Bill at a later
+date.
+• Officials from Health Canada, the Canada Revenue Agency and the Canada Mortgage and
+Housing Corporation will be available to appear before the Committee as part of clause-by-clause
+consideration of the Bill.

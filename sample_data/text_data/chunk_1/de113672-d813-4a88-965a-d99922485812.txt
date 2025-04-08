@@ -1,0 +1,74 @@
+Created: 2023-03-21T21:10:31.128549
+Name: The_Canadian_Radiological_Monitoring_Network_-_Pilot_Program_for_Radioactivity_in_Atmospheric_Deposition
+Original URL: https://open.canada.ca/data/dataset/de113672-d813-4a88-965a-d99922485812/resource/1432d6b9-0734-4c76-98c2-aa966d477191/download/appendix-d-data-dictionnary_english.txt
+Package ID: de113672-d813-4a88-965a-d99922485812
+Keywords: ['atmospheric deposition', 'radioactivity', 'radiation monitoring', 'beryllium', 'lead', 'cesium', 'iodine', 'tritium', 'gross alpha/beta']
+Notes: Health Canada’s Canadian Radiological Monitoring Network (CRMN) is a national network that routinely collects environmental samples for radioactivity analysis. More information about the CRMN network can be found here: https://www.canada.ca/en/health-canada/services/environmental-workplace-health/environmental-contaminants/environmental-radiation/canadian-radiological-monitoring-network.html As part of the regular network, deposition samples are collected from all stations and analysed on an as-needed basis. 
+
+Starting in 2020, the CRMN established a pilot program with the goal of measuring the radioactivity of selected isotopes found in total atmospheric deposition, which is comprised of precipitation (rain, snow), particulates, and aerosols. These samples are collected monthly from deposition samplers at network stations and analysed for gross alpha and gross beta, tritium and gamma emitting radionuclides.  This dataset represents the results collected during the pilot phase.
+
+Gross alpha and gross beta are an indicator of total radionuclide content and measured by gas proportional counting. If gross activity measurements are elevated, further detailed analysis can be performed. The level of radioactivity from tritium is determined by liquid scintillation counting. Gamma spectroscopy allows for the detection and measurement of specific radionuclides including common naturally occurring beryllium 7, lead 210, and, rarely, man-made cesium 137 & 134, and iodine 131. 
+
+The results provide information on radioactivity concentration, uncertainty and the minimum detectable concentration.
+-------------------------------
+Extracted Text:
+Radioactivity in Atmospheric Deposition
+Data Dictionary
+
+Becquerel (Bq)
+The International System (SI) unit of radioactivity, equivalent to one nuclear transformation per second.
+
+Bq/L
+Becquerel per litre. The units for radioactivity concentration in water.
+
+Bq/cm2
+Becquerel per cm square. The units for radioactivity deposited on a surface.
+
+Beryllium (7Be)
+Beryllium (7Be) is a naturally occurring radionuclide that is produced in the earthâs upper atmosphere when cosmic rays bombard oxygen and nitrogen.
+
+Cesium (134Cs)
+Cesium (134Cs) is a fission product with a half-life of 2.06 years.  134Cs decay is accompanied by beta particle and gamma ray emission.  134Cs can be present in the environment as a nuclear fission product.
+
+Cesium (137Cs)
+Cesium (137Cs) is a fission product with a half-life of 30.17 years. 137Cs decay is accompanied by strong gamma ray emission. 137Cs can be present in the environment as a nuclear fission product.
+
+Iodine (131I)
+Iodine (131I) has a half-life of eight days and can be present in the environment as a nuclear fission product.
+
+Alpha Activity = Gross Alpha Activity
+The radioactivity of a sample attributable to decay via alpha particle emission. 
+
+Gross Beta Activity
+The radioactivity of a sample attributable to decay via beta particle emission. 
+
+Lead (210Pb)
+Lead (210Pb) is a naturally occurring radioisotope that results from the decay of uranium found in the earthâs crust.
+
+MDC
+The smallest concentration of radioactivity that can be reliably detected in a sample, for a given time of measure.
+
+Sampler Type
+The shape of container used to collect atmospheric deposition.
+
+Start Date
+Date the sampler was placed in the field to begin collection.
+
+End Date
+Date the sample collection concluded.
+
+Tritium
+Tritium (3H) is a radioactive isotope of hydrogen.  The nucleus contains one proton and two neutrons, undergoing decay via beta particle emission.  It is produced naturally by cosmic rays, but is also a by-product of CANDU nuclear reactors.
+
+Unc
+Uncertainty: The amount the calculated value may vary from the true value.
+
+Volume collected
+The total volume of water collected in that atmospheric deposition sample.
+
+
+References
+Bowyer, T.W., et al.  (2002).  Detection and analysis of xenon isotopes for the comprehensive nuclear-test-ban treaty international monitoring system.  Journal of Environmental Radioactivity 59: 139â151
+
+Environmental Radioactivity in Canada 1997-2009.  2013, Radiation Surveillance Division, Health Canada: Ottawa, Ontario
+United States Environmental Protection Agency.  Cesium.  [Cited 2014-01-08].  Available from:  http://www.epa.gov/radiation/radionuclides/cesium.html

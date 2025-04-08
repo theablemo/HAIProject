@@ -1,0 +1,89 @@
+Created: 2024-07-05T14:10:30.612605
+Name: Canadian_Clinical_Drug_Data_Set_(CCDD)
+Original URL: https://health-products.canada.ca/ccdd/data_dictionary
+Package ID: 3e0a7b9e-a5e9-4131-bde4-ac685a1f1a38
+Keywords: ['CCDD', 'drug terminology', 'standardized drug terminology', 'interchange terminology', 'drug codes', 'e-prescribing', 'electronic prescribing', 'electronic medical records', 'pharmaceutical drugs', 'biologic drugs', 'clinical drugs', 'drug products', 'brand name', 'active ingredient', 'medicinal ingredient', 'opioids', 'narcotics', 'controlled drugs', 'medical devices', 'therapeutic moiety', 'medication reconciliation', 'special groupings', 'non-proprietary therapeutic product', 'NTP', 'manufactured product']
+Notes: The Canadian Clinical Drug Dataset is a drug terminology and coding system designed to allow the interchange of standardized drug and medical device information between diverse digital health systems. Some use cases include electronic prescribing, electronic medical records, medication reconciliation and analytics. It also provides for the classification and identification of defined groups of medications (called special groupings), such as narcotic and controlled drugs. It has the capacity to be used by knowledge-based vendors, clinicians, researchers, statistical users, government agencies, healthcare organisations and consumers.
+
+The data source for the CCDD is the Drug Product Database (DPD) which contains information on drugs approved by Health Canada. However, the data is modeled differently following the CCDD Editorial Guidelines which take into consideration international terminology standards. For example, DPD uses the dosage form, “tablet (delayed-release)”, whereas CCDD uses the equivalent term “gastro-resistant tablet.” The Canadian Clinical Drug Data Set does not replace the Health Canada Drug Product Database (DPD) but is published in addition to it.
+
+The scope of health products included in CCDD is limited to those classified as human in DPD (veterinary, radiopharmaceutical and disinfectant products are out of scope). Some exclusions apply within the human class but are subject to periodic review: For a full list of exclusions, please see the Scope section in the CCDD Editorial Guidelines. In addition, a limited number of medical devices that are commonly prescribed and dispensed at a community pharmacy are included. 
+
+This data set was developed in collaboration with Canada Health Infoway and is also available in their Terminology Gateway at https://tgateway.infoway-inforoute.ca/ccdd.html (Free login required)
+-------------------------------
+Extracted Text:
+Manufactured Product (MP) = The representation of a brand specific drug that is available for prescribing and dispensing in Canada.  The file contains one entry for every concept that has ever been released.
+
+Column				Data Type	Length	Description
+mp_code				String		8	"The unique Manufactured Product identifier, that may be a Health Canada assigned DIN or NPN, or an identifier specific to the Canadian Clinical Drug Data Set"
+mp_formal_name			String		500	The unambiguous description of the Manufactured Product that includes details necessary to distinguish it from other similar concepts
+mp_en_description		String		500	The user-friendly English description that may be used for web applications or the user interface for any system.Â NB: Not present in the files currently
+mp_fr_description		String		500	The French description of the Manufactured Product formal name
+mp_status			String		8	"The lifecycle state for the product. Allowable values for status are âActiveâ, âInactiveâ and ""Deprec""Â (deprecated)"
+mp_status_effective_time	String (Date)	8	The date of the mp_status in this file is based on the underlying regulatory status data in the DPD.Â Format =Â YYYYMMDD
+mp_type				String		8	"The mp_type distinguishes whether the MP code corresponds to the DPD medicinal product (DIN) identifier, the natural health product (NPN) identifier or is a code created for the CCDD.Â  Allowable values for mp_type are âDINâ, âNPNâ, and âCCDDâ"
+Health_Canada_ identifier	String		8	The DIN or NPN identifier assigned to an authorized medicinal product by Health Canada
+Health_Canada_product_name	String		200	"The product name (as present in the DPD orÂ LicensedÂ Natural Health Products Database (LNHPD) approved by Health Canada, under which the drug product may be marketed"
+
+
+Non-proprietary Therapeutic Product (NTP) = A representation of a brand independent and clinically oriented representation of a manufactured (therapeutic) drug product.  The file contains one entry for every concept that has ever been released.
+
+Column				Data Type	Length	Description
+ntp_code			String		7	Unique meaningless Non-proprietary Therapeutic Product identifier
+ntp_formal_name			String		500	The unambiguous description of the Non-proprietary Therapeutic Product that includes details necessary to distinguish it from other similar concepts
+ntp_en_description		String		500	The user-friendly English description that may be used for web applications or the user interface for any system.Â NB: Not present in the files currently
+ntp_fr_description		String		500	The French description of the Non-proprietary Therapeutic Product formal name.
+ntp_status			String		8	"The lifecycle state for the product. Allowable values for status are âActiveâ, âInactiveâ and ""Deprec"" (deprecated)"
+ntp_status_effective_time	String (Date)	8	The date of the ntp_status in this file has been inferred based on the Manufactured Products associated with the ntp. Format =Â YYYYMMDD
+ntp_type			String		8	"This attribute is used to differentiate combination products. Values = ""Comb"" or ""NA"""
+
+
+Therapeutic Moeity (TM) = The representation of the functional and clinically significant part of the active ingredient substance(s) present in a medicinal product, and as such the TM class is an abstract representation of a medicinal product without reference to strength and dose form, focusing only on active ingredient substance(s).  The file contains one entry for every concept that has ever been released.
+
+Column				Data Type	Length	Description
+tm_code				String		7	Unique meaningless Therapeutic Moiety identifier
+tm_formal_name			String		500	The unambiguous description of the Therapeutic Moiety that includes details necessary to distinguish it from other similar concepts
+tm_fr_description		String		500	The French description of the Therapeutic Moiety formal name
+tm_status			String		8	"The lifecycle state for the product. Allowable values for status are âActiveâ, âInactiveâÂ and ""Deprec"" (deprecated)"
+tm_status_effective_time	String (Date)	8	The date of the tm_status in this file has been inferred based on the Manufactured Products associated with the tm.Â Format =Â YYYYMMDD
+
+
+MP-NTP-TM Relationship (English) = Each row represents the relationship between an MP and its NTP, and its TM (where one exists).  It will include both active and inactive content from the full release files for the MP, NTP and TM.  It will not include deprecated content.  As well as the mp_,ntp_ and tm_codes, it contains the mp, ntp_ and tm_formal names.
+
+
+MP-NTP-TM Relationship (French) = Each row represents the relationship between an MP and its NTP, and its TM (where one exists).  It will include both active and inactive content with mp_, ntp_and tm_codes and French descriptions from the full release files for the MP, NTP and TM.  It will not include deprecated content.
+
+
+Device Non-proprietary Therapeutic Product = A brand independent and clinically oriented representation of a healthcare device.  The file contains one entry for every concept that has ever been released.
+
+Column					Data Type	Length	Description
+device_ntp_code				String		7	Unique meaningless Device Non-proprietary Therapeutic Product identifier
+device_ntp_formal_name			String		500	The unambiguous description of the Device Non-proprietary Therapeutic Product that includes details necessary to distinguish it from other similar concepts
+device_ntp_en_description		String		500	The user-friendly English description that may be used for web applications or the user interface for any system.Â NB: Not present in the files currently
+device_ntp_fr_description		String		500	The French description of theÂ Device Non-proprietary Therapeutic ProductÂ formal name
+device_ntp_status			String		8	"The lifecycle status for the concept in this file. Allowable values for status are âActiveâ, âInactiveâÂ and ""Deprec""Â (deprecated)"
+device_ntp_status_effective_time	String (Date)	8	The date of the status in this file. Format =Â YYYYMMDD	
+
+
+Special Groupings = Identifies and provides relationships between concepts in the Canadian Clinical Drug Data Set and policies that apply to those product
+
+Column					Data Type	Length	Description
+ccdd_code				String		8	"Unique meaningless identifier for a concept within the Canadian Clinical Drug Data Set.Â  This may be a tm_code, an ntp_code or an mp_code"
+ccdd_formal_name			String		500	"The unambiguous description of the concept within the Canadian Clinical Drug Data Set.Â  This may be a tm_formal_name, an ntp_formal_name or an mp_formal_name"
+ccdd_type				String		15	"The identification of the specific Canadian Clinical Drug Data Set concept type (either MP, NTP or TM)"
+policy_type				String		250	A code representing the policy that the concept described in ccdd_code is controlled by.Â The detail of the code can be found in theÂ coded_attributes file
+policy_reference			String		250	A reference to further information about the policy.Â  This reference may be a url
+special_groupings_status		String		8	"The lifecycle status of the relationship between the concept described in ccdd_code and the policy described in policy_type.Â  Allowable values for this status are ""Active"" and ""Inactive"""
+special_groupings_status_effective_time	String (Date)	8	"For âActiveâ status entries, this is the date that the information became present in this file.Â  For âInactiveâ status entries, this is the date that the policy information in this file is no longer applicable.Â  Format = YYYYMMDD"	
+
+
+Coded attributes = This file provides the coded values used in an attribute field within the Canadian Clinical Drug Data Set
+
+Column					Data Type	Length	Description
+attribute				String		50	The name of the specific coded attribute from theÂ CCDD file type
+attribute_code				String		8	Unique identifier for an attribute value within the Clinical Drug Data Set
+attribute_value				String		500	Unambiguous description of an attribute within Clinical Drug Data Set
+fr_attribute_value			String		500	"The French description of the CCDD Attribute Value.Â  In the event a French description is not available, the value will be âNAâ"
+CCDD_file_type				String		200	The name of the specific CCDD file type the attribute is from.
+attribute_ status			String		8	"The lifecycle status for the concept in this file. Allowable values for status are âActiveâ, âInactiveâÂ and ""Deprec""Â (deprecated )"
+attribute_ status_effective_time	String (Date)	8	The date of the status in this file. Format =Â YYYYMMDD

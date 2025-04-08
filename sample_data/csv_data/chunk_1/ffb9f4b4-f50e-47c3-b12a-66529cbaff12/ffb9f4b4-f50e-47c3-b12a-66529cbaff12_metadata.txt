@@ -1,0 +1,7 @@
+Created: 2016-12-01T11:55:50.510803
+Name: Canadian’s_Understanding_and_Use_of_the_Nutrition_Facts_Table:_Survey_Results
+Original URL: https://www.hc-sc.gc.ca/data-donnees/por-rop/nutrition-facts-table-tracking-survey_sondage-suivi-tableau-valeur-nutritive-2012.csv
+Package ID: ffb9f4b4-f50e-47c3-b12a-66529cbaff12
+Keywords: ['health and safety', 'tobacco', 'radon', 'HIV', 'AIDS', 'Nutrition Facts Table', 'marketing', 'health care system', 'youth', 'campaign', 'First Nations', 'obesity', 'drinking water', 'immunization.']
+Notes: A series of health-related data sets from various quantitative public opinion research studies.
+

@@ -1,0 +1,2906 @@
+Created: 2024-11-22T21:01:42.370515
+Name: HESA_Study_on_Opioids_
+Original URL: https://open.canada.ca/data/dataset/e3e20770-4658-42fa-b3f8-408208020b21/resource/10558f58-e3da-41ba-8bd7-567fdc72d85d/download/hesa-study-on-opioids-min-saks-proative-disclosure.pdf
+Package ID: e3e20770-4658-42fa-b3f8-408208020b21
+Keywords: ['Opioids', 'HESA', 'Study']
+Notes: Minister Saks's appearance before the House of Commons Standing Committee on Health (HESA) - Study on Opioids.
+-------------------------------
+Extracted Text:
+House of Commons Standing Committee on Health (HESA)
+Study on Opioids
+BRIEFING BINDER
+Minister of Mental Health and Addictions and Associate Minister of Health
+February 1, 2024
+West Block
+Ottawa, Ontario
+Appearance before the House of Commons Standing Committee on Health (HESA) - Study on Opioids
+Table of Contents
+PART A. KEY LINES
+(1) Canada’s Model - Approach and Effectiveness
+(2) Canada’s Model - Expert Task Force on Substance Use (ETFSU) Recommendations
+(3) Canada’s Model - Recommendations from the 2016 HESA Opioid Study
+(4) Harm Reduction - Effectiveness and Evidence
+(5) Safer Supply - Rationale and Evidence
+(6) Safer Supply - Letters Received
+(7) Safer Supply - Criticism – Diversion, Creates New Users
+(8) Safer Supply - Prescribing Safer Supply for Youth
+(9) Supervised Consumption Sites - Rationale and Evidence
+(10) Supervised Consumption Sites - Evidence of SCS
+(11) Supervised Consumption Sites - Community Safety / Proximity to Schools
+(12) Supervised Consumption Sites - South Riverdale Community Health Centre (SRCHC)
+(13) Decriminalization - Rationale and Evidence to Date
+(14) Decriminalization - Support for Decriminalization
+(15) Decriminalization - Local Bylaws for Public Use
+(16) Decriminalization - British Columbia Supreme Court Ruling of Blocking New Public Drug Use Law
+(17) Decriminalization - National Decriminalization
+(18) Decriminalization - Possession of 2.5g (why this amount)
+(19) Treatment or Recovery Services - Federal Actions to Support PT Delivery; Wait Times
+(20) Treatment or Recovery Services - Impact of Federal Funding
+(21) Treatment or Recovery Services - Involuntary Treatment
+(22) Treatment or Recovery Services - Recovery
+(23) Prevention
+(24) Enforcement - Effectiveness of Actions
+(25) Enforcement - International Partnerships
+(26) Substance Use and Addictions Program (SUAP) - Impact (metrics for evaluation)
+(27) Litigation Against Pharmaceutical Companies
+(28) Declaration of a Public Health Emergency
+(29) Support for Indigenous Communities
+(30) Support for Rural and Remote Communities
+(31) Housing Insecurity/Homelessness and Substance Use
+(32) Mental Health and Substance Use Standards
+PART B. QUICK STATS
+(33) Key Stats
+Substance Use Prevalence in Canada
+Costs of Substance Use and Harms in Canada Overdose Deaths and Harms
+Indigenous Peoples Safer Supply Projects
+Supervised Consumption Sites (SCS) Naloxone Training and Distribution Substance Use and Addictions
+Program (SUAP) Declarations of Emergency
+Federal Funding
+Mental Health and Substance Use in Canada
+PART C: SUPPLEMENTAL
+(34) Scenario Note
+(35) Follow-up from December 4, 2023 Officials Appearance (Draft)
+(36) Status of Recommendations from the 2016 HESA Study on the Opioid Crisis in Canada
+(37) Summary of articles related to risk mitigation guidance for safer supply
+(38) Youth Substance Use Prevention Grants and Contributions Program (YSUPP)
+(39) Recent OPQs
+PART A. KEY LINES
+Canada’s Model
+(1) Approach and Effectiveness
+Since 2016, the Canadian Drugs and Substances Strategy has guided our approach to substance use
+policy.
+Our Government has invested over $1 billion in a continuum of evidence-based actions in order to
+prevent and reduce harms of substance use and to support people getting the help they need.
+The renewed CDSS is a comprehensive framework guiding our efforts to address the toxic drug and
+overdose crisis, centered on promoting public health and protecting public safety.
+It also supports ongoing education activities to reduce stigma and provides funding to community-led
+projects targeting populations disproportionally impacted by substance use harms.
+(2) Expert Task Force on Substance Use (ETFSU) Recommendations
+We appreciate the excellent work of the Expert Task Force on Substance Use whose mandate was to
+provide advice to inform our Government’s renewed Canadian Drugs and Substances Strategy.
+It is important that our actions be informed by the independent advice of experts. The Department is
+working to establish an Expert Advisory Committee that would provide council and inform and
+strengthen federal actions to address the overdose crisis.
+(3) Recommendations from the 2016 HESA Opioid Study
+The majority involved collaboration and shared responsibilities with provinces and territories, Indigenous
+communities, or regulatory authorities.
+In the ongoing efforts to address the crisis, the majority of the recommendations were completed.
+As the Committee is aware, the crisis has evolved significantly over the last eight years, as have the
+actions needed to address it. We will welcome recommendations from this committee to build upon the
+work already achieved in responding to the previous recommendations
+Harm Reduction
+(4) Effectiveness and Evidence
+Harm reduction provides life saving, medical services that meet people where they are at, and help them
+connect with health and social services, such as treatment and housing.
+In the face of a public health emergency we must scale up life saving tools – like supervised consumption
+sites that have responded to over 52,000 overdoses since 2017.
+Harm reduction is an essential part of our response – along with prevention, treatment and
+enforcement.
+It provides a life line to support people in the face of current gaps in services, including people who face
+stigma, delays or other barriers in accessing treatment.
+Our government will use every tool at our disposal to end this national public health crisis.
+Safer Supply
+(5) Rationale and Evidence
+Prescribed pharmaceutical alternatives, sometimes referred to as “safer supply”, is one approach among
+many that we are exploring to help reduce the number of harms and deaths from an increasingly deadly,
+toxic illegal drug supply.
+The evidence base is growing. We are aware of a range of studies showing benefits to clients. We are
+also aware of studies and reports of risks and unintended consequences.
+A study recently published in the British Medical Journal showed that prescribed pharmaceutical
+alternative to the illicit street drug supply in British Columbia significantly reduced the risk of death in
+people with opioid use disorder (by as much as 89%).
+We are also seeing promising early results from Health Canada-funded pilot projects, such as reports of
+reduced overdoses, reduced illegal drug use, and improved physical and mental health.
+I am also aware of concerns raised by some experts. We are and will continue to examine and assess all
+credible evidence.
+We are very mindful of the lessons learned from the overprescribing of opioids in the early 2000s, which
+contributed to the current overdose crisis.
+That said, there are some fundamental differences between that experience and safer supply programs:
+Safer supply is being pilot-tested on a small scale, so we can study both benefits and risks.
+There is ongoing patient monitoring of clients, with continued connection to health professionals, and
+often to other critical services and supports like mental health services and housing.
+Clients of safer supply programs are already using illegal drugs and struggle with addiction, and many
+have been unsuccessful with first-line forms of drug treatment (e.g., methadone).
+(6) Letters Received
+I recognize that there are differing views among experts.
+I have met with, and received letters, from physicians, researchers and practitioners calling for changes
+to these programs, as well as for increasing support for these programs.
+All Healthcare professionals, must follow rules around the secure handling of controlled substances,
+including measures to help prevent diversion.
+Provinces and territories also have professional standards and mandated obligations that must be
+adhered to.
+I have asked officials to look into the program thoroughly and take appropriate action where and when
+necessary.
+I am committed to hearing and learning from experts with a range of views to learn from current
+experience and inform this practice moving forward.
+(7) Criticism – Diversion, Creates New Users
+I am aware of concerns expressed by some physicians about the risk of diversion from unwitnessed take
+home dosing from safer supply programs.
+I take these concerns very seriously. I asked my officials to further investigate these reports and take
+steps to ensure that the pilot projects we are funding have appropriate safeguards and controls diversion
+measures in place.
+Officials undertook a detailed assessment of the risk mitigation measures of all federally funded
+programs providing pharmaceutical alternatives.
+Most programs demonstrated strong approaches and have a range of protocols in place. In the instances
+where further information or improvements are required, officials have reached out to these sites.
+Projects have implemented a number of practices to help reduce diversion risk, including:
+Patient screening
+Matching drugs to patient tolerance
+Risk-based protocols for assessing patient eligibly for take-home dosing
+Patient monitoring
+Actions to address instances of diversion, which can include:
+switching to observed dosing;
+transfer into a different support services; or
+removal from program.
+On January 30th, Health Canada is hosting an expert roundtable on assessing, measuring and mitigating
+diversion risk related to these services.
+Officials are also convening federally-funded projects this month (in February) to review their protocols,
+share the latest evidence and ensure they are implementing promising practices.
+In addition, we continue to support the evaluation of programs, to inform our actions moving forward.
+These actions are important to mitigate risks. At the same time, I recognize we will need to continue to
+closely monitor these programs and analyse the evidence to inform our way forward and any further
+adjustments that may be needed.
+The diversion of controlled substances is illegal. We continue to support law enforcement actions to
+address drug trafficking and support community safety.
+(8) Prescribing Safer Supply for Youth - as outlined BC Centre on Substance Use (BCCSU) safer supply
+prescribing guidelines
+Youth have particular vulnerabilities and it is essential that additional care and caution is taken to
+support them in dealing with substance use and addictions.
+The decision to provide any kind of medical intervention to a patient is a choice for medical practitioners
+and patients to make based on a patient’s medical needs, safety considerations, and available medical
+guidelines.
+The suggestion that safer supply programs simply hand out prescription drugs to youth is incorrect.
+As of the most recent reporting period of November 2023, no youth under the age of 19 have been
+prescribed fentanyl as an alternative to illicit drugs since the Province’s Risk
+Mitigation Guidance was released in March 2020.
+At the federal level, we continue to support a number of youth-focused prevention initiatives to help
+increase awareness of the dangers of substance use, including:
+developing tools to prevent substance-related harms among youth in school;
+the "Know More" awareness campaign which aims to engage teens and young adults on the facts
+surrounding opioids and ways to reduce risks; and
+a new Youth Substance Use Prevention Program
+Supervised Consumption Sites
+(9) Rationale and Evidence
+Harm reduction is health care and the door to the system. Safe consumption sites have responded to
+over 52,000 overdoses since 2017 and have seen over 4.3 million visits.
+Closing supervised consumption sites would mean increasing the risk of more deaths, diseases and
+infections and less access to a range of services which people who use drugs rely on.
+We are focused on all the key pillars of drug policy; prevention, harm reduction, treatment, and recovery,
+as well as enforcement efforts to protect our communities. This is not the time to be pitting harm
+reduction against treatment.
+(10) Evidence of SCS
+Through CIHR, the Government of Canada allocated $1 million on four one-year SCS evaluation projects
+across the country.
+Most research on SCS suggests that sites do not increase crime, and can even help improve public order
+in their surrounding communities.
+Research also shows that SCS can reduce the number of drug related harms and improve the health of
+people who use drugs
+Some studies have found reduced overdose deaths in the vicinity of SCS.
+Example: Researchers at the University of Alberta found a statistically significant association
+between increased visits to a provincial SCS and a decline in fentanyl-related overdose
+deaths. When visits to the sites dropped due to pandemic restrictions, deaths related to a fentanyl
+overdose increased by nearly 120% (between Q1 & Q2 of 2020).
+Example: A study from the Centre on Drug Policy Evaluation found that, since 2017, the implementation
+of nine SCS in Toronto has led to a 67% reduction in overdose mortality rates as far as five kilometres
+away from the sites.
+Evidence also shows that smoking is the most common form of consumption amongst those who die of
+an overdose. We must adapt our services, like SCS, and work with other levels of Government and
+partners to find innovative solutions to reduce harms.
+For example, through SUAP, the Government of Canada is funding a virtual National Overdose Response
+Service (NORS) reaching many individuals who cannot access a SCS.
+(11) Community Safety / Proximity to Schools
+Everyone deserves to feel safe and welcome in their community.
+All levels of government have a shared responsibility and need to work together so that there are safe
+environments for our children, while we also providing these evidence-based, life-saving services .
+supervised consumption sites must specify how community concerns, such as proximity to schools, will
+be mitigated.
+Sites are also required to have processes in place for ongoing community engagement and to take
+appropriate mitigation measures to address concerns, such as foot patrols to reduce discarded drug use
+equipment in public spaces around sites.
+Through the renewed Canadian Drugs and Substances Strategy, Budget 2023 committed to streamline
+authorizations for supervised consumption sites and drug checking services with clear public health and
+safety requirements for organizations seeking to provide these life-saving services to Canadians.
+(12) South Riverdale Community Health Centre (SRCHC)
+Health Canada contacted South Riverdale immediately upon being made aware of the serious
+allegations.
+As per the site’s written statement, they have indicated that they do not allow the dealing of controlled
+substances or of illegal goods at the site.
+Health Canada also spoke with the province who previously appointed a supervisor who currently works
+at the site and tasked a third-party review, which is currently ongoing. We will continue to stay in regular
+contact.
+Supervised consumption sites must comply with the terms and conditions of their exemption which
+strictly prohibit dealing of controlled substances within a site.
+Decriminalization
+(13) Rationale and Evidence to Date
+BC asked for this 3 year time-limited exemption that began in January 2023.
+The exemption seeks to reduce stigma and the resulting barriers to accessing the health and social
+services by lifting criminal penalties for the possession of small amount of drugs.
+We take the safety of all Canadians seriously, that’s why from the beginning we have approached this
+from both a public health and a public safety perspective.
+This exemption will be continuously monitored, assessed and adjusted if needed.
+Local governments do have tools and by laws they can amend to address any unintended consequences
+or concerns, of which we have always maintained we would be closely monitoring BC.
+(14) Support for Decriminalization
+A broad range of stakeholders have called for the decriminalization of personal possession as one part of
+a comprehensive strategy, including: Canadian Association of Chiefs of Police, Canadian Nurses
+Association, Canadian Society of Addiction Medicine, and the First Nations Health Authority.
+This is in addition to a variety of drug policy experts and stakeholders, as well as municipalities and
+medical officers of health.
+We remain open to engaging with stakeholders with a range of views.
+(15) Local Bylaws for Public Use
+The exemption granted to BC does not change the ability of local governments to pass or amend their
+bylaws as they know the best needs of their community and how to respond to it.
+Stigma has led people to die alone.
+We continue to work relentlessly to reduce substance use related harms.
+Our government recognizes the tremendous work B.C. has been doing across the full continuum of care
+to address the overdose crisis and we will continue to work with them to save lives.
+(16) British Columbia Supreme Court Ruling of Blocking New Public Drug Use Law
+As this matter is in front of the court I won’t comment further.
+(17) National Decriminalization
+We are committed to saving lives and making sure people who use drugs don’t die alone.
+Our government is moving forward on decriminalization through a responsible framework and in
+partnership with a jurisdiction that has a comprehensive plan with oversight and evaluation and ensures
+enhanced health and social supports, public engagement, and law enforcement training.
+We continue to work with willing jurisdictions to use all tools at our disposal to address this crisis,
+including approaches to decriminalization.
+(18) Possession of 2.5g (why this amount)
+This crisis has taken a tragic toll on families, loved ones and communities.
+In granting this cumulative threshold, we considered purchasing and use patterns, public health data,
+and law enforcement data.
+The 2.5 gram cumulative threshold that was approved by Health Canada is supported by the Canadian
+Association of Chiefs of Police.
+The composition of the drug supply is changing and is often a combination of substances frequently
+unknown even to those who use substances.
+We continue to work closely with BC to monitor the exemption to ensure it is meeting the public health
+and public safety objectives.
+Treatment or Recovery Services
+(19) Federal Actions to Support PT Delivery; Wait Times
+This Government is investing close to $200 billion over 10 years to support provinces and territories with
+the Working Together to Improve Health Care for Canadians Plan.
+Mental health and substance use is one of the priority areas under the plan. These substantial transfers
+will support provinces and territories to expand access to quality treatment services, including detox.
+In addition, recognizing the importance of timely and quality treatment, this Government:
+has removed barriers to accessing medications for the treatment of opioid use disorder;
+is working with provinces and territories on sharing wise practices, such as developing standards for
+mental health and substance use;
+is funding treatment projects (through SUAP), including the development of clinical guidelines and the
+expansion of rapid access addiction medicine clinics.
+I am meeting with my provincial and territorial counterparts on a regular basis, and am pleased to say
+that we have had productive discussions around shared priorities and sharing best practices to address
+mental health and substance use.
+(20) Impact of Federal Funding
+Further to funding we provided through the Emergency Treatment Fund, several provinces and
+territories reported important progress, including a reduction in the average wait times to access opioid
+use disorder treatment.
+In the Northwest Territories, average wait times for opioid agonist therapy were reduced from 5-7 days
+in July 2019 to approximately 1 day after October 2019.
+In Newfoundland and Labrador, average wait times for opioid agonist therapy after referral were reduced
+from an average of 4-5 weeks in September 2018, to a consistent 1-2 days from 2019-2023.
+In Saskatchewan, the average wait time to access an opioid agonist therapy prescriber in Saskatoon fell
+by 86% (from 20.7 days in 2018-2020 to 2.8 days in 2022-23).
+(21) Involuntary Treatment
+The evidence is clear, in order to reduce the harms associated with substance use, a full continuum of
+supports is necessary to meet people where they are at, including treatment for those who are ready for
+it.
+We understand that seeking treatment is an individual choice and recovery looks different for everyone.
+There is no one-size-fits-all solution.
+(22) Recovery
+Our Government supports the full spectrum of options to address substance use, including recovery.
+We understand that recovery looks different for everyone.
+We must invest in evidence-based services so that individuals receive quality and timely care and
+supports.
+(23) Prevention
+Our prevention efforts are tailored to reach people most-at- risk.
+For example, through Budget 2023, we committed $20.2 million for a new Youth Substance Use
+Prevention Program to support communities across Canada build capacity to implement and adapt the
+Icelandic Prevention Model.
+The internationally recognized model focuses on building strong and healthy communities, instead of
+targeting individual behaviour.
+It has been shown to be effective in decreasing long-term substance use among youth.
+In addition, we have invested in public education activities designed to raise awareness around the risks
+of opioids, overdoses, and stigma reduction in youth and men-at-risk.
+Know More Opioids engages teens and young adults on the facts surrounding opioids, ways to reduce
+risks and the harms of stigma (over 178,000 interactions with people through school and festival events
+since April 2018).
+Ease the Burden campaign to raise awareness and reduce harms associated with the use of opioids and
+other substances as well as stigma, especially for men in physically demanding jobs (over 26.8M views of
+campaign video).
+Enforcement
+(24) Effectiveness of Actions
+We are working closely with public safety and criminal justice partners and internationally to:
+help identify and disrupt the flow of illegal drugs and precursors across our borders;
+identify and address money laundering of the proceeds of illegal drug trafficking; and
+investigate and charge criminal actors suspected in the manufacturing and/or trafficking of illegal drugs.
+Canada is working closely with the United States to disrupt the illegal drug supply, including trafficking,
+through forums such as the North American Drug Dialogue and the Canada- US Opioids Action Plan.
+Example: Canada and the U.S. performed a joint audit of facilities and detection technology at ports of
+entry along the Canada-US border to identify existing tools with a view to sharing resources.
+Example: Officers in the Canadian and U.S. Postal
+systems have conducted joint training in the detection of trafficked substances.
+Example: A joint Canada-U.S. initiative to target and
+intercept precursor chemicals from source countries. This project focuses on precursor chemicals and
+clandestine laboratory equipment.
+Example: We have implemented 82 safe examination areas at high-risk ports of entry to help border
+services officers to identify and safely examine shipments suspected to contain opioids.
+We have taken regulatory action to make it harder to access precursor chemicals used to make synthetic
+drugs like fentanyl.
+Those who conduct prohibited activities with controlled substances, such as trafficking or diversion, are
+subject to criminal penalties.
+Specific questions about enforcement operations would best be directed to my colleague, the
+Honourable Dominic LeBlanc, Minister of Public Safety, Democratic Institutions and Intergovernmental
+Affairs.
+(25) International Partnerships
+Our government is taking strong action with our North American allies to disrupt illegal global drug
+supply.
+Canada is active in international efforts to address drug- related issues, including trafficking, through
+forums such as the North American Drug Dialogue, and in partnership with the United Nations Office on
+Drugs and Crime.
+We work closely with the US to coordinate cross-border activities through the Canada-US Opioids Action
+Plan.
+We are also actively engaged in the Trilateral Fentanyl Committee, that, together with the United States
+and Mexico, is working to disrupt global fentanyl supply chains.
+My Department also shares information regularly on drug trends, emerging drugs and clandestine lab
+information with partners like the United States, to better track emerging substances and the illegal
+market.
+Substance Use and Addictions Program (SUAP)
+(26) Impact (metrics for evaluation)
+Since 2017, we have committed more than $500 million in over 390 projects to minimize substance use
+harms and improve health outcomes for Canadians.
+Examples include:
+Through national naloxone training efforts, 1.5 million Canadians had an increased understanding on
+how to respond to an overdose.
+To date, SUAP projects have contributed to the availability of nearly 3,000 harm reduction services,
+including counselling, opioid agonist treatment (OAT), drug checking and the provision of needed harm
+reduction supplies.
+SUAP has also increased peer-support and participation in community services across Canada, and
+strengthened access to the continuity of care through wraparound services.
+(27) Litigation Against Pharmaceutical Companies
+We have been working with BC since 2019 on litigation against pharmaceutical companies and
+consultants they worked with, and were part of the Purdue Settlement – the largest settlement of a
+government health care cost claim in Canadian history.
+At our request, BC also amended their legislation to reinforce the federal government’s participation in
+these Class Actions. NS and QC have introduced similar legislation that also includes Canada.
+Canada has addressed pharmaceutical companies’ predatory practices by further restricting the
+marketing of opioids and increasing maximum financial penalties.
+(28) Declaration of a Public Health Emergency
+This Government recognizes the overdose crisis and the tragic levels of overdose deaths and harms we
+are currently facing.
+We are using all of our tools to take a comprehensive approach to respond to this crisis, including
+significant investments of over $1 billion since 2017.
+The Emergencies Act is intended to serve as a tool of last resort to ensure the safety and security of
+Canadians.
+It is for cases of temporary, critical national emergencies that cannot be addressed with existing laws.
+The Act is not an appropriate mechanism to address this crisis – a sustained and coordinated response is
+needed.
+(29) Indigenous Communities
+We know that Indigenous Peoples have been disproportionately impacted by the overdose crisis, due to
+factors such as:
+Colonialism
+Systemic and institutional racism
+Lack of access to culturally-appropriate substance use services and supports
+Indigenous Services Canada (ISC) is providing more than $650 million each year to help address mental
+wellness and substance use prevention and treatment in First Nations and Inuit communities through its
+Mental Wellness Program.
+As part of this Government’s comprehensive approach, I am supporting my colleague, the Honourable
+Patti Hajdu, Minister of ISC, in increasing access to trauma-informed, culturally appropriate and quality
+substance use services and supports.
+Example: Through financial support from the Substance Use and Addictions Program, the Six Nations of
+the Grand River is delivering an overdose prevention program in Ohsweken, Ontario that provides
+culturally- safe harm reduction, education, and outreach services.
+The program has had a positive impact in training community members in overdose response,
+distributing naloxone kits, and providing harm reduction services.
+CIHR is also supporting the creation of an Indigenous
+Engagement Platform, under CRISM, which will encourage substance use research and knowledge
+mobilization that is grounded in Indigenous ways of knowing, priorities and values.
+(30) Rural and Remote Communities
+We know that people living in rural communities, including remote Indigenous communities, face
+significantly higher barriers to accessing harm reduction and treatment services.
+We continue to work with provinces and territories to support expanded access to services.
+(31) Housing Insecurity/Homelessness and Substance Use
+This Government recognizes that there are many contributing factors to substance use, including
+housing instability and homelessness.
+I am working with provincial and territorial Ministerial counterparts to identify promising interventions
+to address the complex needs of people who use substances, face mental health challenges and
+experience homelessness or unstable housing.
+It is essential that all levels of government, with local organizations and experts work together to provide
+comprehensive supports to meet the needs of the most vulnerable in our communities.
+Specific questions about housing insecurity and homelessness would best be directed to my colleague,
+the Honourable Sean Fraser, Minister of Housing, Infrastructure, and Communities.
+(32) Mental Health and Substance Use Standards
+The Government is taking a compassionate and human- centred approach to help improve mental health
+and substance use health care services in Canada.
+We are working with the Standards Council of Canada to develop standards and guidelines in key areas.
+This includes withdrawal management, sometimes called “detox,” and prescriber competencies for non-
+addiction providers.
+Our goal is to help ensure services meet an established level of quality and accessibility. This includes
+reducing stigma and promoting health equity.
+These standards are being informed by evidence and engagement with hundreds of stakeholders,
+including people with lived and living experience.
+We expect the standards deliverables to be completed and available for adoption by health organizations
+and provincial and territorial governments by March 31, 2024.
+PART B. QUICK STATS
+(33) Key Stats
+Substance Use Prevalence in Canada
+Use of Illegal Drugs (past-year, including heroin, cocaine, etc. obtained from illegal drug market)
+General Population: 3% in 2019 (the most recent data available) – Rates are stable since 2017 (CADS,
+2019)
+Youth: 7% in youth grades 7-12 and 12% in post-secondary students in 2021-22 (CSTADS, 2021-22;
+CPADS, 2021-22).
+use is higher among transgender, gender diverse and/or questioning students
+Use of Pharmaceuticals (including opioid-pain relievers and sedatives) for Non-Therapeutic Reasons
+(past-year)
+General population: 2% in 2019 (the most recent data available)
+this is 4X the rate in 2013 (0.5%) and 2X the rate in 2017 (1%) (CADS, 2019)
+Youth: 7% in youth grades 7-12 and 13% among postsecondary students (CSTADS, 2021-22; CPADS, 2021-
+22).
+Costs of Substance Use and Harms in Canada
+(Source: CCSA & CSUCH, Canadian Substance Use Costs and Harms, 2023.)
+Substance use cost Canada more than $49 billion, and led to over 200 deaths every day in 2020
+Opioids alone accounted for $7.1 billion (14.4% of total costs)
+This includes healthcare/criminal justice costs, lost productivity and other direct costs
+Overdose Deaths and Harms
+There were 40,642 apparent opioid toxicity deaths between January 2016 and June 2023
+In the first 6 months of 2023 (Jan-June):
+There were approx. 22 deaths a day
+Fentanyl was involved in 84% of accidental opioid toxicity deaths.
+80% of accidental opioid toxicity deaths involved opioids that were only non- pharmaceutical in origin
+Most accidental opioid toxicity deaths occurred in:
+men (72%)
+people aged 20-59 (89%)
+Multiple substance use is a factor:
+54% of accidental opioid toxicity deaths involved a stimulant
+81% of accidental stimulant toxicity deaths involved an opioid
+Impacts on broader health system as well:
+24% increase in opioid-related poisoning hospitalizations in Canada during the first two years of the
+pandemic (April 2020-March 2022), compared to the two years prior to the pandemic (April 2018-March
+2020) (CCSA, 2022).
+Regional Variations
+89% of accidental opioid-related deaths occurred in B.C., Alberta and Ontario from January to June 2023
+– although rates were also elevated in Saskatchewan and Yukon.
+British Columbia (Source: BC Coroners Report, 2024)
+In 2023, there were 2,511 suspected unregulated drug deaths in B.C. This is the highest number of
+suspected deaths ever recorded in a year (5% higher than 2022).
+83% of unregulated drug deaths involved fentanyl or fentanyl analogues
+Comparison to the U.S.
+Since 2016, trends in opioid-related deaths have evolved similarly in both countries. However, the
+magnitude of the crisis has been greater in the US.
+In 2022, there were 28.7 opioid-related deaths per 100,000 population in the US compared to 19.3
+opioid-related deaths per 100,000 population in Canada.
+There are also similarities in the characteristics of opioid-related deaths in the two countries; notably,
+more deaths occurred among males and middle-aged individuals, and fentanyl was present in a
+significant proportion of those deaths.
+Nearly 88% of opioid-involved overdose deaths involved synthetic opioids (e.g., fentanyl and analogues)
+while in Canada 86% of opioid-involved overdose deaths involved fentanyl and 20% involved fentanyl
+analogues (note: due to data limitations, a death involving fentanyl could also involve a fentanyl
+analogue).
+Indigenous Peoples
+Across Canada, Indigenous Peoples are overrepresented in terms of substance-related deaths.
+Example: In B.C. from January to June 2023, First Nations people died at 6.0 times the rate of other B.C.
+residents.
+Example: In Saskatchewan, from January 1 to December 4, 2023, almost twice as many First Nations
+females (40) died from accidental deaths involving opioids than Caucasian females (25).
+Example: In Alberta, while First Nations people only make up 6% of the population, they represent 22%
+of all opioid poisoning deaths from January to June 2020.
+Substance Use & Women
+Between 2016-2022 – women made up 26-30% of all opioid related deaths, and 38-50% of opioid-
+related hospitalizations.
+2022 – First Nations women died at 11.2X the rate of non-Indigenous women from an overdose.
+Between September and December 2020, 16.2% of women self-reported an increase in their alcohol
+consumption.
+2018-19 – 18% of high school female students reported cannabis use
+Safer Supply Projects
+As of December 2023:
+There are 29 federally-funded projects currently active, 24 of which provide direct service delivery.
+Active sites serve approximately 4,300 clients in 3 provinces (B.C., Ontario, and New Brunswick). QC
+receives funding that they manage for safer supply projects.
+Since 2018, HC has supported 31 projects through SUAP with total funding commitment of over $102
+million
+Supervised Consumption Sites (SCS)
+There are currently 39 SCS offering services in Canada
+Between October 2017 and September 2023 at SCS in Canada:
+There were over 4.4 million visits
+There were at least 389,000 unique clients
+Over 52,000 overdoses were attended to
+Staff made over 411,000 referrals to health and social services
+Naloxone Training and Distribution
+SUAP-funded naloxone projects have resulted in:
+the training of more than 1.5 million Canadians on how to respond to an overdose, including 153,730
+trained on how to administer naloxone
+more than 69,000 nasal naloxone kits distributed across Canada (as of May 2023).
+Substance Use and Addictions Program (SUAP)
+Since 2017, over $565M was committed for nearly 390 projects through SUAP to address the overdose
+crisis, and substance use overall.
+Currently, the program is supporting approximately 250 innovative harm reduction, treatment and
+prevention projects were funded that meet the needs of disproportionately impacted populations at the
+community-level.
+Funding is over $135 million in 2023-24.
+Supporting a broad range of substances and priorities, including projects supporting naloxone
+awareness/training/distribution, testing evidence-based treatment programs, including expansion rapid
+access addiction medicine clinics, prescriber-based safer supply pilots, development of evidence-based
+treatment guidelines, the implementation of peer led programs and peer support workers, smoking
+cessation programs, and expanded access to drug checking services.
+Good geographic spread spanning from Atlantic to Western Canada, including limited but growing
+representation in the North.
+As of March 31, 2023, SUAP-funded projects have created a total of:
+6,619 knowledge products including pamphlets, publications, knowledge hubs, training curriculums,
+guidelines, apps, and toolkits;
+64,437 learning opportunities including training sessions, conferences, webinars, and communities of
+practice; and,
+2,860 new services including harm reduction, counselling, treatment, safer supply, and drug checking.
+Active Projects – Breakdown (as of October 2023)
+There are currently 248 active SUAP projects across the country, representing $339M in federal funding.
+The breakdown of active projects by PT is as follows:
+AB: 18 BC: 67 MB: 17 NB: 4 NL: 9 NS: 11 NT: 2 NU: 1 ON: 105 PEI: 2 QC: 2* SK: 6
+YK: 4
+The Province of Quebec receives SUAP funding on a per-capita basis (approximately 22.5% of SUAP
+contribution funding). Funding is administered through contribution agreements with the Ministère de la
+Santé et des Services sociaux.
+Active SUAP projects that focus on the following pillars:
+Harm reduction: 144
+Treatment: 41
+•Prevention: 31
+Multiple Pillars: 32
+Active SUAP projects include projects that focus on the following priority populations:
+Indigenous led and/or focused: 50
+Youth-focused: 18
+2SLGBTQIA+-focused: 3
+Active SUAP projects that target the following substances:
+Opioids: 83
+Alcohol: 5
+Tobacco: 4
+Cannabis: 6
+Methamphetamine: 11
+Polysubstance: 139
+Declarations of Emergency
+Numerous jurisdictions (provinces and territories, municipalities and First Nations) across British
+Columbia, Alberta, Saskatchewan, Manitoba, Ontario, and Yukon have made various emergency
+declarations with regards to the overdose crisis, substance use, mental health and/or homelessness.
+P/T Declarations:
+British Columbia – Public Health Emergency – April 2016
+Alberta – Public Health Crisis – May 2017
+Yukon – Call to Action (Substance Use Health Emergency) – January 2022
+Since 2020, more than 34 communities across Canada have publicly announced crises or emergencies
+Federal Funding
+General Overview:
+Overdose Crisis – since 2017, investments of over $1B (including $359.2M in Budget 2023)
+The Government of Canada will increase PT funding by $200B over 10 years (including $25B for shared
+health priorities).
+The $200B is on top of 2017 PT bilateral agreements which includes $5B over 10 years for Mental Health
+and Addictions services.
+Regular Support to PTs via Canada Health Transfers
+CHT – $49.4B (an increase of 9.3%) (2023-2024)
+$11B to QC
+Bilateral Agreement Funding Included in Working Together Plan
+$25B over 10 years (Budget 2023) to support family health services, health workers and backlogs, mental
+health and substance use, and a modernized data system through tailored bilateral agreements.
+Collectively, within PT action plans, 34.6% ($2,558M) of the overall Working Together funding is being
+targeted towards mental health and substance use initiatives (one of four pillars).
+As per the 2017 CSOP funding: the largest total investments in MHSU initiatives are BC ($246M), AB
+($426M), and ON ($1.5B). PE is the only PT that has allocated less than 10% of combined CSOP and new
+funding for MHSU ($7.8M).
+The largest total investments in MHSU initiatives are BC (20.2%; $1,200M), AB (39.8%;
+$1,070M), and ON (47.8; $3,190M). PE is the only PT that has allocated less than 10% for MHSU ($7.8M).
+Although AB, SK, and MB have proposed a more recovery-oriented approach, with all three provinces
+prioritizing the expansion and/or optimization of existing addiction treatment spaces and recovery
+communities, PTs have overall adopted an integrated posture with respect to MHSU. It is therefore
+challenging with currently available information to disaggregate PT funding allocations for mental health
+from substance use.
+Research Funding:
+Over the last five years, the Canadian Institutes of Health Research (CIHR) has invested $90.6 million on
+opioid research, which includes funding to the Canadian Research Initiative in Substance Misuse
+(CRISM), a pan-Canadian research network that seeks to identify and develop clinical and community-
+based interventions for substance use disorders.
+Other Bilateral Agreement Support:
+Emergency Treatment Fund – $150M for 5 years (Budget 2018). The ETF provides support to PTs to help
+address the opioid crisis.
+Mental Health and Substance Use in Canada
+50% of people with schizophrenia also have a substance use disorder
+50% of those in substance use treatment live with mental illness
+many of hospitalizations related to opioid use disorder and opioid overdose include co- diagnosis of
+another mental health disorder (56% and 43%, respectively)
+Population Mental Health
+2022 - 53% of Canadians rated their mental health as “Excellent or very good”, down from 2021 (59%)
+Nearly 1 in 5 Canadians reported a need for mental health care in 2020.
+45% of those who had a need reported that their needs were either unmet or only partially met.
+People with a mental illness are 2X as likely to have a substance use disorder
+At least 20% of people with a mental illness having a co-occurring substance use disorder..
+Indigenous Mental Health
+2021 – only 51% of Indigenous Peoples in Canada reported excellent or very good mental health,
+compared to 59% of white Canadians, and 62% of racialized non-Indigenous individuals.
+2021 – Over 1 in 4 Indigenous Peoples (27%) reported having an anxiety or mood disorder, compared to
+17% of white individuals, and 6% of racialized non-Indigenous individuals.
+2020 – 13% of Indigenous Peoples had unmet needs for mental health care, compared to 8% of white
+individuals, and 7% of racialized non-Indigenous individuals.
+2019 Stats Canada Report – the suicide rate (2011-2016) among First Nations people (24.3 deaths per
+100,000) was three times higher than the rate among non-Indigenous people (8.0 deaths per 100,000).
+Indigenous Peoples represent 39% of shelter users, but comprise 5% of the Canadian population.
+Standards for Mental Health & Substance Use (MHSU)
+March 2022 - HC partnered with the Standards Council of Canada (SCC) to coordinate the development
+of standards and related deliverables.
+The 6 priority areas include:
+Integration of MHSU in Primary Care;
+Digital MHSU Apps;
+IYS;
+Integrated MHSU Services for Complex Needs;
+Substance Use Treatment Centres – Withdrawal Management; and
+Substance Use Workforce – Prescriber Competencies for Non-Addictions Providers
+Integrated Youth Services (IYS)
+Budget 2023 funding through tailored bilateral agreements and ongoing Budget 2017 funding for mental
+health and substance use is supporting the expansion of IYS.
+As of 2023, there are 91 active IYS sites in Canada, and another 48 under development.
+PART C: SUPPLEMENTAL
+(34) Scenario Note
+SCENARIO NOTE
+MINISTER SAKS
+APPEARANCE BEFORE THE STANDING COMMITTEE ON HEALTH (HESA) – OPIOID EPIDEMIC AND TOXIC
+DRUG CRISIS
+February 1, 2024
+MEETING SCENARIO
+The Standing Committee on Health initiated a study on the Opioid Epidemic and Toxic Drug Crisis in
+Canada in Fall 2023.
+On December 4, 2023, the Committee adopted a motion to invite the Minister of Mental Health and
+Addictions and Associate Minister of Health to appear before the Committee. The terms of the motion
+limit the appearance to a one hour meeting occurring no later than Friday, February 2, 2024.
+At the meeting, you will be supported by the following officials:
+Health Canada
+Dr. Stephen Lucas, Deputy Minister
+Eric Costen, Associate Deputy Minister
+Jennifer Saxe, Associate Assistant Deputy Minister, Controlled Substances and Cannabis Branch
+Public Health Agency of Canada
+Nancy Hamzawi, Executive Vice President
+Dr. Theresa Tam, Chief Public Health Officer
+Canadian Institutes of Health Research
+Dr. Samuel Weiss, Scientific Director, Institute of Neurosciences, Mental Health and Addiction
+The Committee meeting will begin with your opening remarks, which you will have 5 minutes to deliver.
+You will then take questions from Committee members for the remainder of the hour.
+The first round of questions is generally 6 minutes in length and is asked in the following order:
+Conservative Party (CPC), Liberal Party (LPC), Bloc Québécois (BQ), and New Democratic Party (NDP).
+In the second and subsequent round(s), the order and time of questioning is as follows: Conservative
+Party (5 minutes), Liberal Party (5 minutes), Bloc Québécois (2.5 minutes), NDP (2.5 minutes),
+Conservative Party (5 minutes), and Liberal Party (5 minutes).
+COMMITTEE CONTEXT
+The Committee is conducting the following seven studies concurrently:
+Opioid Epidemic and Toxic Drug Crisis in Canada
+Women’s Health
+Government’s Advanced Purchase Agreement for Vaccines with Medicago
+Natural Health Products
+Children’s Health (drafting a report)
+Patented Medicine Prices Review Board (drafting a report)
+National Three-Digit Suicide Prevention Hotline (no meetings, presumed defunct)
+The most recent ministerial appearance at the Health Committee was on November 1, 2023, where you
+were called to discuss mandate letter commitments. The main issues raised at this meeting included
+mental health services, substance use and harm reduction, decriminalization of controlled substances,
+safer supply and the alleged diversion of controlled substances in British Columbia, and fentanyl.
+Departmental officials appeared before the Committee on December 4, 2023, to begin the Committee’s
+study on the Opioid Epidemic and Toxic Drug Crisis in Canada. The key topics that were raised at this
+meeting were opioid overdose deaths, safer supply and its alleged diversion in British Columbia,
+decriminalization of controlled substances, harm reduction and supervised consumption sites, and
+fentanyl.
+The Opposition role at the Committee is led by the Conservative Party, who have placed several key
+critics (i.e., “shadow ministers”) on the Committee. Dr. Stephen Ellis is the Shadow Minister for Health,
+and Todd Doherty is the Shadow Minister for Mental Health and Suicide Prevention. At recent meetings,
+CPC Committee members have raised concerns about supervised consumption sites and the provision of
+a safer supply of controlled substances, linking it to generalized concerns about decriminalization and
+overdose related deaths. On December 4, 2023, Dr. Ellis, Mr. Doherty, and Shuvaloy Majumdar all
+inquired after a new subset of the population who in their view previously did not use substances but
+now do. They critically associated safer supply with contributing not only to diversion, but to new
+substance use dependencies altogether, suggesting that hydromorphone is now being distributed in high
+schools. CPC members have also characterized the 2.5g limit for the possession of controlled substances
+in British Columbia as arbitrary and have questioned the potency of the substances available on the illicit
+market, as well as how many grams of naloxone (Narcan) is typically available. On November 1, 2023, Mr.
+Doherty asked for updates on the proposed Canada Mental Health Transfer and about provincial
+accountability to the federal government with respect to the Substance Use and Addictions Program
+(SUAP). CPC members have commented on what they view as a lack of adequate metrics by which to
+evaluate the success of SUAP and decriminalization efforts in British Columbia. Other issues that have
+been raised include whether substance use is an irremediable condition that could render a patient
+eligible for medical assistance in dying (MAID) and timely access to recovery services, particularly as an
+alternative to the current harm reduction approach.
+The New Democratic Party (NDP) presence is led by Don Davies, the Party’s Health Critic and long-
+standing member of the Committee. NDP Mental Health and Harms Reduction critic, Gord Johns, often
+attends meetings when the Minister of Mental Health and Addictions appears. When the former
+Minister went in March to discuss the Supplementary Estimates (C), Main Estimates, and Departmental
+Plans, Mr. Johns commented critically about government progress on decriminalization and criticized the
+amount spent on SUAP. Mr. Johns also asked several questions then and in meetings since about mental
+health funding, services for substance users, and safer supply. On December 4, 2023, Mr. Johns
+compared Canada’s response to the toxic drug crisis and the opioid overdose epidemic to the approach
+taken in Portugal, characterizing Canada’s response as inadequate because no public health emergency
+has been declared. NDP members have also expressed dissatisfaction with incremental policies,
+characterizing them as too slow of a response to the toxic substance problem. Mr. Johns and Mr. Davies
+have often inquired after bilateral agreement funding, Mental Health Transfers, and have advocated for
+more SUAP funding. De-stigmatization and more immediate safer supply of substances have been
+repeatedly suggested by NDP members as critical parts of the solution to the opioid epidemic.
+The Bloc Québécois (BQ) presence is led by BQ Health Critic, Luc Thériault. In general, the BQ advocates
+for strong protection of matters under provincial jurisdiction and increased federal health transfers. BQ
+MPs have repeatedly emphasized a general skepticism about the ability of the Federal Government to
+deliver programs that may be similar to those already existing in Quebec. On December 4, Mr. Thériault
+suggested improving access to prescription drugs as a partial solution to the toxic substances Canadians
+are obtaining illicitly. Mr. Theriault expressed his interest in discussing the kind and quantity of drugs that
+can be prescribed for those who wish to stop using substances. He has also inquired about Canadian law
+enforcement and border control measures for substances coming into the country, pointing to areas
+that, in his view, needed improvement. On November 1, 2023, Mr. Thériault asked about what he
+characterized as Quebec’s exclusion from provincial and territorial mental health transfers, commenting
+that Quebec has long had its own mental health care systems in place that would continue to serve the
+province well. On occasion this member has asked whether substance use is an irremediable condition
+that could render a patient eligible for MAID, either on its own, or in a complex needs context.
+NEXT STEPS
+The Department endeavours to respond to any follow-up commitments made at the meeting within 2-3
+weeks of the appearance.
+The most recent meetings of the Committee have been concerning its studies on the Opioid Epidemic
+and Toxic Drug Crisis in Canada, the Government’s Advanced Purchase Agreement for Vaccines with
+Medicago, and Women’s Health. It is expected that the Committee will continue meeting on these
+studies into the spring.
+(35) Follow-up from December 4, 2023 Officials Appearance (Draft)
+Question
+Mr. Luc Thériault: Thank you, Mr. Chair.
+In 2016, at hearings of the committee, Dr. Bonnie Henry, the provincial health officer for British
+Columbia, said that detoxification programs for users of opioids were not working, because the
+physiological dependence created by opioids required opioid substitution therapy, based on products
+like Suboxone. There was also discussion of Vivitrol at the hearings.
+All of that led to recommendation 21 in a committee report, which I believe was adopted unanimously.
+The recommendation reads as follows:
+That the Government of Canada improve access to medications for opioid addiction treatment such as
+Suboxone® and other effective medications not currently available in Canada, especially for people at
+high risk of complication and death.
+In British Columbia, do you have data on the number of substitution therapies, access to these
+substitution therapies, and their efficacy in terms of medium-term recovery?
+Ms. Jennifer Saxe: I don't have the specific data for British Columbia.
+Mr. Luc Thériault: Could you possibly send them to us?
+Response
+For people with opioid use disorder (OUD), abruptly stopping the use of opioids without medical support
+is not an effective nor safe treatment. The Government of Canada believes that substance use is a health
+issue and that improved access to treatment services can help those struggling with substance use and
+save lives.
+To help provide compassionate, comprehensive and collaborative care for people who are ready to enter
+treatment for substance use disorder, the Government supports range of actions, including:
+Evidence-based treatment options;
+Improvements to treatment systems, programs and services; and
+Working with others and sharing knowledge about new approaches to treatment and recovery.
+Opioid agonist therapy (OAT), sometimes medication-assisted treatment, is a medical treatment for
+people with OUD. These medications reduce cravings for opioids and prevent severe withdrawal
+symptoms. With opioid agonist therapy, long-acting opioid medications are given under the supervision
+of a health care provider.
+There are currently various OAT options approved for use in Canada, including buprenorphine (including
+Suboxone and Sublocade), methadone, slow-release oral morphine and injectable opioid agonist
+treatments.
+Provinces and territories are primarily responsible for the delivery of health services, including treatment
+services. Provinces and territories are also responsible for decisions regarding which approved
+medications are made available on drug formularies within their respective jurisdictions. Given the range
+of treatment approaches across regions, the availability of data on the number and type of medications
+prescribed for people with OUD varies by province and territory.
+With respect to British Columbia (B.C.), data on OAT dispensation is made available through an online
+dashboard from the BC Centre for Disease Control (BCCDC). Specifically, this dashboard reports on the
+number of clients dispensed OAT in the province at community pharmacies, and the number of OAT
+prescribers. The data indicate that:
+The number of clients dispensed OAT (any kind) in B.C. increased between 2015 and 2021. Since late
+2021, the number of clients dispensed OAT has remained relatively stable (fluctuating between ~24,000
+to 25,000 per month)
+The number of OAT prescribers in B.C. has also generally increased over time since 2015. In October
+2023, there were 2,114 OAT prescribers in the province.
+In September 2023, the B.C. Ministry of Mental Health and Addictions (MMHA) released a data snapshot
+providing a point-in-time overview of progress towards building an integrated and seamless system of
+care (‘Mental Health and Substance Use System of Care’). Data is from a variety of sources, including the
+MMHA, the B.C. Ministry of Health, the BCCDC, regional health authorities, and First Nations Health
+Authority and government partners. Other provinces/territories that have substance use data tools
+publicly available include (but may not be limited to): Alberta, Manitoba, and Ontario, Not all provide
+data on OAT.
+At the federal level, we have taken a number of regulatory actions to help improve access to medications
+used in substance use treatment programs across the country, including:
+issuing a class exemption (an exemption authorized to a group of people, such as pharmacists, to
+conduct specific activities with controlled substances) to make it easier for patients to access the
+medications they need;
+approving injectable hydromorphone as a treatment option for patients with severe opioid use disorder;
+approving injectable diacetylmorphine as a new treatment option for patients with severe opioid use
+disorder; as well facilitating the prescribing and dispensing of methadone and diacetylmorphine; and
+authorizing nurses who provide health care services at a community health facility to conduct certain
+activities with controlled substances.
+In addition, through the Substance Use and Addictions Program (SUAP), Health Canada is funding 8
+projects in the Province of B.C. that offer treatments options such as OAT.
+For example, Health Canada is funding the University of British Columbia for its Preventing Overdose
+Deaths by Providing Buprenorphine/Naloxone to High Risk Emergency Department Patients project
+which is expanding access to buprenorphine/naloxone for people with opioid use disorders who present
+to Emergency Departments (ED) with a variety of clinical presentations.
+To assist health care practitioners, service providers, and decision makers address the urgent needs of
+people who use substances, the Government of Canada is funding the Canadian Research Initiative in
+Substance Misuse (CRISM). CRISM has developed national guidelines on effective approaches for the
+treatment of opioid use disorders, including a National Guideline for the Clinical Management of Opioid
+Use Disorder (2018), a National Injectable Opioid Agonist Treatment (iOAT) Guideline (2019), and a series
+of six national guidance documents to address urgent needs of people who use drugs, services providers,
+and decision-makers during the COVID-19 pandemic. We continue to work with CRISM experts, people
+with lived and living experience, provinces and territories, as well as other key stakeholders to
+disseminate best practices reflected in these guidelines, so that they can be widely adopted.
+We are also providing significant funding to provinces and territories to improve healthcare systems
+across Canada. On February 7, 2023, the Government of Canada announced it will increase health
+funding to provinces and territories by nearly $200 billion over 10 years. This investment includes $25
+billion for shared health priorities, including increasing access to mental health and substance use
+services and supports.
+On October 10, 2023, the Government of Canada and Province of B.C. announced a bilateral agreement
+of more than $1.2 billion over the next three years, marking a crucial step in a 10-year plan for
+collaboration. This includes $82 million per year in previously-announced mental health and substance
+use funding, which will help accelerate efforts already underway in British Columbia to improve health
+care access and services.
+These commitments are in addition to funding provided through the Emergency Treatment Fund (ETF) in
+2018, and existing bilateral agreements with provinces and territories for health priorities, including
+mental health and substance use, that were put in place in 2017 and will set the foundation for long-
+term, integrated and sustained health care system change that builds on existing, targeted actions to
+address mental health and substance use challenges, including improved access to evidence-based
+treatment.
+In B.C., funding provided through the ETF was directed towards programs that build on existing
+telehealth infrastructure in order to support OAT in rural/remote communities. Support was also
+provided to Foundry BC, integrated service centres for youth, to accelerate the launch of their virtual
+service offerings for primary care, mental health, substance use, and peer support via voice, video, and
+chat. Resources have also been invested in attracting and enhancing the capacity of new addictions care
+providers. This includes providing training, mentoring and fellowship education opportunities to new and
+existing primary care physicians, nurse practitioners, nurses and social workers throughout the province.
+The B.C. Ministry of Health and Ministry of Mental Health and Addictions have a 3-year agreement with
+the BC Centre on Substance Use (BCCSU) that utilizes ETF funding across four initiatives to increase
+treatment capacity. Results for 2021/22 include: increased OAT prescribers in 28 of the province’s least
+served local health areas; expanded OAT preceptor network with preceptors located in all Health Service
+Delivery Areas; 24/7 provincial telephone line to support OAT healthcare providers in treating OUD was
+expanded to include physicians, registered nurses, and registered nurse practitioners, pharmacists and
+midwives and non-clinical addictions workers in First Nations’ Communities.
+The items above are some examples of concrete actions taken by the federal government to address the
+overdose crisis. Please visit the following website for a comprehensive list of all the actions taken to
+date.
+(36) Status of Recommendations from the 2016 HESA Study on the Opioid Crisis in Canada
+The House of Commons Standing Committee on Health (HESA) undertook a study on the opioid crisis in
+Canada through several meetings in October 2016. The Committee heard from witnesses about the
+origins of the crisis in Canada, the federal, provincial, and territorial responses to the crisis at that time,
+and possible actions to respond to the crisis across themes such as health care provider training, public
+education, expanded access to treatment and mental health supports, and access to data.
+The Committee developed 38 recommendations implicating the federal government, as well as
+provinces, territories, regulatory colleges, and another Parliamentary Committee. Of the 38
+recommendations, 35 were within the purview of the federal government, with the vast majority (21/35)
+requiring collaboration with other jurisdictions, including Indigenous communities.
+Per information currently available to Health Canada, nearly all of the recommendations directed at the
+federal government have been completed or have been partially met. The remaining require
+consultation with other departments (e.g., ISC) or have been given consideration and a decision taken
+that the recommendation was not an appropriate mechanism to address the crisis (e.g., declaring a
+public health emergency).
+The crisis has evolved significantly over the last eight years, as have the actions needed to address it. We
+continue to consider advice of stakeholders, and other experts, to respond effectively and thoughtfully to
+the crisis as it exists today.
+Status # HESA 2016 Recommendations Comments
+1 Declare the opioid overdose crisis a national public health emergency Responsive lines
+available in HESA binder
+X 2 Create a national multi-sectoral taskforce on the opioid crisis Met via the DM Task
+Force on the Opioid Overdose Crisis and the CDSS, which includes representatives from across
+government, and the Expert Task Force on Substance Use, which included representatives from multiple
+sectors (including health, justice/public safety, academia, PWLLE, and community perspectives.
+X 3 Work with provincial and territorial counterparts to immediately develop an ongoing
+and fully coordinated pan-Canadian surveillance system for drug overdoses PHAC quarterly
+reporting
+4 Reinstate “harm reduction” as a core pillar of the National Anti-Drug Strategy, and also define
+“harm reduction". Included in the 2016 CDSS and part of the Services and Supports foundational
+element of renewed CDSS in 2023.
+X 5 Work with the provinces and territories to establish a network of harm reduction
+facilities Through SUAP, funded the Dr. Peter Centre to create a Community of Practice and an Operators
+HUB.
+X 6 Work with provinces/territories, and first responders’ regulatory authorities, to ensure
+that first responders, individuals who use drugs and others have access to naloxone and appropriate
+training on how to use it. Health Canada has increased access to naloxone by making naloxone
+available without a prescription (2016), passing the Good Samaritan Drug Overdose Act (2017), provided
+over $26M in funding to increase naloxone distribution and training across Canada (2021), and
+continued engagement of PTs and key stakeholders (e.g., funding of naloxone best practice guideline,
+2023).
+7 First Nations and Inuit Health Branch of Health Canada ensure that adequate supplies of
+naloxone and appropriate training on its use are available in reserve communities. Naloxone should be
+included in the safer injection kits provided on reserve by Health Canada nurses in First Nations, Inuit
+and Métis communities. In 2018, added nasal naloxone to the Non-Insured Health Benefits program, First
+Nations & Inuit Health. Nasal naloxone is distributed through nursing stations. Since January 2023 alone,
+approximately $2.55M was spent to purchase naloxone.
+8 Repeal or significantly amend the Controlled Drugs and Substances Act where it creates barriers
+to communities in establishing supervised consumption sites, and in the interim, work with communities
+and organizations to overcome administrative hurdles in relation to seeking exemptions under the
+Controlled Drugs and Substances Act in relation to supervised consumption sites. Completed via
+Bill C-37 (received Royal Assent on May 18, 2017), which streamlined and simplified the application
+process for communities who wish to open supervised consumption sites, while ensuring that
+community consultation continues to be an integral part of the process. HC also issued class exemptions
+to all PTs to enable them to establish urgent public heath need sites as required within their province or
+territory.
+9 Grant exemptions under the CDSA for the purposes of drug testing at SCS Completed
+10 Medical regulatory agencies in Canada work with their respective memberships to develop
+information and training tools relating to recognizing addiction, making appropriate referrals to
+evidence-based treatment programs and treating PWUD with respect Responsibility of regulatory
+colleges; however, CIHR has funded development of toolkits on equity-oriented healthcare and Health
+Canada has provided funding via the Emergency Treatment Fund to support the development of tools
+and approaches such as emergency room protocols and Hub and Spoke models to support practitioners
+in treating patients with substance use disorder
+11 Appropriate regulatory agencies develop a review system in relation to prescribing practices of
+physicians and pharmacists. Responsibility of regulatory colleges.
+X 12 That the new opioid prescribing guidelines be expedited, and that the Government of
+Canada work with the provinces and territories to encourage provincial licensing bodies to mandate
+their adoption. Funding was provided by Health Canada and CIHR to McMaster University researchers to
+update 2010 guidelines. The revised 2017 Canadian Guideline for Opioids for Chronic Non-Cancer Pain
+was published in the Canadian Medical Association Journal (CMAJ) on May 8, 2017; however, adoption is
+beyond jurisdiction of the federal government.
+X 13 Work with PTs to facilitate a broader approach to reducing opiate prescribing and
+integrate alternatives for pain management. Ongoing efforts by Health Canada to support
+implementation of the recommendations of the Canadian Pain Task Force and ensure that actions
+recognize the needs of people living with chronic pain, including holding a Best Brains Exchange on
+Treatment of Chronic Pain and Complex Concurrent Mental Health and Substance Use Conditions.
+14 Health Canada review and revise if necessary its approved indications for opioids to reflect peer-
+reviewed data Completed – Health Canada regularly updates product monographs and labelling for
+prescription opioids, including labelling changes in 2018 and 2019
+X 15 Work with PTs to establish a comprehensive, real-time, national electronic prescription
+monitoring system. Prescription monitoring programs are administered at the PT level. Health
+Canada convened an FPT working group to help PTs establish their programs.
+X 16 Work with the provinces and territories to develop public awareness tools in relation to
+the risks associated with opioid use, and how to respond to overdoses. Health Canada regularly
+undertakes public education campaigns and efforts on this issue (e.g., Know More, Ease the Burden).
+Health Canada also collaborates with PTs through FPT committees and working groups (e.g., FPT
+Committee on Substance Use) to share best practices, including public awareness tools.
+X 17 Government of Canada invest significant new funding to expand treatment for
+addictions Funding for substance use treatment services provided under the: 2018 Emergency
+Treatment Fund; 2017 Bilateral Agreements on Mental Health and Addictions; 2023 Working Together
+Bilateral Agreements
+X 18 Work with the PTs to significantly increase the availability of community-based, publicly
+funded substance abuse treatment programs. Collaboration with PTs through FPT committees and
+working groups to share best practices on providing substance use services; Funding for substance use
+treatment services provided under the: 2018 Emergency Treatment Fund; 2017 Bilateral Agreements on
+Mental Health and Addictions; 2023 Working Together Bilateral Agreements.
+X 19 Work with the PTs to strengthen existing detoxification treatment programs and create
+new ones. Collaboration with PTs through FPT committees and working groups to share best
+practices on providing substance use services;
+Funding for substance use treatment services provided under the 2018 Emergency Treatment Fund,
+2017 Bilateral Agreements on Mental Health and Addictions, 2023 Working Together Bilateral
+Agreements Health Canada is working in collaboration with PTs, to help develop national standards
+deliverables, including on substance use withdrawal management.
+X 20 Work with the PTs and their medical regulatory authorities to develop effective clinical
+practice guidelines relating to addiction treatment GC has funded the development of numerous
+guidelines; for example, the 2017 Canadian Guideline for Opioids for Chronic Non-Cancer Pain; CRISM
+guidelines for the Clinical Management of Opioid Use Disorder and Injectable OAT.
+X 21 Improve access to medications for opioid addiction treatment such as Suboxone® and
+other effective medications not currently available in Canada, especially for people at high risk of
+complication and death. Completed - In addition to existing mechanisms, regulations amended in June
+2017 to enable importation of drugs for an urgent public health need; Health Canada also removed
+barriers to accessing drugs used for the treatment of opioid use disorder by:
+Issuing a class exemption for patients,practitioners, and pharmacists prescribing and providing
+controlled substances in Canada to ensure continuity of care
+Approving injectable hydromorphone and diacetylmorphine as treatment options for patients with
+severe opioid use disorder
+Facilitating the prescribing and dispensing of methadone and diacetylmorphine through regulatory
+amendments
+22 Consult with First Nations and Inuit communities to ensure that culturally appropriate care and
+assistance for addictions are available on reserve Consultation with ISC on status underway.
+X 23 Work with the PTs to ensure that culturally appropriate care and assistance for
+addictions is available to Indigenous individuals off reserve Collaboration with PTs through FPT
+committees and working groups to share best practices on providing substance use services; Funding for
+substance use treatment services provided under the 2018 Emergency Treatment Fund, 2017 Bilateral
+Agreements on Mental Health and Addictions, 2023 Working Together Bilateral Agreements.
+X 24 Ensure that working with Indigenous communities to address the opioid crisis is carried
+out in the context of addressing the recommendations made by the Truth and Reconciliation
+Commission of Canada and the social determinants of health such as adequate housing, education, and
+access to health services including mental health services. Consultation with ISC on status
+underway.
+25 Increase funding to First Nations communities to allow for multi-year health and social service
+provider contracts and appropriate accountability and transparency measures. Consultation with ISC
+on status underway.
+26 Commit to providing stable needs-based funding for First Nations in order for them to
+implement the First Nations Mental Wellness Continuum Framework. Consultation with ISC on status
+underway.
+X 27 Eliminate its current time restrictions on the scopes of practice of nurses relating to
+treating addiction on reserve Consultation with ISC on status underway.
+X 28 Provide a full and adequately funded continuum of services for Indigenous Canadians
+that includes longterm funding for community-based prescription drug abuse programs, such as opioid
+substitution therapy with Suboxone®, along with land-based treatment and other cultural therapies
+Consultation with ISC on status underway.
+X 29 Work with the PTs to ensure treatment for active drug users is available to address the
+underlying mental health issues that may contribute to or exacerbate drug addiction Collaboration
+with PTs through FPT committees and working groups to share best practices on providing mental health
+and substance use services; Funding for substance use treatment services provided under the 2018
+Emergency Treatment Fund, 2017 Bilateral Agreements on Mental Health and Addictions, 2023 Working
+Together Bilateral Agreements.
+X 30 Work with the PTs to develop a national strategy to provide better training and mental
+health services for front-line workers and first responders Ongoing effort and funding provided to
+address mental health of health workers; in December 2023, Minister Holland announced $3.5M over 5
+years to the Royal College of Physicians and Surgeons of Canada to develop a National Plan for Health
+Workforce Well- Being to improve health workforce retention; $50M through Budget 2021 to support
+those experiencing PTSD due to the pandemic, including frontline and essential service providers;
+Budget 2018 committed $20M over five years to support a joint initiative between CIHR and the
+Canadian Institute for Public Safety Research and Treatment to address post-traumatic stress injuries
+among public safety personnel.
+X 31 Work with the PTs to compile information relating to fatal and non-fatal overdoses due
+to opioid use and that this information be reported by the Public Health Agency of Canada in a timely
+manner PHAC quarterly reporting
+X 32 Work with the PTs to establish provincial/territorial and municipal support services that
+will allow for the monitoring and surveillance of drug use patterns to better facilitate treatment
+strategies on a national scale Various PHAC, StatsCan, and Health Canada data initiatives are aligned
+with this recommendation (e.g. DAS (Drug Analysis Services) drug checking data and reports, wastewater
+surveillance).
+33 Grant authority and lawful privilege to Canada Border Services Agency officials to search and/or
+test suspect packages that weigh under 30 grams. Completed via Bill C-37 (received Royal Assent
+on May 18, 2017), which amended the Customs Act to remove the exception that prevents border
+officers from opening mail weighing 30 grams or less, in order to stop drugs, like fentanyl, from entering
+Canada illicitly through the mail system.
+PS 34 Develop a federal enforcement and interdiction strategy around the importation of illicit
+opioids. In addition to enforcement activities in 2016 Canadian Drugs and Substance Strategy, the
+renewed Canadian Drugs and Substances Strategy released in 2023 includes activities on enforcement
+and preventing cross-border movement of illegal drugs and precursor chemicals. The GC is also active in
+a variety of international forums to address this issue.
+35 Adopt measures to regulate commercial pill presses to limit their possession to pharmacists and
+others who hold an appropriate licence Completed via Bill C-37 (received Royal Assent on May 18,
+2017), which prohibited unregistered importation of designated devices that may be used in the illicit
+manufacture of controlled substances, such as pill presses and encapsulators.
+36 Stronger criminal penalties for having a production machine be established Completed via
+Bill C-37, (received Royal Assent on May 18, 2017), which prohibited unregistered importation of
+designated devices that may be used in the illicit manufacture of controlled substances, such as pill
+presses and encapsulators.
+PS 37 Provide more resources for drug testing packages and other shipments $31.6M in
+Budget 2018
+38 Standing Committee on Public Safety and National Security undertake a study into the primary
+source for illicit opioids in Canada to determine the risk to public safety and evaluate the current
+methods and relationships to determine if Canada can be more successful at stemming the flow of illicit
+opioids into Canada Government of Canada cannot direct Parliamentary Committees
+(37) Summary of articles related to risk mitigation guidance for safer supply
+i) Summary of Article Published in the Journal of the American Medical Association (JAMA) looking
+at hospitalizations in BC after the introduction of risk mitigation prescribing
+Article: British Columbia’s Safer Opioid Supply Policy and Opioid Outcomes
+Summary:
+Published in JAMA on January 16, 2024, this article looks at changes in opioid prescribing and opioid
+poisoning hospitalizations at the provincial level in BC, both before and after the introduction of risk
+mitigation guidance prescribing (RMG), and compared to two other provinces: Manitoba and
+Saskatchewan.
+These provinces were chosen due to data availability.
+The authors compare BC to other provinces to see if all three had similar changes in outcomes over time,
+or if BC had particularly large changes in these outcomes after the RMG guidance was released. This is
+one way to look at the impacts of a policy on outcomes when you don’t have client-level data – by
+comparing overall outcomes in one place to outcomes in places that did not implement the policy.
+They found significant increases in rates of opioid prescribing in BC after the implementation of RMG
+prescribing, relative to Manitoba and Saskatchewan (they looked at hydromorphone, morphine,
+fentanyl, and oxycodone).
+They also found significant increases in the rate of hospitalization for opioid- related poisonings after the
+implementation of RMG prescribing, relative to Manitoba and Saskatchewan
+The increases in fatal overdose were not significantly different between the three provinces.
+Importantly, due to data availability, the authors could not specifically look at prescription increases or
+hospitalizations that were directly linked to safer supply prescriptions – instead, they looked at trends in
+prescribing for any indication (including pain) and hospitalizations for any opioid poisoning (including
+illegal fentanyl).
+It is also important that this kind of association does not mean safer supply caused increased
+hospitalizations. It is possible that the increased hospitalizations were driven by unmeasured factors that
+happened at the same time in BC but not other provinces, like the increased volatility of the toxic drug
+supply in Western Canada or the BC housing crisis. It is even possible that the scale-up of RMG
+implementation was in response to increased drug-related harms (the causation is reversed).
+Finally, recent research has shown that RMG prescribing only reached 7.6% of the population of people
+with OUD in BC, and an even smaller fraction of those at risk for overdose related hospitalizations. This
+research also showed no increase in hospitalizations among 5,356 people who received RMG
+prescriptions.
+The authors hypothesize that RMG prescribing could be a driver of harm among non- clients through
+access to diverted prescriptions. There is data from BC showing that rates of new OUD diagnoses have
+been stable or declining across all age groups since 2017, and that hydromorphone prescribing has not
+contributed to an increase in deaths. However, the effects of increased access to prescription opioids on
+other populations (for example, people who are in recovery or people who are already using illegal
+opioids) remains unknown.
+Overall, this article points to the need for more research around the extend and outcomes of
+prescription medication diversion, to ensure that there are no unanticipated harms from the provincial
+safer supply policy. The article does not in itself constitute direct evidence of harms from diversion.
+ii) Summary of Article Published in the British Medical Journal looking at outcomes and mortality
+rates among clients who accessed opioid prescriptions through BC’s
+Risk Mitigation Prescribing
+Article: Effect of Risk Mitigation Guidance opioid and stimulant dispensations on mortality and acute
+care visits during dual public health emergencies: retrospective cohort study
+This is the first large-scale quantitative study of outcomes from risk mitigation prescribing in BC, and is
+now by far the strongest evidence to date of the positive effects of safer supply on mortality risk among
+people with opioid use disorder.
+Summary:
+The study looked at outcomes from 5,356 people with opioid use disorder who accessed opioid
+prescriptions through BC’s risk mitigation guidance (RMG) between March 2020 and August 2021.
+BC’s RMG focused on prescribing hydromorphone and oral morphine as pharmaceutical alternatives to
+the illegal drug supply, in the context of the pandemic.
+Note: In July 2021, BC subsequently introduced its "Prescribed Safer Supply Policy Direction" ("PSS") as
+an enabling document to support the provision of safer supply prescribing across the province beyond
+the pandemic context and formalizing how services would be delivered. An evaluation of PSS is currently
+underway.
+Access to RMG opioids was linked to lower overdose-related and all cause mortality in the week after
+receiving the prescription compared to a control group of similar people with opioid use disorder who
+did not access RMG opioids.
+RMG opioids can only protect clients from the toxic supply while they are still using them, so the
+researchers looked at overdose rates in the following week to make sure they captured the short-term
+effects of receiving RMG opioids.
+RMG opioid prescribing was even more effective when clients accessed it more often. Receiving RMG
+opioids on four or more days in a week led to 89% fewer overdose deaths the following week compared
+to the control group, but receiving RMG opioids on only one or more days led to 47% fewer overdose
+deaths.
+The study also looked at outcomes among 1,061 people with stimulant use disorder who accessed
+prescription stimulants under the RMG.
+Lower mortality was not seen among people receiving RMG stimulants, but since there were fewer
+people in this group, changes in mortality would be harder to detect
+Those receiving RMG stimulants had lower odds of emergency room visits and hospital admissions for
+any cause.
+The extent to which RMG prescriptions may have been diverted, rather than used as indicated, was not
+possible to assess through the health administrative data used in the study.
+However, the success of an intervention is generally considered a good marker of adherence (if clients
+didn’t take their prescriptions, the prescriptions would not work).
+(38) Youth Substance Use Prevention Grants and Contributions Program (YSUPP)
+OVERVIEW AND PURPOSE OF THE PROGRAM
+In Budget 2023, PHAC received $20.2 million over five years starting in 2023-24, for a new community-
+based program to prevent substance use among young people, under the renewed Canadian Drugs and
+Substances Strategy (CDSS).
+This new program is focussed on building protective factors and decreasing risk factors with a
+community collaborative approach based on the Icelandic Prevention Model (IPM).
+PHAC’s new funding program aims to:
+Build capacity in communities to adapt and implement an upstream substance use prevention model
+that follows the key principles and steps of the IPM;
+Support the Canadian implementation of the IPM, by evaluating the adaptation of the IPM in the
+Canadian context; and
+Promote knowledge development and exchange across Canada.
+To maximize the overall impact of the investment, the program supports two streams of Grants &
+Contributions funding for implementation of the IPM, alongside a Knowledge Development & Exchange
+Hub.
+Stream 1 - Incubator and Capacity Building: This stream of funding supports communities with building
+capacity to implement the IPM. Capacity-building activities may include, but are not limited to,
+development of project networks or coalitions, collaborations, and partnerships; community-based
+knowledge dissemination; synthesis; mobilization activities; and pre-data collection planning.
+Stream 2 - Implementation of Intervention Research: This stream of funding supports communities to
+deliver and evaluate an intervention, identified by the community (including youth and multi-sectoral
+partners), to address the key risk and protective factors identified through real-time, local data. Funding
+is available for organizations previously funded under Stream 1, and communities that have already
+started to implement the IPM.
+Knowledge Development & Exchange Hub: The Hub leads the Canadian
+adaptation of the Icelandic Program Model through partnership with Planet Youth Iceland and PHAC
+Stream 1 & 2 funded projects, and insights from Canadian communities interested in implementing the
+IPM. This includes national knowledge mobilization to synthesize learnings, disseminate knowledge and
+build capacity of communities already implementing the model, and establishing a pan-Canadian
+Community of Practice (CoP) on upstream prevention of substance-related harms in youth.
+BACKGROUND ON THE ICELANDIC PREVENTION MODEL
+The IPM is a population health approach that considers the broader social surroundings affecting youth
+such as the home, school, and peer environments, rather than focusing on changing individual
+behaviour.
+The model assumes that:
+Substance-related harms are not randomly distributed in the population;
+Behaviour change is notoriously difficult to accomplish; and
+There are no quick fixes or simple solutions. Long-term changes will require contextual community-level
+adjustments.
+Supported by Planet Youth Iceland, IPM is a multi-phased, multi-year approach with three key
+ingredients:
+Cross-sectoral commitments and partnerships at a community level;
+Real-time, local data to support decision-making and foster dialogue; and
+Interventions decided-by the people of the community.
+The IPM process sets out guiding principles and steps that include building local community coalitions,
+data collection and analysis (including youth surveys) and planning community-wide interventions to
+reduce youth substance use harms.
+The IPM has been implemented in Iceland and over 20 countries worldwide by Planet Youth, a research
+consultancy based in Reykjavik, Iceland. Planet Youth has had various levels of partnerships across the
+world, including with governments and with non- governmental organizations and from national to local
+levels.
+In Canada to date, six communities/jurisdictions have partnered with Planet Youth to implement the
+Icelandic Prevention Model:
+Planet Youth Lanark County - led by a local steering committee (Ontario);
+Planet Youth New Brunswick / Planète Jeunesse Nouveau-Brunswick led by the province of New
+Brunswick;
+Planet Youth Calgary led by United Way of Calgary and Area;
+Planet Youth Timmins led by Porcupine Health Unit (Ontario);
+Planet Youth Timiskaming led by the Timiskaming Health Unit (Ontario); and
+Planet Youth Nipissing led by the North Bay Parry Sound District Health Unit (Ontario).
+Since 2018, Public Health Agency of Canada officials have been in contact with Planet Youth and public
+health stakeholders to exchange information on the model. PHAC has also supported upstream
+prevention efforts by developing an Evaluation guide in collaboration with Planet Youth Lanark County
+and by acting as Secretariat for the
+Icelandic Approach Community of Practice (led by the Southwestern Public Health Unit in Ontario).
+CURRENT STATUS
+The Targeted Solicitation and proposal review process for the Knowledge Development and Exchange
+(KDE) Hub were completed in December 2023. The multi-year contribution agreement between PHAC
+and the selected organization is targeted for February 2024.
+The program's Open Solicitation for Stream 1, Incubator and Capacity Building, closed on January 15,
+2024. Proposal review and assessment is underway, targeting grant agreements with four community
+organizations by March 2024.
+The Targeted Solicitation for Stream 2, Implementation and Intervention Research, is planned for Spring
+2024.
+(39) Recent OPQs
+1. Q-1708
+September 14, 2023 — Ms. Findlay (South Surrey—White Rock) — With regard to the government’s
+safer supply program: (a) what were the projections showing a reduction of
+overdoses that were used to justify implementing the program; (b) off of what methodology were the
+projections in (a) based; (c) what is the government’s explanation for why the number of overdoses
+increased following the implementation of the program; and (d) when did the government first become
+aware that its projections showing that overdoses would decrease were flawed and inaccurate?
+2. Q-1754
+September 25, 2023 — Mr. Lloyd (Sturgeon River—Parkland) — With regard to the upcoming tenth
+session of the Conference of the Parties (COP10) to the World Health Organization (WHO) Framework
+Convention on Tobacco Control, from November 10 to 25, 2023, and the third session of the Meeting of
+Parties (MOP3) to the Protocol to Eliminate Illicit Trade in Tobacco Products, from November 27 to 30,
+2023: (a) how many individuals will be part of the government's delegation and what are their names
+and titles; (b) what is the overall budget for the government's COP10 and MOP3 participation, broken
+down by (i) accommodations, (ii) meals or per diems, (iii) hospitality; (c) what are the government's key
+priorities or action items for both the COP10 and MOP3; and (d) has the government been assigned any
+specific agenda items or resolutions for both the COP1O and MOP3, and, if so, what are they?
+3. Q-1760
+September 26, 2023 — Mr. Khanna (Oxford) — With regard to the government’s response to drug
+addiction: (a) what are the government’s estimates on the number of Canadians who are addicted to
+illicit drugs, broken down by substance; (b) for each substance in (a), what is the government’s strategy
+to get those addicted into treatment and recovery, or to otherwise stop the addiction; (c) how much
+funding is being provided for the treatment and recovery strategy, broken down by year for the next five
+years; and (d) what are the government’s targets on how many fewer people will be addicted to each
+substance in (a), broken down by substance and year for the next five years?
+4. Q-1776
+September 28, 2023 — Ms. Findlay (South Surrey—White Rock) — With regard to the government’s
+“safe supply” initiative: (a) how much (i) heroin, (ii) crack cocaine, (iii) cocaine, (iv) fentanyl, (v)
+methamphetamine or crystal methamphetamine, (vi) other substance, broken down by type, does the
+government estimate was distributed as part of “safe supply” in total and broken down by year since
+2018; and (b) what is the breakdown of (a) by province or territory?
+5. Q-1809
+October 12, 2023 — Mr. Ellis (Cumberland—Colchester) — With regard to the government's Substance
+Use and Addictions Program, broken down annually for each of the last five years:
+how much funding has been provided through the program; (b) how was the funding spent, broken
+down by type of expenditure; (c) what are the details of the funding recipients, including (i) which
+entities received funding through the program, including the name and location of each entity, (ii) how
+much funding each entity receive, (iii) what the funding was intended for; (d) what was the breakdown
+of the funding by province or territory and by municipal area, if known; and (e) what was the breakdown
+of the funding by type of substance?
+6. Q-2043 – Pending Approval November 30, 2023 — Mrs. Goodridge (Fort McMurray—Cold Lake)
+— With regard to the government's Substance Use and Addictions Program and the funding of London
+InterCommunity Health Centre (LIHC) program: (a) what criteria has the government established to
+measure the success of the LIHC program, and are these success criteria being met; (b) how frequently
+does the government receive updates or reports from the LIHCregarding its performance and success in
+meeting the specified criteria; (c) what is the government’s explanation for why the number of
+overdoses increased following the implementation of the program; (d) what is the government’s
+explanation for why opioid- related deaths and hospitalizations are greater in the Middlesex—London
+area compared to the rest of Ontario; (e) is the government studying or assessing the diversion of drugs
+from the LIHC program; (f) what measures are being taken to prevent the diversion of drugs from the
+LIHC program; and (g) how is the government educating the public about the harms of diversion?
+7. Q-2116 – Pending Approval
+December 12, 2023 — Mr. Johns (Courtenay—Alberni) — With regard to Health Canada’s Substance Use
+and Addictions Program (SUAP), and broken down by fiscal year since 2021- 22: (a) what are the details
+of all requests for funding from community-led and not-for-profit organizations, including the (i) date of
+the request, (ii) requester name, (iii) amount of funding requested, (iv) amount of funding approved; (b)
+what is the total amount of funding that was requested by community-led and not-for-profit
+organizations; (c) what is the total amount of funding that was provided to community-led and not-for-
+profit organizations; (d) broken down by level of government, what are the details of all funding transfers
+to provincial, territorial, or municipal governments, including the (i) date of the request, (ii) requester
+name, (iii) amount of funding requested, and (iv) amount of funding approved; (e) what is the total
+amount of funding that was requested by other levels of government; and (f) what was the total amount
+of funding provided to other levels of government?
+8. Q-2190 – Pending Approval
+December 13, 2023 — Mrs. Goodridge (Fort McMurray—Cold Lake) — With regard to meetings involving
+the government about safe supply, safer supply, pharmaceutical alternatives to the toxic, illegal or illicit
+drug supply, pharmaceutical grade medication as an alternative to the toxic, illegal or illicit drug supply,
+and medications for substance use disorder and to provide pharmaceutical alternatives to the
+contaminated illegal or illicit drug supply: what are the details of meetings over the last five years
+between government and pharmaceutical companies, government and opioid manufacturers,
+government and lobby companies, and government and stakeholders, including, for each, the (i) date, (ii)
+location, (iii) type and purpose of the meeting, (iv) names of the organizations represented, (v) names
+and titles of the individuals in attendance, including both government officials and other attendees?
+9. Q-2204 – Not Received
+• December 14, 2023 — Mr. Davies (Vancouver Kingsway) — With regard to the federal tobacco
+control strategy for fiscal year 2022-23: (a) what was the budget for the strategy; (b) how much of that
+budget was spent within each fiscal year; (c) how much was spent on each component of the strategy,
+specifically (i) mass media, (ii) policy and regulatory development, (iii) research, (iv) surveillance, (v)
+enforcement, (vi) grants and contributions, (vii) programs for Indigenous Canadians; (d) were any other
+activities not listed in (c) funded by the strategy, and, if so, how much was spent on each of these
+activities; and (e) was part of the budget reallocated for purposes other than tobacco control, and, if so,
+how much was reallocated?
+INQUIRY OF MINISTRY
+PREPARE IN ENGLISH AND FRENCH MARKING "ORIGINAL TEXT" OR "TRANSLATION"
+QUESTION NO
+Q-1708 BY
+Ms. Findlay (South Surrey—White Rock) DATE
+September 14, 2023
+Reply by the Minister of Mental Health and Addictions and Associate Minister of Health
+Signed by Mr. Darren Fisher
+PRINT NAME OF SIGNATORY SIGNATURE
+MINISTER OR PARLIAMENTARY SECRETARY
+QUESTION
+With regard to the government’s safer supply program: (a) what were the projections showing a
+reduction of overdoses that were used to justify implementing the program; (b) off of what methodology
+were the projections in (a) based; (c) what is the government’s explanation for why the number of
+overdoses increased following the implementation of the program; and (d) when did the government
+first become aware that its projections showing that overdoses would decrease were flawed and
+inaccurate?
+REPLY ORIGINAL TEXT TRANSLATION
+Health Canada
+Since 2017, guided by the Canadian Drugs and Substances Strategy (CDSS), the Government of Canada
+has taken a comprehensive approach to address substance use issues and the overdose crisis, supported
+by over $1 billion in spending. There is no one-size-fits-all solution to prevent or reduce overdose deaths
+— a full range of services and supports are needed.
+Safer supply sits within a continuum of services where medications are prescribed in the context of a
+therapeutic relationship between a healthcare provider and a patient. Safer supply services are informed
+by well-established domestic and international evidence from medication-assisted treatment (MAT)
+services, which are considered the gold standard of treatment for substance use disorder.
+With regard to questions (a) and (b) above, surveillance conducted by the Public Health Agency of
+Canada (PHAC) on the overdose crisis shows a significant increase in apparent opioid-toxicity deaths in
+Canada beginning with the COVID-19 pandemic in 2020, and rates remain elevated today. PHAC also
+conducts forward modelling to provide estimates of how many opioid-related deaths may occur over the
+coming months in Canada. Projections are based on assumptions regarding the toxicity of the illegal drug
+supply and the impact of health interventions. The model considers all health interventions together and
+does not report projections for specific interventions, such as safer supply. The model is updated twice a
+year, in June and December.
+Health Canada recognizes that additional high-quality evidence is needed that address potential benefits
+and risks of safer supply. To help build this evidence, Health Canada is supporting assessment and
+evaluation projects related to Substance Use and Addictions Program (SUAP)-funded pilot projects. This
+includes a preliminary assessment of 10 safer supply pilot projects in Ontario, British Columbia and New
+Brunswick. The federal government, through the Canadian Institutes of Health Research (CIHR), is also
+supporting a study being conducted by a research team from the Canadian Research Initiative in
+Substance Misuse. This four-year evaluation research project focuses on program implementation and
+the short-term health outcomes of eleven of the government funded safer supply pilot projects. The
+final results of this study are expected in 2025. Additionally, CIHR has awarded $2 million to the
+University of Victoria to support a four-year study evaluating the safer supply initiatives in British
+Columbia in partnership with Indigenous leaders, Elders and system partners.
+With regard to questions (c) and (d) above, there is no one single intervention alone that will reduce
+overdose deaths and solve the overdose crisis. This crisis is being driven by a highly toxic illegal drug
+supply and a number of underlying socio-economic factors. This is why the federal government has taken
+a broad, comprehensive approach under the CDSS focusing on prevention, treatment, harm reduction
+and enforcement.
+All SUAP-funded safer supply pilot projects are time-limited, innovative interventions designed to
+evaluate the effectiveness of providing pharmaceutical-grade medications as safer alternatives to the
+contaminated illegal drug supply in Canada. These pilot projects must have linkages to provincial and/or
+territorial health systems, involvement of people with lived and living experience of substance use in
+design and planning, prescriber/health care provider oversight, and must demonstrate commitments to
+research and evaluation.
+Safer supply services exist in a limited number of locations in Canada, and currently serve a relatively
+small number of clients compared to the total number of people who use drugs and who are at risk of
+overdose due to the toxic illegal drug supply in Canada. At the federal level, there are 29 funded pilot
+projects, serving approximately 4,300 clients nationally. The focus of federally funded projects has been
+on building the evidence around this new practice.
+Under the CDSS, the Government of Canada will continue to undertake a comprehensive and evidence-
+based approach to substance use issues and the overdose crisis, including testing new ideas and
+approaches to help save lives and reduce harms. We will continue to work with all levels of governments
+and key stakeholders, who also have critical roles to play. We will continue to monitor and assess all
+available evidence regarding our approach, including studying the outcomes of safer supply pilot
+projects, to inform both current and future actions, and make adjustments including implementing risk
+mitigation measures as appropriate.
+INQUIRY OF MINISTRY
+PREPARE IN ENGLISH AND FRENCH MARKING "ORIGINAL TEXT" OR "TRANSLATION"
+QUESTION NO.
+Q-1754 BY
+Mr. Lloyd (Sturgeon River—Parkland) DATE
+September 25, 2023
+Reply by the Minister of Mental Health and Addictions and Associate Minister of Health
+Signed by Mr. Darren Fisher
+PRINT NAME OF SIGNATORY SIGNATURE
+MINISTER OR PARLIAMENTARY SECRETARY MINISTRE OU SECRÉTAIRE PARLEMENTAIRE
+QUESTION
+With regard to the upcoming tenth session of the Conference of the Parties (COP10) to the World Health
+Organization Framework Convention on Tobacco Control, from November 10 to 25, 2023, and the third
+session of the Meeting of Parties (MOP3) to the Protocol to Eliminate Illicit Trade in Tobacco Products,
+from November 27 to 30, 2023: (a) how many individuals will be part of the government's delegation
+and what are their names and titles; (b) what is the overall budget for the government's COP10 and
+MOP3 participation, broken down by (i) accommodations, (ii) meals or per diems, (iii) hospitality; (c)
+what are the government's key priorities or action items for both the COP10 and MOP3; and (d) has the
+government been assigned any specific agenda items or resolutions for both the COP1O and MOP3, and,
+if so, what are they?
+REPLY ORIGINAL TEXT TRANSLATION
+Health Canada
+In accordance with the Directive on Travel, Hospitality, Conference and Event Expenditures, Health
+Canada strives to find economical means of travel while considering alternatives that minimize or limit
+travel costs. This includes limiting the number of departmental travellers to the minimum necessary to
+deliver the business of government, making use of virtual options of participation when available, and
+selecting economical meals of travel when booking transportation and accommodations.
+(a) The Government of Canada plans to send a delegation of ten individuals to COP10, November
+20-25, 2023, including:
+Dr. Sonia Johnson, Director General, Tobacco Control Directorate (TCD), Controlled Substances and
+Cannabis Branch (CSCB), Health Canada (HC)
+Ms. Laura Smith, Director, Office of Policy and Strategic Planning (OPSP), TCD, CSCB, HC
+Mr. Denis Choinière, Director, Tobacco Products Regulatory Office, TCD, CSCB, HC
+Ms. Kemba Anderson-Gohlor, Regional Coordinator to the Conference of the Parties for the Region of the
+Americas, and Manager, Regulatory and International Policy Unit, OPSP, TCD, CSCB, HC
+Mr. Dylan Upper, Acting Manager, Multilateral Relations Division, Office of International Affairs for the
+Health Portfolio
+Ms. Angélique Bisson, Senior Policy Analyst, OPSP, TCD, CSCB, HC
+Ms. Mireille Rigby, Senior Policy Analyst, OPSP, TCD, CSCB, HC
+One domestic Non-governmental Organization Representative
+Two representatives from the Government of Québec (Provincial/territorial representatives – travelling
+at their own expense)
+(b) The total cost of travel for COP10, for delegates whose travel is being funded by Health Canada,
+is as follows:
+Accommodations: $9,500
+Meals and per diems: $11,651
+Hospitality: N/A
+Please note, flights are still in the process of being booked, therefore the final cost is unavailable at this
+time. Estimated flights costs are: $16,500.
+(c) The government’s key priorities for COP10 are focused on bolstering the Framework Convention
+on Tobacco Control implementation globally, enhancing transparency and accountability of the COP and
+exploring measures that go beyond the FCTC. In particular, Canada will focus on:
+Forward Looking Tobacco Control Measures: Canada has put forward a proposal to COP to consider
+exploring tobacco control measures that extend beyond the provisions of the WHO Framework
+Convention on Tobacco Control (FCTC). Through this decision point, Canada’s aims to generate new
+discussions on tobacco control and reinvigorate a collective response to the global tobacco epidemic.
+Supporting Global Implementation of the FCTC: Canada is committed to supporting a new peer-review
+and evaluation support mechanism. Canada believes this mechanism will strengthen global
+implementation of the FCTC, ensuring that its provisions are effectively translated into action at the
+national level. The WHO Convention Secretariat report associated with this agenda item, can be found at
+the following link: https://storage.googleapis.com/who-fctc-cop10-source/Main%20documents/fctc-
+cop10-14-en.pdf
+Enhancing Transparency and Accountability: Canada will advocate for increased transparency and
+accountability of COP through webcasting the plenary sessions.
+These priorities underscore Canada’s dedication to public health and our leadership in the global tobacco
+control community.
+(d) Canada has not been assigned any specific agenda items for COP, but Canada will be presenting a
+draft decision for adoption on “Forward looking tobacco control measures” as is detailed above. The
+WHO Convention Secretariat report associated with this agenda item , can be found at the following link:
+https://storage.googleapis.com/who-fctc-cop10-source/Main%20documents/fctc-cop10-11-en.pdf
+INQUIRY OF MINISTRY
+PREPARE IN ENGLISH AND FRENCH MARKING "ORIGINAL TEXT" OR "TRANSLATION"
+QUESTION NO.
+Q-1760 BY /
+Mr. Khanna (Oxford) DATE
+September 26, 2023
+Reply by the Minister of Mental Health and Addictions and Associate Minister of Health
+Signed by Mr. Darren Fisher
+PRINT NAME OF SIGNATORY SIGNATURE
+MINISTER OR PARLIAMENTARY SECRETARY
+QUESTION
+With regard to the government’s response to drug addiction: (a) what are the government’s estimates
+on the number of Canadians who are addicted to illicit drugs, broken down by substance; (b) for each
+substance in (a), what is the government’s strategy to get those addicted into treatment and recovery, or
+to otherwise stop the addiction; (c) how much funding is being provided for the treatment and recovery
+strategy, broken down by year for the next five years; and (d) what are the government’s targets on how
+many fewer people will be addicted to each substance in (a), broken down by substance and year for the
+next five years?
+REPLY ORIGINAL TEXT TRANSLATION
+Health Canada
+Since 2016, guided by the Canadian Drugs and Substances Strategy (CDSS), the Government of Canada
+has taken a comprehensive approach to address substance use issues and the overdose crisis, supported
+by a full range of evidence-based actions, focused on prevention, harm reduction, treatment and
+enforcement.
+Regarding question (a) People’s substance use can change and move across a range over time, from no
+use at one end to substance use disorder at the other end. Additionally, stigma associated with
+substance use can cause individuals to hide their use. Given these considerations, it is difficult to
+estimate the number of Canadians who have a substance use disorder.
+Findings from the Mental Health Access to Care Survey, 2022 estimate that 0.5% percent of Canadians
+met the criteria for recurrent use with associated harms or dependence of substances such as cocaine,
+ecstasy, hallucinogens (e.g., PCP, LSD), heroin, solvents, other illegal drugs and nonmedical use of
+prescription sedatives, analgesics, stimulants in the past 12 months and 3.6% of Canadians met the
+criteria at some point in their lifetime. These estimates were unchanged (i.e., the differences were not
+statistically significant) from 0.7% and 4.0%, respectively, in 2012.
+Regarding question (b) and (c) Health care and addressing substance use is a shared responsibility with
+provinces and territories. While provinces and territories are primarily responsible for the delivery of
+substance-use treatment services, the federal government has a role to play in supporting the availability
+of evidence-based treatment options. The Government of Canada recognizes that improved access to
+treatment services can help those struggling with substance use and save lives. This includes actions
+such as:
+Removing barriers to accessing medications used for the treatment of opioid use disorder by:
+Issuing a class exemption for patients, practitioners, and pharmacists prescribing and providing
+controlled substances in Canada to ensure continuity of care;
+Approving injectable hydromorphone and diacetylmorphine as treatment options for patients with
+severe opioid use disorder; and,
+Facilitating the prescribing and dispensing of methadone and diacetylmorphine through regulatory
+amendments.
+Funding the Canadian Research Initiative in Substance Misuse to identify or develop appropriate
+evidence-based clinical and community-based interventions for substance use and to facilitate providers
+and decision-makers in implementing services that we know are effective. This includes guidance
+documents for the treatment of opioid and other substance use disorders.
+Partnering with the Standards Council of Canada to coordinate the development of standards for mental
+health and substance use health services in key areas, including withdrawal management and
+competencies for non- addictions healthcare providers, with a focus on health equity.
+To support the timely access to quality mental health and substance use services for individuals in
+Canada, regardless of where they live. The Government of Canada also provides support to provinces
+and territories in their direct delivery of substance-use treatment services through investments. For
+example, through Budget 2023, the Government of Canada is providing $196.1 billion over ten years,
+including $46.2 billion in new funding through the Canada Health Transfer and other mechanisms, for
+provinces and territories to improve health care services for Canadians, which includes$25 billion over
+ten years to provinces and territories for bilateral agreements to address unique needs in four shared
+health priorities, including access to quality mental health and substance use services.
+In addition, the federal government will invest $2 billion over 10 years to support Indigenous priorities
+and $505 million over 5 years in complementary federal support.
+These investments build on previous federal initiatives aimed at supporting the provinces and territories
+in improving access to treatment and recovery services for substance use disorders, including:
+Significant investments from the Government of Canada in treatment services, including committing
+$150 million through Budget 2018 for the Emergency Treatment Fund, which ended in March 2023. This
+funding was matched by the provinces and territories, bringing the total investment to $300 million.
+Provinces and territories have used federal investments to expand treatment approaches such as
+services to support youth with substance use disorder, withdrawal management services appropriate for
+people who use methamphetamine, Rapid Access Addictions Medicine clinics, expand access to opioid
+dependence treatments, and culturally-appropriate care for Indigenous communities.
+Funds have also been used to implement innovative approaches to treatment including ‘wrap-around’
+care and the development of telehealth infrastructure to connect clients to treatment in remote and
+rural settings.
+The Government of Canada invested $5 billion over ten years in 2017 to support the provinces and
+territories in improving access to mental health and substance use services and supports. Federal,
+provincial and territorial governments also agreed as part of A Common Statement of Principles on
+Shared Health Priorities, to report on progress on improving access to these services through the
+Canadian Institute for Health Information.
+Budget 2023 also provides $359.2 million to support the implementation of a renewed CDSS for new and
+on-going activities to support a continuum of care for people who use substances, including prevention,
+treatment, harm reduction, and recovery. The funding announced in Budget 2023 will complement the
+more than $505 million since 2017 that SUAP has already committed to over 380 innovative and
+evidence-informed projects including substance use prevention, harm reduction and treatment
+initiatives across the country. Through active SUAP agreements, $156.1 million is committed over the
+next 5 years (Fiscal Year (FY) 2023/24 to FY 2027/28) to fund a wide-range of projects that address
+substance use issues across the continuum of care. Of this funding, $63.25 million has been committed
+to organizations that deliver treatment and recovery initiatives. The table below provides a breakdown
+of this funding by fiscal year:
+SUAP Funding: Treatment and Recovery Projects FY 23/24 FY 24/25 FY 25/26 Total
+$26,448,050 $34,067,162 $2,730,205 $63,245,417
+Regarding question (d) The Government of Canada is committed to reporting on results of the CDSS
+through Health Canada’s Departmental Results Report.
+INQUIRY OF MINISTRY
+PREPARE IN ENGLISH AND FRENCH MARKING "ORIGINAL TEXT" OR "TRANSLATION"
+QUESTION NO.
+Q-1776 BY
+Ms. Findlay (South Surrey—White Rock) DATE
+September 28, 2023
+Reply by the Minister of Mental Health and Addictions and Associate Minister of Health
+Signed by Mr. Darren Fisher
+PRINT NAME OF SIGNATORY SIGNATURE
+MINISTER OR PARLIAMENTARY SECRETARY MINISTRE
+QUESTION
+With regard to the government’s “safe supply” initiative: (a) how much (i) heroin, (ii) crack cocaine, (iii)
+cocaine, (iv) fentanyl, (v) methamphetamine or crystal methamphetamine, (vi) other substance, broken
+down by type, does the government estimate was distributed as part of “safe supply” in total and broken
+down by year since 2018; and (b) what is the breakdown of (a) by province or territory?
+REPLY ORIGINAL TEXT TRANSLATION
+Health Canada
+Most healthcare services that support people who use drugs fall under provincial and territorial
+jurisdiction, and the federal government does not routinely collect detailed information on drug
+treatment or safer supply programs that are run by provinces and territories.
+It should be noted that prescribers can only prescribe medications pursuant to the requirements of the
+Food and Drug Act, the Controlled Drugs and Substances Act, and their associated Regulations. Illegally
+produced drugs such as crystal methamphetamine and crack cocaine do not exist in pharmaceutical
+form, and thus are not used in medication-assisted drug treatment programs or safer supply programs.
+For its part, Health Canada provides time-limited grants and contributions funding to 29 safer supply
+pilot projects to help save lives and build evidence in terms of both benefits and risks of safer supply. Of
+these 29 projects, 4 focus on research, knowledge exchange, and evaluation, and 24 provide services
+directly to clients in BC, Ontario, and New Brunswick. Federal grants and contributions funding is also
+provided to the Government of Quebec directly to help support substance use services delivered by the
+province, including safer supply (counted as 1 project)
+The following table provides the most up to data available on substances used in Health Canada funded,
+safer supply projects. These medications evolve over time at the discretion of prescribers, based on the
+clients they serve. Some of the medications are prescribed on-label for opioid use disorder, and some
+are prescribed off-label (i.e. not for their labeled indication).
+Substance BC (8 projects) ON(15 projects) NB(1 projects) Total (24 projects)
+Fentanyl (various formulations offered, including patches and tablets)
+7 4 1 12
+Tablet hydromorphone 8 13 0 21
+Injectable hydromorphone 4 4 1 9
+Injectable diacetylmorphine 1 - - 1
+Oxycodone 2 2 - 4
+Stimulant Therapy (various formulations offered, including amphetamine/dextroamphetamine,
+lisdexamfetamine dimesylate, and methylphenidate)
+3 8 1 12
+INQUIRY OF MINISTRY
+PREPARE IN ENGLISH AND FRENCH MARKING "ORIGINAL TEXT" OR "TRANSLATION"
+QUESTION NO.
+Q-1809 BY
+Mr. Ellis (Cumberland—Colchester) DATE
+October 12, 2023
+Reply by the Minister of Mental Health and Addictions and Associate Minister of Health
+Signed by Mr. Darren Fisher
+PRINT NAME OF SIGNATORY SIGNATURE
+MINISTER OR PARLIAMENTARY SECRETARY MINISTRE
+QUESTION
+With regard to the government's Substance Use and Addictions Program, broken down annually for each
+of the last five years: (a) how much funding has been provided through the program; (b) how was the
+funding spent, broken down by type of expenditure; (c) what are the details of the funding recipients,
+including (i) which entities received funding through the program, including the name and location of
+each entity, (ii) how much funding each entity receive, (iii) what the funding was intended for; (d) what
+was the breakdown of the funding by province or territory and by municipal area, if known; and (e) what
+was the breakdown of the funding by type of substance?
+REPLY ORIGINAL TEXT TRANSLATION
+Health Canada
+(a) Health Canada’s Substance Use and Addictions Program (SUAP) provides time-limited grants and
+contributions funding that supports evidence-informed initiatives that help to address the overdose
+crisis and substance use issues. Between 2019 and 2024, over $450M has been provided through the
+program. The SUAP funding broken down annually for each of the last five years is as follows by fiscal
+year (FY):
+FY 2019/2020: $37,417,022
+FY 2020/2021: $63,154,980
+FY 2021/2022: $85,313,019
+FY 2022/2023: $140,061,872
+FY 2023/2024: $124,369,591
+Total: $450,316,484
+(b) Program grants and contribution funding is allocated to recipient organizations in support of a
+defined set of activities. Eligible expenses are defined under the SUAP Terms and Conditions, described
+in the Guidelines for Applicants for each SUAP call for proposals and outlined in the Contribution
+Agreements. Health Canada does not track individual expenditures by each organization. Rather, in
+accordance with the Policy on Transfer Payments, all SUAP program funding recipients must provide a
+detailed cashflow forecast once per year, as well as a record of expenditures twice per year. Payments
+are made in the form of reimbursement to program recipients for eligible expenditures incurred
+following acceptance by internal oversight and control systems.
+(c) A full summary of the 374 funding recipients which received funding from 2019/20 to 2023/24 is
+attached (see Annex A).
+This document includes a list of organization names, project titles and description, location including city
+and province, amount of funding committed and what the funding was or is intended for, for each entity.
+Please note that this data was extracted on October 13, 2023.
+(d) The following figures show the breakdown of SUAP funding through 2019/20-2023/24 by
+province/territory and by municipal area:
+Note: The number of projects funded in each province or territory can vary based on several factors.
+Regions with a higher population or with a higher concentration of national-scope not-for-profit
+organizations, such as Ontario, have a larger number of active projects than smaller jurisdictions. As per
+a 2017 agreement between the Minister of Health and Quebec’s Ministère de la Santé et des Services
+sociaux (MSSS), SUAP funding proportionate to Quebec’s percentage of the Canadian population
+(approximately 22.5% of total SUAP funding), is allocated to Quebec. Under this agreement, SUAP has
+signed Contribution Agreements directly with the MSSS and the MSSS works with partner organizations
+to redistribute SUAP funds within the province. Other projects funded in the province are national in
+scope.
+ALBERTA
+29 projects from 2019-2024
+Municipal Area FY 19/20 FY 20/21 FY 21/22 FY 22/23 FY 23/24 Total
+Atikameg - - - $109,489 $39,320 $148,809
+Calgary $735,539 $1,075,894 $2,456,173 $4,089,249 $3,067,653 $11,424,508
+Eden Valley - - - $721,072 $678,968 $1,400,040
+Edmonton $464,879 $1,151,515 $1,778,122 $3,709,041 $1,383,361 $8,486,918
+Edmonton & Calgary - $158,873 $175,375 $116,202 $29,775 $480,225
+Fort McMurray - - - $440,973 $299,386 $740,359
+Grand Prairie - - - $120,138 $921,522 $1,041,660
+Onoway - - $150,000 $150,000 - $300,000
+Standoff - - - $688,028 $467,117 $1,155,145
+Stony Plain - - - $502,914 $1,969,485 $2,472,399
+$27,650,063
+BRITISH COLUMBIA
+90 projects from 2019-2024
+Municipal Area FY 19/20 FY 20/21 FY 21/22 FY 22/23 FY 23/24 Total
+Agassiz - - - $20,150 $253,123 $273,273
+Burnaby - - - $401,825 $541,429 $943,254
+Campbell River - - - $1,508,724 $1,515,951 $3,024,675
+Chilliwack - - - $103,361 $930,247 $1,033,608
+Comox - - - $10,000 $65,000 $75,000
+Delta - - - $167,969 $1,146,441 $1,314,410
+Houston - - $210,700 $212,303 $212,303 $635,306
+Kelowna - $174,250 $291,750 $712,396 $492,042 $1,670,438
+Mission - - - $14,450 $150,921 $165,371
+Nanaimo - - - $864,488 $701,288 $1,565,776
+Nelson $20,000 $262,000 $284,000 $397,985 $397,985 $1,361,970
+New Westminster - - - $231,450 $567,151 $798,601
+Pender Island - $11,523 $165,356 $168,056 $168,056 $512,991
+Penticton - - - $7,390 $166,966 $174,356
+Port Alberni - - - $214,975 $212,054 $427,029
+Powell River - - - $19,357 $148,479 $167,836
+Quesnel - - - $308,310 $268,901 $577,211
+Squamish - - - $571,432 $747,545 $1,318,977
+Surrey - $452,791 $818,192 $1,677,526 $1,961,621 $4,910,130
+Vancouver $6,891,832 $11,824,700 $13,502,597 $21,064,125 $16,611,057 $69,894,311
+Victoria $1,030,769 $2,487,258 $3,964,319 $6,179,448 $5,140,882 $18,802,676
+$109,647,199
+MANITOBA
+22 projects from 2019-2024
+Municipal Area FY 19/20 FY 20/21 FY 21/22 FY 22/23 FY 23/24 Total
+Brandon - - - $150,744 $124,281 $275,025
+Pine Falls - - - $68,670 $68,867 $137,537
+Pine Falls & Selkirk - $26,606 $37,129 $127,261 $130,000 $320,996
+Steinbach - - - $64,200 $491,400 $555,600
+Winnipeg $1,099,409 $1,607,378 $2,944,375 $4,318,971 $4,991,728 $14,961,861
+$16,251,019
+NEW BRUNSWICK
+6 projects from 2019-2024
+Municipal Area FY 19/20 FY 20/21 FY 21/22 FY 22/23 FY 23/24 Total
+Eel Ground - - - - $600,257 $600,257
+Fredericton $238,998 $897,867 $1,502,406 $1,497,195 $1,512,276 $5,648,742
+Moncton - - - $422,593 $370,570 $793,163
+Saint John $346,367 $208,692 $100,913 $42,530 $352,035 $1,050,537
+$8,092,699
+NEWFOUNDLAND
+11 projects from 2019-2024
+Municipal Area FY 19/20 FY 20/21 FY 21/22 FY 22/23 FY 23/24 Total
+Bell Island - - - $281,850 $344,725 $626,575
+Clarenville & Bonavista - - - $126,107 $91,373 $217,480
+Goose Bay - - - $160,280 $113,869 $274,149
+Mount Pearl - - - $12,605 $96,684 $109,289
+Nunatsiavut - $97,963 $146,214 $181,214 - $425,391
+St. John’s $445,774 $436,774 $250,415 $452,969 $1,421,457 $3,007,389
+$4,660,273
+NOVA SCOTIA
+13 projects from 2019-2024
+Municipal Area FY 19/20 FY 20/21 FY 21/22 FY 22/23 FY 23/24 Total
+Cape Breton - - - $356,466 $135,763 $492,229
+Halifax - $212,657 $763,109 $1,741,032 $2,702,791 $5,419,589
+Kentville - - - $113,500 $57,000 $170,500
+Sydney - - - $189,435 $128,611 $318,046
+Yarmouth $285,801 $285,801 $208,909 - - $780,511
+$7,180,875
+NORTHWEST TERRITORIES
+3 projects from 2019-2024
+Municipal Area FY 19/20 FY 20/21 FY 21/22 FY 22/23 FY 23/24 Total
+Fort McPherson - - - $140,000 $50,278 $190,278
+Yellowknife $1,077,873 $328,110 $584,161 $1,564,551 $1,417,051 $4,971,746
+$5,162,024
+NUNAVUT
+1 project from 2019-2024
+Municipal Area FY 19/20 FY 20/21 FY 21/22 FY 22/23 FY 23/24 Total
+Hamlet of Pangnirtung - - - - $172,011 $172,011
+$172,011
+ONTARIO
+174 projects from 2019-2024
+Municipal Area FY 19/20 FY 20/21 FY 21/22 FY 22/23 FY 23/24 Total
+Aurora - - - $44,037 $329,637 $373,674
+Belleville - - - $59,400 $471,748 $531,148
+Birch Island $201,718 $320,770 $263,390 - - $785,878
+Bothwell - $169,705 $155,705 $155,703 $155,700 $636,813
+Brantford - - $480,521 $811,131 $816,694 $2,108,346
+Chatham - - - $46,536 $356,955 $403,491
+Concord - - - $427,016 $153,353 $580,369
+Garden Village - - - $225,000 $161,606 $386,606
+Guelph $50,629 $51,055 $817,265 $2,814,140 $2,201,681 $5,934,770
+Hamilton $101,225 - $744,483 $2,330,389 $2,887,625 $6,063,722
+Kingston $166,500 - - $983,915 $353,349 $1,503,764
+Kitchener - $190,685 $1,058,100 $2,695,310 $2,084,892 $6,028,987
+Lanark - $100,000 $100,000 $100,000 - $300,000
+Lindsay - - $212,800 $292,887 $359,450 $865,137
+London $103,300 $2,064,705 $3,278,128 $5,151,235 $3,140,108 $13,737,476
+M’Chigeeng - - $471,019 $1,028,137 $400,000 $1,899,156
+Markdale - - - $30,949 $237,394 $268,343
+Markham $257,187 - - - - $257,187
+Massey - $187,500 $187,500 $187,500 - $562,500
+Midland - - - $39,888 $300,982 $340,870
+North York - - - $288,589 $195,929 $484,518
+Newmarket - $22,689 $99,680 $71,231 - $193,600
+North Bay - $136,135 $310,000 $108,865 - $555,000
+Ohsweken - $137,077 $342,693 $497,093 $299,722 1,276,585
+Ottawa $5,622,458 $10,855,176 $15,076,379 $21,010,788 $15,600,570 $68,165,371
+Owen Sound - - - $982,074 $968,732 1,950,806
+Peterborough $34,045 $626,340 $1,294,654 $2,481,731 $2,314,980 $6,751,750
+Sault Ste. Marie $353,470 $342,049 $370,666 $224,685 $56,955 $1,347,825
+Scarborough - $158,018 $239,050 $337,306 $414,442 $1,148,816
+Shelburne $133,116 $402,011 $909,557 - - $1,444,684
+Sioux Lookout - $785,842 $918,696 $918,696 $945,456 $3,568,690
+Stony Point - $175,383 $251,592 $269,865 - $696,840
+St. Catharines - - - $898,363 $322,626 $1,220,989
+Sudbury - - - $439,586 $844,558 $1,284,144
+Municipal Area FY 19/20 FY 20/21 FY 21/22 FY 22/23 FY 23/24 Total
+Thornhill - $1,000,000 - - - $1,000,000
+Thunder Bay $366,000 $121,447 $123,123 $922,859 $1,099,391 2,632,820
+Toronto $8,682,157 $11,538,682 $12,767,913 $17,534,571 $20,804,173 $71,327,496
+Vaughn $166,500 - - - - $166,500
+Waterloo $761,520 $1,392,235 $1,847,133 $1,208,460 $1,177,163 $6,386,511
+Wikwemikong $195,486 $195,303 $133,780 $192,119 $103,244 $819,932
+$215,991,114
+PRINCE EDWARD ISLAND
+3 projects from 2019-2024
+Municipal Area FY 19/20 FY 20/21 FY 21/22 FY 22/23 FY 23/24 Total
+Charlottetown - $86,986 $284,285 $759,495 $425,161 $1,555,927
+$1,555,927
+QUÉBEC
+5 projects from 2019-2024
+Municipal Area FY 19/20 FY 20/21 FY 21/22 FY 22/23 FY 23/24 Total
+Gatineau - - - $43,504 $246,763 $290,267
+Montreal $25,000 - - $1,595,777 - $1,620,777
+Québec (transfer to MSSS) $6,108,800 $8,049,055 $9,645,730 $9,028,350 $3,097,307 $35,929,242
+$37,840,286
+SASKATCHEWAN
+11 projects from 2019-2024
+Municipal Area FY 19/20 FY 20/21 FY 21/22 FY 22/23 FY 23/24 Total
+Nipawing - $123,246 $203,416 $369,001 $40,415 736,078
+Prince Albert $170,253 $304,631 $53,350 $299,052 - 827,286
+Regina $720,771 $854,467 $1,091,335 $545,978 $1,128,252 $4,340,803
+Saskatoon $480,295 $889,333 $879,005 $3,600,583 $2,179,626 $8,028,842
+$13,933,009
+YUKON
+6 projects from 2019-2024
+Municipal Area FY 19/20 FY 20/21 FY 21/22 FY 22/23 FY 23/24 Total
+Pelly Crossing - - - $68,311 $776,500 $844,811
+Whitehorse $79,350 $173,803 $367,856 $426,768 $287,397 $1,335,174
+$2,179,985
+(e) The following figures show the breakdown of the total funding for each fiscal year, by type of
+substance:
+Substance FY 19/20 FY 20/21 FY 21/22 FY 22/23 FY 23/24 Total
+Alcohol $280,281 $255,302 $1,088,195 $2,101,352 $1,755,300 $5,480,430
+Cannabis $12,454,675 $14,899,484 $14,076,909 $9,637,091 $3,374,073 $54,442,232
+Methamphetamine $575,021 $2,448,178 $3,416,571 $4,687,784 $3,040,210 $14,167,764
+Opioids $14,240,523 $27,534,465 $41,014,157 $68,524,100 $65,421,058 $216,734,303
+Tobacco $1,844,429 $3,417,080 $3,522,392 $3,464,880 $3,330,781 $15,579,562
+Multiple $8,022,092 $14,600,471 $22,194,795 $51,646,665 $47,448,170 $143,912,193
+450,316,484
+INQUIRY OF MINISTRY
+PREPARE IN ENGLISH AND FRENCH MARKING "ORIGINAL TEXT" OR "TRANSLATION"
+QUESTION NO.
+Q-2043 BY
+Mrs. Goodridge (Fort McMurray—Cold Lake) DATE
+November 30, 2023
+Reply by the Minister of Mental Health and Addictions and Associate Minister of Health
+Signed by Mr. Darren Fisher
+PRINT NAME OF SIGNATORY SIGNATURE
+MINISTER OR PARLIAMENTARY SECRETARY
+QUESTION
+With regard to the government's Substance Use and Addictions Program and the funding of London
+InterCommunity Health Centre (LIHC) program: (a) what criteria has the government established to
+measure the success of the LIHC program, and are these success criteria being met; (b) how frequently
+does the government receive updates or reports from the LIHC regarding its performance and success in
+meeting the specified criteria; (c) what is the government’s explanation for why the number of
+overdoses increased following the implementation of the program; (d) what is the government’s
+explanation for why opioid-related deaths and hospitalizations are greater in the Middlesex—London
+area compared to the rest of Ontario; (e) is the government studying or assessing the diversion of drugs
+from the LIHC
+program; (f) what measures are being taken to prevent the diversion of drugs from the LIHC program;
+and (g) how is the government educating the public about the harms of diversion?
+REPLY ORIGINAL TEXT TRANSLATION
+Health Canada
+Prescribed pharmaceutical alternatives (otherwise known as “safer supply”) involves the prescribing of
+pharmaceutical-grade drugs as an alternative to the toxic illegal drug supply, with the goal of reducing
+overdoses and saving lives. These programs are part of a suite of services for individuals and can also
+connect people to other critical services and supports such as:
+Primary healthcare
+Mental health services
+Housing
+Job training
+Drug treatment for those who are ready.
+With regard to questions (a) and (b), above, Health Canada monitors and assesses federally-funded safer
+supply pilot programs, including LIHC, in two ways.
+First, recipient organizations provide Health Canada project-level reporting. Recipients, including LIHC,
+are required to have a Performance Measurement and Evaluation Plan (PME) in place that is used by
+Health Canada to monitor and measure the success of their project. The LIHC reports biannually on the
+required indicators from their PME plan as part of their progress reports. Within three months from their
+project end date, recipients including LIHC, provide a final performance report to Health Canada.
+Performance indicators that must be reported on are the following:
+SHORT TERM INDICATORS
+OUTCOMES PERFORMANCE INDICATORS
+1.1 Primary target population (Canadians or Stakeholders) have access to information on substance use
+PERFORMANCE INDICATORS
+a) # of participants reached (by gender, language, age, location or priority population: Indigenous,
+2SLGBTQIA+, Racialized people/communities) in substance use-related learning opportunities delivered
+by SUAP funded project
+b) # of primary target population (Canadians or stakeholders) with access to substance use-related
+knowledge products developed by SUAP funded project
+c) % of primary target population (Canadians or stakeholders) who reported that they gained
+knowledge/skills about substances as a result of the SUAP funded project by gender, language, age,
+location or priority population: Indigenous, 2SLGBTQIA+, Racialized people/communities
+OUTCOMES
+1.2 Increased availability of harm reduction services
+PERFORMANCE INDICATORS
+a) # of new services offered by SUAP funded project (including type of service)
+b) # of clients accessing services offered by SUAP funded projects (by gender, language, age, location, or
+priority population: Indigenous, 2SLGBTQIA+, Racialized people/communities)
+c) # of Naloxone kits distributed by SUAP funded project
+MEDIUM TERM INDICATORS
+Targeted
+OUTCOMES
+2.1 Data and research evidence on drugs, substance use, and emerging drug trends are used by targeted
+stakeholders
+PERFORMANCE INDICATORS
+a) % of targeted stakeholders who reported that they used knowledge/skills related to substance use
+provided by this project to make evidence informed improvements to policies, programs and practice
+b) % of targeted stakeholders who reported that they intend to use knowledge/skills provided by this
+project to make evidence informed improvements to policies, programs and practice
+OUTCOMES
+2.2 Reduction in risk-taking behaviour among people with problematic drug and substances use
+OUTCOMES
+a) % of targeted Canadians who reported that they used knowledge/skills related to substance use
+provided by SUAP funded project by gender, language, age, location, or priority population: Indigenous,
+2SLGBTQIA+, Racialized people/communities)
+b) % of targeted Canadians who reported that they intend to use knowledge/skills related to substance
+use provided by SUAP funded project (by gender, language, age, location, or priority population:
+Indigenous, 2SLGBTQIA+, Racialized people/communities)
+c) % of clients in SUAP funded treatment and/or harm reduction services projects reporting a positive
+behaviour/health outcome by gender, language, age, location, or priority population: Indigenous,
+2SLGBTQIA+, Racialized people/communities
+Canadians may include youth, adults and any other target groups or sub-populations as identified by
+research and evidence. This relates to initiatives targeting individual behaviour change (or groups of
+individuals)
+Targeted Stakeholders may include other levels of governments, pan-Canadian health organizations,
+non-profit organizations, communities or others at the organizational or system level. This relates to
+initiatives targeting organization, system or policy and practice change.
+Services Categories currently include: harm reduction / outreach; early intervention; treatment (OAT,
+iOAT, TiOAT, methamphetamine treatment, nicotine vaping cessation); drug checking; safer supply;
+surveillance.
+At this time, LIHC is exceeding most of their targets in their PME. Health Canada officials meet every 30
+to 60 days with representatives of the LIHC program to discuss workplan activities. Ongoing
+communication occurs in between meetings. LIHC has fulfilled reporting requirements on time and is
+proactive at communicating important project information as it comes up.
+The second manner Health Canada monitors and assesses performance is through information
+gathering, research, studies and program evaluations of the pilot projects. These are undertaken by both
+Health Canada and independent researchers. The focus of this work is on program operations, barriers
+and challenges, and program outcomes (such as reductions in overdoses, improvements in health,
+connections to health and social services, impacts on criminal activities associated with substance use,
+impacts on healthcare costs, etc.). Health Canada is seeing some promising early outcomes, including
+reduced emergency department visits and hospitalizations. We are also hearing reports from safer
+supply clients of reduced overdoses, reduced illegal drug use, and reduced criminal activity, along with
+improvements to physical and mental health, and better access to wrap-around services like housing and
+income supports.
+The federal government has supported two assessment and evaluation projects related to the pilot
+projects funded through SUAP, in which the LIHC has participated. This includes a preliminary
+assessment of 10 pilot projects in Ontario, British Columbia and New Brunswick, and a study being
+conducted by a research team from the Canadian Research Initiative in Substance Misuse (CRISM). In
+addition, external, peer-reviewed and published research, specific to the LIHC safer supply program
+demonstrated an attributable decline in emergency department visits and hospital admissions among
+program participants.
+With regard to questions (c) and (d), above, the scale of the overdose crisis in Canada is unprecedented.
+Tragically, the rates of overdose deaths have been increasing in a number of jurisdictions in Canada, the
+vast majority of which do not have safer supply programs in place. The toxicity of the illegal drug supply
+continues to be a major driver of the overdose crisis. The latest available national data shows that 84%
+of all apparent opioid toxicity deaths in the period of January to June 2023 involved fentanyl (an increase
+of 47% since 2016) and 80% involved opioids that were only non-pharmaceutical.
+Data shows that in Ontario opioid-related deaths and hospitalizations have increased significantly in
+recent years, which is consistent with national trends.
+Many jurisdictions and municipalities across Ontario have been tragically impacted by the toxicity of the
+illegal drug supply, including the Middlesex-London area
+The overdose crisis is a complex public health issue that affects each part of the country differently and
+can fluctuate over time. As such, changes to death and harm rates in Middlesex-London cannot be
+attributed to one specific factor. Health Canada and the Public Health Agency of Canada continue to
+monitor and analyze data to better assess impacts and longer-term trends.
+Scientific research and evidence show that in order to save lives and protect the health and safety of
+Canadians, a comprehensive evidence-based approach that includes a full continuum of supports is
+necessary, including harm reduction services as well as treatment, prevention, and enforcement.
+Part of this approach includes support for safer supply projects. It should be noted that the reach of
+federally-funded safer supply projects is small compared to the total number of people who use drugs in
+Canada and who are at risk of overdose due to the toxic illegal drug supply. For example, the 29 pilot
+projects currently funded by Health Canada have an estimated client base of 4300 people.
+With regard to questions (e) and (f), above, Health Canada takes concerns regarding diversion seriously
+and monitors for this risk across the supply chain for controlled substances in Canada. At the federal
+level, the drugs used in projects offering prescribed pharmaceutical alternatives are regulated as
+controlled substances and are subject to controls under the Controlled Drugs and Substances Act (CDSA)
+and its regulations, including laws and regulations around storage, transport, and measures to help
+prevent diversion. Programs offering prescribed pharmaceutical alternatives must also follow
+provincial/territorial laws and regulations pertaining to prescribing of pharmaceutical drugs containing
+controlled substances. Furthermore, the healthcare providers running the programs are subject to
+oversight from their professional regulatory colleges.
+In addition, projects offering prescribed pharmaceutical alternatives have implemented a range of
+measures to help prevent diversion and ensure participant and community safety. These include
+diversion mitigation protocols, client education around the risks and consequences of diversion, and
+monitoring through urine drug screens and other client assessment tools. These activities are often
+complemented by comprehensive wrap-around care, client engagement, and requirements around
+secure storage.
+The LIHC program requires each client to adhere to a set of guidelines in order to participate in the
+program. These are outlined during the initial intake and in the Therapeutic Agreement and include
+expectations to:
+attend weekly appointments with their doctor, submit weekly urine samples and pick up their
+medication as directed at their specified pharmacy
+be honest with their doctor regarding drug use outside of their Safer Supply prescription
+work with outreach workers, care facilitators, and/or systems navigators on social goals (housing, ODSP,
+ID, etc.)
+not sell or otherwise divert their Safer Supply medication.
+In cases where diversion may be suspected, many programs take a progressive mitigation approach that
+can be escalated to witnessed dosing, or client discharge/transfer. Diversion represents a reason for
+removal from the LIHC Safer Opioid Supply program.
+Health Canada is currently assessing the risk mitigation approaches of all federally-funded projects
+offering prescribed pharmaceutical alternatives to better understand emerging practices and see if and
+where they may be strengthened.
+With regard to question (g), above, the Government of Canada takes a number of steps to inform the
+public about substance use harms, including risks related to the use of prescription drugs that have been
+diverted from their intended use.
+Since 2017, over $44M has been committed for prevention and education activities, including, but not
+limited to, $22.8M to support public education campaigns, such as:
+The Know More Opioids campaign that engages teens and young adults on the facts surrounding
+opioids, ways to reduce risks and the harms of stigma. Between April 2018 and November 2023, the
+Know More tour had over 178,000 interactions with people through school and festival events and over
+1,400 virtual and 380 in-person high school sessions.
+The Ease the Burden campaign which seeks to raise awareness and reduce harms associated with the
+use of opioids and other substances as well as stigma, especially for men in physically demanding jobs.
+Between September 2022 to March 2023, the Ease the Burden webpage exceeded 142.7M views and
+views of the campaign video have exceeded over 26.8M.
+Health Canada also has a number of resources on its webpage to help inform the public about
+prescription drugs and their associated benefits and risks, resources on how to use medications safely,
+including advice on proper storage and disposal, which are important steps in reducing the risk of
+diversion.
+In addition, Health Canada works with industry, regulated health professionals, and provincial regulatory
+colleges on how they can help to minimize substances misuse and diversion, including guidance on
+reporting a loss or theft.
+The overdose crisis is a complex public health issue. Health Canada recognizes that no single organization
+or level of government can solve this situation alone. We remain committed to working with a wide
+range of partners, including provinces and territories, Indigenous partners, other levels of government,
+civil society organizations, direct care providers, researchers, and people with lived and living experience
+to support people who use substances, advance solutions to save lives, and help end this national public
+health crisis.
+INQUIRY OF MINISTRY
+PREPARE IN ENGLISH AND FRENCH MARKING "ORIGINAL TEXT" OR "TRANSLATION"
+QUESTION NO.
+Q-2116 BY
+Mr. Johns (Courtenay—Alberni) DATE
+December 12, 2023
+Reply by the Minister of Mental Health and Addictions and Associate Minister of Health
+Signed by Mr. Darren Fisher
+PRINT NAME OF SIGNATORY SIGNATURE
+MINISTER OR PARLIAMENTARY SECRETARY
+QUESTION
+With regard to Health Canada’s Substance Use and Addictions Program (SUAP), and broken down by
+fiscal year since 2021-22: (a) what are the details of all requests for funding from community-led and
+not-for-profit organizations, including the (i) date of the request, (ii) requester name, (iii) amount of
+funding requested, (iv) amount of funding approved; (b) what is the total amount of funding that was
+requested by community-led and not-for-profit organizations; (c) what is the total amount of funding
+that was provided to community-led and not-for-profit organizations; (d) broken down by level of
+government, what are the details of all funding transfers to provincial, territorial, or municipal
+governments, including the (i) date of the request, (ii) requester name, (iii) amount of funding requested,
+and (iv) amount of funding approved; (e) what is the total amount of funding that was requested by
+other levels of government; and (f) what was the total amount of funding provided to other levels of
+government?
+REPLY ORIGINAL TEXT TRANSLATION
+Health Canada
+(f) Health Canada’s Substance Use and Addictions Program (SUAP) provides time-limited grants and
+contributions funding that supports evidence-informed initiatives that help to address the overdose
+crisis and substance use issues. SUAP received 454 funding requests from fiscal year 2021-2022 to
+present. Of these requests, 182 were approved for funding and signed contribution agreements. The
+detailed tables below include information on the projects that received funding since fiscal year 2021-
+2022.
+(g) The total amount of funding requested by community-led and not-for-profit organizations,
+including other levels of government, since 2021-2022 is $454,538,192.
+(h) The total amount of funding approved for community-led and not-for-profit organizations,
+including other levels of government, since 2021-2022 is $ 211,125,399.
+(i) The table below includes information on SUAP funding approved for other levels of government
+(provincial, territorial, municipal) from fiscal year 2021-2022 to present.
+(j) SUAP received 34 funding requests from other levels of government in 2021-2022, valued at
+$24,560,225. No funding requests from other levels of government were submitted in 2022-2023. SUAP
+received one (1) funding request from the Government of Quebec for 2023-2024 valued at $58,198,973.
+(k) Of the requests received, 25 projects with other levels of government have been funded by
+SUAP since 2021- 2022, with a combined funding value of $76,064,814.
+A summary of SUAP funding approved for other levels of government is included in the detailed table
+below.
+Note: Due to the principles set out in the Access to Information Act and the Privacy Act on protecting
+sensitive, third- party data, the tables below do not include the date of the request, requester name and
+amount of funding requested for applicants, including other levels of government, that were not
+approved for SUAP funding. The amount of funding requested for each of the organizations that were
+not approved for funding is information of business value that cannot be released without the written
+consent of those organizations.
+Note also that the 2023 SUAP Call for Proposals ended on November 22, 2023 and is still being
+processed. Information on the proposals received and funded is not yet available.
+SUAP Funding Summary
+(Note: This table excludes funding to other levels of government)
+Fiscal Year 2021-2022
+Organization Date Proposal Submitted Total Funding Approved
+1 Addiction Services Central Ontario 2021-09-24 $692,419
+2 AIDS Committee of Newfoundland & Labrador Inc. 2021-09-24 $217,480
+3 Alberni Valley Drug and Alcohol Prevention Services Society 2021-09-24 $427,029
+4 Alberta Alliance Who Educates and Advocates Responsibly Society 2021-09-24 $790,927
+5 Ally Centre of Cape Breton 2021-09-24 $318,046
+6 Atira Women's Resource Society 2021-09-24 $656,786
+7 AVI Health and Community Services Society 2021-09-24 $1,565,776
+8 AVI Health and Community Services Society 2021-09-24 $3,024,675
+9 AVI Health and Community Services Society 2021-09-24 $456,331
+10 BC Yukon Association of Drug War Survivors 2021-09-24 $380,365
+11 Bell Island Sobriety, Housing and Employment Inc. 2021-09-24 $626,575
+12 Belleville and Quinte West Community Health Centre 2021-09-24 $937,491
+13 Black Coalition for AIDS Prevention of Metropolitan Toronto 2021-09-24 $321,516
+14 Blood Ties Four Directions Centre Society 2021-09-24 $257,368
+15 Board of Education of School District No. 62 (Sooke) 2021-09-24 $120,930
+16 Burnaby Family Life Institute 2021-09-24 $135,029
+17 Canadian ADHD Resource Alliance 2021-09-24 $597,488
+18 Canadian AIDS Treatment Information Exchange 2021-09-24 $322,410
+19 Canadian Apprenticeship Forum 2021-09-24 $629,590
+20 Canadian Association of People Who Use Drugs 2021-03-17 $1,665,761
+21 Canadian Mental Health Association Waterloo Wellington Branch 2021-09-24 163,775
+22 Cape Breton Association of People Empowering Drug Users 2021-09-24 $492,229
+23 Centre for ADD/ADHD Awareness Canada 2021-09-24 $183,890
+24 Centre for Addiction and Mental Health 2021-09-24 $2,251,794
+25 Centre for Addiction and Mental Health 2021-09-24 $841,212
+26 Centre for Effective Practice 2021-06-17 $895,288
+27 Centre of Excellence for Women’s Health 2021-06-16 $708,129
+28 Centretown Community Health Centre Inc. 2021-09-24 $1,353,365
+29 Christie Ossington Neighbourhood Centre 2021-09-24 $380,845
+30 CHUM / Canadian Research Initiative in Substance Misuse - Quebec-Atlantic 2021-09-24
+$1,595,777
+31 Community Justice Initiatives (Waterloo Region Crime Prevention Council) 2021-06-18 $378,763
+32 Community-Based Research Centre Society 2021-06-17 $434,533
+33 Comox Bay Care Society 2021-09-24 $140,000
+34 Connective Support Society 2021-09-24 $144,429
+Organization Date Proposal Submitted Total Funding Approved
+35 Covenant Health 2021-09-24 $957,069
+36 CUPS Calgary Society 2021-09-24 $1,213,961
+37 Dalhousie University (Solutions for Kids in Pain) 2021-09-24 $613,062
+38 Dan's Legacy Foundation 2021-09-24 $2,505,185
+39 Digital Public Square 2021-09-24 $1,343,704
+40 Downtown Eastside Women’s Centre Association 2021-09-24 $144,429
+41 Dr. Peter AIDS Foundation (Canadian Aboriginal AIDS Network) 2021-06-15 $1,891,529
+42 Elizabeth Fry Society of Ottawa 2021-09-24 $884,371
+43 Elizabeth Fry Society of Peterborough 2021-09-24 $432,820
+44 First Light St. John's Friendship Centre 2021-09-24 $375,688
+45 Fort McMurray 468 First Nation 2021-09-24 $740,359
+46 Fraser House Society 2021-09-24 $294,808
+47 Georgian Bay Native Women's Association 2021-09-24 $374,827
+48 Gitpo Spirit Lodge 2021-09-24 $1,193,514
+49 Go-Give Project 2021-09-24 $938,417
+50 Grand River Community Health Centre 2021-09-24 $792,148
+51 Grey Bruce Health Services 2021-09-24 $1,950,806
+52 Hamilton Police Service 2021-09-24 $207,561
+53 Hamilton Urban Core Community Health Centre 2021-09-24 $2,476,623
+54 Hamsmart Community Health Collective 2021-09-24 $428,100
+55 Inner City Family Health Team 2021-09-24 $992,114
+56 Jean Tweed Treatment Centre 2021-09-24 $805,534
+57 Kainai Food Bank Society 2021-09-24 $1,155,145
+58 Kee Tas Kee Now Tribal Council 2021-09-24 $148,809
+59 Lawson Research Institute 2021-09-24 $509,376
+60 L'Espoir de la Femme Immigrante 2021-09-24 $258,736
+61 Lift Community Services of Qathet Society 2021-09-24 $295,735
+62 Lookout Housing and Health Society 2021-09-24 $824,766
+63 Main Street Project 2021-09-24 $802,096
+64 Manitoba Metis Federation 2021-09-24 $1,917,838
+65 McMaster University (Michael G. DeGroote National Pain Centre) 2021-09-24 $636,973
+66 Memorial University of Newfoundland and Labrador 2021-09-24 $282,840
+67 Métis Nation British Columbia 2021-09-24 $374,716
+68 Mi’kmaw Native Friendship Society 2021-06-16 $380,978
+69 Mi’kmaw Native Friendship Society 2021-09-24 $292,440
+70 Mi’kmaw Native Friendship Society 2021-09-24 $958,317
+71 Midaynta Community Services 2021-09-24 $484,518
+72 Native Child and Family Services of Toronto 2021-09-24 $474,272
+Organization Date Proposal Submitted Total Funding Approved
+73 Native Women's Association of Canada 2021-09-24 $534,760
+74 Neighbourhood Group Community Services 2021-09-24 $1,236,700
+75 Nipissing First Nation Indian Band 2021-09-24 $386,606
+76 Nisga'a Ts'amiks Vancouver Society 2021-09-24 $329,316
+77 Northeast Addiction and Mental Health Centre for Holistic Recovery 2021-09-24 $729,001
+78 Northern Network of Peers for Equality 2021-09-24 $577,211
+79 Northreach Society 2021-09-24 $1,835,450
+80 Norwest Community Health Centres 2021-09-24 $2,022,250
+81 Operation Come Home 2021-09-24 $359,396
+82 Options Community Services Society 2021-09-24 $2,579,088
+83 Ottawa Hospital Research Institute 2021-09-24 $1,254,264
+84 P.E.E.R.S. Alliance Inc. 2021-09-24 $430,818
+85 Pacifica Treatment Centre Society 2021-09-24 $674,828
+86 Pain BC Society 2021-09-24 $522,244
+87 Patient/Client & Family Council 2021-09-24 $229,636
+88 Persons Living With AIDS Network of Saskatchewan Inc. 2021-09-24 $125,991
+89 Peterborough AIDS Resource Network 2021-09-24 $540,342
+90 PHS Community Services Society 2021-09-24 $1,149,012
+91 Possibilities Recovery Center Inc. 2021-09-24 $696,441
+92 St. John Ambulance 2021-09-24 $872,455
+93 Providence Health Care Research Institute Trust 2021-09-24 $667,527
+94 Providence Health Care Society (BC Centre for Excellence in HIV/AIDS) 2021-09-24
+$2,116,854
+95 Providing Advocacy Counseling and Education Society 2021-09-24 $378,266
+96 R.E.C.A.P. Health Services Inc 2021-09-24 $678,190
+97 Reach Out Chatham-Kent Missions 2021-09-24 $710,969
+98 Regional Essential Access to Connected Healthcare, Niagara Inc. 2021-09-24 $1,513,594
+99 Research St. Joseph's - Hamilton 2021-09-24 $1,235,383
+100 Réseau ACCESS Network 2021-09-24 $751,643
+101 Royal Alexandra Hospital Foundation 2021-09-24 $1,894,417
+102 Royal Alexandra Hospital Foundation 2021-06-17 $1,132,197
+103 Sacred Circle Indigenous Wellness Society 2021-09-24 $1,963,855
+104 SafeLink Alberta Society 2021-09-24 $129,190
+105 Salvus Clinic Inc. 2021-09-24 $793,163
+106 Sanguen Health Centre Foundation 2021-09-24 $325,511
+107 Saskatchewan Fetal Alcohol Support Network Inc. 2021-09-24 $873,750
+108 Schizophrenia Society of Canada 2021-09-24 $978,000
+109 Sea to Sky Community Services Society 2021-09-24 $873,039
+Organization Date Proposal Submitted Total Funding Approved
+110 Selkirk First Nation 2021-09-24 $1,749,111
+111 Sexuality Education Resource Centre Manitoba Inc. 2021-09-24 $275,025
+112 Sherbourne Health Centre Corporation 2021-09-24 $1,049,329
+113 Simon Fraser University 2021-09-24 $592,157
+114 Simon Fraser University 2021-09-24 $472,235
+115 Six Nations of the Grand River 2021-09-24 $454,122
+116 Society of Obstetricians and Gynaecologists of Canada 2021-09-24 $526,134
+117 South East Grey Community Health Center 2021-09-24 $472,832
+118 South Okanagan Women In Need Society 2021-09-24 $341,322
+119 South Riverdale Community Health Centre 2021-09-24 $472,043
+120 Southeast Resource Development Council Corp. 2021-09-24 $782,201
+121 Squamish Helping Hands Society 2021-09-24 $785,762
+122 St. Boniface Hospital 2021-09-24 $135,000
+123 St. Boniface Street Links 2021-09-24 $399,828
+124 St. Paul's Foundation of Vancouver 2021-09-24 $433,416
+125 St. Paul's Foundation of Vancouver 2021-09-24 $831,170
+126 STC Health and Family Services Inc 2021-09-24 $3,238,943
+127 Stonehenge Therapeutic Community 2021-09-24 $256,204
+128 Stoney Trail Wellness Center Eden Valley 2021-09-24 $1,400,040
+129 Sts’ailes 2021-09-24 $488,288
+130 Students Commission of Canada 2021-09-24 $410,075
+131 Sunshine House Inc. 2021-09-24 $458,065
+132 The AIDS Network (TAN) 2021-09-24 $759,164
+133 Tl'oondih Healing Society 2021-09-24 $205,361
+134 Trellis HIV & Community Care (HIV/AIDS Regional Services) 2021-09-24 $1,337,264
+135 Unity Health Toronto 2021-06-17 $854,439
+136 Unity Health Toronto 2021-09-24 $257,452
+137 University Health Network 2021-09-24 $1,658,354
+138 University of British Columbia 2021-09-24 $748,328
+139 University of British Columbia 2021-09-24 $1,380,237
+140 University of British Columbia 2021-06-16 $443,262
+141 University of Toronto 2021-09-24 $470,027
+142 University of Victoria (Canadian Institute for Substance Use Research) 2021-06-17
+$3,282,356
+143 University of Victoria (Canadian Institute for Substance Use Research) (CAPE) 2021-06-17
+$1,962,869
+144 University of Western Ontario 2021-09-24 $1,995,775
+145 Vasantham - A Tamil Seniors Wellness Centre Inc. 2021-09-24 $188,374
+146 Wanasah - Mental Health Services for Black Youth 2021-09-24 $340,439
+Organization Date Proposal Submitted Total Funding Approved
+147 West Broadway Development Corporation 2021-09-24 $134,360
+148 Wings of Power Inc. 2021-09-24 $137,537
+149 Women's Hostels Inc 2021-09-24 $620,701
+150 World Spine Care - Canada 2021-09-24 $580,369
+151 Wyndham House Inc. 2021-09-24 $1,247,203
+152 YMCA of Greater Toronto 2021-09-24 $1,325,154
+TOTAL: $125,515,889
+Fiscal Year 2022-2023
+Organization Date Proposal Submitted Total Funding Approved
+1 Alberta Community Council on HIV 2022-07-04 $4,000,000
+2 Centre for Addiction and Mental Health 2022-08-08 $1,199,492
+3 Coalition of Substance Users of the North Society 2022-06-02 $457,204
+4 Unity Health Toronto - Providence St. Joseph’s and St. Michael’s Healthcare (St. Michael's
+Hospital - Li Ka Shing Knowledge Institute) 2022-10-27 $2,000,000
+TOTAL: $7,656,696
+Fiscal Year 2023-2024
+Organization Date Proposal Submitted Total Funding Approved
+1 Simon Fraser University (Canadian Drug Policy Coalition) 2023-05-05 $1,888,000
+TOTAL: $1,888,000
+SUAP Funding Summary – Other Levels of Government
+Fiscal Year 2021-2022
+Organization Date Proposal Submitted Total Funding Approved
+Provincial
+1 Government of Newfoundland and Labrador 2021-09-24 $1,287,605
+SUBTOTAL: $1,287,605
+Provincial (Health Authorities)
+2 Alberta Health Services 2021-09-24 $1,146,909
+3 Alberta Health Services 2021-09-24 $196,754
+4 Eastern Regional Health Authority (NL) 2021-09-24 $192,572
+5 Eastern Regional Health Authority (NL) 2021-09-24 $335,422
+6 Fraser Health Authority 2021-09-24 $519,768
+7 Fraser Health Authority 2021-09-24 $147,613
+8 Nova Scotia Health Authority 2021-09-24 $595,175
+9 Nova Scotia Health Authority 2021-09-24 $290,500
+Organization Date Proposal Submitted Total Funding Approved
+10 Nova Scotia Health Authority 2021-09-24 $293,400
+11 Nova Scotia Health Authority 2021-09-24 $170,500
+12 Provincial Health Services Authority (BC) 2021-09-24 $1,734,844
+13 Saskatchewan Health Authority 2021-09-24 $1,719,392
+14 Shared Health (Manitoba) 2021-09-24 $1,108,693
+SUBTOTAL: $8,451,542
+Territorial
+15 Government of the Northwest Territories 2021-09-24 $2,981,602
+16 Government of Yukon 2021-09-24 $78,693
+17 Government of Yukon 2021-09-24 $361,238
+SUBTOTAL: $3,421,533
+Regional
+18 Nunatsiavut Government 2021-09-24 $274,149
+19 Four Arrows Regional Health Authority 2021-09-24 $1,539,032
+20 Vancouver Coastal Health Authority 2021-09-24 $1,172,775
+SUBTOTAL: $2,985,956
+Municipal
+21 City of Hamilton 2021-09-24 $287,551
+22 City of Kelowna 2021-09-24 $754,438
+23 City of Surrey 2021-09-24 $505,205
+24 Hamlet of Pangnirtung 2021-09-24 $172,011
+SUBTOTAL: $1,719,205
+TOTAL: $15,154,034
+Fiscal Year 2022-2023
+Nil
+Fiscal Year 2023-2024
+Organization Date Proposal Submitted Total Funding Approved
+Provincial
+1 Government of Quebec N/A $58,198,973
+SUBTOTAL: $58,198,973
+TOTAL: 58,198,973
+INQUIRY OF MINISTRY
+PREPARE IN ENGLISH AND FRENCH MARKING "ORIGINAL TEXT" OR "TRANSLATION"
+QUESTION NO.
+Q-2190 BY
+Mrs. Goodridge (Fort McMurray—Cold Lake) DATE
+December 13, 2023
+Reply by the Minister of Health
+Signed by the Honourable Mark Holland
+PRINT NAME OF SIGNATORY SIGNATURE
+MINISTER OR PARLIAMENTARY SECRETARY
+QUESTION
+With regard to meetings involving the government about safe supply, safer supply, pharmaceutical
+alternatives to the toxic, illegal or illicit drug supply, pharmaceutical grade medication as an alternative
+to the toxic, illegal or illicit drug supply, and medications for substance use disorder and to provide
+pharmaceutical alternatives to the contaminated illegal or illicit drug supply: what are the details of
+meetings over the last five years between government and pharmaceutical companies, government and
+opioid manufacturers, government and lobby companies, and government and stakeholders, including,
+for each, the (i) date, (ii) location, (iii) type and purpose of the meeting, (iv) names of the organizations
+represented, (v) names and titles of the individuals in attendance, including both government officials
+and other attendees?
+REPLY ORIGINAL TEXT TRANSLATION
+Health Canada
+Producing a comprehensive response to this question required the manual collection and analysis of a
+significant volume of information. In the time allotted, and considering the broad scope of the request,
+the below reflects the best and most complete information available at the time of the search.
+(i) Date
+(ii) Location (virtual/in-person)
+(iii) Meeting Type and Meeting Purpose
+(iv) Names of Organizations Represented
+(v) Participants
+December 8, 2023
+Virtual
+Type: stakeholder meeting
+Purpose: opportunity to hear from stakeholder
+British Columbia Centre on Substance Use (BCCSU)
+Representative from BCCSU
+Carol Anne Chenard (Director General)
+Julie Hartleib (Director)
+December 5, 2023
+Virtual
+Type: Stakeholder meeting
+Purpose: opportunity to hear from stakeholder
+Ottawa Hospital Substance Use Program
+Physician from Ottawa Hospital
+Carol Anne Chenard (Director General)
+Julie Hartleib (Director)
+November 29, 2023
+Virtual
+Type: Presentation
+Purpose: present findings from research “Safer Opioid supply: A rapid review of the evidence”
+Ontario Drug Policy Research Network (ODPRN)
+Representatives from ODPRN
+Representatives from Health Canada including Julie Hartleib (Director), and a number of managers and
+analysts
+October 31,2023
+Virtual
+Type: Stakeholder meeting
+Purpose: To discuss work by BCCSU and BC Provincial Health Officer on prescribed safer supply
+British Columbia Centre for Substance Use (BCCSU)
+Eric Costen (HC – Associate Deputy Minister)
+Kendal Weber (HC – Assistant Deputy Minister)
+Jennifer Saxe (HC – Associate Assistant Deputy Minister)
+Dr. Theresa Tam (Public Health Agency of Canada – Chief Public Health Officer)
+Provincial Health Officer
+Representatives from BCCSU
+(i) Date
+(ii) Location (virtual/in-person)
+(iii) Meeting Type and Meeting Purpose
+(iv) Names of Organizations Represented
+(v) Participants
+October 16,2023
+Virtual
+Type: Stakeholder meeting
+Purpose: to discuss research and evaluation of safer supply
+Centre on Drug Policy Evaluation (CDPE)
+Representative from CDPE
+Sheri Todd (Director General)
+Tammy Simpson (Director)
+Julie Hartleib (Director)
+Representative from Canadian Institutes of Health Research (CIHR)
+September 18, 2023
+Virtual
+Type: Stakeholder meeting
+Purpose: Update on research work, including opioid use disorder guidance, safer supply, prevention
+Canadian Research Initiative in Substance Misuse (CRISM)
+Eric Costen (HC – Associate Deputy Minister)
+Kendal Weber (HC – Assistant Deputy Minister)
+Jennifer Saxe (HC – Associate Assistant Deputy Minister)
+Representatives from CIHR
+Officials from CRISM
+September 15, 2023
+Virtual
+Type: Stakeholder meeting
+Purpose: To discuss the status of their work to create a facility to manufacture pharmaceutical
+substances.
+Fair Price Pharma
+Representatives from Fair Price Pharma
+Participation from Minister of Innovation, Science and Industry’s Office
+Participation from Minister of Mental Health and Addictions’ Office
+September 12, 2023
+In Person
+Type: Site visit
+Purpose: To visit the site and discuss the services provided.
+London InterCommunity Health Centre
+Minister of Mental Health and Addictions
+Participation from Minister of Mental Health and Addictions’ Office
+August 29, 2023
+Virtual
+Type: Stakeholder meeting
+Purpose: Introductory meeting
+Moms Stop the Harm
+Representatives of Moms Stop the Harm
+Participation from Minister of Mental Health and Addictions’ Office
+Minister of Mental Health and Addictions
+August 28, 2023
+In Person
+Type: Stakeholder meeting
+Purpose: Opportunity to hear from stakeholders
+NorWest Community Health Centres
+Minister of Mental Health and Addictions
+Stephen Lucas, Health Canada
+August 9,2023
+In Person
+Type: Site visit
+Purpose: To learn about their SAFER (Safer Alternative for Emergency Response) program
+PHS Community Services Society
+Minister of Mental Health and Addictions
+Eric Costen, Health Canada
+Participation from Minister of Mental Health and Addictions’ Office
+August 9, 2023
+In Person
+Type: Site Visit
+Purpose: To learn more about Hope to Health’s approach to care, including safer supply and primary care
+BC Centre for Excellence in HIV/AIDS
+Minister of Mental Health and Addictions
+Participation from Minister of Mental Health and Addictions’ Office
+Health Canada: Eric Costen
+Representatives from the BC Centre for Excellence in HIV/AIDS
+July 25, 2023
+Virtual
+Type: Roundtable meeting
+Purpose: To discuss their policy brief, “Innovating Beyond Exclusively Medicalized Approaches”
+Canadian Civil Society Advancing Safe Supply Working Group
+Former Minister of Mental Health and Addictions
+Participants from former Minister of Mental Health and Addictions’ Office
+Representatives from Health Canada
+Representative from the Harm Reduction Nurses Association
+Representative from Moms Stop the Harm
+Representative from the Canadian Drug Policy Coalition
+Representative from Boyle Street Community Services Society
+(i) Date
+(ii) Location (virtual/in-person)
+(iii) Meeting Type and Meeting Purpose
+(iv) Names of Organizations Represented
+(v) Participants
+July 4, 2023
+Virtual
+Type: Stakeholder meeting
+Purpose: To discuss the status of their work
+Fair Price Pharma
+Participants from former Minister of Mental Health and Addictions’ Office
+Former Minister of Mental Health and Addictions
+June 13,2023
+Virtual
+Type: Stakeholder meeting
+Purpose: To discuss the Prescribed Safer Supply Emerging Evidence Brief
+National Safer Supply Community of Practice
+Former Minister of Mental Health and Addictions
+Participants from former Minister of Mental Health and Addictions’ Office
+Representative from Parkdale Queen West Community Health Centre
+Representative from South Riverdale Community Health Centre
+Representative from the London InterCommunity Health Centre
+Representative from the Canadian Institute for Substance Use Research
+Representative from the National Safer Supply Community of Practice
+Shannon Nix, Health Canada
+Local Members of Parliament
+June 8, 2023
+Virtual
+Type: Stakeholder meeting
+Purpose: to discuss the status of their work
+British Columbia Centre for Disease Control (BCCDC)
+Representatives from BCCDC
+Jen Saxe (DG)
+Julie Hartleib (Director)
+May 31,2022
+Virtual
+Type: Stakeholder meeting
+Purpose: To discuss the status of their work
+Fair Price Pharma
+Former Minister of Mental Health and Addictions
+Participation from Minister of Mental Health and Addictions’ Office
+May 30, 2023
+In Person
+Type: Stakeholder meeting
+Purpose: To meet with Moms Stop the Harm members visiting Ottawa
+Moms Stop the Harm
+Former Minister of Mental Health and Addictions
+Participants from former Minister of Mental Health and Addictions
+Representatives from Moms Stop the Harm
+May 18, 2023
+Virtual
+Type: Stakeholder meeting
+Purpose: Follow up meeting
+Moms Stop the Harm
+Former Minister of Mental Health and Addictions
+Participants from former Minister of Mental Health and Addictions
+Shannon Nix – Health Canada Associate ADM
+(i) Date
+(ii) Location (virtual/in-person)
+(iii) Meeting Type and Meeting Purpose
+(iv) Names of Organizations Represented Participants
+May 16, 2022 Virtual
+Type: Stakeholder meeting
+Purpose: To discuss the status of their work
+Fair Price Pharma
+Former Minister of Mental Health and Addictions
+Participation from Minister of Mental Health and Addictions’ Office
+May 10,2023
+Virtual
+Type: Virtual Exchange Forum
+Purpose: To discuss an “Evaluation of Harm Reduction Approaches to Address the Opioid Crisis in the
+Context of COVID-19 – Safer Supply Evaluation”
+Canadian Institutes of Health Research (CIHR)
+Representatives from CIHR
+Representatives from Health Canada
+Researchers and safer supply service providers
+April 24, 2023
+Virtual
+Type: Stakeholder meeting
+Purpose: To discuss safer supply
+London InterCommunity Health Centre
+Former Minister of Mental Health and Addictions
+Participants from former Minister of Mental Health and Addictions’ Office
+Representatives from London InterCommunity Health Centre
+February 16, 2023
+Virtual
+Type: Stakeholder meeting
+Purpose: To discuss the status of their work
+Fair Price Pharma
+Former Minister of Mental Health and Addictions
+Participation from Minister of Mental Health and Addictions’ Office
+February 15, 2023
+In Person
+Type: Site Visit
+Purpose: To learn more about Pathways to Recovery’s safer supply program
+Pathways to Recovery
+Safer Supply Ottawa
+Recovery Care
+Options Bytown
+Ottawa Inner City Health
+Somerset West Community Health Centre
+Respect Rx
+Sandy Hill Community Health Centre
+Ottawa Public Health
+Former Minister of Mental Health and Addictions
+Former President of the Treasury Board
+Participants from former Minister of Mental Health and Addictions’ Office
+Health Canada: Shannon Nix (As. ADM)
+Representative from Pathways to Recovery
+Representatives from Recovery Care
+Representatives from Options Bytown
+Representatives from Safer Supply Ottawa
+Representative from Ottawa Inner City Health
+Representatives from Somerset West Community Health Centre
+Representative from Respect Rx
+Representative from Sandy Hill Community Health Centre
+Representatives from Ottawa Public Health
+February 10, 2023
+Virtual
+Type: Stakeholder meeting
+Purpose: To discuss LIHC’s safer supply project
+London InterCommunity Health Centre
+Former Minister of Mental Health and Addictions
+Participants from former Minister of Mental Health and Addictions’ Office
+Representatives from London InterCommunity Health Centre
+Local Member of Parliament
+Shannon Nix, Health Canada
+(i) Date
+(ii) Location (virtual/in-person)
+(iii) Meeting Type and Meeting Purpose
+(iv) Names of Organizations Represented
+(v) Participants
+February 2,2023
+Virtual
+Type: Stakeholder meeting
+Purpose: To discuss SUAP safer supply projects.
+Parkdale Queen West Community Health Centre
+South Riverdale Community Health Centre
+London InterCommunity Health Centre
+National Safer Supply Community of Practice
+Former Minister of Mental Health and Addictions
+Participants from former Minister of Mental Health and Addictions’ Office
+Local Member of Parliament
+Parkdale Queen West Community Health
+South Riverdale Community Health Centre
+London InterCommunity Health Centre
+National Safer Supply Community of Practice
+January 12,2023
+In Person
+Type: Site Visit
+Purpose: To learn more about the Tablet Injectable Opioid Agonist Therapy (TiOAT) service in Cowichan
+Valley
+Island Health
+Lookout Health and Housing Society
+Former Minister of Mental Health and Addictions
+Participants from former Minister of Mental Health and Addictions’ Office
+Health Canada: Shannon Nix (As. Assistant Deputy Minister)
+Representatives from Island Health
+Representatives from Lookout Health and Housing Society
+January 11,2023
+In Person
+Type: Site Visit
+Purpose: To learn more about Hope to Health’s approach to care, including safer supply and primary care
+BC Centre for Excellence in HIV/AIDS
+Former Minister of Mental Health and Addictions
+Participants from former Minister of Mental Health and Addictions’ Office
+Health Canada: Shannon Nix (As. ADM)
+Representatives from the BC Centre for Excellence in HIV/AIDS
+November 22, 2022
+November 8, 2022
+October 27, 2022
+Virtual
+Type: Knowledge Exchange Series (KES) on Safer Supply
+Purpose: To hear from a range of participants on the current evidence and knowledge around safer
+supply, share experiences of what is or is not working well, and discuss how current research and
+knowledge can be used to design new models and services while reducing risks or unintended results
+from these programs.
+Expert Advisory Group on Safer Supply (EAG)
+Federal-Provincial- Territorial Committee on Substance Use
+Canadian Centre for Substance Use and Addiction (CCSA)
+Former Minister of Mental Health and Addictions (attended Oct 27 and Nov 22)
+Range of invited presenters, panellists, and participants, including researchers, safer supply prescribers
+and clients, national drug policy organizations, and PWLLE
+A number of observers also attended from Health Canada's Expert Advisory Group on Safer Supply, the
+Federal-Provincial-Territorial Committee on Substance Use, CCSA, Indigenous Services Canada, and the
+Canadian Institutes for Health Research.
+October 6, 2022
+Virtual
+Type: Follow-up discussion
+BC Centre on Substance Use (BCCSU)
+Jennifer Saxe (HC-Director General)
+Purpose: To discuss ongoing work by the BCCSU related to models of medication distribution for those at
+risk of overdose in BC.
+Carol Anne Chenard (HC- Director)
+Sheri Todd (HC-DG)
+Tammy Simpson (HC- Director)
+Cesare Spadaccini (HC – Manager)
+Anna Roberts (HC – Manager)
+Representative from BCCSU
+(i) Date
+(ii) Location (virtual/in-person)
+(iii) Meeting Type and Meeting Purpose
+(iv) Names of Organizations Represented
+(v) Participants
+September 14, 2022
+Virtual
+Type: Follow-up meeting with pharmaceutical company
+Purpose: To discuss diacetylmorphine availability in Canada
+Pharmascience
+Jennifer Saxe (Director General)
+Jennifer Pelley (Director)
+Jennifer Novak (Executive Director)
+Carol Anne Chenard (Director)
+Julie Hartleib (Director)
+Michele Musgrove (Manager)
+Representatives from Pharmascience
+August 30, 2022
+Virtual
+Type: Roundtable
+Purpose: To discuss overdose prevention in Canada and Australia
+Pennington Institute
+Ottawa Inner City Health
+Representative from the Senate
+Former Minister of Mental Health and Addictions
+Participants from former Minister of Mental Health and Addictions’ Office
+Representatives from the Pennington Institute
+Representative from Ottawa Inner City Health
+Representatives from health Canada: Shannon Nix (As Assistant Deputy Minister); Jennifer Saxe (Director
+General); Peggy Ainslie (Director)
+August 29. 2022
+Virtual
+Type: Roundtable
+Purpose: Follow up to meeting on July 27, 2022.
+Moms Stop the Harm
+Canadian Association of People Who Use Drugs
+Canadian Drug Policy Coalition
+Former Minister of Mental Health and Addictions
+Participants from former Minister of Mental Health and Addictions
+Representative from Moms Stop the Harm
+Representatives from the Canadian Drug Policy Coalition
+Representative from VANDU
+Representative from DULF
+Representative from the Harm Reduction Nurses Association
+Representatives from health Canada: Shannon Nix (AsADM); Jennifer Saxe (DG); Peggy Ainslie (Director)
+July 27, 2022
+Virtual Type: Roundtable
+Purpose: Follow up meeting to the Non- Medicalized Safe Supply Roundtable on March 10, 2022
+Moms Stop the Harm
+Canadian Drug Policy Coalition
+Prairie Harm Reduction
+VANDU
+DULF
+Harm Reduction Nurses Association Former Minister of Mental Health and Addictions
+Participants from former Minister of Mental Health and Addictions’ Office
+Representatives from Moms Stop the Harm
+Representatives from the Canadian Drug Policy Coalition
+Representative from Prairie Harm Reduction
+Representatives from the Canadian Association of People Who Use Drugs (CAPUD)
+Representative from VANDU
+Representative from DULF
+Representative from the Harm
+Reduction Nurses Association
+(i) Date
+(ii) Location (virtual/in-person)
+(iii) Meeting Type and Meeting Purpose
+(iv) Names of Organizations Represented
+(v) Participants
+June 27, 2022
+Virtual
+Type: Follow-up meeting with pharmaceutical company
+Purpose: To discuss diacetylmorphine availablity in Canada
+Pharmascience
+Jennifer Saxe (Director General
+Jennifer Pelley (Director)
+Jennifer Novak (Executive Director)
+Carol Anne Chenard HC- (Director)
+Julie Hartleib (Director)
+Representatives from Pharmascience
+June 17, 2022
+Virtual
+Type: Follow-up discussion
+Purpose: To discuss ongoing work by the BCCSU related to models of medication distribution for those at
+risk of overdose in BC.
+BC Centre on Substance Use (BCCSU)
+Jennifer Saxe (Director General
+Carol Anne Chenard (Director)
+Sheri Todd (Director General)
+Tammy Simpson (Director)
+Anna Roberts (Manager)
+Representative from BCCSU
+April 19, 2022
+In Person
+Type: Stakeholder Meeting
+Purpose: To visit the site and discuss the services provided.
+London InterCommunity Health Centre
+Not available
+April 11, 2022
+Virtual
+Type: Follow-up discussion
+Purpose: To discuss a request for an S. 56 exemption for a safe supply fulfillment centre and compassion
+club.
+Drug User Liberation Front (DULF)
+Vancouver Area Network of Drug Users (VANDU)
+Jennifer Saxe (Director General)
+Carol Anne Chenard (Director)
+Anna Roberts (Manager)
+Representative from DULF
+Representatives from VANDU
+April 9, 2022
+In Person
+Type: Site visit
+Purpose: To learn about their SAFER Initiative
+AVI Health and Community Services SAFER Initiative
+Representatives from AVI Health and Community Services
+Former Minister of Mental Health and Addictions
+Participants from former Minister of Mental Health and Addictions’ Office
+Health Canada: Shannon Nix (As. Assistant Deputy Minister )
+April 8, 2022
+In Person
+Type: Stakeholder meeting
+Purpose: Introductory meeting
+PHS Community Services Society
+Representatives from PHS Community Services Society
+Former Minister of Mental Health and Addictions
+Participants from former Minister of Mental Health and Addictions’ Office
+Health Canada: Shannon Nix (As. Assistant Deputy Minister)
+(i) Date
+(ii) Location (virtual/in-person)
+(iii) Meeting Type and Meeting Purpose
+(iv) Names of Organizations Represented
+(v) Participants
+April 8, 2022
+In Person
+Type: Site visit
+Purpose: To see a machine and hear about MySafe’s work.
+MySafe
+Representatives from MySafe
+Former Minister of Mental Health and Addictions
+Participants from former Minister of Mental Health and Addictions’ Office
+Health Canada: Shannon Nix (As. Assistant Deputy Minister)
+March 10, 2022
+Virtual
+Type: Ministerial Roundtable with Moms Stop the Harm and the Canadian Drug Policy Coalition
+Purpose: To better understand the drivers for safer supply, potential risks related to different service
+provision models and which have proven to be most effective, and remaining barriers to expanding the
+most effective models for safer supply.
+Moms Stop the Harm
+Canadian Drug Policy Coalition
+Former Minister of Mental Health and Addictions
+Former Parliamentary Secretary to former Minister of Mental Health and Addictions
+Participants from former Minister of Mental Health and Addictions Office
+Representatives from Moms Stop the Harm
+Representatives from the Canadian Drug Policy Coalition
+Health Canada: Shannon Nix (As. Assistant Deputy Minister)
+March 2, 2022
+Virtual
+Type: Webinar
+Purpose: To deliver remarks at the Canadian Pharmacists Association Webinar on Safer Supply
+Canadian Pharmacists Association
+Members of the Canadian Pharmacists Association
+Former Minister of Mental Health and Addictions
+Participants from former Minister of Mental Health and Addictions’ Office
+February 23, 2022
+Virtual
+Type: Ministerial Roundtable with Expert Advisory Body
+Purpose: To better understand the drivers for safer supply, potential risks related to different service
+provision models and which have proven to be most effective, and remaining barriers to expanding the
+most effective models for safer supply.
+Expert Advisory Group on Safer Supply (EAG)
+Former Minister of Mental Health and Addictions
+Participants from former Minister of Mental Health and Addictions’ Office
+Participant from the Prime Minister’s Office
+Former Parliamentary Secretary to Former Minister of Mental Health and Addictions
+Representatives from the Government of British Columbia, including the Honourable Sheila Malcolmson
+Health Canada: Jennifer Saxe (Director General), Jennifer Pelley (Director), Julie Hartlieb (Director), Sheri
+Todd (Director General), Ian Hodges (Manager), Saskia Vanderloo (Policy Analyst), Rachel Joyce Hayton
+(Policy Analyst)
+EAG members
+(i) Date
+(ii) Location (virtual/in-person)
+(iii) Meeting Type and Meeting Purpose
+(iv) Names of Organizations Represented
+(v) Participants
+February 22, 2022
+Virtual Type: Meeting with pharmaceutical company
+Purpose: To discuss diacetylmorphine availability in Canada
+Pharmascience
+Jen Saxe (Director General)
+Jennifer Pelley (Director)
+Jennifer Novak (Executive Director)
+Carol Anne Chenard (Director)
+Julie Hartleib (Director)
+Representatives from Pharmascience
+February 3, 2022
+Virtual
+Type: Health Canada People with Lived and Living Experience (PWLLE) Council Meeting with Minister
+Bennett
+Purpose: For the Minister to meet the members of Health Canada’s PWLLE Council and learn more about
+their priorities as outlined in a Discussion Paper, one of which is diversification of Safe Supply.
+PWLLE represent themselves and not their organization as Council Members.
+Former Minister of Mental Health and Addictions
+PWLLE Council Members
+Health Canada participants, including: Kendal Weber (Assistant Deputy Minister), Shannon Nix, (As.
+Assistant Deputy Minister), Jennifer Novak (Executive Director), Sheri Todd (Director General), Jennifer
+Saxe (Director General), Tammy Simpson (Director), Jennifer Pelley (Director)
+December 6, 2021
+Virtual
+Type: Stakeholder meeting
+Purpose: To learn more about iOAT and work of Dr. Peter Centre
+Dr Peter Centre
+Jennifer Saxe (HC-Director General)
+Carol Anne Chenard (HC- Director)
+Jennifer Pelley (HC – Director)
+Representatives from Dr. Peter Centre
+November 18, 2021
+Virtual
+Type: Meeting with Canadian Pharmacist Association
+Purpose: To discuss role of pharmacists in safer supply
+Canadian Pharmacist Association (CPHA)
+Jennifer Saxe (Director General)
+Jo-Ann Purcell (HC – Director)
+Representatives from CPHA
+February 15, 2021
+Virtual
+Type: Meeting with Stakeholder
+Purpose: Introductory meeting Canadian Association for Safe Supply (CASS)
+Jennifer Saxe (HC - Director General)
+Michelle Boudreau (HC - Director General)
+Representative from CASS
+February 5, 2021
+Virtual
+Type: Webinar
+Purpose: To provide an overview of the 6 national guidance documents developed by the Canadian
+Research Initiative in Substance Misuse (CRISM) that address the urgent needs of people who use
+substances, as well as service providers and decision makers during the COVID-19 pandemic. Other rapid
+response projects related to substance use and COVID- 19 were also discussed, such as the qualitative
+survey of the impact of COVID-19 on People with Living Experience of Drug Use.
+Representatives from a range of organizations, including:
+Provinces and Territories
+Federal departments and agencies
+Canadian Research Initiative in Substance Misuse(CRISM)
+Canadian Institutes of Health Research (CIHR)
+Representative from CRISM
+Jennifer Saxe (Director General)
+Bruna Brands (HC - Senior Science Advisor)
+Representatives from provincial and territorial governments
+An invitation to this webinar was extended to nearly 400 individuals and there was no record of
+attendance. As such we cannot confirm the number or
+names of participants.
+(i) Date
+(ii) Location (virtual/in-person)
+(iii) Meeting Type and Meeting Purpose
+(iv) Names of Organizations Represented
+(v) Participants
+January 11, 2021
+Virtual Type: Meeting with Stakeholder
+Purpose: To discuss work by the BCCSU related to models of medication distribution for those at risk of
+overdose in BC.
+British Columbia Centre for Substance Use (BCCSU)
+Eric Costen (HC – AsADM)
+Jennifer Saxe (HC-Director General)
+Carol Anne Chenard (HC- Director)
+Jennifer Novak (HC – Executive Director)
+Tammy Simpson (HC- Director)
+Representative from BCCSU
+April 26, 2021
+January 20, 2022
+January 26, 2022
+January 31, 2022
+June 16, 2022
+October 18, 2022
+November 4, 2022
+November 11, 2022
+Virtual
+Type: Meeting with Stakeholder
+Purpose: To discuss regulatory pathways regarding diacetylmorphine
+Fair Price Pharma
+Representatives from Fair Price Pharma
+Representatives from Health Canada (Jennifer Saxe, Director General, Carol Anne Chenard, Director)
+INQUIRY OF MINISTRY
+PREPARE IN ENGLISH AND FRENCH MARKING "ORIGINAL TEXT" OR "TRANSLATION"
+QUESTION NO
+Q-2204 BY
+Mr. Davies (Vancouver Kingsway) DATE
+December 14, 2023
+Reply by the Minister of Mental Health and Addictions and Associate Minister of Health
+Signed by Mr. Darren Fisher
+PRINT NAME OF SIGNATORY SIGNATURE
+MINISTER OR PARLIAMENTARY SECRETARY
+QUESTION
+With regard to the federal tobacco control strategy for fiscal year 2022-23: (a) what was the budget for
+the strategy; (b) how much of that budget was spent within each fiscal year; (c) how much was spent on
+each component of the strategy, specifically (i) mass media, (ii) policy and regulatory development, (iii)
+research, (iv) surveillance, (v) enforcement, (vi) grants and contributions, (vii) programs for Indigenous
+Canadians; (d) were any other activities not listed in (c) funded by the strategy, and, if so, how much was
+spent on each of these activities; and (e) was part of the budget reallocated for purposes other than
+tobacco control, and, if so, how much was reallocated?
+REPLY ORIGINAL TEXT TRANSLATION
+Health Canada
+Since Q-2204 will be tabled in March, a response from Health Canada has not been received yet.
+Public Health Agency of Canada
+Since Q-2204 will be tabled in March, a response from PHAC has not been received yet.

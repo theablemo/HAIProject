@@ -1,0 +1,83 @@
+Created: 2024-06-04T17:20:59.009986
+Name: Simulated_composite_diets
+Original URL: https://open.canada.ca/data/dataset/0490749d-b0b0-410a-9577-a903c6cec2be/resource/94b92abf-6557-4947-be25-894d98a62831/download/addendum-new-2023-estimated-energy-requirements.pdf
+Package ID: 0490749d-b0b0-410a-9577-a903c6cec2be
+Keywords: ['Nutrition', "Canada's Food Guide", 'Canada’s Dietary Guidelines', 'Diet simulations']
+Notes: Health Canada simulated diets that followed recommendations in Canada’s Dietary Guidelines and helped meet nutrient needs of people living in Canada at different life stages.  These simulated composite diets were part of the evidence used to develop the information in Applying Canada’s Dietary Guidelines. 
+
+Excel spreadsheets providing details on the simulated diets and their nutrient content are available below. The information in the methodology document should be reviewed prior to consulting the Excel spreadsheets.
+
+-------------------------------
+Extracted Text:
+Addendum: New 2023 Estimated Energy Requirements
+Summary: New 2023 Estimated Energy Requirements had a small impact on simulated composite diets
+but do not result in changes to Applying Canada’s Dietary Guidelines
+Simulated composite diets to support the application of Canada’s Dietary Guidelines
+Health Canada simulated diets to determine what combinations of foods encouraged in Canada’s Dietary
+Guidelines provide adequate amounts of key nutrients while considering flexibility in food choices. These
+simulated composite diets were part of the evidence used to develop the information in Applying
+Canada’s Dietary Guidelines.
+Excel spreadsheets providing details on the simulated diets and their nutrient content can be found on
+the Government of Canada’s Open data portal. The information in the Methodology - Simulated
+composite diets document should be reviewed prior to consulting these Excel spreadsheets.
+Three types of diets were created: Omnivore diets with and without healthy beverages and lacto-ovo
+vegetarian diets.
+Estimated Energy Requirements Update
+In January 2023, the National Academies of Sciences, Engineering, and Medicine published the “Dietary
+Reference Intakes for Energy” report which includes new formulas to calculate Estimated Energy
+Requirements (EER).
+For more details on new EER, please see: Dietary Reference Intakes for Energy | The National Academies
+Press.
+Calculation of new reference EER values
+Health Canada used the new formulas to calculate updated reference EER values. The new EER formulas
+are stratified by age, sex and categories of physical activity and the formulas’ input are age, height, and
+weight.
+The new reference EERs were calculated using the same median height and median normal weight from
+the 2015 Canadian Community Health Survey - Nutrition used for the previous calculations with the old
+EER formulas. Similar to before, the physical activity level (PAL) category for those who have a
+sedentary level of activity (“inactive”) was used. The new reference EER values were calculated for each
+Dietary Reference Intake (DRI) age/sex group and then compared to the total amount of energy in the
+simulated composite diets.
+1
+Impact on simulated composite diets
+A simulated composite diet was identified as being impacted by the new reference EERs when the
+energy content was above or below the new EER range by more than 100 kcal for a given age-sex group.
+Omnivore diets with healthy beverages:
+The amount of energy in the simulated composite diets of males and females 14-18 years of age was
+approximately 300 kcal less than the new EER range.
+The next largest difference was the simulated composite diets of males 31-50 and females 71 + which
+were about 100kcal less than the new EER range.
+All other diets were less than 100 kcal of the new EER range.
+Omnivore diets with no healthy beverages:
+The energy content of the simulated composite diets for those 2-3 years of age was approximately 100
+kcal greater than the new EER range.
+Similar to the omnivore diets with healthy beverages, the amount of energy in the simulated composite
+diets of males and females 14-18 years of age was approximately 300 kcal less than the new EER range.
+The simulated composite diets of males 19-30 and females 31-50 were about 100kcal less than the new
+EER range.
+Lacto-ovo vegetarian diets:
+The energy content of the simulated composite diets for males and females 14-18 years of age was
+approximately 250 kcal less than the new EER range.
+The amount of energy in the simulated composite diets of males 19-30 years of age was approximately
+100 kcal less than the new EER range.
+Implications
+Given the non-prescriptive and flexible nature of Applying Canada’s Dietary Guidelines, Health Canada
+determined that adjustments to the simulated composite diets were not required.
+For the simulated composite diets where the energy content is less than the new EER range, about 1-2
+additional Reference Amounts of a combination of vegetables and fruit, whole grains, and/or protein
+foods can be added to the diet. In particular, for the diets of 14 – 18-year-olds, since there is
+approximately 250-300kcal difference with the new EER range, this allows for increased flexibility in food
+choices.
+2
+The simulated composite omnivore diet with no healthy beverage for those 2-3 years of age was
+examined to determine if the energy content could be reduced by 100 kcal while maintaining alignment
+with the guiding principles (see methodology) and nutrient content within targets. This was achieved
+when, for example, a small amount from each of whole grains, vegetables and fruit, and fats and oils was
+removed from the diet.
+Overall, the new Estimated Energy Requirements did not have an impact on the information in Applying
+Canada’s Dietary Guidelines.
+The simulated composite diets continue to illustrate that combinations of foods encouraged in the 2019
+Canada’s food guide provide adequate amounts of key nutrients while considering flexibility in food
+choices for different age and sex groups.
+[END]
+3

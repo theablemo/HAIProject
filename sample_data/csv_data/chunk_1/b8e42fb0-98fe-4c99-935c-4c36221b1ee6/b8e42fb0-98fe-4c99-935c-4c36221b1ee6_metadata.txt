@@ -1,0 +1,15 @@
+Created: 2022-02-08T18:51:04.422243
+Name: Canadian_Total_Diet_Study_-_Polychlorinated_biphenyls_(PCBs)_1992-2015
+Original URL: https://health.canada.ca/apps/open-data/stud-etud-diet-alim-total/pcb-bpc/Total%20Diet%20Study%20Polychlorinated%20Biphenyls%20(PCB)%20results%201992-2015.csv
+Package ID: b8e42fb0-98fe-4c99-935c-4c36221b1ee6
+Keywords: ['Total', 'Diet', 'Foods', 'Composites', 'Polychlorinated biphenyl', 'PCB', 'PCBs', 'market basket survey']
+Notes: Polychlorinated biphenyls (PCBs) are a class of industrial chemicals that were used in a wide variety of applications including transformer oils, paints, and lubricants. PCBs are lipophilic compounds and accumulate in the tissues of biological organisms and bioconcentrate through the food chain. These compounds are thermally stable, persist in the environment and are subject to long-range transport. Canadian regulations related to PCBs came into force in 2008, which limit the release of these chemicals to the environment. PCBs can still be detected at very low levels in the Canadian food supply, particularly higher fat foods of animal origin.
+
+This dataset includes the following years of surveillance results: 1992-1996, 1998, 2000-2003, 2005-2007, 2009, 2013, and 2015.
+
+Learn about the Canadian Total Diet Study (https://www.canada.ca/en/health-canada/services/food-nutrition/food-nutrition-surveillance/canadian-total-diet-study.html)
+
+Search through Health Canada's food contaminant data on CANLINE (https://open.canada.ca/data/en/dataset/01c12f93-d14c-4005-b671-e40030a3aa2c) 
+
+
+

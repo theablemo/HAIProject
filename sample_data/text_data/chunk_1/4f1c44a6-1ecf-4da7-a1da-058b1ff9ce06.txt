@@ -1,0 +1,50 @@
+Created: 2023-09-05T20:01:18.720708
+Name: Canada's_Food_Guide_Research_Tools_-_Data_and_Resources
+Original URL: https://open.canada.ca/data/dataset/4f1c44a6-1ecf-4da7-a1da-058b1ff9ce06/resource/a475ab96-5738-44d3-9be3-9ce2bfd40c0a/download/readme-for-sas-code-cfis.docx
+Package ID: 4f1c44a6-1ecf-4da7-a1da-058b1ff9ce06
+Keywords: ["Canada's food guide research tools", 'Healthy Eating Food Index', "Canada's Food Guide", 'Screener', 'Diet Quality Index', 'Canadian Food Intake Screener', 'Canadian Eating Practices Screener']
+Notes: Health Canada has developed a series of research tools. These tools assess the extent a group of individuals are following Canada’s food guide:
+
+1.	Healthy Eating Food Index
+2.	Canadian Food Intake Screener
+3.	Canadian Eating Practices Screener 
+
+This page provides detailed information for the screeners. For an overview of the tools, please consult the document “ Canada’s food guide research tools: description, use, evaluation”. 
+
+For more information on the Healthy Eating Food Index, please see:  https://open.canada.ca/data/en/dataset/29892c85-2ff5-484c-873c-f494ffba6e1b
+
+
+-------------------------------
+Extracted Text:
+The Canadian Food Intake Screener (CFIS) 
+README for SAS code CFIS 
+
+Adapted from: Hutchinson JM, et al. https://doi.org/10.1139/apnm-2023-0018
+
+Background
+
+The Canadian Food Intake Screener/Questionnaire court canadien sur les apports alimentaires was developed to rapidly assess alignment of adults’ dietary intake over the past month with the 2019 Canada Food Guide’s healthy food choices recommendations. The screener includes 16 questions. Arriving at screener scores involves creating components by summing and deriving ratios based on responses to screener questions. Scores on each component are summed to arrive at a total possible score with a maximum of 65 points.
+
+The screener is designed to provide one total score assessing alignment. The component scores are meant only for the purpose of calculating the total score.
+
+Suggested layout for input dataset
+
+The sample SAS code was created with the assumption that observations are rows and screener responses are columns.
+
+SAS  code
+
+An example of a SAS code is provided in the accompanying supplementary file – SAS Code CFIS. This code demonstrates how components are created and summed to arrive at screener scores. 
+
+Input variable names 
+
+
+Output
+
+From the SAS code, several variables are created: 
+
+Intermediate variables used to create components 
+
+
+Components used for scoring
+
+

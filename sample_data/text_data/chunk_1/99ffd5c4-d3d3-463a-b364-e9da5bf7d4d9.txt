@@ -1,0 +1,1840 @@
+Created: 2024-09-20T18:10:23.148158
+Name: An_Act_respecting_Pharmacare_Parliamentary_Committee_Binder
+Original URL: https://open.canada.ca/data/dataset/99ffd5c4-d3d3-463a-b364-e9da5bf7d4d9/resource/7483685d-02c6-42ed-a1ed-2127016510e0/download/an-act-respecting-pharmacare-eng.pdf
+Package ID: 99ffd5c4-d3d3-463a-b364-e9da5bf7d4d9
+Keywords: ['parliamentary appearance', 'Health', 'Pharmacare']
+Notes: Minister Holland's  binder for his appearance at An Act respecting Pharmacare on May 27th, 2024.
+-------------------------------
+Extracted Text:
+An Act respecting Pharmacare
+Parliamentary Committee Binder
+May 27th, 2024
+An Act respecting Pharmacare
+Parliamentary Committee Binder
+TABLE OF CONTENTS
+Part A: Overview
+1. Questions and Answers
+2. Technical Briefing Deck
+3. Pharmacare News Release
+Part B: QP Notes
+4. Populations with Unmet Needs
+5. Indigenous Groups
+6. PT Jurisdiction
+7. Fiscal Implications
+8. National Formulary and Bulk Purchasing Strategy
+9. Stakeholders
+10. Uninsured and Underinsured
+11. Drugs for Rare Diseases
+12. Appropriate Use
+13. Canadian Drug Agency Post-Announcement
+Part C: Background
+14. Backgrounder on Contraceptives
+15. Backgrounder on Diabetes
+16. Text of the Bill
+Questions & Answers
+Pharmacare Bill Legislation
+Q1. How much is this going to cost?
+The bill sets out that discussions would need to first occur between provinces and territories (PTs)
+with respect to the funding of universal, single-payer coverage for a range of contraception and
+diabetes medications. Further information on the cost will be subject to forthcoming discussions
+and subsequent agreements with willing PTs.
+Separate from this Bill, the Government of Canada would also create a fund for diabetes devices
+and supplies. This fund would be rolled out to support access to diabetes devices such as
+continuous glucose monitors, insulin pumps, syringes and test strips.
+Also as set out in the Bill, the Minister will establish a committee of experts to make
+recommendations respecting options for the operation and financing of national, universal, single-
+payer pharmacare, which would include information on costs starting with contraception and
+diabetes medications.
+If pressed on the cost of universal pharmacare,
+The Bill outlines a mechanism, through collaboration and agreements with willing PTs, that will put
+in place a universal single-payer model for the coverage of specific contraception and diabetes
+medications. The intent of this funding would be to enhance, rather than replace, existing PT
+spending on public drug benefit programs.
+There are a range of costing estimates depending on model of coverage and formulary so it would
+be impossible to give a definitive answer to this question. This Bill provides for a committee of
+experts to make recommendations related to the financing and operation of single-payer
+pharmacare.
+If pressed on the $1.5 billion cost stated in news articles and Budget 2024
+The announcement of $1.5B over five years in Budget 2024 confirms the federal government’s
+commitment to provide funding to launch national pharmacare in Canada.
+As outlined in Bill C-64, there is a commitment to maintaining long-term funding for the provinces,
+territories, and Indigenous peoples to improve the accessibility and affordability of pharmaceutical
+products.
+The Bill also states the Government’s intention to work with provinces and territories to increase
+existing public pharmacare coverage to provide universal, single-payer coverage for specific
+contraception and diabetes medications.
+The Minister has had some preliminary discussions with his provincial and territorial counterparts.
+The federal government will discuss with provinces and territories how we can work together to
+achieve these commitments, while recognizing the unique drug coverage context within each
+jurisdiction. As these discussions unfold, more information will become available.
+Q2. Why were contraception and diabetes drugs chosen specifically?
+These targeted measures will improve equity, affordability, and health outcomes and have the
+potential of long-term savings to the health care system.
+Access to contraception reduces the risk of unintended pregnancies and improves people’s ability
+to determine their own contribution to society and the economy. In Canada, there are more than 9
+million people of reproductive age who make up nearly one quarter of the Canadian population
+(22.5% in 2022). Cost has consistently been identified as the single most important barrier to
+access to these medications and the cost is unevenly borne by women and gender diverse
+Canadians.
+Diabetes is a very complex disease affecting more than 3.7 million Canadians and can be treated
+with safe and effective medications. Additionally, uncontrolled diabetes and its complications can
+lead to high and unnecessary costs incurred from lost productivity and elevated health-care system
+use. Access to diabetes medications can improve the health of Canadians living with diabetes and
+reduce the risk of serious life-changing health complications such as blindness or amputations.
+More information is available in the backgrounders.
+Q3. When will other drugs be added and what is the process to do that?
+This Bill outlines a framework that would help guide collaboration with provinces, territories,
+Indigenous Peoples, stakeholders and partners to develop national universal pharmacare over
+time, based on the foundational principles outlined in the Bill.
+The Bill also sets out processes and next steps for other foundational elements of a national
+pharmacare program, including work on a national formulary, a national bulk purchasing plan, an
+appropriate use strategy and an expert committee. The consideration of adding other drugs would
+evolve against the backdrop of these other elements, in addition to ongoing collaboration with
+provinces, territories, stakeholder and partners.
+In addition to work that will be carried out through the Bill, the Government of Canada is already
+moving forward, in collaboration with PTs, on other pharmacare initiatives that are delivering
+results. This includes work on the National Strategy for Drugs for Rare Diseases, the Improving
+Affordable Access to Prescriptions Drugs Initiative with Prince Edward Island, and work to establish
+the Canadian Drug Agency.
+Q4. Is this coverage of contraception and diabetes medications truly “single payer” model?
+Canada currently relies on more than 100 government-run drug insurance programs designed to
+serve people in vulnerable groups, and more than 100,000 private drug insurance plans that largely
+provide employment-based coverage. A “single-payer” system means that a government pays for
+services on behalf of all its citizens. In the Canadian context, where PTs deliver health care, the
+term “single-payer” means PT governments, which is often supported by federal funding.
+The Bill outlines a mechanism, through collaboration and agreements with willing PTs, that will put
+in place a universal single-payer model for the coverage of specific contraception and diabetes
+medications. The intent of this funding would be to enhance, rather than replace, existing PT
+spending on public drug benefit programs.
+Q5. What could be the impact on private drug insurance? Should people opt-out of their private
+insurance plan if their province accepts funding for contraception and diabetes?
+The Bill does not reference private drug insurance or legislate any of its activities. Workplace health
+benefit plans often cover a range of costs beyond drug coverage, including services from other
+health providers (such as physiotherapy) and include benefits like life insurance and disability
+benefits. Employers use these plans for recruitment and retention of employees, as part of an
+employee’s compensation. Until agreements are in place with PTs, employers and employees
+would be unlikely to want to make any changes to their drug plans.
+Canadians that do have private drug insurance would also have coverage for a broader scope of
+drug classes beyond the specific contraception and diabetes medications outlined in the Bill.
+Furthermore, access to the specific contraception and diabetes medications will be dependent on
+the establishment of bilateral agreements with PTs before implementation of this initiative
+commences.
+Q6. Would there need to be changes to the CHA to roll-out full pharmacare?
+There are no plans to make amendments to the Canada Health Act (CHA) and this Bill does not
+require the CHA be amended.
+In recognition of PT jurisdiction on the delivery of health care services and the essential role they
+play in implementing pharmacare, it is important that the Canadian government take a
+collaborative approach with partners as we move forward.
+This Bill provides a flexible approach to allow for discussions to occur with PTs and subsequently
+working with them to implement national universal pharmacare over time.
+Furthermore, the Bill contains other pharmacare commitments such as a national formulary and a
+national bulk purchasing plan which would be outside the scope of the CHA.
+Q7. Why doesn’t this Bill follow the recommendations outlined in the Advisory Council/ Hoskins
+report?
+This preamble text of the Bill recognizes the work and recommendations of the Advisory Council
+and the Bill follows several recommendations of the report, including:
+Taking a step by step approach to the implementation of pharmacare in partnership with PTs and
+Indigenous populations;
+Having essential medicines as a starting point in the development of a national formulary;
+Establishing a Canadian Drug Agency (CDA) that would help develop a national formulary, a
+purchasing strategy, and provide guidance on appropriate use; and,
+Recognizing the need to improve access to drugs for rare diseases.
+Q8. Why is there currently funding to PEI for its program and no other province or territory?
+The PEI demonstration initiative is giving real world lessons in how pharmacare principles can be
+implemented in Canada's distinct pharmaceutical landscape.
+PEI signaled its interest in participating in a demonstration initiative and an agreement was
+announced on August 11, 2021. Through this agreement, PEI received $35 million in federal funding
+to add new drugs to its list of covered drugs and lower out of pocket costs for drugs covered under
+existing public plans for Island residents.
+To date, the PEI project has increased access to over 100 drugs, reduced copays and other cost
+barriers for residents, and reduced paperwork to access certain medications. Within the first 6
+months alone, PEI residents have saved over $2 million on over 230,000 prescriptions. These
+actions under the PEI demonstration initiative have helped demonstrate practically how
+affordability and accessibility principles can be achieved in the real world.
+The Government of Canada will use these lessons to inform future discussions with PTs.
+Q9. Have discussions taken place with other provinces and territories? Are they supportive?
+This Bill sets the framework for future collaboration in implementing national universal pharmacare
+with willing jurisdictions and also key partners including Indigenous Peoples, patients, and
+stakeholders.
+The Government of Canada would work with willing PTs to implement coverage for specific
+contraception and diabetes medications through bilateral agreements.
+The Government of Canada is already engaging PTs on other pharmacare initiatives that are
+delivering results, including the National Strategy for Drugs for Rare Diseases, the Improving
+Affordable Access to Prescriptions Drugs initiative and working to establish the CDA.
+Q10. What will the national formulary look like and how will it be covered under national universal
+pharmacare?
+A national formulary is a list of approved prescription drugs and products which all Canadians
+should have access to under national universal pharmacare.
+To inform the development of a national formulary, this Bill sets out that the Minister would request
+the CDA prepare a list of essential prescription drugs and related products. This list would be a
+starting point for partners to consider which pharmaceutical products should be included under
+national universal pharmacare. It would also help set out parameters for future bilateral
+agreements with PTs.
+Upon completion of this list, the Minister must initiate discussions with PTs, Indigenous peoples
+and other partners and stakeholders with the aim of continuing to work toward the first phase of
+national universal pharmacare.
+The CDA is an expert in this area and is best placed to develop this starting point in collaboration
+with PTs, Indigenous Peoples, and other partners and stakeholders. The CDA would be expected to
+develop this list no later than the first anniversary of the day on which this Bill gets approved.
+Q11. How long will it take to get to full pharmacare if this is a foundational step?
+The 2019 Advisory Panel proposed a step-by-step approach and implementation over seven years
+as it recognized the complexity of the current situation with regard to prescription drug affordability
+and access in Canada, taking into consideration the various ways Canadians may receive drug
+coverage.
+This Bill would guide collaboration with PTs, Indigenous Peoples, stakeholders, and partners to
+develop national universal pharmacare over time, based on the foundational principles outlined in
+the Bill.
+This will also be dependent on the forthcoming discussions with PTs regarding specific
+contraception and diabetes medications and subsequent agreements that will be put in place with
+willing PTs.
+Q12. What is the bulk purchasing strategy?
+This Bill tasks the Minister to request the CDA to develop advice on a national bulk purchasing
+strategy no later than the first anniversary of the day on which the Act receives royal assent.
+In simple terms, a bulk purchasing strategy means a coordinated price negotiation approach to
+maximize negotiating power and lead to lower drug prices for Canadians. Because the purchase is
+made in bulk form, a better deal can be negotiated.
+The bulk purchasing strategy will not include the physical purchase and stockpile of drugs by the
+Government of Canada on behalf of responsible governments.
+Q13. Does this Bill create the mandate for the Canadian Drug Agency?
+No. The Bill does not create anything regarding the Agency’s organizational mandate, governance,
+or funding. The creation of the CDA was announced on December 18, 2023.
+The Bill describes the Minister’s power to request advice from the CDA. It states that the Minister of
+Health must request that the CDA prepare a list of essential prescription drugs and related
+products to inform the development of a national formulary and develop a national bulk purchasing
+strategy.
+If pressed on the role and functions of the CDA:
+The CDA will be built from the existing Canadian Agency for Drugs and Technologies in Health
+(CADTH) and in partnership with PTs. The CDA will incorporate and expand on CADTH’s expertise in
+the pharmaceutical sector, including its strong leadership and technical proficiency.
+The CDA will work to improve the appropriate prescribing and use of medications; increase access
+to drug and treatment data; and reduce drug system duplication and lack of coordination.
+Q14. What will be the impact of the pharmacare bill on Indigenous Peoples in Canada?
+The Bill commits to engaging and collaborating with First Nations, Inuit, and Métis governments and
+representative organizations on the implementation of national universal pharmacare.
+The Bill has no impact on any current federal programs for Indigenous Peoples, such as drug
+coverage for registered First Nations and recognized Inuit through the Non-Insured Health Benefits
+(NIHB) Program.
+Q15. What if a province opts out with the expectation of full compensation?
+As outlined in the Bill, in order to receive federal funding to provide universal, single-payer coverage
+for contraception and diabetes medications, a bilateral agreement would need to be made
+between the Government of Canada and a willing province or territory.
+The Bill also recognizes the jurisdiction of PTs in the provision of health care, including the coverage
+of prescription drugs and related products.
+Q16. In BC, contraceptives are already free. What will this new federal program mean for them?
+As outlined in the Bill, in order to receive federal funding to provide universal, single-payer coverage
+for contraception and diabetes medications, a bilateral agreement would need to be made
+between the Government of Canada and a province or territory.
+We will take the necessary time to work with provinces and territories, like BC, to discuss the
+details of bilateral agreements recognizing the unique public drug coverage contexts across all of
+the PTs.
+Q17. How will this Bill apply in Quebec for contraceptive and diabetes coverage?
+Quebec has a mixed payer model which ensures that their residents always have some form of
+public or private drug coverage.
+This Bill outlines the framework for discussions to come with willing jurisdictions as partners in
+implementing national universal pharmacare, including Quebec. It also sets out foundational
+principles for affordability, accessibility, appropriate use and universality that can be applied to any
+drug coverage model in Canada.
+Q18. If this Bill is only framework legislation, what is the Government doing now to make drugs
+more accessible and affordable for Canadians?
+The Government continues its work to streamline the approval of new drugs while ensuring their
+safety, efficacy, and quality; advance on national pharmacare; implement a national strategy for
+drugs for rare diseases; and proceed with an ambitious biomanufacturing and life sciences
+strategy.
+These developments will improve the accessibility of new medicines for people in Canada and
+support the sustainability of the health care system, while at the same time supporting innovation
+and investment in the pharmaceutical sector.
+On March 22, 2023, the Minister of Health announced measures in support of the first-ever
+National Strategy for Drugs for Rare Diseases, with an investment of up to $1.5 billion over three
+years to increase access to, and affordability of, effective drugs for rare diseases to help improve
+the health and lives of patients living with a rare disease in Canada. This investment in improving
+the accessibility and affordability of drugs for rare diseases is an important piece of pharmacare.
+The Government of Canada has also been working in collaboration with PTs to help Canadians
+access more common prescription medications. In August 2021, the Government announced the
+Improving Affordable Access to Prescriptions Drugs agreement to provide Prince Edward Island
+(PEI) with $35 million over four years starting in 2021-22 to support the province’s efforts to provide
+its residents with more affordable access to prescription drugs.
+In June 2023, PEI’s $5 copay program reduced copays for almost 60% of medications regularly used
+by Island residents for eligible medications used for cardiovascular disease, diabetes and mental
+health covered under the public drug programs. The High-Cost Drug Program was also modified to
+remove barriers making the program available to all income levels. In addition, in July 2023, PEI
+adjusted the Catastrophic Drug Program to lower the annual cap on the amount of money a
+household spends on eligible medications.
+As of November 2023, PEI residents have saved over $2 million out-of-pocket costs on more than
+230,000 prescriptions.
+The Government of Canada also supports the work of the pan-Canadian Pharmaceutical Alliance
+(pCPA) which negotiates drug prices for public drug plans. These negotiations have produced
+savings of $3.4 billion annually.
+Q19. What are the options for models that the government is considering (or that you have studied)
+for pharmacare?
+The Bill does not identify a model of pharmacare
+The Bill commits that the Government of Canada would continue to collaborate with partners and
+stakeholders in implementing national universal pharmacare.
+Specific models, including the operation and financing of universal, single payer pharmacare, will
+be studied by the expert committee described in the Bill.
+Canada’s Plan for Universal Pharmacare
+Steps towards national universal pharmacare
+2019:
+Final Report of the Advisory Council on the Implementation of National Pharmacare
+Budget 2019 Commitment for foundational elements: Canadian Drug Agency (CDA), National
+Formulary and National Strategy for Rare Diseases
+2020:
+Speech from the Throne commitment to PT engagement towards national, universal pharmacare,
+proceeding with National Strategy for Rare Diseases, advancing work to establish the CDA
+2021:
+Investment of $35M with Prince Edward Island for the Improving Affordable Access to Prescription
+Drugs Initiative
+2022:
+June 2022, a multidisciplinary national panel convened by the Canadian Agency for Drugs and
+Technology in Health (CADTH), at the request of Health Canada, recommended a framework for
+developing a national formulary and a sample list of drugs.
+Budget 2022 commitments to introduce Pharmacare Bill and task CDA to develop a national
+formulary
+2023:
+March 2023, the National Strategy for Drugs for Rare Diseases (DRD) was launched with an
+investment of up to $1.5B over 3 years to increase access to, and affordability of, DRDs.
+December 2023 creation of the Canadian Drug Agency (CDA) with an investment of $89.5 million
+over 5 years, starting in 2024-25.
+An Act respecting pharmacare
+This Bill represents the first phase in the federal government’s commitment to establish national
+universal pharmacare.
+Sets the federal government’s framework to guide its efforts with partners to improve prescription
+drug accessibility, affordability, universal coverage and appropriate use, for all Canadians.
+Formalizes a requirement to work collaboratively with provinces and territories and Indigenous
+peoples to build national universal pharmacare through a step-by-step approach.
+Describes the Government’s intent to provide universal, single-payer coverage for a range of
+contraception and diabetes medications through collaborative arrangements with willing provinces
+and territories.
+Supports the development of a national formulary of essential prescription drugs and related
+products and the development of a national bulk purchasing strategy, to be led by the Canadian
+Drug Agency.
+Principles
+The bill outlines that the Minister is to consider the following principles and the Canada Health Act,
+when collaborating with provinces, territories, Indigenous peoples and other partners and
+stakeholders towards national universal pharmacare:
+a. improve the accessibility of pharmaceutical products, including through their coverage, in a
+manner that is more consistent across Canada;
+b. improve the affordability of pharmaceutical products, including by reducing financial barriers for
+Canadians;
+c. support the appropriate use of pharmaceutical products — namely, in a manner that prioritizes
+patient safety, optimizes health outcomes and reinforces health system sustainability — in order to
+improve the physical and mental health and well-being of Canadians; and
+d. provide universal coverage of pharmaceutical products across Canada.
+The principles included in the bill are intended to guide efforts to improve coverage for Canadians
+and align with ongoing work related to drugs for rare diseases and the Canadian Drug Agency.
+Bilateral Agreements and Funding
+This Bill legislates a path to bilateral agreements with willing provinces and territories by providing a
+federal commitment to long-term pharmacare funding beginning with existing funding for drugs for
+rare diseases as announced in Budget 2019.
+If the Minister enters in a bilateral agreement with a willing province or territory, the Minister may
+provide funding to that province or territory, to increase any existing pharmacare coverage, allowing
+the province or territory to provide universal, single-payer, first dollar coverage, for specific
+prescription drugs and related products intended for contraception or the treatment of diabetes.
+Specific Contraception and Diabetes Medications
+The Government will work with willing provinces and territories to implement coverage for specific
+contraception and diabetes medications through bilateral agreements, per the Bill. Funding will
+enhance, rather than replace, existing provincial and territorial spending on public drug benefit
+programs.
+The specific contraception and diabetes medications are listed in the backgrounders.
+Specific Contraception and Diabetes Medications (cont’d)
+Starting with these drugs is part of the step-by-step approach set out in the Bill.
+Provides an opportunity to test the application of the principles of improving access, affordability,
+appropriate use and universal coverage at a national scale within the context of the complexity of
+Canada’s healthcare system.
+Provides for a nationally consistent approach that some provinces have already begun to
+implement to support uptake of effective contraception methods.
+Benefits people living with and managing diabetes and helps ensure that these individuals are able
+to afford the drugs that they need.
+The Minister will also work with PTs to establish a fund for diabetes devices and supplies to support
+patients in managing their diabetes and administering their medication.
+The Canadian Drug Agency (CDA)
+On December 18, 2023, the Government of Canada announced the creation of the Canadian Drug
+Agency (CDA). The CDA will be built from the existing Canadian Agency for Drugs and Technologies
+in Health (CADTH) and in partnership with provinces and territories (PTs).
+The bill outlines the functions of the CDA, a key foundational element of national pharmacare, as
+outlined below:
+Clinical and cost-effectiveness analysis
+Advice to inform formulary listing by federal, provincial and territorial drug plans
+Pharmaceutical data and analytics
+Appropriate prescribing and use
+Pharmaceutical system coordination
+National Formulary and Bulk Purchasing Strategy
+After discussions with the provinces and territories, the Bill requires that the Minister request that
+the CDA:
+1. prepare a list of essential prescription drugs and related products to inform the development of a
+national formulary that will establish the scope of prescription drugs and related products to which
+Canadians should have access under national universal pharmacare.
+Upon completion of this list, the Minister must initiate discussions with provinces, territories,
+Indigenous peoples and other partners and stakeholders with the aim of continuing to work toward
+the implementation of national universal pharmacare.
+2. develop, in collaboration with partners and stakeholders, a national bulk purchasing strategy.
+The Minister must request the CDA complete the list and strategy no later than the first anniversary
+of the day on which this Act receives royal assent.
+Appropriate Use Strategy
+Work to advance a pan-Canadian strategy for appropriate use began in March 2023, with the launch
+of an Advisory Committee to inform the strategy and a corresponding program.
+An Appropriate Use Strategy section commits the Minister to:
+ensuring that a pan-Canadian strategy for appropriate use is published no later than one year after
+royal assent of the Act and,
+requesting that the CDA prepare reports every three years on the progress made in advancing the
+strategy.
+Committee of Experts
+The Minister must, within 30 days of the day on which this Act receives royal assent, establish a
+committee of experts, and provide for its membership, to make recommendations respecting
+options for the operation and financing of national, universal, single-payer pharmacare.
+The committee must, no later than the first anniversary of the day on which this Act receives royal
+assent, provide a written report to the Minister setting out its recommendations.
+Summary of Next Steps
+Should this Bill be passed:
+The Minister will establish a committee of experts, within thirty days of the day after this Act
+receives royal assent. Appointment of committee members would be shared publicly.
+Ministerial outreach will commence on next steps, including discussions with provinces and
+territories regarding bilateral agreements.
+The Minister will request that within one year on which this Act receives royal assent, the Canadian
+Drug Agency:
+prepare a list of essential prescription drugs and related products to inform the development of a
+national formulary, and
+develop a national bulk purchasing strategy.
+Initiatives that are underway related to affordable prescription medicines in Prince Edward Island,
+efforts under the National Strategy for Drugs for Rare Diseases, and work by the Canadian Drug
+Agency, will all continue and will be evaluated for their lessons learned for national universal
+pharmacare in Canada.
+News Release
+For Immediate Release
+Government of Canada Introduces Legislation for First Phase of National Universal Pharmacare
+Legislation includes universal access to contraception and diabetes medications.
+February 29, 2024 | Ottawa, Ontario | Health Canada
+Today, the Honourable Mark Holland, Minister of Health, introduced Bill C-64, An Act respecting
+pharmacare (Pharmacare Act), which proposes the foundational principles for first phase of
+national universal pharmacare in Canada and describes the Government of Canada’s intent to
+work with provinces and territories (PTs) to provide universal, single-payer coverage for a number of
+contraception and diabetes medications.
+The Minister also announced the government’s plan to establish a fund to support Canadians’
+access to supplies that diabetics require to manage and monitor their condition and administer
+their medication, such as syringes and glucose test strips.
+This legislation is an important step forward to improve health equity, affordability, and outcomes
+and has the potential of long-term savings to the health care system.
+Coverage for contraceptives will mean that 9 million Canadians of reproductive age will have better
+access to contraception and reproductive autonomy, reducing the risk of unintended pregnancies
+and improving their ability to plan for the future. Cost has consistently been identified as the single
+most important barrier to access to these medications and the cost is unevenly borne by women
+and gender diverse Canadians. Bill C-64 will ensure that Canadians will have access to a
+comprehensive suite of contraceptive drugs and devices.
+Diabetes is a complex disease that has no cure but can be treated with safe and effective
+medications. One in four Canadians with diabetes have reported not following their treatment plan
+due to cost.
+Improving access to diabetes medications will help improve the health of 3.7 million Canadians
+living with diabetes and reduce the risk of serious life-changing health complications such as
+blindness or amputations.
+Over the past year, the Government of Canada has delivered on key actions to provide better and
+more accessible health care in Canada. Financial barriers should not be an impediment to
+accessing safe and effective prescription drugs and related products. We are determined to work
+towards a plan where Canadians can obtain their medication as prescribed, regardless of where
+they live or their ability to pay.
+The Bill demonstrates the Government of Canada’s commitment to consulting widely about the
+way forward and working with provinces, territories, Indigenous peoples and other partners and
+stakeholders to improve the accessibility, affordability and appropriate use of pharmaceutical
+products, by reducing financial barriers and contributing to physical and mental health and well-
+being.
+Bill C-64 also provides that the new Canadian Drug Agency work towards the development of a
+national formulary, develop a national bulk purchasing strategy, and support the publication of a
+pan- Canadian strategy regarding the appropriate use of prescription medications.
+Together, these elements would form the key next steps towards national universal pharmacare in
+Canada. The Minister would further establish a committee of experts to make recommendations on
+the operation and financing of national, universal, single-payer pharmacare in Canada.
+Bill C-64 proposes a significant change to our heath care landscape, which, together with the
+learnings from ongoing initiatives such as the National Strategy for Drugs for Rare Diseases and the
+Improving Affordable Access to Prescriptions Drugs initiative with Prince Edward Island, are part of
+the Government of Canada’s plan to ensure Canadians can access the medicines they need and
+pave the way forward towards the implementation of national universal pharmacare in Canada.
+Quotes
+“Each and every Canadian should have access to the prescription drugs they need. That’s why
+we’re working with our partners towards the first phase of national universal pharmacare. This
+important next step will provide universal access to contraception and diabetes medication that
+will be transformational in improving health outcomes in Canada.”
+The Honourable Mark Holland Minister of Health
+Quick Facts
+On December 18, 2023, the Government of Canada announced the creation of the Canadian Drug
+Agency with an investment of over $89.5 million over 5 years, starting in 2024-25. The Agency will
+provide the dedicated leadership and coordination needed to make Canada’s drug system more
+sustainable and prepared for the future and help Canadians achieve better health outcomes.
+On March 22 2023, the Government of Canada announced measures in support of the first-ever
+National Strategy for Drugs for Rare Diseases, with an investment of up to $1.5 billion over three
+years to help increase access to, and the affordability of, effective drugs for rare diseases. Bill C-64
+commits to a model for long-term funding, beginning with funding for the National Strategy for
+Drugs for Rare Diseases and to be primarily provided through bilateral agreements with provinces
+and territories.
+PEI residents have saved over $2 million in out-of-pocket costs on more than 230,000 prescriptions
+under PEI’s $5 copay program, which was launched in June 2023 and reduced copays for almost
+60% of medications regularly used by Island residents. These latest improvements are an important
+milestone of the Improving Affordable Access to Prescriptions Drugs (IAAPD) initiative that provides
+federal funding to PEI to improve access to prescription drugs and make prescriptions drugs more
+affordable for Island residents.
+Associated Links
+Backgrounder: Universal Access to Contraception
+Backgrounder: Universal Access to Diabetes Medications, and Diabetes Device Fund for Devices
+and Supplies
+Final Report of the Advisory Council on the Implementation of National Pharmacare
+Prescription drug insurance coverage
+PHARMACARE
+The possible impact of the Pharmacare Act on populations with unmet needs: women, low income
+households, persons with disabilities, persons with chronic diseases /
+KEY FACTS
+While the vast majority of Canadians have access to some form of drug coverage, many households
+still struggle to afford needed medications.
+Patient charges (e.g., premiums, copays, deductibles, and plan maximums) under existing public
+and private drug plans present cost barriers for many individuals and households.
+Low-income households, women, gender diverse individuals, 2SLGBTQI+ populations, racialized
+communities, persons with chronic diseases, and persons with disabilities experience additional
+barriers in accessing the drugs they need. These populations tend to experience higher cost-related
+non-adherence, which means they are foregoing or reducing doses due to cost.
+Factors such as lower wages, poorer access to private coverage through an employer and possibly
+greater need for high cost medications have resulted in these populations experiencing high out-of-
+pocket costs for the drugs they need.
+According to the Canadian Survey on Disabilities, 13% of all persons with disabilities aged 15 years
+and over had unmet needs for prescription drug due to cost.
+A 2022 report by Statistics Canada found the percentages of people reporting not having
+prescription insurance to cover drug costs was higher among immigrants (29%) relative to non-
+immigrants (17%) and among racialized persons (29%) relative to non racialized and non-
+Indigenous persons (17%).
+KEY MESSAGES
+No Canadian should have to choose between paying for prescription drugs and putting food on the
+table. Unfortunately, many are still forced to make this impossible decision.
+That is why the Government of Canada continues to work with provinces, territories and
+stakeholders to ensure that Canadians have better access to the drugs they need.
+Women, gender diverse persons, 2SLGBTQI+ populations, racialized communities, persons with
+chronic diseases and persons with disabilities, particularly those in low-income households, often
+face barriers to receiving the drugs they need for themselves or their loved ones due to out-of-
+pocket costs.
+The Pharmacare Act proposes the foundational principles for the first phase of national universal
+pharmacare in Canada and describes the Government of Canada’s intent to work with provinces
+and territories (PTs) to provide universal, single-payer coverage for a number of contraception and
+diabetes medications, to help Canadians access the drugs they need, especially those who face
+the greatest barriers.
+This legislation is an important step forward to improve health equity, affordability, and outcomes
+and has the potential of long-term savings to the health care system.
+Coverage for contraceptives will mean that 9 million Canadians of reproductive age will have better
+access to contraception and reproductive autonomy, reducing the risk of unintended pregnancies
+and improving their ability to plan for the future. Cost has consistently been identified as the single
+most important barrier to access to these medications and the cost is unevenly borne by women
+and gender diverse Canadians. Bill C-64 will ensure that Canadians will have access to a suite of
+contraceptive drugs and devices.
+Diabetes is a complex disease that has no cure but can be treated with safe and effective
+medications. One in four Canadians with diabetes have reported not following their treatment plan
+due to cost. Improving access to diabetes medications will help improve the health of 3.7 million
+Canadians living with diabetes and reduce the risk of serious life-changing health complications
+such as blindness or amputations.
+BACKGROUND
+Women and gender diverse people, seniors, persons with disabilities, persons with chronic
+diseases, 2SLGBTQI+ populations, racialized communities, and those living in rural or remote
+communities are disproportionality impacted by Canada’s current patchwork approach to drug
+coverage, especially if they are from a low-income household.
+Historically, these populations have demonstrated higher rates of cost-related non-adherence. This
+means they are taking less medication than prescribed because of cost, such as delaying or failing
+to fill prescriptions, or skipping or lowering medication doses.
+Factors associated with cost-related non-adherence include high out-of-pocket drug spending, low
+income or financial flexibility, lack of drug insurance, younger age, and poorer health.
+A 2022 report by Statistics Canada looking at the impact of the pandemic on pharmaceutical
+access and use found the percentages of people reporting not having prescription insurance to
+cover drug costs was higher among immigrants (29%) relative to non-immigrants (17%) and among
+racialized persons (29%) relative to non racialized and non-Indigenous persons (17%).
+According to the Canadian Survey on Disabilities, 13% of all persons with disabilities aged 15 years
+and over had unmet needs for prescription drug due to cost. Unmet need for an aid, device, and/or
+prescription drug to cost was higher among those of working age (28.6%) than over the age of 65, as
+well as among those with more severe disabilities (37.4%).
+Overall, individuals with precarious work (i.e., part-time employment) tend to not have access to
+private drug coverage through their employer. As a result, they may have to pay for prescription
+drugs 100% out-of-pocket if they are not eligible for a public drug plan (most public plans support
+catastrophic costs and select populations like seniors and children). Furthermore, patient charges
+(e.g., premiums, copays, deductibles, and plan maximums) under existing public and private plans
+can result in high out-of-pocket costs that may make the drugs they need inaccessible.
+Contraception
+Some populations are disproportionally affected by the lack of coverage. Women, people with low
+incomes and young people, all of whom are all more likely to work in part-time or contract
+positions, often lack access to private coverage. One study found that women and girls from lower-
+income households are more likely to use less-effective contraceptive methods or no contraceptive
+method.
+Diabetes
+Diabetes disproportionately affects certain populations within Canada. Evidence shows that First
+Nations and Métis people, and people of African, East Asian and South Asian ethnic backgrounds
+have higher rates of Type 2 diabetes compared to the general population.
+PHARMACARE
+Impact of the Pharmacare Act on Indigenous Peoples, governments and organizations
+KEY FACTS
+The Non-Insured Health Benefits (NIHB) Program provides coverage for a range of medically
+necessary benefits, including comprehensive drug coverage, to over 900,000 registered First
+Nations and recognized Inuit.
+The Pharmacare Act does not affect the NIHB program or the amount of funding provided to
+Indigenous governments and organizations.
+NIHB recipients will continue to have access to the robust drug coverage.
+Bill C-64 commits the Government of Canada to engage and collaborate with Indigenous Peoples
+on the implementation of national universal pharmacare.
+KEY MESSAGES
+The Government of Canada is committed to working together with Indigenous partners and
+communities across the country to advance priorities that promote and protect health, including
+drug coverage.
+The Pharmacare Act will not affect the Non-Insured Health Benefits program delivered by
+Indigenous Services Canada. Recipients will continue to have access to the robust drug coverage.
+All the contraception and diabetes medications listed for discussion with provinces and territories
+are included on the NIHB formulary and are provided at no cost to NIHB recipients.
+The Government of Canada recognizes the unique relationships that provinces and territories have
+with Indigenous Peoples and representative organizations within each jurisdiction. Therefore, we
+will work with provinces and territories to ensure that an approach for meaningful engagement with
+Indigenous Peoples and representative organizations is appropriately reflected in bilateral
+agreements.
+BACKGROUND
+First Nations and Inuit that receive drug coverage through the Non-Insured Health Benefits (NIHB)
+will experience no changes from the bill. Non-status, urban and off-reserve First Nations and Métis
+are covered through PT and/or private plans, like all Canadians. Individuals could benefit from the
+universal, single-payer coverage for a number of contraception and diabetes medications, as
+outlined in Bill C-64.
+Non-Insured Health Benefits (NIHB) Program
+The Non-Insured Health Benefits (NIHB) Program provides coverage for a range of medically
+necessary benefits to over 900,000 registered First Nations and recognized Inuit. All registered First
+Nations and recognized Inuit are eligible for NIHB benefits, regardless of location or income level,
+unless otherwise covered under a separate agreement with federal or provincial governments, or
+through a separate self-government agreement.
+As the NIHB program is provided only to First Nations and Inuit registered under the Indian Act and
+their children under 18 months, the program captures around half with an Indigenous identity.
+The NIHB program covers a comprehensive range of prescription drugs and over-the-counter
+medications listed on the NIHB Drug Benefit List (DBL). Prescription and over-the-counter
+medications are evidence-based and covered in accordance with program policies.
+In 2021 to 2022, the NIHB program paid for pharmacy claims made by a total of 528,541 First
+Nations and Inuit clients. The total spent for these claims was $576.3 million or 34.0% of total NIHB
+expenditures. Of all the NIHB program benefits, the pharmacy benefit is the benefit most utilized by
+clients and accounts for the second largest share of expenditures.
+PHARMACARE
+The federal role in implementing national pharmacare, in light of provincial and territorial (PT)
+jurisdiction over health care delivery.
+KEY FACTS
+The management of prescription drugs is a shared responsibility in Canada.
+The federal government is responsible for assessing the safety, efficacy and quality of drugs before
+authorizing them for sale in Canada.
+Provincial and territorial governments are responsible for the delivery of health care for their
+residents, including determining which drugs are covered under government-run public plans,
+under what conditions this coverage is offered, and which populations are eligible for this coverage.
+Bill C-64 outlines the Government of Canada’s plan to ensure universal, single-payer coverage for a
+range of contraception and diabetes medications. This includes the Government of Canada’s
+intention to establish a fund for diabetes devices to help support Canadians manage and monitor
+their diabetes and administer their medication.
+The Government of Canada will work with willing provinces and territories to implement this
+coverage through bilateral agreements.
+KEY MESSAGES
+Bill C-64 recognizes and emphasises the role of the provinces and territories in health care delivery
+in Canada and sets out a collaborative, principles based, step-by-step path towards national
+universal pharmacare.
+The Bill outlines the Government of Canada’s intent to work with provinces and territories (PTs) to
+provide universal, single-payer coverage for a number of contraception and diabetes medications.
+In order to receive federal funding to provide universal, single-payer coverage for contraception and
+diabetes medications, a bilateral agreement would need to be made between the Government of
+Canada and a willing province or territory.
+The Bill demonstrates the Government of Canada’s commitment to consulting widely about the
+way forward and working with provinces, territories, Indigenous peoples and other partners and
+stakeholders.
+BACKGROUND
+PT Drug Plans
+In total, there are more than 100 government-run drug coverage plans in Canada. These plans are
+based on a variety of distinct coverage models (e.g., comprehensive coverage for low-income
+seniors, income-based safety net coverage, voluntary premium-based coverage). There is generally
+good alignment with regard to the list of drugs eligible for coverage across public drug plans
+country-wide. But how much Canadians are required to pay out-of-pocket under these plans varies
+significantly within and between jurisdictions.
+PTs provide coverage with minimal/no patient charges for certain vulnerable groups, such as lower-
+income seniors and people on social assistance. All provinces (but none of the territories) also have
+a form of safety net coverage to protect residents from high (“catastrophic”) drug costs relative to
+income. These “catastrophic” plans have deductibles (3-20% of household income) or premiums.
+While protective against truly catastrophic costs, they offer little support for routine drug expenses.
+Improving Affordable Access to Prescription Drugs in Prince Edward Island
+Since 2021, the federal government has been working with the Government of Prince Edward Island
+(PEI) on a demonstration initiative to improve affordable access to medications for Island residents
+with an investment of $35 million. Through this partnership, PEI has improved affordability by
+reducing copays to $5 for some common medications, expanded eligibility to their High Cost Drug
+Program by removing barriers for those in the lowest income brackets and making the program
+available to all income levels, and adjusting the Catastrophic Drug Program to lower the cap on the
+amount of money a household spends on eligible medications. The province has also expanded
+access to 85 new medications and removed administrative barriers to 23 medications.
+PEI reached out to the federal government to signal its interest in collaborating to improve
+accessibility and affordability of their public drugs plans. At the time, PEI’s formulary listed the
+lowest number of drugs in the country, resulting in less access to drugs for Islanders compared to
+the rest of Canada. Island residents also faced some of Canada’s highest co-pays and deductibles
+for drugs covered on their public plans. The province was also already in the process of reviewing its
+public drug plans to determine how best to simplify its complex set of plans to make them more
+affordable and comparable to other provinces.
+Federal Drug Coverage
+The federal government provides drug coverage with minimal/no patient charges to approximately
+1.2 million Canadians who are part of selected federal populations (i.e., registered First Nations
+and recognized Inuit populations, federal inmates, members of the Canadian forces, veterans,
+resettled refugees and refugee claimants).
+The largest federal drug plan is part of the Non-Insured Health Benefits (NIHB) Program run by
+Indigenous Services Canada, which provides over 900,000 registered First Nations and recognized
+Inuit with coverage for a range of medical services not covered by other plans and programs. The
+NIHB drug plan provides beneficiaries with coverage for a comprehensive list of drugs (including
+essential medicines) with no deductibles or copayments.
+PHARMACARE
+Fiscal implications of an Act respecting pharmacare
+KEY FACTS
+Bill C-64 outlines the Government of Canada’s intent to work with provinces and territories (PTs) to
+provide universal, single-payer coverage for a number of contraception and diabetes medications.
+This includes the Government of Canada’s intention to establish a fund for diabetes devices to help
+support Canadians manage and monitor their diabetes and administer their medication.
+Federal funding to provinces and territories for the provision of universal, single payer coverage for a
+range of contraception and diabetes medications will be provided through bilateral agreements.
+The Bill also commits the Government of Canada to maintaining long-term funding for the
+provinces, territories and Indigenous Peoples to improve the accessibility and affordability of
+pharmaceutical products, beginning with those for rare diseases.
+Budget 2024 includes a commitment of $1.5 billion over 5 years to support the launch of national
+pharmacare and coverage for contraception and diabetes medications.
+KEY MESSAGES
+When Canadians do not fill their prescriptions for financial reasons, their health may worsen, which
+can lead to increased use of the health care system and increased health care costs.
+The Pharmacare Act proposes the foundational principles for the first phase of national universal
+pharmacare in Canada and describes the Government of Canada’s intent to work with provinces
+and territories (PTs) to provide universal, single-payer coverage for a number of contraception and
+diabetes medications, to help Canadians access the drugs they need.
+In order to receive federal funding to provide universal, single-payer coverage for contraception and
+diabetes medications, a bilateral agreement would need to be made between the Government of
+Canada and a willing province or territory. The intent of this funding would be to enhance, rather
+than replace, existing PT spending on public drug benefit programs as set out in Bill C-64.
+All costing will be contingent on the outcome of discussions with provinces and territories,
+beginning with the provision of universal, single payer for a range of contraception and diabetes
+medications as identified in the lists provided in the backgrounders to the news release.
+The Bill also commits to maintaining long-term funding for the provinces, territories and Indigenous
+peoples to improve the accessibility and affordability of pharmaceutical products, beginning with
+those for rare diseases.
+To help carry out this work, in Budget 2024 the Government of Canada announced $1.5 billion over
+5 years to support the launch of national pharmacare and coverage for contraception and diabetes
+medications.
+This Bill represents a major milestone for the Government of Canada, confirming its commitment to
+work with provinces, territories, Indigenous Peoples and other partners towards a universal national
+pharmacare program.
+BACKGROUND
+Estimates for the cost of implementing national universal pharmacare vary. Factors influencing the
+incremental public cost include the scope of drugs covered, the magnitude of cost-sharing with
+patients (i.e. premiums, deductibles, copays) and the degree of cost-shifting from private to public
+payers.
+The 2019 Hoskins report estimated the cost to implement universal single-payer public
+pharmacare would be $3.5 billion in 2022 (for an initial list of approximately 125 drugs), rising to
+$15.3 billion at full implementation in 2027 (for a comprehensive national formulary of
+approximately 900 drugs).
+Contraception
+Studies have demonstrated that publicly funded no-cost universal contraception can result in
+public cost savings. Evidence from the University of British Columbia (BC) estimated that no-cost
+contraception has the potential to save the BC health care system approximately $27 million per
+year.
+Diabetes
+Uncontrolled diabetes can have very serious short and long-term health impacts and represents a
+burden to individuals, families, and Canadian society. High and unnecessary costs are incurred
+from lost productivity and elevated health-care system use due to diabetes and its complications,
+including heart attack, stroke, kidney failure, blindness and amputation. The full cost of diabetes to
+the healthcare system in 2018 is estimated to be around $27 billion and could exceed $39 billion by
+2028.
+Federal Investments in Pharmacare
+On December 18, 2023 the Government of Canada announced the creation of the Canadian Drug
+Agency (CDA). The CDA will be built from the existing Canadian Agency for Drugs and Technologies
+in Health (CADTH) and in partnership with provinces and territories (PTs). The Government of
+Canada is investing $89.5 million over five years to establish the CDA.
+The CDA will incorporate and expand on CADTH's expertise in the pharmaceutical sector, including
+its strong leadership and technical proficiency. The CDA will build on CADTH's existing mandate
+and functions (health technology assessment, post-market safety and effectiveness) and expand
+them to include new work streams including:
+Improving the appropriate prescribing and use of medications, for better patient health and to
+support system sustainability;
+Increasing pan-Canadian data collection and expanding access to drug and treatment data,
+including real-world evidence data, to better support patients, inform health decisions and enable
+robust system data analytics; and
+Reducing drug system duplication and lack of coordination that causes expensive inefficiencies
+and pressures.
+The Government will work with CADTH and PTs to develop the CDA. Once the CDA is operational, it
+will take on a greater role in the drug system to ensure Canadians can have better health outcomes
+and access the medications they need now and into the future.
+In March 2023, the Minister of Health announced the launch of the first phase of the national
+strategy for drugs for rare diseases with an investment of up to $1.5 billion over three years, to
+improve access to treatments for people living with a rare disease. As part of this first phase, the
+Government of Canada will provide up to:
+$1.4 billion over three years to provinces and territories through bilateral agreements.
+$33 million over three years to Indigenous Services Canada’s Non-Insured Health Benefits Program
+to support eligible First Nations and Inuit clients with rare diseases.
+$20 million over three years to the Canadian Agency for Drugs and Technologies in Health and the
+Canadian Institute for Health Information to improve the collection and use of evidence to support
+decision-making.
+$32 million over five years to the Canadian Institutes of Health Research to advance a rare disease
+research agenda
+$16 million over three years to support the establishment of national governance structures, such
+as a Health Canada secretariat and a stakeholder Implementation Advisory Group.
+PHARMACARE
+National formulary and national bulk purchasing strategy
+KEY FACTS
+Bill C-64 outlines next steps toward the development of a national formulary and a national bulk
+purchasing strategy, both of which will serve as important foundational elements of national
+pharmacare.
+A ‘formulary’ is a list of drugs and related products that are eligible for coverage under a drug plan.
+A national formulary would outline the scope of prescription drugs and related products Canadians
+should have access to under national universal pharmacare and would inform work toward a bulk
+purchasing strategy.
+Through the pan-Canadian Pharmaceutical Alliance (pCPA), provinces and territories have already
+realized benefits from coordinated negotiations to achieve greater value for publicly funded drug
+programs and patients.
+The Minister must request that the CDA prepare a preliminary list of prescription drugs and related
+products to inform the development of a national formulary and collaborate with partners and
+stakeholders to develop a national bulk purchasing strategy aligned with the principles set out in
+the Pharmacare Act.
+KEY MESSAGES
+A national formulary and a national bulk purchasing strategy for prescription drugs and related
+products will serve as important foundational elements of national pharmacare.
+To that end, the Bill C-64 sets out that the Minister of Health must request that the Canadian Drug
+Agency (CDA) prepare a preliminary list of prescription drugs and related products to inform the
+development of a national formulary. The Minister must also request that the CDA develop a
+national bulk purchasing strategy.
+National Formulary
+Bill C-64 describes the Government of Canada’s intent to work with provinces and territories to
+provide universal, single-payer coverage for a number of contraception and diabetes medications.
+A preliminary list of these two groups of medications has been prepared and will form an important
+part of a national formulary once it is developed by the Canadian Drug Agency.
+National Bulk Purchasing Strategy
+The benefits of bulk purchasing have already been shown in Canada by the pan-Canadian
+Pharmaceutical Alliance (pCPA) since 2010. As of April 1, 2023 savings from pCPA activities to
+participating public drug plans are estimated to be $3.89 Billion annually.
+A national bulk purchasing strategy developed by the Canadian Drug Agency, in collaboration with
+partners and stakeholders, would build from the existing work of the pCPA. Once subsequently
+agreed with partners and implemented, this strategy could further help lower the prices and
+increase the availability of prescription drugs and related products that will be covered under
+pharmacare agreements.
+BACKGROUND
+In 2019, the Advisory Council on the Implementation of National Pharmacare, chaired by Dr. Eric
+Hoskins, recommended the implementation of universal national pharmacare. The Council
+proposed coverage be phased-in starting with a list of essential medicines to be expanded over
+time to become a comprehensive drug list (national formulary).
+Guided by the Council’s work, Budget 2019 announced funding for a number of foundational steps
+toward national pharmacare, including the development of a national formulary. Subsequently,
+Budget 2022 committed to continue progress toward national pharmacare by tabling a Pharmacare
+Act and then tasking the Canadian Drug Agency to develop a national formulary of essential
+medicines and a bulk purchasing plan.
+Preliminary work toward a national formulary has been completed. In June 2022, a multidisciplinary
+advisory panel convened by the Canadian Agency for Drugs and Technology in Health (CADTH) at
+the request of Health Canada recommended principles and a process for developing a national
+formulary.
+As a test case for its proposed process, the panel also developed a sample list of commonly
+prescribed drugs and related products for three therapeutic areas with a high volume of drug use in
+Canada: cardiovascular disease, diabetes and mental illness.
+The Advisory Council on the Implementation of National Pharmacare suggested that with national
+pharmacare, estimated system-wide savings would be modest at first ($0.3 billion in 2022) rising to
+almost $5 billion annually once pharmacare is fully implemented with a comprehensive formulary.
+The Parliamentary Budgeting Officer, in their 2023 report on the cost of single-payer universal
+pharmacare, estimate that the price of all existing drugs under a common formulary could be
+negotiated down to the current lowest observable price in Canada. This contributes to their
+projected economy-wide savings of up to $2.2 billion.
+PHARMACARE
+Anticipated response from stakeholders, including Indigenous Peoples
+KEY FACTS
+Stakeholders want to see progress on national pharmacare, but have differing visions of the end
+state.
+In general, patients, health care professionals, and labour organizations are supportive of a
+“medicare” (public single-payer) approach, while the insurance and pharmaceutical industries
+advocate a “fill the gaps” (mixed-payer) approach that would extend public coverage to those who
+need it most while maintaining existing private plans.
+The majority of stakeholders that envision a “medicare” approach have expressed support for Bill
+C-64 given the provision outlining the Government of Canada’s intent to work with provinces and
+territories (PTs) to provide universal, single-payer coverage for a number of contraception and
+diabetes medications.
+Pharmacy stakeholders have expressed concern on implementing single-payer public coverage and
+how that might impact their dispensing fees as well as the potential for disruptions in their ability to
+provide professional services to patients/clients who are switching from private to public coverage
+for these medications.
+A phased approach to implementation of coverage improvements is generally supported by all
+stakeholders.
+There have been no new pharmacare statements from Indigenous groups since 2019. The last
+known positions taken by Indigenous peoples or organisations include expressed interest in
+continuing a dialogue on national pharmacare by Indigenous participants during engagement
+conducted by the Advisory Council on the Implementation of National Pharmacare (the Advisory
+Council), chaired by Dr. Eric Hoskins. Additionally, in 2019, the Assembly of First Nations made a
+public statement that was not supportive of national pharmacare, as it infringes upon their
+Medicine Chest Treaty rights. Inuit Tapiriit Kanatami and Métis National Council have not identified
+pharmacare as a priority. The Government of Canada provides drug coverage for registered First
+Nations and recognized Inuit through its Non-Insured Health Benefits (NIHB) Program. Changes to
+that program are not being proposed under this legislation.
+KEY MESSAGES
+The Bill demonstrates the Government of Canada’s commitment to consulting widely about the
+way forward and working with provinces, territories, Indigenous peoples and other partners and
+stakeholders.
+Organizations representing patients (Diabetes Canada, Heart and Stroke Foundation), health care
+professionals (Canadian Medical Association) and labour organizations (Canadian Labour
+Congress) have expressed general support for Bill C-64 due to the provision outlining the
+Government of Canada’s intent to work with provinces and territories (PTs) to provide universal,
+single-payer coverage for a number of contraception and diabetes medications.
+We believe all stakeholders, regardless of their preferred model of pharmacare, agree on the
+importance of improving the affordability, accessibility and appropriate use of prescription drugs
+for all Canadians, as reflected in the four principles outlined in the Bill.
+The Government of Canada will continue to maintain open and transparent communication with all
+stakeholders as the legislation moves forward.
+BACKGROUND
+Organizations representing patients (Diabetes Canada, Heart and Stroke Foundation), health care
+professionals (Canadian Medical Association) and labour organizations (Canadian Labour
+Congress) have consistently expressed their support for the recommendations of a universal,
+single-payer, public model as outlined in the 2019 report by the Advisory Council. Therefore, these
+groups have expressed general support for Bill C-64 given reference to universal, single-payer
+coverage for a range of contraception and diabetes medications.
+Most pharmaceutical and insurance industry groups, which advocate for a “fill the gaps” (mixed-
+payer) approach, have not expressed support of the Bill given reference to universal, single-payer
+coverage for a range of contraception and diabetes medications.
+Industry groups such as Canadian Generic Pharmaceutical Association (CGPA) and Biosimilars
+Canada have taken a more neutral position as they seek to learn more about the Government of
+Canada’s approach to implementation, particularly related to the role of generic and biosimilar
+medicines in the context of cost-savings.
+During the Advisory Council’s engagement with Indigenous partners, participants expressed an
+interest in continuing a dialogue on national pharmacare. In July 2019, the Assembly of First
+Nations made a public statement that was not supportive of national pharmacare, as it infringes
+upon their Medicine Chest Treaty rights, and Inuit Tapiriit Kanatami and Métis National Council have
+not identified pharmacare as a priority.
+PHARMACARE
+Uninsured and underinsured Canadians
+KEY FACTS
+Millions of Canadians are underinsured. In 2021, Statistics Canada found that more than one in
+every five (21%) adults in Canada reported not having the insurance they needed to cover
+prescription drug costs.
+Although all provinces have catastrophic drug plans, deductibles under these plans can be up to
+20% of net family income. In many cases, Canadians will never reach the deductible, leaving them
+without support for their drug costs.
+Statistics Canada found that in 2021 close to one in five (18%) Canadians spent $500 or more out of
+pocket for their prescription medication and one in ten (9%) reported not adhering to their
+prescription medication because of costs.
+This can have serious consequences for individuals and their families, and result in additional costs
+to the health care system.
+KEY MESSAGES
+No Canadian should be in a position where they must choose between the prescription drugs they
+need for their health and well-being and putting food on the table.
+Underinsurance can have serious consequences. Many Canadians with high out-of-pocket
+medication costs report foregoing essential needs, such as food and heat, or not adhering to their
+prescriptions due to costs.
+When people do not take their prescription drugs the way they are supposed to, their health can
+suffer. This results in serious consequences for the individual and their household, and
+unnecessary costs to the health care system as patients are more likely to visit an emergency room
+or be admitted to hospital.
+The Pharmacare Act proposes the foundational principles for the first phase of national universal
+pharmacare in Canada and describes the Government of Canada’s intent to work with provinces
+and territories to provide universal, single-payer coverage for a number of contraception and
+diabetes medications, to help Canadians access the drugs they need, especially those who face
+the greatest barriers.
+This legislation is an important step forward to improve health equity, affordability, and outcomes
+and has the potential of long-term savings to the health care system.
+Coverage for contraceptives will mean that 9 million Canadians of reproductive age will have better
+access to contraception and reproductive autonomy, reducing the risk of unintended pregnancies
+and improving their ability to plan for the future. Cost has consistently been identified as the single
+most important barrier to access to these medications and the cost is unevenly borne by women
+and gender diverse Canadians. Bill C-64 will ensure that Canadians will have access to a suite of
+contraceptive drugs and devices.
+Diabetes is a complex disease that has no cure but can be treated with safe and effective
+medications. One in four Canadians with diabetes have reported not following their treatment plan
+due to cost. Improving access to diabetes medications will help improve the health of 3.7 million
+Canadians living with diabetes and reduce the risk of serious life-changing health complications
+such as blindness or amputations.
+BACKGROUND
+When Medicare was first introduced, prescription drugs outside of hospital cost less and played a
+smaller role in health care. But today, prescription drugs are a central part of our health, helping to
+control chronic conditions, treat temporary ones, and aid in overall health and well-being.
+Outside of hospital, prescription drug coverage comes from a mix of private insurance, out-of-
+pocket cash payments, and various provincial programs.
+Although most Canadians have some form of drug coverage, this does not mean that those with
+insurance have access to the prescription drugs they need. In 2021, Statistics Canada found that
+more than one in every five (21%) adults in Canada reported not having the insurance they needed
+to cover prescription drug costs.
+All provinces have drug coverage to protect Canadians from catastrophic drug costs, but
+deductibles under these plans can range from 0 to 20% of net family income. In many cases,
+Canadians will never reach the deductible, leaving them without support for their drug costs.
+Lower-income Canadians make up a disproportionate share of the underinsured. While most
+provinces have put in place drug coverage for those accessing social assistance benefits, a gap
+persists. Many lower-income households that do not qualify for social assistance continue to
+struggle with out-of-pocket prescription drug costs. Underinsurance can be a particular concern for
+young adults who ‘age-out’ of their parent’s private insurance, but do not have their own form of
+private coverage.
+Statistics Canada found that in 2021 close to one in five (18%) Canadians spent $500 or more out of
+pocket for their prescription medication and one in ten (9%) reported not adhering to their
+prescription medication because of costs. This includes delaying filling prescriptions or skipping
+doses to contain costs.
+Contraception
+Cost has been identified by Canadian contraceptive care providers as the single most important
+barrier to access to these medications. Oral contraceptives cost approximately $25 per unit, or
+$300 per year. Intrauterine Devices (IUDs), which are effective for five years, cost approximately up
+to $500 per unit.
+Cost can discourage people both from accessing contraception, and from choosing more effective
+methods of contraception with a higher upfront cost. For example, oral contraceptives have a
+typical use failure rate of 9% compared to 0.20% for IUDs. Not having affordable access to effective
+contraception can increase the risk of unintended pregnancies, which can impact life plans such
+as going to school and advancing in one's career.
+Diabetes
+In 2015, 25% of Canadians with diabetes indicated following their treatments were affected by
+cost, in some cases rationing medications to save money. Uncontrolled diabetes can have very
+serious short and long-term health impacts and represents a burden to individuals, families, and
+Canadian society. High and unnecessary costs are incurred from lost productivity and elevated
+health-care system use due to diabetes and its complications, including heart attack, stroke,
+kidney failure, blindness and amputation.
+DRUGS FOR RARE DISEASES
+ISSUE
+Rare diseases are often chronic, can be seriously debilitating and potentially life-threatening. With
+few or no treatment options, available treatments can be high-cost, which poses significant
+challenges to patients, caregivers, and the health care system, including the sustainability of public
+and private drug plans that pay for these drugs.
+KEY FACTS
+Rare diseases are life-threatening, seriously debilitating and sometimes chronic in nature. They are
+often genetic conditions, with onset either at birth or early childhood.
+Currently, Canadians with rare diseases access the drugs they need through government drug
+plans, through private drug plans, or by paying out of pocket. Many drugs for rare diseases are very
+expensive and patients generally cannot afford to pay by themselves.
+The 2019 Final Report of the Advisory Council on the Implementation of National Pharmacare
+recommended for the Canadian government to develop a formal National Strategy for Drugs for
+Rare Diseases.
+Bill C-64, An Act respecting pharmacare, commits to maintaining long-term funding for provinces,
+territories and Indigenous Peoples to improve the accessibility and affordability of pharmaceutical
+products, beginning with the funding announced for the National Strategy for Drugs for Rare
+Diseases.
+KEY MESSAGES
+On March 22, 2023, the Government of Canada announced measures in support of the first-ever
+National Strategy for Drugs for Rare Diseases, with an investment of up to $1.5 billion over three
+years.
+We are implementing this Strategy by working with provinces and territories towards the
+development of bilateral agreements. Funding for the bilateral agreements will be available April 1,
+2024 and run until March 31, 2027.
+These bilateral agreements will help increase access and improve affordability of effective drugs for
+rare diseases to improve the health of patients across Canada.
+Further, funding to the Canadian Institutes for Health Information (CIHI) and Canadian Agency for
+Drugs and Technologies in Health (CADTH) is improving the collection and use of evidence to
+support decision-making.
+Funding to the Canadian Institutes for Health Research (CIHR) is advancing rare disease research.
+IF PRESSED ON DETAILS ON PROGRESS OF BILATERAL AGREEMENTS
+Discussions with provinces and territories are underway to jointly determine a small set of new and
+emerging drugs, which will be cost-shared and covered in a consistent way across Canada, for the
+benefit of patients.
+Funding for the bilateral agreements with willing provinces and territories will start on April 1, 2024
+and run for three years until March 31, 2027.
+Funding has also gone to support eligible First Nations and Inuit patients living with rare diseases,
+through Indigenous Services Canada’s Non-Insured Health Benefits Program.
+IF PRESSED ON HOW 2023-24 BILATERAL AGREEMENT FUNDS HAVE BEEN SPENT
+Funding for the bilateral agreements with willing provinces and territories will start on April 1, 2024
+and run for three years until March 31, 2027.
+IF PRESSED ON QUEBEC’S PARTICIPATION IN THE NATIONAL STRATEGY
+Our Government is working with all provinces and territories to help increase access to, and
+affordability of, promising and effective drugs for rare diseases to improve the health of patients
+across Canada, while also providing flexibility for jurisdictions to address their own unique
+circumstances.
+All provinces and territories have been invited to engage all steps in the implementation of the
+Strategy, including jointly determining a small set of new and emerging drugs that would be cost-
+shared and covered in a consistent way.
+They have also been engaged to share in the other pillars of the Strategy: the benefits of
+collaborative approaches to the collection and use of evidence and innovation and research.
+IF PRESSED ON DETAILS ON STAKEHOLDER CONSULTATION THROUGH THE IMPLEMENTATION
+ADVISORY GROUP
+An Implementation Advisory Group was launched in October 2023 to support the implementation
+of the National Strategy from a patient-centered perspective and to help improve consistent access
+and affordability of effective drugs for rare diseases across the country.
+The Implementation Advisory Group is comprised of individuals drawn from a range of perspectives
+and roles, including patients, caregivers, clinicians, and industry.
+IF PRESSED ON FUNDING TO HEALTH SYSTEM PARTNERS
+We are working with our partners, including the Canadian Agency for Drugs and Technology in
+Health (CADTH), the Canadian Institute for Health Information (CIHI), and the Canadian Institutes
+of Health Research (CIHR) to focus on collection and use of evidence to support decision making
+and to advance rare disease research.
+For example, CADTH’s new newborn screening expert panel will develop guidance to foster greater
+consistency and timelier access to treatments.
+CIHR is providing $20M over 5 years to the Maternal Infant Child and Youth Research Network
+(MICYRN) to build a National Pediatric Rare Disease Clinical Trials and Treatment Network.
+IF PRESSED ON WHEN PATIENTS WILL SEE BENEFITS FROM THE STRATEGY
+Funding for the bilateral agreements with willing provinces and territories will start on April 1, 2024
+and run for three years until March 31, 2027
+Funding to health system partners has already begun, and is now helping to improve the collection
+and use of evidence to support decision-making, and advancing rare disease research and
+treatment networks.
+IF PRESSED ON HOW THE STRATEGY IS ALIGNED WITH THE PHARMACARE ACT
+Bill C-64, An Act respecting pharmacare, commits to maintaining long-term funding for provinces,
+territories and Indigenous Peoples to improve the accessibility and affordability of pharmaceutical
+products, beginning with the funding announced for the National Strategy for Drugs for Rare
+Diseases.
+The National Strategy is intended to be part of continuing progress towards national universal
+pharmacare and is a concrete expression of the principles set out in the pharmacare bill.
+Through the National Strategy we are addressing the issue of access and universal coverage by
+addressing the issue of the “postal code lottery” for DRD identified in national consultations. We
+are also focusing on affordability and high costs of DRD that leave patients financially vulnerable,
+and addressing appropriate use through supporting improvements in the use and generation of real
+world evidence.
+BACKGROUND
+CANADIANS LIVING WITH RARE DISEASES
+Rare diseases are life-threatening, seriously debilitating and sometimes chronic in nature. They are
+often genetic conditions, with onset either at birth or early childhood.
+Rare diseases are not rare as a group: it is estimated there are between 6,000 and 8,000 in the
+world. They are considered rare because they each affect small numbers of people, ranging from a
+handful of individuals to a few thousand. It is estimated that one out of twelve Canadians has a rare
+disease.
+DRUGS FOR RARE DISEASES
+Patients with rare diseases generally have few treatment options, resulting in unmet clinical need.
+Accordingly, treatments are in high demand and can be high-cost. Treatments for rare diseases are
+often referred to as orphan drugs, or expensive drugs for rare diseases, or drugs for rare diseases.
+High prices are often attributed to factors such as the high cost of research, limited number of
+patients, small market size, and lack of competitors.
+The Government of Canada is working with Provinces and Territories as an active member of the
+pan-Canadian Pharmaceutical Alliance (pCPA) to combine the governments’ collective buying
+power to negotiate lower prices on brand name drugs for all public plans, including drugs for rare
+diseases.
+ACCESS TO DRUGS FOR RARE DISEASES
+Currently, Canadians with rare diseases can access the drugs they need through government drug
+plans, through private drug plans, or by paying out of pocket. Because these drugs are so expensive,
+patients generally cannot afford to pay by themselves.
+Canadians have been able to gain access to drugs for rare diseases through participation in clinical
+trials, or as drugs are approved under Division 8 of the Food and Drug Regulations. In cases where
+criteria are met, Health Canada’s Special Access Program (SAP) considers requests for access to
+drugs that are unavailable for sale in Canada. About 150 of the drugs accessed through the SAP are
+for the treatment of rare diseases.
+LAUNCH OF THE FIRST PHASE OF THE NATIONAL STRATEGY FOR DRUGS FOR RARE DISEASES
+The Minister of Health announced the launch of the first phase of the National Strategy for Drugs for
+Rare Diseases on March 22, 2023, with an investment of up to $1.5 billion over three years, to
+improve access to treatments for people living with a rare disease.
+As part of this first phase, the Government of Canada will provide up to $1.4 billion over three years
+to provinces and territories through bilateral agreements. This federal investment will increase
+access to safe and effective drugs for Canadians with rare diseases. Provinces and territories will
+be able to add new drugs to their formularies and increase coverage of existing drugs. The new
+funding will also enable provinces and territories to improve screening and diagnostics so that
+patients with a rare disease have a better chance of getting access to effective treatments at the
+right time, which can mean significantly better health and overall quality of life for patients and their
+families.
+In addition, the Government of Canada is providing up to $33 million over three years to Indigenous
+Services Canada’s Non-Insured Health Benefits Program to support eligible First Nations and Inuit
+clients with rare diseases.
+The Government of Canada is also making key investments of up to $68 million to support
+collaborative governance, data infrastructure, and research for drugs for rare diseases. $20 million
+over three years is being provided to the Canadian Agency for Drugs and Technologies in Health and
+the Canadian Institute for Health Information to improve the collection and use of evidence to
+support decision-making. The Canadian Institutes of Health Research are receiving $32 million over
+five years to advance a rare disease research agenda with a focus on developing better diagnostic
+tools and establishing a robust Canadian rare disease clinical trials network. $16 million over three
+years, starting in 2023, is being invested to support the establishment of national governance
+structures, such as a Health Canada secretariat and a stakeholder Implementation Advisory Group.
+The Government of Canada will continue working with provinces and territories, health system
+partners, and stakeholders, including patients, families, and clinicians, to develop future actions
+based on lessons learned as part of these actions included in the first phase of the Strategy.
+NATIONAL PHARMACARE LEGISLATION
+The 2019 Final Report of the Advisory Council on the Implementation of National Pharmacare
+recommended for the Canadian government to develop a formal National Strategy for Drugs for
+Rare Diseases.
+Budget 2019 announced federal investments to move forward on a number of foundational
+elements of national pharmacare, including the creation of the National Strategy, as well as the
+development of a national formulary, and the creation of the Canadian Drug Agency.
+The National Strategy is intended to be part of continuing progress towards a national universal
+pharmacare program. It continues to be a crucial part of the government’s commitment to long-
+term funding to improve the accessibility and affordability of drugs.
+Bill C-64, An Act respecting pharmacare, commits to maintaining long-term funding for provinces,
+territories and Indigenous Peoples to improve the accessibility and affordability of pharmaceutical
+products, beginning with the funding announced for the National Strategy for Drugs for Rare
+Diseases.
+PAN-CANADIAN APPROPRIATE USE STRATEGY
+ISSUE
+In Canada, over 750 million prescriptions worth $38.9B are written annually. However, there is no
+coordinated national approach to provide guidance and support to prescribers and patients on
+their safe and effective use. A growing body of evidence suggests that prescribing is often
+suboptimal, threatening patient safety and leading to significant negative health, social, and
+financial impacts on patients and the health system. This issue disproportionally impacts
+vulnerable populations (e.g., seniors, racialized communities).
+Nearly 2 million seniors in Canada regularly take at least one potentially inappropriate medication
+that can lead to harms such as falls, memory problems, hospitalizations or even death. It is
+estimated that annually $419 million is spent in direct costs for these medications, which rises to
+$1.4 billion if the health care costs to treat harmful effects are included.
+Broad engagement with provinces, territories, health organizations, and system partners to develop
+a plan for the Canadian Drug Agency (CDA) identified the need to enhance the appropriate use of
+pharmaceuticals to improve safety, health outcomes and support prescribers and patients.
+Developing a coordinated approach to address appropriate use, one that better supports patients
+and prescribers in choosing the best treatments for their care, is an important part of the new
+pharmacare legislation. The bill commits the Minister of Health to publishing a pan-Canadian
+strategy for appropriate use and to requesting the Canadian Drug Agency report on its progress.
+KEY MESSAGES
+Almost $38.9 billion worth of prescriptions are written annually in Canada and yet patients
+outcomes are not optimal. It is time for us to develop a pan-Canadian appropriate use strategy to
+help ensure medications bring true improvements to patient health and safety, and limiting
+additional burdens to patients and costs to the health care system.
+Provinces and territories, health partners and patients agree that addressing appropriate
+prescribing and use should be a focus for the Canadian Drug Agency (CDA). The Strategy will
+improve supports for prescribers and patients to make informed decisions regarding optimal
+treatments for their care.
+In March 2023, we started moving forward with this work by establishing an Appropriate Use
+Advisory Committee to provide guidance and recommendations for the development of the
+Strategy and eventual program for a CDA. The Committee’s final report and recommendations are
+expected this Spring.
+A coordinated, national approach to appropriate use, guided by the CDA, is an important element
+of moving forward with national pharmacare by supporting the prescribing and use of medications
+to improve the health of people living in Canada.
+BACKGROUND
+Appropriate Use In Canada
+Improving access to pharmaceuticals and the appropriate use of drugs has been a shared priority
+of federal, provincial and territorial governments since 2016. However, there is currently no
+coordinated strategy or approach for the design, implementation or evaluation of initiatives, and no
+centralized organization promoting its importance in patient health and safety. Instead,
+jurisdictions, pan-Canadian health organizations and non-governmental organizations have
+implemented a variety of independent projects. These include:
+Academic detailing, one-on-one clinician education, by trained health care professionals, to
+provide evidence-based information to improve the appropriate use of medications.
+Provincial/territorial prescription drug monitoring programs for controlled prescription drugs such
+as opioids to ensure their safe prescribing and use.
+Educational tools and resources for patients and prescribers such as doctors, pharmacists, and
+nurse practitioners.
+Audits and feedback programs for clinicians where they receive personalized information about
+their prescribing.
+While this patchwork of initiatives demonstrate progress, the lack of a national strategy for the
+design, implementation and evaluation of initiatives means their reach and impact is limited and
+uncoordinated. This leads to duplication of efforts, gaps in services, misallocation of scare
+resources and can accentuate variations in prescribing and use across jurisdictions.
+International Comparison
+Several Organization for Economic Co-operation and Development (OECD) countries have
+implemented nationally coordinated appropriate use strategies and programs that have effectively
+improved health outcomes and delivered cost savings due to hospital avoidance. These include
+Australia’s Quality Use of Medications Strategy, the United Kingdom’s National Institute for Health
+and Care Excellence, and the Dutch Institute for Rational Use of Medicine in the Netherlands and
+others.
+Advisory Council on the Implementation of National Pharmacare
+Budget 2018 announced the creation of the Advisory Council on the Implementation of National
+Pharmacare, chaired by Dr. Eric Hoskins.
+The Council engaged with Canadians, patients, provincial, territorial, and Indigenous leaders,
+health care experts, and stakeholders through regional roundtables, town halls, an online
+questionnaire, and written submissions.
+On June 12, 2019, the Council’s final report was tabled in Parliament, recommending the
+implementation of national universal pharmacare over several years, including FPT collaboration to
+create a new arms-length Canadian Drug Agency (CDA) that would be responsible for providing
+guidance on the appropriate use of drugs and monitoring their safe and effective use once on the
+market.
+The report recommended that the CDA create and implement a national strategy on appropriate
+prescribing to support patients and prescribers understand pharmaceutical treatment choices.
+Canadian Drug Agency Transition Office
+Canadian Drug Agency Transition Office (CDTAO) was formally established in spring 2021 to work
+with provinces and territories (PTs) and stakeholders, conduct analysis, and develop options to
+advance a CDA; supported by a $35 million investment (Budget 2019).
+The CDATO has received insights from patients, pharmaceutical companies, insurers, prescribers
+and academics and many others through over 400 meetings and roundtables.
+Enhancing efforts to address appropriate use of medications was one of the priority areas identified
+by PTs and stakeholders to improve health outcomes and support system sustainability.
+On December 18, 2023, the Government of Canada announced its plan to advance with the
+establishment of the Canadian Drug Agency (CDA, the Agency), with appropriate use as one of its
+priorities. The Government of Canada is investing $89.5 million over five years to establish the CDA,
+in addition to the existing federal funding of $34.2 million annually to support CADTH.
+Appropriate Use Advisory Committee
+In March 2023, the CDATO established an Appropriate Use Advisory Committee to provide advice
+and guidance to the CDATO for the development of a pan-Canadian Appropriate Use Strategy and a
+corresponding program for the CDA.
+The Advisory Committee is a multidisciplinary group, comprised of representatives from
+appropriate use organizations (e.g, Canadian Agency for Drugs and Technologies in Health,
+Choosing Wisely Canada, Canadian Medication Appropriateness and Deprescribing Network)
+clinicians, patients, and the public, who bring a diversity of expertise and perspectives to the table.
+The committee is chaired by Stephen Samis, the former Deputy Minister for Health and Social
+Services for the Yukon.
+The Advisory Committee has been mandated to bring together representatives from appropriate
+use organizations, clinician and patient communities, and stakeholders, to:
+Support the development of a pan-Canadian strategy for appropriate use to provide a common
+vision for the design, implementation and evaluation of programs and initiatives.
+Advise and provide recommendations on the roles and responsibilities for the CDA appropriate use
+program to provide the greatest value and impact to the existing landscape.
+Develop a process and identify priority areas to be addressed by the CDA appropriate use
+resources.
+The Advisory Committee issued an Interim Report in July 2023 with early guidance on the core
+components of a pan-Canadian appropriate use strategy and the framework for a CDA appropriate
+use program.
+The CDATO facilitated consultations on the Interim Report, to hear the perspectives of partners
+including, clinicians, patients, industry members, and health system partners. Feedback and
+comments will help inform the Advisory Committee’s continued work and final advice and
+recommendations.
+A final report is expected in Spring 2024.
+Pharmacare Legislation
+On February 29, 2024, the Government of Canada introduced pharmacare legislation to the House
+of Commons that features appropriate use. This legislation requires that the Minister of Health
+publish a pan-Canadian strategy regarding the appropriate use of prescription drugs and related
+products within one year of the bill receiving royal ascent. The draft legislation also specifies that
+the Minister of Health may request that three years after its publication the CDA prepare a report on
+the progress made in advancing the strategy.
+CANADIAN DRUG AGENCY
+ISSUE
+On December 18, 2023, the Government of Canada announced its plan to advance with the
+establishment of the Canadian Drug Agency (CDA, the Agency), built from the Canadian Agency for
+Drugs and Technologies in Health (CADTH) and in partnership with provinces and territories,
+featuring an investment of $89.5 million over five years, starting in 2024-25. The CDA will provide
+the dedicated leadership and coordination needed to modernize the Canadian pharmaceutical
+system, laying a strong foundation to support ongoing growth. The CDA is also featured in Bill C-64,
+an Act respecting pharmacare, which signals plans to task the Agency with work on formulary
+development, a bulk purchasing strategy, and to support the publication of a pan-Canadian
+strategy on the appropriate use of medications.
+KEY FACTS
+Key reports on the future of the Canadian pharmaceuticals system recommended the creation of a
+new national drug agency that would build on existing provincial and territorial successes and take
+a coordinated approach to improving system management.
+The Canadian Drug Agency Transition Office was established in spring 2021 to work with provinces,
+territories and key stakeholders on options for a Canadian Drug Agency (CDA); supported by a
+Budget 2019 investment of $35 million over four years.
+In December 2021, the Prime Minister reinforced the commitment to creating the CDA in the
+Minister of Health’s mandate letter, stating the government would “continue engaging with willing
+provinces and territories towards national universal pharmacare, while proceeding with a national
+strategy on high-cost drugs for rare diseases and advancing the establishment of the Canada [sic]
+Drug Agency.”
+In March 2022, the Prime Minister elaborated on the mandate of the CDA in the Supply and
+Confidence Agreement with the New Democratic Party of Canada, announcing the CDA will
+“develop a national formulary of essential medicines and bulk purchasing plan by the end of the
+agreement” in 2025. This commitment was reiterated in Budget 2022.
+Work to develop a proposal for establishing a CDA has been informed by analysis of the current
+pharmaceuticals management system and significant engagement, including over 400 meetings
+and roundtables with all provinces and territories, and hundreds of stakeholders such as
+healthcare professionals, patient organizations, and industry.
+KEY MESSAGES
+We are advancing with plans to establish the Canadian Drug Agency (CDA), built from the Canadian
+Agency for Drugs and Technologies in Health (CADTH), in partnership with provinces and territories
+and stakeholders. This is supported by an investment of $89.5 million over 5 years, starting in 2024-
+25.
+The CDA will build on CADTH’s expertise and mandate, establishing a strong foundation to support
+evolving system priorities, focusing first on:
+Appropriate prescribing and use;
+Data and analytics; and
+System Coordination.
+The CDA will build on CADTH’s existing work to integrate patients and those with lived experience.
+The CDA is featured in Bill C-64, an Act respecting pharmacare; the Act provides that the new CDA
+work towards the development of a national formulary, develop a national bulk purchasing strategy,
+and to support the publication of a pan-Canadian strategy regarding the appropriate use of
+medications.
+IF PRESSED ON THE NEED FOR A CANADIAN DRUG AGENCY
+Canada has internationally recognized pockets of excellence in pharmaceuticals management,
+including the regulatory approvals process within Health Canada.
+The CDA will focus on the system as a whole to address gaps, remove duplication, improve system
+coordination and enhance access and equity.
+More specifically, the CDA’s core functions will include:
+Appropriate Prescribing and Use;
+Data and Analytics; and
+System Coordination
+Through these functions, the CDA will provide the dedicated leadership and capacity that is needed
+to implement national priorities to improve the pharmaceuticals system.
+The CDA will not duplicate well-performing functions or organizations.
+IF PRESSED ON PHARMACARE LEGISLATION
+The Government of Canada is committed to working with stakeholders to advance the
+implementation of pharmacare. The creation of the CDA will address key system gaps and lay a
+strong foundation upon which future pharmacare work can be built, including formulary
+development and a bulk purchasing strategy.
+We will continue to engage with stakeholders and key partners to establish the CDA so that it is
+well-positioned to advance work related to the pharmacare legislation, as required.
+IF PRESSED ON RESULTS TO DATE
+The Government of Canada has been working closely with provinces and territories and key
+stakeholders to develop a plan to create a CDA.
+The Canadian Drug Agency Transition Office (CDATO) was established in 2021 to lead this work,
+and has since undertaken significant engagement – over 400 meetings and roundtables – with
+patients, pharmaceutical companies, insurers, prescribers and academics on a future CDA.
+The CDATO has advanced work with key partners to support development of CDA functions.
+The Government of Canada will continue to work closely with CADTH and key partners to advance
+the establishment of the CDA.
+IF PRESSED ON RESPECTING PROVINCIAL AND TERRITORIAL JURISDICTION
+Provincial and territorial healthcare systems, including public drug plans, are facing mounting
+pressure, exacerbated by the pandemic.
+Our approach will focus on filling gaps, improving access, and system sustainability.
+The CDA will respect provincial and territorial jurisdiction and will not duplicate well-performing
+functions and organizations.
+Federal, provincial, territorial collaboration is the cornerstone of our approach for establishing the
+CDA, and we will continue to work collaboratively with jurisdictions toward its launch.
+BACKGROUND
+Budget Commitments
+Budget 2019 announced federal investments to move forward on three foundational elements of
+national pharmacare:
+Creation of a Canadian Drug Agency to take a coordinated approach towards assessing
+effectiveness and negotiating drug prices;
+As part of the work of the Agency, development of a national formulary to promote more consistent
+coverage across the country; and,
+Creation of a national strategy for drugs for rare diseases to help Canadians get better access to the
+effective treatments they need.
+Budget 2019 proposed $35 million over four years, starting in 2019-20, to establish a Transition
+Office to support this initiative. It also announced an investment of up to $1 billion over two years,
+starting in 2022-23, with up to $500 million per year ongoing, to help Canadians with rare diseases
+access the drugs they need.
+These commitments were reiterated in the 2020 Fall Economic Statement, Budget 2021 and Budget
+2022.
+On December 18, 2023 the Government of Canada announced approved funding of $89.5 million
+over 5 years, beginning in 2024-25, to establish a Canadian Drug Agency (CDA).
+The Canadian Drug Agency will be established as a not-for-profit pan-Canadian health organization,
+built with, and from, the Canadian Agency for Drugs and Technologies in Health (CADTH) and in
+partnership with provinces and territories.
+CADTH
+CADTH was established in 1989 as an independent pan-Canadian health organization, governed by
+a Board of Directors with representation from 7 jurisdictions and non-governmental entities.
+CADTH reports directly to the 13 PT Deputy Ministers of Health.
+CADTH provides Canada’s health care decision-makers with objective evidence, including health
+technology assessments and post-market safety and effectiveness work, support informed
+decisions about the optimal use of drugs and medical devices.
+CADTH’s 2022-2025 Strategic Plan has supported growth and innovation, promoting innovative
+approaches and positioning the organization as a catalyst for system change. Growing capacity
+underscored by the recent successful integration of the Post-Market Drug Evaluation (PMDE)
+program, formerly situated with the Canadian Institutes of Health Research.
+Bill C-64
+On February 29, 2024 the Minister of Health introduced Bill C-64, An Act respecting pharmacare
+(Pharmacare Act), which proposes the foundational principles for the first phase of national
+universal pharmacare in Canada and describes the Government of Canada’s intent to work with
+provinces and territories to provide universal, single-payer coverage for a number of contraception
+and diabetes medications.
+Bill C-64 also provides that the new Canadian Drug Agency work towards the development of a
+national formulary, develop a national bulk purchasing strategy, and support the publication of a
+pan-Canadian strategy regarding the appropriate use of prescription medications.
+External Perspectives
+Media and Public Opinion
+Canadians are generally supportive of improving affordable access to prescription drugs but are
+also sensitive to cost considerations as government health-related expenses continue to grow,
+particularly in the context of COVID-19.
+Mainstream media coverage of the pharmaceuticals system focuses primarily on approval of new
+treatments, science-based innovation, clinical trail breakthroughs, and accessibility / affordability
+of treatments from a human interest perspective.
+Media reports are generally factual and link the mandate letter and related federal Budget
+announcements. Select media emphasize Quebec’s unique approach to health.
+A May 2022 Fraser Institute poll following the federal budget, found that 79% of Canadians support
+universal national pharmacare with no costs attached. Support fell by almost half, to 40%, if the
+program was to be financed by an increase in the GST.
+An October 2020 Angus Reid study found that one quarter (26%) of Canadians had to pay for half or
+more of their prescription drug costs in the past year. Nearly nine-in-ten Canadians supported the
+idea (86%) of an affordable drugs program and more than seven-in-ten (77%) said increasing
+coverage should be a high priority for government.
+Stakeholders
+The stakeholder ecosystem for the pharmaceuticals management system is very large and diverse,
+including patients, patient organizations, Indigenous representatives, healthcare professionals,
+prescribers, dispensers, scientists and researchers, employers and employees, and innovative and
+generic manufacturers. Stakeholder engagement has been neutral to positive, with many signalling
+willingness to discuss further collaboration.
+Some stakeholders, including brand name manufacturers and unions, have developed written
+input to share their perspectives on the mandate and role of a CDA.
+Industry emphasizes priorities such as accelerating approvals processes, support for innovation, a
+data-driven approach to technology assessment, value analysis, and assessing treatment
+outcomes.
+Provinces and territories
+Through the Council of the Federation, provincial and territorial Premiers publicly and persistently
+call on the federal government to increase funding for healthcare through the Canada Health
+Transfer (CHT),
+Premiers sometimes note pharmaceuticals among the priority areas, including in July 2022.
+Pharmaceuticals Management Landscape
+In recent years, decisions related to system management have been driven by rapidly evolving
+system demands, new technologies, and evolving international market factors that have been
+challenging to reconcile with the traditional division of responsibilities and the provisions of the
+Canada Health Act.
+This has resulted in gaps, challenges, and inefficiencies particularly in relation to:
+Coordination across jurisdictions and throughout the life cycle of a drug
+Data, real-world evidence, and analytical capacity
+Health outcomes and appropriate use
+Negotiations, pricing mechanisms and sustainability
+Backgrounder: Universal Access to Contraception
+February 29, 2024
+Today, the Honourable Mark Holland, Minister of Health, announced the Government of Canada’s
+next step toward national universal pharmacare with the introduction of Bill C-64, An Act respecting
+pharmacare, into Parliament, and the intention to provide universal, single-payer coverage for a
+range of contraception medications and devices in collaboration with provinces and territories
+(PTs).
+Contraceptives
+Contraception, also known as birth control, is used to prevent pregnancy. In Canada, there are
+more than 9 million people of reproductive age, nearly one quarter of the Canadian population.
+Contraceptive drugs were chosen as part of this next step of universal pharmacare specifically
+because improved access to contraception improves equality. It reduces the risk of unintended
+pregnancies and improves reproductive rights.
+Cost has been identified by Canadian contraceptive care providers as the single most important
+barrier to access to these medications. Oral contraceptives cost approximately $25 per unit, or
+$300 per year. Intrauterine Devices (IUDs), which are effective for five years, cost approximately up
+to $500 per unit.
+Cost can discourage people both from accessing contraception, and from choosing more effective
+methods of contraception with a higher upfront cost. For example, oral contraceptives have a
+typical use failure rate of 9% compared to 0.20% for IUDs. Not having affordable access to effective
+contraception can increase the risk of unintended pregnancies, which can impact life plans such
+as going to school and advancing in one’s career.
+Some populations are disproportionally affected by the lack of coverage. Women, people with low
+incomes and young people, all of whom are all more likely to work in part‑time or contract
+positions, often lack access to private coverage. One study found that women and girls from lower-
+income households are more likely to use less-effective contraceptive methods or no contraceptive
+method.
+Although most drug plans list a range of contraceptive products, only a fraction of Canadians are
+eligible for prescription birth control at low or no cost through a public drug plan. If they do not have
+drug coverage through an employment-based private health benefit plan, Canadians would
+typically have access to only a public safety net coverage plan intended to protect residents from
+very high drug costs. The high deductibles under these plans (e.g., 3-20% of household income), in
+addition to co-payments, mean these plans typically offer little relief for routine drug expenses,
+such as contraception.
+Studies have demonstrated that publicly funded no-cost universal contraception can result in
+public cost savings. Evidence from the University of British Columbia (BC) estimated that no- cost
+contraception has the potential to save the BC health care system approximately $27 million per
+year.
+Types of Contraceptives Being Covered
+Today’s announcement will ensure that, following agreement with PTs, people in Canada will have
+access to a comprehensive suite of contraceptive drugs and devices to choose from according to
+their medical suitability and personal circumstances.
+This includes oral contraceptives, copper and hormonal IUDs, injections, implants, rings, and
+morning-after pills.
+The Government of Canada will be launching discussions with PTs on providing universal, single-
+payer coverage based on the list of contraceptive drugs and devices attached to this backgrounder.
+List of contraception to be discussed with provinces and territories for specific coverage
+Dosage Form Brand Name Generic Name
+Oral birth control pills Alesse 21 ethinyl estradiol 20 mcg
+levonorgestrel 0.1 mg
+Alesse 28 ethinyl estradiol 20 mcg
+levonorgestrel 0.1 mg
+Alysena 21 ethinyl estradiol 20 mcg
+levonorgestrel 0.1 mg
+Alysena 28 ethinyl estradiol 20 mcg
+Dosage Form Brand Name Generic Name
+levonorgestrel 0.1 mg
+Apri 21 ethinyl estradiol 30 mcg
+desogestrel 0.15 mg
+Apri 28 ethinyl estradiol 30 mcg
+desogestrel 0.15 mg
+Audrina 21 ethinyl estradiol 20 mcg
+levonorgestrel 0.1 mg
+Audrina 28 ethinyl estradiol 20 mcg
+levonorgestrel 0.1 mg
+Aviane 21 ethinyl estradiol 20 mcg
+levonorgestrel 0.1 mg
+Aviane 28 ethinyl estradiol 20 mcg
+levonorgestrel 0.1 mg
+Brevicon 0.5/35 (21) ethinyl estradiol 35 mcg
+norethindrone 0.5 mg
+Brevicon 0.5/35 (28) ethinyl estradiol 35 mcg
+norethindrone 0.5 mg
+Brevicon 1/35 (21) ethinyl estradiol 35 mcg
+norethindrone 1 mg
+Brevicon 1/35(28) ethinyl estradiol 35 mcg
+norethindrone 1 mg
+Drospirenone and Ethinyl Estradiol Tablets ethinyl estradiol 20 mcg
+drospirenone 3 mg
+Drospirenone and Ethinyl Estradiol Tablets 21 ethinyl estradiol 30 mcg
+drospirenone 3 mg
+Drospirenone and Ethinyl Estradiol Tablets 28 ethinyl estradiol 30 mcg
+drospirenone 3 mg
+Freya 21 ethinyl estradiol 30 mcg
+desogestrel 0.15 mg
+Freya 28 ethinyl estradiol 30 mcg
+desogestrel 0.15 mg
+Jencycla norethindrone 0.35 mg
+Linessa 21 ethinyl estradiol 25 mcg
+desogestrel 0.1/ 0.125/ 0.15 mg
+Linessa 28 ethinyl estradiol 25 mcg
+desogestrel 0.1/ 0.125/ 0.15 mg
+Marvelon 21 ethinyl estradiol 30 mcg
+Dosage Form Brand Name Generic Name
+desogestrel 0.15 mg
+Marvelon 28 ethinyl estradiol 30 mcg
+desogestrel 0.15 mg
+Min-Ovral 21 ethinyl estradiol 30 mcg
+Levonorgestrel 0.15 mg
+Min-Ovral 28 ethinyl estradiol 30 mcg
+levonorgestrel 0.15 mg
+Mirvala 21 ethinyl estradiol 30 mcg
+desogestrel 0.15 mg
+Mirvala 28 ethinyl estradiol 30 mcg
+desogestrel 0.15 mg
+Movisse norethindrone 0.35 mg
+Mya ethinyl estradiol 20 mcg
+drospirenone 3 mg
+Ovima 21 ethinyl estradiol 30 mcg
+levonorgestrel 0.15 mg
+Ovima 28 ethinyl estradiol 30 mcg
+levonorgestrel 0.15 mg
+Portia 21 ethinyl estradiol 30 mcg
+levonorgestrel 0.15 mg
+Portia 28 ethinyl estradiol 30 mcg
+levonorgestrel 0.15 mg
+Synphasic 21 ethinyl estradiol 35 mcg
+norethindrone 0.5/ 1 mg
+Synphasic 28 ethinyl estradiol 35 mcg
+norethindrone 0.5/ 1 mg
+Tri-Cira 21 ethinyl estradiol 35 mcg
+norgestimate 0.18/0.215/ 0.25 mg
+Tri-Cira 28 ethinyl estradiol 35 mcg
+norgestimate 0.18/0.215/ 0.25 mg
+Tri-Jordyna 21 ethinyl estradiol 35 mcg
+norgestimate 0.18/0.215/ 0.25 mg
+Tri-Jordyna 28 ethinyl estradiol 35 mcg
+norgestimate 0.18/ 0.215/ 0.25 mg
+Tricira-Lo 21 ethinyl estradiol 25 mcg
+norgestimate 0.18/0.215/ 0.25 mg
+Tricira-Lo 28 ethinyl estradiol 25 mcg
+Dosage Form Brand Name Generic Name
+norgestimate 0.18/ 0.215/ 0.25 mg
+Triquilar 21 ethinyl estradiol 30 mcg
+levonorgestrel 0.05/ 0.075/ 0.125 mg
+Triquilar 28 ethinyl estradiol 30 mcg
+levonorgestrel 0.05/ 0.075/ 0.125 mg
+Yasmin 21 ethinyl estradiol 30 mcg
+drospirenone 3 mg
+Yasmin 28 ethinyl estradiol 30 mcg
+drospirenone 3 mg
+Yaz ethinyl estradiol 20 mcg
+drospirenone 3 mg
+Zamine 21 thinyl estradiol 30 mcg
+drospirenone 3 mg
+Zamine 28 ethinyl estradiol 30 mcg
+drospirenone 3 mg
+Copper IUD Flexi-T 300
+Flexi-T +300
+Flexi-T 380
+Liberte UT 380 Short
+Liberte UT 380 Standard
+Liberte TT 380 Short
+Liberte TT 380 Standard
+Liberté UT 380 Silver-Copper Standard
+Liberté UT 380 Silver-Copper Short
+Mona Lisa 10
+Mona Lisa 5 Mini
+Mona Lisa 5 Standard
+Mona Lisa N
+Hormonal IUD Kyleena levonorgestrel 19.5 mg
+Mirena levonorgestrel 52 mg
+Contraceptive Injection Depo-Provera medroxyprogesterone acetate 150 mg
+Hormonal Implant Nexplanon etonogestrel 68 mg
+Hormonal vaginal ring Haloette etonogestrel / ethinyl
+estradiol 11.7 mg / 2.7 mg
+Emergency contraceptives Contingency One levonorgestrel 1.5 mg
+Backup Plan One-Step levonorgestrel 1.5 mg
+Plan B levonorgestrel 1.5 mg
+Backgrounder: Universal Access to Diabetes
+Medications, and Diabetes Device Fund for Devices and Supplies
+February 29, 2024
+Today, the Honourable Mark Holland, Minister of Health, announced the Government of Canada’s
+next step toward the first phase of national universal pharmacare with the introduction of Bill C-64,
+An Act respecting pharmacare, into Parliament, and the intention to provide universal, single-payer
+coverage for a range of diabetes medications in collaboration with willing provinces and territories
+(PTs).
+In addition, the federal government is announcing its intention to establish a fund to enable work
+with PT partners to support Canadians’ access to supplies that diabetics require to manage and
+monitor their condition and administer their medication, such as syringes and glucose test strips.
+Diabetes medications
+Diabetes is one of the most common chronic diseases affecting people living in Canada. Around
+3.7 million people in Canada, or 9.4% of the population, live with diagnosed diabetes. The number
+of people living with diabetes has doubled over the last decade and is expected to continue to
+increase as Canada's population ages and grows.
+In 2015, 25% of Canadians with diabetes indicated following their treatments were affected by
+cost, in some cases rationing medications to save money. Uncontrolled diabetes can have very
+serious short and long-term health impacts and represents a burden to individuals, families, and
+Canadian society. High and unnecessary costs are incurred from lost productivity and elevated
+health-care system use due to diabetes and its complications, including heart attack, stroke,
+kidney failure, blindness and amputation. The full cost of diabetes to the healthcare system in 2018
+is estimated to be around $27 billion and could exceed $39 billion by 2028.
+Diabetes is a chronic condition that develops when the body either does not produce or effectively
+use insulin, which it needs to turn sugar into energy. Diabetes can lead to serious health
+complications if not properly managed.
+Diabetes disproportionately affects certain populations within Canada. Evidence shows that First
+Nations and Métis people, and people of African, East Asian and South Asian ethnic backgrounds
+have higher rates of Type 2 diabetes compared to the general population.
+There are three major types of diabetes, each with different causes and sometimes different
+treatments:
+Type 1 diabetes happens when the body stops producing insulin. Type 1 diabetes usually develops
+in childhood or early adulthood. About 5 to 10% of people living with diabetes have type 1.
+Type 2 diabetes happens when the body does not make enough insulin or does not respond well to
+the insulin it makes. People usually receive a diagnosis for Type 2 diabetes after the age of 40, but it
+is becoming more common in younger people. About
+90% to 95% of people living with diabetes have type 2.
+Gestational diabetes is a form of diabetes that develops during pregnancy and disappears after
+delivery. Gestational diabetes develops in about 10% of pregnancies.
+There is currently no cure for diabetes, but some treatments may help to manage it and improve
+quality of life.
+Types of Diabetes Medications Being Covered
+Today’s announcement would ensure that, following agreement with PTs, diabetics in Canada will
+have access to first-line treatments for diabetes that lower blood glucose levels, including:
+Insulin, which is used by patients with type 1 and type 2 diabetes. Insulin can cost in the range of
+$900-$1,700 per year, depending on the type and dosage required.
+Metformin, which is used by patients with type 2 diabetes. Metformin can cost about
+$100 per year.
+Medications often used in combination with insulin and metformin by patients with type 2 diabetes,
+including Sulfonylureas, and SGLT-2 inhibitors. The cost of these medications can range from
+approximately $100 to over $1,000 per year.
+Existing drug insurance coverage for diabetes medications and supplies varies widely across
+Canada. All PTs include many of the commonly-prescribed drugs to treat diabetes on their
+formularies although the cost to the patient can vary greatly.
+Improving the affordability of these medications will improve the health of Canadians living with
+diabetes and reduce the risk of serious life-changing health complications such as blindness or
+amputations.
+The Government of Canada will be launching discussions with PTs on providing universal, single-
+payer coverage based on the list of diabetes drugs attached to this backgrounder.
+List of diabetes medications to be discussed with PTs for specific coverage
+Drug Class Brand Names Generic Names
+Combination Formulations Synjardy Empagliflozin & metformin
+Jentadueto Linagliptin & metformin
+Komboglyze Saxagliptin & metformin
+Insulins Trurapi, Kirsty Aspart biosimilar
+Apidra Glulisine
+Admelog Lispro biosimilar
+Humulin R, Novolin ge Toronto Regular, Human
+Entuzity Concentrated Regular, Human
+Hypurin Regular Insulin Pure Pork regular insulin
+Hypurin Nph Insulin Isophane Pork Insulin Isophane, Pork Pure
+Humulin-N, Novolin GE NPH Isophane Human, NPH
+Levemir Detemir
+Basaglar Glargine biosimilar
+Semglee Glargine biosimilar
+Humulin 30/70, Novolin 30/70 Reg-Isophane, NPH Human
+Insulin Secretagogues Diamicron MR Gliclazide
+Glyburide
+Biguanides Glucophage Metformin
+SGLT2 Inhibitors Forxiga Dapagliflozin
+Diabetes devices and supplies
+Canadians using insulin require the necessary equipment to administer their medication. This can
+include syringes, insulin pens and pen tips, or insulin pumps and supplies such as insertion sets
+and insulin cartridges.
+People living with diabetes must also closely monitor their blood sugar levels to ensure their sugar
+levels are in a safe range, and to adjust their medication as needed. Equipment to monitor sugar
+levels can include glucometers, test strips and lancets, as well as flash and continuous glucose
+monitoring devices (CGM). Use of CGM or Flash GM devices leads to fewer complications and
+reduces long-term costs associated with hospitalization.
+These devices and supplies can cost thousands of dollars per year. All PTs offer some form of
+coverage or financial assistance for diabetes-related medical devices and supplies but the
+programs vary in terms of the support provided and eligibility.
+Separate from Bill C-64, the federal government is announcing its intention to establish a fund to
+support access to diabetes devices and supplies. Further details regarding this fund will be
+provided following discussions with PT partners, who will be essential partners to its roll out.
+First Session, Forty-fourth Parliament,
+70-71 Elizabeth II – 1-2 Charles III, 2021-2022-2023-2024
+HOUSE OF COMMONS OF CANADA
+BILL C- 64
+An Act respecting pharmacare
+FIRST READING, FEBRUARY 29, 2024
+MINISTER OF HEALTH
+RECOMMENDATION
+Her Excellency the Governor General recommends to the House of Commons the appropriation of
+public revenue under the cir- cumstances, in the manner and for the purposes set out in a measure
+entitled “An Act respecting pharmacare”.
+SUMMARY
+This enactment sets out the principles that the Minister of Health is to consider when working
+towards the implementation of national universal pharmacare and provides the Minister with the
+power to make payments, in certain circumstances, in relation to the coverage of certain
+prescription drugs and related products. It also sets out certain powers and obligations of the
+Minister — including in relation to the preparation of a list to inform the development of a national
+formulary and in relation to the development of a national bulk purchasing strategy — and requires
+the Minister to publish a pan-Canadian strategy regarding the appropriate use of prescription drugs
+and related products. Finally, it provides for the establishment of a committee of experts to make
+certain recommendations.
+1st Session, 44th Parliament,
+70-71 Elizabeth II – 1-2 Charles III, 2021-2022-2023-2024
+HOUSE OF COMMONS OF CANADA
+BILL C-64
+An Act respecting pharmacare
+Preamble
+Whereas the Government of Canada recognizes that quality health care, including access to
+prescription drugs and related products, is critical to protecting and promoting the health and well-
+being of Canadians;
+Whereas the Government of Canada plays an important role in ensuring that prescription drugs and
+related products are safe, effective and of high quality;
+Whereas the Government of Canada acknowledges that when Canadians do not have their
+prescriptions 10 filled for financial reasons, their health may worsen, which can lead to increased
+use of the health care system and increased health care costs;
+Whereas the Government of Canada recognizes the role of the provinces, territories and Indigenous
+peoples in the provision of health care, including cover- age for prescription drugs and related
+products, and is committed to collaborating and maintaining partnerships with them to support
+their efforts to im- prove the accessibility and affordability of prescription drugs and related
+products;
+Whereas the Government of Canada provides, within federal jurisdiction, health care services,
+including coverage for prescription drugs and related products, to certain populations;
+Whereas the Government of Canada recognizes that the Advisory Council on the Implementation of
+National Pharmacare as well as several studies have recommended establishing universal, single-
+payer, public pharmacare in Canada;
+Whereas the Government of Canada is committed to continued collaboration with the provinces,
+territories, Indigenous peoples and other partners and stakeholders on the step-by-step
+implementation of national universal pharmacare, which is to be guided by the Canada Health Act
+and carried out in accordance with the recommendations of the Advisory
+Short Title
+Preamble – Sections 1-2
+Council on the Implementation of National Pharma- care;
+Whereas the Government of Canada recognizes the importance of modernizing the health care
+system with standardized health data and digital tools, such 5 as electronic prescribing, to support
+better health outcomes and greater efficiency of the health care system;
+Whereas the Government of Canada is collaborating with the provinces and territories and other
+partners 10 and stakeholders to support the work of the Canadian Drug Agency to improve
+coordination within the pharmaceutical system in Canada and better prepare it for the future;
+And whereas the Government of Canada has 15 launched the National Strategy for Drugs for Rare
+Diseases to improve the accessibility and affordability of those drugs for Canadians;
+Now, therefore, His Majesty, by and with the advice and consent of the Senate and House of
+Commons of 20 Canada, enacts as follows:
+Short Title
+Short title
+1. This Act may be cited as the Pharmacare Act.
+Definitions
+Definitions
+2. The following definitions apply in this Act.
+Indigenous peoples has the meaning assigned by the definition aboriginal peoples of Canada in
+subsection 25 35(2) of the Constitution Act, 1982.
+Minister means the Minister of Health
+pharmacare means a program that provides coverage of prescription drugs and related products.
+(pharmaceutical product means a prescription drug or related product that is funded, in whole or in
+part, through a pharmacare agreement to which the Government of Canada is a party.
+Purpose and Principles
+Sections 3-5
+Purpose and Principles
+Purpose
+The purpose of this Act is to guide efforts to improve, for all Canadians, the accessibility and
+affordability of prescription drugs and related products, and to support their appropriate use, in
+collaboration with the provinces, territories, Indigenous peoples and other partners and
+stakeholders, with the aim of continuing to work toward the implementation of national universal
+pharmacare. Its purpose is also to support the development of a national formulary of essential
+prescription drugs and related products and to provide for the development a national bulk
+purchasing strategy.
+Principles
+4. The Minister is to consider the following principles and the Canada Health Act when
+collaborating with provinces, territories, Indigenous peoples and other partners and stakeholders
+with the aim of continuing to work toward the implementation of national universal pharmacare:
+a. improve the accessibility of pharmaceutical products, including through their coverage, in a
+manner that is more consistent across Canada;
+b. improve the affordability of pharmaceutical products, including by reducing financial barriers for
+Canadians;
+c. support the appropriate use of pharmaceutical products - namely, in a manner that prioritizes
+patient safety, optimizes health outcomes and reinforces health system sustainability — in order to
+improve the physical and mental health and well-being of Canadians; and
+d. provide universal coverage of pharmaceutical products across Canada.
+Funding
+Funding commitment
+5. The Government of Canada commits to maintaining long-term funding for the provinces,
+territories and Indigenous peoples to improve the accessibility and affordability of pharmaceutical
+products, beginning with those for rare diseases. The funding for provinces and territo- ries must be
+provided primarily through agreements with their respective governments.
+Funding
+Sections 6-7
+Payments
+6 -1. The Minister may, if the Minister has entered into an agreement with a province or territory to
+do so, make payments to the province or territory in order to increase any existing public
+pharmacare coverage — and to provide universal, single-payer, first-dollar coverage — for 5 specific
+prescription drugs and related products intended for contraception or the treatment of diabetes.
+For greater certainty
+2. For greater certainty, any agreement referred to in subsection (1) with a province or territory is to
+provide for first-dollar coverage to patients.
+Payment out of C.R.F.
+3. Any amount payable under subsection (1) may be paid by the Minister out of the Consolidated
+Revenue Fund at the times and in the manner, and on any terms, that the Minister considers
+appropriate.
+Minister’s Powers and Obligations
+Request for advice
+7. The Minister may seek advice from the Canadian Drug Agency on
+a. the clinical effectiveness and cost-effectiveness of prescription drugs and related products
+compared to other treatment options;
+b. the prescription drugs and related products that 20 should be included in prescription drug
+coverage plans in Canada and the conditions of that coverage;
+c. the collection and analysis of data on prescription drugs and related products;
+d. information and recommendations to be provided 25 to health care practitioners and patients on
+the appropriate use of prescription drugs and related products; and
+e. improvements to be made to the pharmaceutical system, including through greater coordination
+between health system partners, patients and other stakeholders.
+Minister’s Powers and Obligations
+Sections 8-10
+National formulary
+8- 1. The Minister must, after discussions with the provinces and territories, request that the
+Canadian Drug Agency prepare, no later than the first anniversary of the day on which this Act
+receives royal assent, a list of essential prescription drugs and related products to inform 5 the
+development of a national formulary that will establish the scope of prescription drugs and related
+products to which Canadians should have access under national universal pharmacare.
+Discussions
+2. The Minister must, after the list referred to in subsection (1) has been prepared, initiate
+discussions based on the list with provinces, territories, Indigenous peoples and other partners and
+stakeholders with the aim of continuing to work toward the implementation of national universal
+pharmacare.
+National bulk purchasing strategy
+The Minister must, after discussions with the provinces and territories, request that the Canadian
+Drug Agency develop, in collaboration with partners and stakeholders and no later than the first
+anniversary of the day on which this Act receives royal assent, a national bulk purchasing strategy
+for prescription drugs and related products to support the principles set out in para- graphs 4(a) to
+(d).
+Appropriate Use Strategy
+Publication
+10.-1. The Minister must, no later than the first anniversary of the day on which this Act receives
+royal assent, publish on the website of the Department of Health a pan-Canadian strategy regarding
+the appropriate use of prescription drugs and related products.
+Progress reports
+2. The Minister may, after discussions with the provinces and territories, request that the Canadian
+Drug Agency prepare, no later than the third anniversary of the day on which the strategy is
+published and no later than every three years following that anniversary, a report on the progress
+made in advancing that strategy.
+Committee of Experts
+Section 11
+Committee of Experts
+11. -1. The Minister must, no later than 30 days after the day on which this Act receives royal assent,
+establish a committee of experts, and provide for its membership, to make recommendations
+respecting options for the operation and financing of national, universal, single-payer pharmacare.
+Report
+2. The committee must, no later than the first anniversary of the day on which this Act receives royal
+assent, provide a written report to the Minister setting out its recommendations.

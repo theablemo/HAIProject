@@ -1,0 +1,3481 @@
+Created: 2024-06-04T15:10:57.017611
+Name: CPADS_2021-2022_PUMF_Data
+Original URL: https://open.canada.ca/data/dataset/736fa9b2-62e4-4e31-aea4-51869605b363/resource/a078e4c3-a910-4349-b00e-6ea0d31d391d/download/cpads-2021-2022-pumf-user-guide-1.pdf
+Package ID: 736fa9b2-62e4-4e31-aea4-51869605b363
+Keywords: ['Alcohol', 'Cannabis', 'Drugs', 'Tobacco']
+Notes: The Canadian Postsecondary Education Alcohol and Drug Use Survey (CPADS) 2021-2022 recruited postsecondary students who were at a Canadian university, college, or CEGEP and living in Canada. A total of 40,931 respondents of all ages and programs completed online surveys between November 29, 2021 and April 19, 2022 across all 10 provinces. The survey examines students' substance use including alcohol, cannabis, psychoactive pharmaceuticals (pain relievers, sedatives, and stimulants), illegal drugs (such as heroin and cocaine), tobacco, and vaping products. Summary results are available: https://health-infobase.canada.ca/alcohol/cpads/index.html
+-------------------------------
+Extracted Text:
+Canadian Postsecondary Education Alcohol and Drug Use
+Survey (CPADS) 2021-2022 Public Use Microdata Files (PUMF)
+User Guide
+Health Canada (2022)
+0.0 Conditions of Data Use
+As per the Open Government Licence – Canada, users must include the following acknowledgement and
+citation in any publications resulting from use of these data.
+0.1 Acknowledgement
+Data used for this research were taken from Health Canada’s 2021-2022 Canadian Postsecondary
+Education Alcohol and Drug Use Survey (CPADS). Health Canada has neither reviewed, approved, nor
+endorsed this research. Any views expressed or conclusions drawn herein do not necessarily represent
+those of Health Canada.
+0.2 Suggested Citation
+Health Canada. (2023). Canadian Postsecondary Education Alcohol and Drug Use Survey (CPADS) 2021-
+2022 PUMF [Data set]. Government of Canada. DOI
+1.0 About the Survey
+1.1 Background
+In November 2019, the first cycle of the Canadian Postsecondary Education Alcohol and Drug Use Survey
+(CPADS) was launched. This national online survey measured the prevalence of alcohol and drug use
+among undergraduate students 17 to 25 years of age, who were attending, in-person, a university,
+college, or cégep in Canada.
+For CPADS 2021-2022, the target population was expanded to students 16 years and older attending any
+postsecondary program in person and/or online.
+The CPADS is conducted in collaboration with the Postsecondary Education Partnership-Alcohol Harms,
+a network of universities and colleges from across Canada that have partnered with the Canadian Centre
+on Substance Use and Addiction to support campus efforts to reduce the harms related to alcohol
+consumption1. PLEASE NOTE: For technical questions on using the CPADS PUMF, please email odss-
+bssd@hc-sc.gc.ca.
+1.2 Survey Design
+Colleges, cégeps, and universities across Canada were asked to participate in CPADS. Of 196 schools
+across the 10 provinces, 45 (23%) accepted to participate in the 2021-2022 cycle. Some schools chose
+1 Canadian Centre on Substance Use and Addiction. (2023). Postsecondary Education Partnership - Alcohol harms.
+PEPAH. https://pepah.ca/home/
+1
+not to participate, while others were not eligible to participate because they did not meet the eligibility
+criteria. These included:
+• having a registrar office;
+• having more than 500 students;
+• being a not-for-profit public or private school;
+• not offering online courses exclusively; and
+• not being a theological or military institution.
+Participating schools were given instructions for selecting samples of students for the survey. In schools
+with fewer than 600 students, all students were to be selected. Schools could use one of three methods
+to obtain student participation. Schools with approval to share student e-mail addresses with the survey
+firm (Advanis) could select a sample of students and pass their email to the survey firm. Schools without
+approval to share student e-mail addresses could select a sample of students and directly e-mail them a
+link to the survey. Schools unable to extract a random sample of student e-mail addresses would send
+out a generic survey link to all students on their contact list.
+A total of 40,931 respondents of all ages and programs completed the survey online between November
+29, 2021 and April 19, 2022.
+1.3 Survey Errors
+Estimates derived from this survey are based on responses from students attending schools that agreed
+to participate, and are subject to survey errors. Survey errors can be defined as differences between
+survey results and results that would be obtained if a complete census of students in Canada had been
+conducted, using the same questionnaire and under ideal conditions. Errors can be introduced at almost
+every phase of a survey. In the case of CPADS, the set of schools that accepted to participate in the
+survey may have different student characteristics from schools in the general population; school
+administrators may misunderstand instructions for administering the survey; students may refuse to
+participate in the survey, be unable or unwilling to answer questions, or make errors in answering
+questions; the answers may be incorrectly entered on the questionnaire; and errors may be introduced
+in the processing and tabulation of the data, including processing related to protecting data
+confidentiality.
+Over a large number of observations, randomly occurring errors will have little effect on estimates
+derived from the survey. However, errors occurring systematically will contribute to biases in the survey
+estimates. Considerable time and effort were dedicated to reducing survey errors. Quality assurance
+measures were implemented at each step of the data collection and processing cycle to monitor data
+quality. These measures included:
+1. providing detailed instructions for administrators and participating students;
+2. conducting extensive training of project staff regarding survey procedures;
+3. implementing procedures to minimize data capture errors;
+4. conducting coding and editing quality checks to verify the processing logic; and
+5. adjusting survey weights for total (survey) nonresponse.
+1.4 Survey Weights
+The CPADS survey weights were generated to adjust for sample representativity issues caused by total
+nonresponse and to adjust for sample variations across the 4 regions (Atlantic Canada, Quebec, Ontario,
+Western Provinces). Weight creation followed three objectives: to adjust for response rate disparities
+2
+within schools, to make each region’s contribution proportional to its share of the total student
+population, and to have the sample weights add up to the total sample size.
+For the first objective, each participating school provided information on their total student enrolment
+by age and sex. For schools that were not able to provide this information, estimates were obtained
+from Statistics Canada’s Postsecondary Student Information System. The base weight, for a given school,
+sex, and age group, was the ratio of the percentage of the school’s student population in that sex and
+age group divided by the percentage of the school’s sample in that sex and age group. For example, if in
+a given school, 16% of students were females aged 17-19, but 20% of the sample was from that group,
+then the base weight for female students aged 17-19 in that school was 0.8. Since response rates among
+female students were generally higher than those among male students, female student weights tended
+to be lower than male student weights. The base weight was the same for every student in the same
+school, sex, and age group; and base weight added up to the school sample size.
+Following this first step, the weights in each region added up to the sample size for that region. To attain
+the second and third objectives, base weights were adjusted by the ratio of the region’s share of the
+national student population divided by the region’s share of the national sample. For example, since
+Atlantic Provinces had 5.8% of the student population but 24.5% of the sample, base weights in Atlantic
+Canada were multiplied by 5.8/24.5. This step, which generated the CPADS survey weights, took care of
+the third objective, making the weights add up to the total sample size (40,931).
+Making survey weights sum up to the sample size (so the average weight equals one) turns them into
+what is called standardized weights. For many analysis techniques (e.g., linear regression, logistic
+regression, estimation of rates and proportions and analysis of variance), standardized weights can
+make the variances calculated by the standard packages more meaningful. If the weights for the data, or
+for the subset of the data that is of interest, are rescaled so that the average weight is one (1), then the
+variances produced by the standard packages will be more reasonable; they still will not take into
+account all aspects of the sample's design, but they will take into account the unequal probabilities of
+selection and/or response rates. (Note that for analyses done entirely within one region, it may be
+preferable to standardize the weights at that regional level, i.e., to prorate weights so that they add up
+to the total sample size for that region.)
+Since the CPADS weights are the same for all the students in the same school, sex and age group, they
+can be used to cluster students by school. As this presented a potential confidentiality issue, unbiased
+random noise was added to each student’s weight on the PUMF. This step means that students in the
+same group do not share the same PUMF weight, and the ranges of PUMF weights for students from
+different schools often overlap. The addition of random noise, and other confidentiality measures
+(regroup or suppressions), means that PUMF summary statistics may be slightly different than what is
+posted on Health Canada’s website for CPADS 2021-2022 analysis.
+2.0 Guidelines for Tabulation, Analysis, and Release of CPADS Data
+This section details guidelines for users when tabulating, analyzing, and publishing or otherwise
+releasing any data derived from the CPADS 2021- 2022 Public Use Microdata File (PUMF). With the aid
+of these guidelines, PUMF users will be able to generate results that are consistent with those of other
+users and, at the same time, will be able to develop currently unpublished figures in a manner
+consistent with these established guidelines.
+3
+2.1 Use of Survey Weights
+Users of the PUMF file are advised to apply the provided PUMF survey weights in their analyses to make
+their results more aligned with those released by Health Canada. If survey weights are not used, the
+estimates derived from the PUMF will not be considered representative of the national postsecondary
+student population (as noted, response rates were higher for female students than male students) and
+will not correspond to estimates produced by Health Canada. Unweighted estimates may also produce
+biased results, leading to erroneous conclusions and misinterpretation of the data.
+2.2 Rounding Guide
+Rounding is a technique that helps protect privacy (i.e., disclosure avoidance) and prevents estimates
+from seeming more exact than they really are (i.e., minimizes perceptions of exaggerated precision).
+Users are encouraged to adhere to the following guidelines for rounding estimates:
+1. Estimates in the main body of a statistical table are to be rounded to the nearest hundred units
+using the normal rounding technique. In normal rounding, if the first or only digit to be dropped
+is 0 to 4, the last digit to be retained is not changed. If the first or only digit to be dropped is 5 to
+9, the last digit to be retained is raised by 1. For example, in normal rounding to the nearest 100,
+if the last two digits are between 00 and 49, they are changed to 00 and the preceding digit (the
+hundreds digit) is left unchanged. If the last digits are between 50 and 99, they are changed to
+00 and the preceding digit is incremented by 1.
+2. Marginal sub-totals and totals in statistical tables are to be derived from their corresponding un-
+rounded components and then are to be rounded themselves to the nearest 100 units using
+normal rounding.
+3. Averages, proportions, rates and percentages are to be computed from un-rounded
+components (i.e., numerators and denominators) and then are to be rounded to one decimal
+using normal rounding.
+4. Sums and differences of aggregates (or ratios) are to be derived from their corresponding un-
+rounded components and then are to be rounded themselves to the nearest 100 units (or the
+nearest one decimal) using normal rounding.
+Note that under no circumstances are unrounded estimates to be published or otherwise released by
+users. Unrounded estimates imply greater precision than actually exists.
+2.3 Release Guidelines
+Before releasing or publishing any estimate from the CPADS 2021-2022, users should determine its
+quality level. Quality is affected by the number of observations used to create the estimate and the
+sampling error, as reflected by the coefficient of variation (CV). The CV is a relative measure of the
+standard error as a proportion of the estimate.
+Users should first ensure that there are enough observations (using the unweighted counts) to produce
+a reliable estimate. It is recommended to have at least 10 observations with the characteristic of
+4
+interest and, if a proportion is being calculated, at least 50 in the domain (i.e., denominator).
+Otherwise, the estimate should be considered to be of unacceptable quality and should not be released.
+Next, given enough observations, users should calculate the CV of the estimate to assess its reliability.
+Estimates should then be vetted and assigned a quality level using the guidelines in Table 1.
+Unacceptable quality level estimates should not be released, and marginal level estimates should only
+be released with a warning to caution subsequent users.
+Table 1: Quality Level Guidelines for Weighted Estimates
+Quality level Guidelines Action
+n ≥ 10
+Acceptable and d ≥ 50 (if applicable) No warning is required.
+and CV ≤ 16.6%
+n ≥ 10 Users should flag these estimates with the letter M (or some
+Marginal and d ≥ 50 (if applicable) similar identifier), accompanied by a warning about their high
+and 16.6% < CV ≤ 33.3% sampling variability.
+Users should not release these estimates. Instead, users should
+n < 10
+replace them with the letter U (or some similar identifier),
+Unacceptable or d < 50 (if applicable)
+accompanied by the following: "This estimate is unreleasable
+or CV > 33.3%
+due to small sample size or high sampling variability.”
+Notes. For estimated proportions, n is defined as the unweighted number of observations with the
+characteristic of interest (i.e., numerator) and d is defined as the unweighted number of observations in the
+domain (i.e., denominator). For estimated totals and means, n is defined as the unweighted number of
+observations that contribute to the estimate (i.e., non-missing); d is not applicable. For estimated differences
+(such as between variables, groups, time periods, or datasets), users must first vet both associated estimates
+using the above rules and then assign the lowest quality level of the two to the estimated difference.
+Note that CPADS relies on the participation of schools and students, and as such, may not be as
+representative of the postsecondary student population as a pure random sample of schools benefitting
+from low student nonresponse rates. While the sample size is large enough to draw inferences about
+the general population of 1.3 million students, it is advisable not to make unqualified assertions about
+the Canadian population from the survey. Published results should be qualified by a statement to the
+effect that the sample relied on the participation of postsecondary institutions and students and may be
+affected by nonresponse bias, which occurs when the responding population does not exhibit the same
+characteristics as the nonresponding population. The effect of nonresponse bias may be stronger when
+analyzing specific sub-populations.
+3.0 Variable Description
+Table 2: Variable description, values and labels in CPADS 2021-2022 PUMF
+Variable Description Variable Name Values and Labels
+Unique case identifier SEQID Numeric variables
+5
+Variable Description Variable Name Values and Labels
+Are you currently enrolled as a full- stu04 (1) Full-time
+time or part-time student? (2) Part-time
+(98) I prefer not to answer
+Shown to: All respondents (99) I don't know
+(R) Region where school is located Region (1) Atlantic (NS, NB, PE, NL)
+(2) Quebec
+Derived variable: All respondents (3) Ontario
+(4) Western (AB, MB, SK, BC)
+(R) Age categories age_groups (1) 16 to 19
+(2) 20 to 22
+Derived variable: All respondents (3) 23 to 25
+(4) 26 or older
+(R) Under age of legal drinking age in und_age (0) Legal age
+province where school is located (province=ON or NS or NB or PE or BC or SK or NL
+and age≥19) or (province=AB or MB or QC and
+Derived variable: ALC05=1 (Past 12 age≥18)
+month drinkers) (1) Underage
+(province=ON or NS or NB or PE or BC or SK or NL
+and age<19) or (province= AB or MB or QC and
+age<18)
+Are you currently studying at a pse1 (1) Yes, I am studying in Canada and attending
+university or college/cégep in class 100% in person
+Canada? (2) Yes, I am studying in Canada 100% online
+(3) Yes, I am studying in Canada both online and in
+Shown to: All respondents person
+(98) I prefer not to answer
+(99) I don't know
+(R) Which field of study best dvstu01 (1) Arts/Humanities/Social Science/Law/Education
+represents the area in which you are (2)
+currently enrolled? Science/Technology/Engineering/Medicine/Health
+Science
+Shown to: All respondents (3) Business/Commerce/Other
+(98) I prefer not to answer
+(99) I don't know
+(R) Where do you currently live? dvstu02 (1) University or college residence
+(2) Off-campus with family (e.g.,
+Shown to: All respondents parent/guardian's) home, spouse, children)
+(3) Off-campus alone
+(4) Off-campus with friends or roommates
+(5) Other
+(98) I prefer not to answer
+(99) I don't know
+(R) What is your gender? dvdemq01 (1) Woman
+(2) Man
+Shown to: All respondents (3) Transgender/Non-binary
+6
+Variable Description Variable Name Values and Labels
+(98) I prefer not to answer
+(99) I don't know
+(R) What term best describes your dvdemq02 (1) Heterosexual
+sexual orientation? (2) Other
+(98) I prefer not to answer
+Shown to: All respondents (99) I don't know
+(R) What ethnicity are you? dvdemq6 (1) Black
+(2) East/Southeast Asian
+Shown to: All respondents (3) Indigenous (First Nations, Metis, Inuk/Inuit
+descent)
+(4) Latino (Latin American, Hispanic descent)
+(5) Middle Eastern
+(6) South Asian
+(7) White
+(8) Other/Multiple
+(98) I prefer not to answer
+(99) I don't know
+(R) What is your current year of dvstu03 (1) Undergraduate/college degree 1st & 2nd year
+study? (2) Undergraduate/college degree 3rd to 5th year
+(3) Master, PhD, Graduate certificate, Professional
+Shown to: All respondents degrees (Law, Pharmacy, Medical school)
+(4) Not seeking a degree/Other
+(98) I prefer not to answer
+(99) I don't know
+Are you an international student? demq5 (1) Yes
+(2) No
+Shown to: All respondents (98) I prefer not to answer
+(99) I don't know
+Survey weight wtpumf Weight values
+Please rate your physical health, hwbq01 (1) Excellent
+according to the following scale: (2) Very good
+(3) Good
+Shown to: All respondents (4) Fair
+(5) Poor
+(98) I prefer not to answer
+(99) I don't know
+Please rate your mental health, hwbq02 (1) Excellent
+according to the following scale: (2) Very good
+(3) Good
+Shown to: All respondents (4) Fair
+(5) Poor
+(98) I prefer not to answer
+(99) I don't know
+Have you heard of Canada's Low alc01 (1) Yes
+Risk Drinking Guidelines? (2) No
+7
+Variable Description Variable Name Values and Labels
+(98) I prefer not to answer
+Shown to: All respondents (99) I don't know
+Have you ever had a drink? alc03 (1) Yes
+(2) No
+Shown to: All respondents (98) I prefer not to answer
+(99) I don't know
+Not counting small sips, how old alc04 5 to 99 Numeric values
+were you when you had your first (997) Skipped
+alcoholic beverage? (998) I prefer not to answer
+(999) I don't know
+Shown to: ALC03=1 (Lifetime
+drinker)
+In the past 12 months, did you drink alc05 (1) Yes
+alcoholic beverages? (2) No
+(97) Skipped
+Shown to: ALC03=1 (Lifetime (98) I prefer not to answer
+drinker) (99) I don't know
+Has the amount/quantity of alcohol COVID1ALC (1) I consume more
+you consume changed since March (2) I consume less
+2020 with the onset of the COVID-19 (3) I consume the same amount
+pandemic? (97) Skipped
+Shown to: ALC05=1 (Past 12 month
+drinker)
+Why did your alcohol consumption COVID2aALC_1 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – Stress (97) Skipped
+Shown to: COVID1ALC=1 (Consumed
+more)
+Why did your alcohol consumption COVID2aALC_2 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – Anxiety (97) Skipped
+Shown to: COVID1ALC=1 (Consumed
+more)
+Why did your alcohol consumption COVID2aALC_3 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – Depression/low-mood (97) Skipped
+Shown to: COVID1ALC=1 (Consumed
+more)
+Why did your alcohol consumption COVID2aALC_4 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – Lack of regular (97) Skipped
+schedule
+8
+Variable Description Variable Name Values and Labels
+Shown to: COVID1ALC=1 (Consumed
+more)
+Why did your alcohol consumption COVID2aALC_5 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – More social gatherings (97) Skipped
+(online or at home)
+Shown to: COVID1ALC=1 (Consumed
+more)
+Why did your alcohol consumption COVID2aALC_6 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – Boredom (97) Skipped
+Shown to: COVID1ALC=1 (Consumed
+more)
+Why did your alcohol consumption COVID2aALC_7 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – Loneliness (97) Skipped
+Shown to: COVID1ALC=1 (Consumed
+more)
+Why did your alcohol consumption COVID2aALC_8 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – Other (97) Skipped
+Shown to: COVID1ALC=1 (Consumed
+more)
+Why did your alcohol consumption COVID2aALC_9 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – No reason (97) Skipped
+Shown to: COVID1ALC=1 (Consumed
+more)
+Why did your alcohol consumption COVID2aALC_10 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – (R) Turn to legal (97) Skipped
+drinking age
+Shown to: COVID1ALC=1 (Consumed
+more) – coded from verbatims
+Why did your alcohol consumption COVID2aALC_11 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – (R) Started (97) Skipped
+college/university
+9
+Variable Description Variable Name Values and Labels
+Shown to: COVID1ALC=1 (Consumed
+more) – coded from verbatims
+Why did your alcohol consumption COVID2bALC_1 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – Stress (97) Skipped
+Shown to: COVID1ALC=2 (Consumed
+less)
+Why did your alcohol consumption COVID2bALC_2 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – Anxiety (97) Skipped
+Shown to: COVID1ALC=2 (Consumed
+less)
+Why did your alcohol consumption COVID2bALC_3 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – Depression/low-mood (97) Skipped
+Shown to: COVID1ALC=2 (Consumed
+less)
+Why did your alcohol consumption COVID2bALC_4 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – Trying to save money (97) Skipped
+Shown to: COVID1ALC=2 (Consumed
+less)
+Why did your alcohol consumption COVID2bALC_5 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – Living at home with (97) Skipped
+parents
+Shown to: COVID1ALC=2 (Consumed
+less)
+Why did your alcohol consumption COVID2bALC_6 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – More difficulty (97) Skipped
+accessing it
+Shown to: COVID1ALC=2 (Consumed
+less)
+Why did your alcohol consumption COVID2bALC_7 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – Lack of regular (97) Skipped
+schedule
+10
+Variable Description Variable Name Values and Labels
+Shown to: COVID1ALC=2 (Consumed
+less)
+Why did your alcohol consumption COVID2bALC_8 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – More social gatherings (97) Skipped
+(online or at home)
+Shown to: COVID1ALC=2 (Consumed
+less)
+Why did your alcohol consumption COVID2bALC_9 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – Other (97) Skipped
+Shown to: COVID1ALC=2 (Consumed
+less)
+Why did your alcohol consumption COVID2bALC_10 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – No reason (97) Skipped
+Shown to: COVID1ALC=2 (Consumed
+less)
+Why did your alcohol consumption COVID2bALC_11 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – (R) Health concerns (97) Skipped
+Shown to: COVID1ALC=2 (Consumed
+less) – coded from verbatims
+Why did your alcohol consumption COVID2bALC_12 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – (R) (97) Skipped
+Pub/clubs/closed/reduced capacity
+Shown to: COVID1ALC=2 (Consumed
+less) – coded from verbatims
+Why did your alcohol consumption COVID2bALC_13 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – (R) Pregnancy/want (97) Skipped
+baby/new parent
+Shown to: COVID1ALC=2 (Consumed
+less) – coded from verbatims
+Why did your alcohol consumption COVID2bALC_14 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – (R) Lost interest in (97) Skipped
+alcohol
+11
+Variable Description Variable Name Values and Labels
+Shown to: COVID1ALC=2 (Consumed
+less) – coded from verbatims
+Why did your alcohol consumption COVID2bALC_15 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – (R) (97) Skipped
+School/studies/better grades
+Shown to: COVID1ALC=2 (Consumed
+less) – coded from verbatims
+Has the frequency of your alcohol COVID3ALC (1) I consume more frequently
+consumption changed since March (2) I consume less frequently
+2020 with the onset of the COVID-19 (3) I consume at the same frequency
+pandemic? (97) Skipped
+Shown to: ALC05=1 (Past 12 month
+drinker)
+During the past 12 months, have alc08_a (1) Yes
+you participated in the following (2) No
+promotions when you drank alcohol (97) Skipped
+in a public drinking venue (e.g., pub, (98) I prefer not to answer
+bar, club)? - Happy hour (period of (99) I don't know
+the day when drinks are sold at
+reduced prices in a bar or
+restaurant)
+Shown to: ALC05=1 (Past 12 month
+drinker)
+During the past 12 months, have alc08_b (1) Yes
+you participated in the following (2) No
+promotions when you drank alcohol (97) Skipped
+in a public drinking venue (e.g., pub, (98) I prefer not to answer
+bar, club)? - Low-priced promotion (99) I don't know
+(ladies’ night, 2 drinks for the price
+of 1, etc.)
+Shown to: ALC05=1 (Past 12 month
+drinker)
+During the past 12 months, have alc08_c (1) Yes
+you participated in the following (2) No
+promotions when you drank alcohol (97) Skipped
+in a public drinking venue (e.g., pub, (98) I prefer not to answer
+bar, club)? - Special promotions by (99) I don't know
+breweries/liquor/wine companies
+Shown to: ALC05=1 (Past 12 month
+drinker)
+12
+Variable Description Variable Name Values and Labels
+During the past 12 months, have alc08_d (1) Yes
+you participated in the following (2) No
+promotions when you drank alcohol (97) Skipped
+in a public drinking venue (e.g., pub, (98) I prefer not to answer
+bar, club)? - Cover charge for (99) I don't know
+unlimited drinks
+Shown to: ALC05=1 (Past 12 month
+drinker)
+During the past 12 months, have alc08_e (1) Yes
+you participated in the following (2) No
+promotions when you drank alcohol (97) Skipped
+in a public drinking venue (e.g., pub, (98) I prefer not to answer
+bar, club)? – Free cover charge to (99) I don't know
+enter an establishment early
+Shown to: ALC05=1 (Past 12 month
+drinker)
+During the past 30 days, how often alc06 (1) Daily or almost daily (5+days/week)
+did you drink alcoholic beverages? (2) 2 to 5 times a week
+(3) Once a week
+Shown to: ALC05=1 (Past 12 month (4) 2 to 3 times in the past 30 days
+drinker) (5) Once in the past 30 days
+(6) Not in the past 30 days
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+During the past 30 days, on those alc10 1 to 99 Numeric values
+days when you drank alcoholic (997) Skipped
+beverages, how many drinks did you (998) I prefer not to answer
+usually have? (999) I don't know
+Shown to: ALC06=1,2,3,4,5 (Past 30
+day drinker)
+When you paid for an alcoholic alc07 (0) I have not paid for a drink in the past 30 days
+beverage for yourself in (1) $0.50
+bars/restaurants/festivals, what is (2) $1.00
+cheapest amount you have paid for (3) $1.50
+a drink in the past 12 months? (4) $2.00
+(5) $2.50
+Shown to: ALC05=1 (Past 12 month (6) $3.00
+drinker) (7) $3.50
+(8) $4.00
+(9) $4.50
+(10) $5.00
+(11) $5.50
+13
+Variable Description Variable Name Values and Labels
+(12) $6.00
+(13) $6.50
+(14) $7.00
+(15) $7.50
+(16) $8.00
+(17) $8.50
+(18) $9.00
+(19) $9.50
+(20) $10.00
+(21) $10.50
+(22) $11.00
+(23) $11.50
+(24) $12.00
+(25) $12.50
+(26) $13.00
+(27) $13.50
+(28) $14.00
+(29) $14.50
+(30) $15.00
+(31) $15.50
+(32) $16.00
+(33) $16.50
+(34) $17.00
+(35) $17.50
+(36) $18.00
+(37) $18.50
+(38) $19.00
+(39) $19.50
+(40) $20.00
+(42) More than $20.00
+(997) Skipped
+(998) I prefer not to answer
+(999) I don't know
+During the past 30 days, how often alc09_a (1) Daily or almost daily (5+ days/week)
+did you generally consume the (2) 2 to 5 times a week
+following alcoholic beverages? – (3) Once a week
+Light beer (4% alcohol content or (4) 2 to 3 times in the past 30 days
+less) (5) Once in the past 30 days
+(6) Not in the past 30 days
+Shown to: ALC06=1,2,3,4,5 (Past 30 (97) Skipped
+day drinker) (98) I prefer not to answer
+(99) I don't know
+During the past 30 days, how often alc09_b (1) Daily or almost daily (5+ days/week)
+did you generally consume the (2) 2 to 5 times a week
+following alcoholic beverages? – (3) Once a week
+Beer (4.1%+ alcohol content) (4) 2 to 3 times in the past 30 days
+14
+Variable Description Variable Name Values and Labels
+(5) Once in the past 30 days
+Shown to: ALC06=1,2,3,4,5 (Past 30 (6) Not in the past 30 days
+day drinker) (97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+During the past 30 days, how often alc09_c (1) Daily or almost daily (5+ days/week)
+did you generally consume the (2) 2 to 5 times a week
+following alcoholic beverages? – (3) Once a week
+Wine (4) 2 to 3 times in the past 30 days
+(5) Once in the past 30 days
+Shown to: ALC06=1,2,3,4,5 (Past 30 (6) Not in the past 30 days
+day drinker) (97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+During the past 30 days, how often alc09_d (1) Daily or almost daily (5+ days/week)
+did you generally consume the (2) 2 to 5 times a week
+following alcoholic beverages? – (3) Once a week
+Hard Seltzer (4) 2 to 3 times in the past 30 days
+(5) Once in the past 30 days
+Shown to: ALC06=1,2,3,4,5 (Past 30 (6) Not in the past 30 days
+day drinker) (97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+During the past 30 days, how often alc09_e (1) Daily or almost daily (5+ days/week)
+did you generally consume the (2) 2 to 5 times a week
+following alcoholic beverages? - (3) Once a week
+Coolers or pre-mixed cocktails (with (4) 2 to 3 times in the past 30 days
+alcohol content of less than 7%) (5) Once in the past 30 days
+(6) Not in the past 30 days
+Shown to: ALC06=1,2,3,4,5 (Past 30 (97) Skipped
+day drinker) (98) I prefer not to answer
+(99) I don't know
+During the past 30 days, how often alc09_f (1) Daily or almost daily (5+ days/week)
+did you generally consume the (2) 2 to 5 times a week
+following alcoholic beverages? - (3) Once a week
+Coolers or pre-mixed cocktails (with (4) 2 to 3 times in the past 30 days
+alcohol content of 7% or greater) (5) Once in the past 30 days
+(6) Not in the past 30 days
+Shown to: ALC06=1,2,3,4,5 (Past 30 (97) Skipped
+day drinker) (98) I prefer not to answer
+(99) I don't know
+During the past 30 days, how often alc09_g (1) Daily or almost daily (5+ days/week)
+did you generally consume the (2) 2 to 5 times a week
+following alcoholic beverages? - (3) Once a week
+Cider (4) 2 to 3 times in the past 30 days
+(5) Once in the past 30 days
+15
+Variable Description Variable Name Values and Labels
+Shown to: ALC06=1,2,3,4,5 (Past 30 (6) Not in the past 30 days
+day drinker) (97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+During the past 30 days, how often alc09_h (1) Daily or almost daily (5+ days/week)
+did you generally consume the (2) 2 to 5 times a week
+following alcoholic beverages? – (3) Once a week
+Spirits or liquor (4) 2 to 3 times in the past 30 days
+(5) Once in the past 30 days
+Shown to: ALC06=1,2,3,4,5 (Past 30 (6) Not in the past 30 days
+day drinker) (97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+In the past 30 days, what is the alc11a (1) Off campus and this is my usual drinking
+location where you consumed location
+alcohol most often? (2) Off campus, but I usually drink on campus
+during a typical school year
+Shown to: ALC06=1,2,3,4,5 (Past 30 (3) On campus
+day drinker) (97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+More specifically, when you drank alc11b (1) Someone's home/my home
+on/off campus, where did most of (2) Parents home
+the drinking take place? (3) Fraternity/sorority house off campus
+(4) A bar/pub off campus
+Shown to: ALC11a=1,2,3 (Drank on (5) A restaurant off campus
+or off campus) (6) A festival or event off campus
+(7) Car or vehicle
+(8) University residence
+(9) Campus grounds/building (except residence)
+(10) Fraternity or sorority house on campus
+(11) A bar/pub on campus
+(12) A restaurant on campus
+(13) A festival/event on campus
+(14) Other, please specify
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+During the past 30 days, with whom alc18 (1) Alone
+did you consume alcohol most (2) With friend(s) or close friend(s)
+often? (3) With partner, boyfriend, girlfriend
+(4) With school colleagues
+Shown to: ALC06=1,2,3,4,5 (Past 30 (5) With work colleagues
+day drinker) (6) With family
+(7) Other
+(97) Skipped
+16
+Variable Description Variable Name Values and Labels
+(98) I prefer not to answer
+(99) I don't know
+In past 30 days, how often did you alc12f (1) Daily or almost daily (5+ days/week)
+have 4 or more drinks on one (2) 2 to 5 times a week
+occasion? (3) Once a week
+(4) 2 to 3 times in the past 30 days
+Shown to: SEX=2 (Female) and (5) Once in the past 30 days
+ALC06=1,2,3,4,5 (Past 30 day (6) Not in the past 30 days
+drinker) (97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+In past 30 days, how often did you alc12m (1) Daily or almost daily (5+ days/week)
+have 5 or more drinks on one (2) 2 to 5 times a week
+occasion? (3) Once a week
+(4) 2 to 3 times in the past 30 days
+Shown to: SEX=1 (Male) and (5) Once in the past 30 days
+ALC06=1,2,3,4,5 (Past 30 day (6) Not in the past 30 days
+drinker) (97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+During the past 30 days, what is the alc13a 1 to 99 Numeric values
+highest number of alcoholic drinks (997) Skipped
+you have had on a drinking day? (998) I prefer not to answer
+(999) I don't know
+Shown to: ALC06=1,2,3,4,5 (Past 30
+day drinker)
+How long did it take you to consume alc13b_a 0 to 24 Numeric values
+the [ALC13a answer] drinks you (997) Skipped
+indicated in the previous question? (998) I prefer not to answer
+– Hours (999) I don't know
+Shown to: ALC06=1,2,3,4,5 (Past 30
+day drinker and ALC13a>0 (i.e.,
+provided a response)
+How long did it take you to consume alc13b_b 0 to 59 Numeric values
+the [ALC13a answer] drinks you (997) Skipped
+indicated in the previous question? (998) I prefer not to answer
+– Minutes (999) I don't know
+Shown to: ALC06=1,2,3,4,5 (Past 30
+day drinker and ALC13a>0 (i.e.,
+provided a response)
+Have you ever been drunk? alc14 (1) Yes
+(2) No
+Shown to: ALC03=1 (Lifetime (97) Skipped
+drinker)
+17
+Variable Description Variable Name Values and Labels
+(98) I prefer not to answer
+(99) I don't know
+How old were you when you first alc15 4 to 50 Numeric values
+got drunk? (997) Skipped
+(998) I prefer not to answer
+Shown to: ALC14=1 (Drunk in (999) I don't know
+lifetime)
+During the past 30 days, how often alc16a (1) Daily or almost daily (5+ days/week)
+would you say you drank enough to (2) 2 to 5 times a week
+be drunk? (3) Once a week
+(4) 2 to 3 times in the past 30 days
+Shown to: ALC06=1,2,3,4,5 (Past 30 (5) Once in the past 30 days
+day drinker) and ALC14=1 (Got (6) Not in the past 30 days
+drunk in lifetime) (97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+During the past 30 days, how often alc16b (1) Daily or almost daily (5+ days/week)
+did you intentionally get drunk? (2) 2 to 5 times a week
+(3) Once a week
+Shown to: ALC16=1,2,3,4,5 (Got (4) 2 to 3 times in the past 30 days
+drunk past 30) (5) Once in the past 30 days
+(6) Not in the past 30 days
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+During the past 30 days, when you alc17 (1) Light beer (4% alcohol content or less)
+drank enough to get drunk, did you (2) Beer (4.1%+ alcohol content)
+mostly consume ...? (3) Wine
+(4) Hard Seltzer
+Shown to: ALC16=1,2,3,4,5 (Got (5) Coolers or pre-mixed cocktails (with alcohol
+drunk past 30 days) content of less than 7%)
+(6) Coolers or pre-mixed cocktails (with alcohol
+content of 7% or greater)
+(7) Cider
+(8) Spirits or liquor
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+In the past 30 days, how often did aed01_a (1) Daily or almost daily (5+days/week)
+you drink any of the following? - An (2) 2 to 5 times a week
+energy drink like Red Bull®, Monster® (3) Once a week
+and Rockstar®, not sports drinks (4) 2 to 3 times in the past 30 days
+(5) Once in the past 30 days
+Shown to: All respondents (6) Not in the past 30 days
+(98) I prefer not to answer
+(99) I don't know
+18
+Variable Description Variable Name Values and Labels
+In the past 30 days, how often did aed01_b (1) Daily or almost daily (5+days/week)
+you drink any of the following? (2) 2 to 5 times a week
+Alcohol and an energy drink (3) Once a week
+consumed separately on one (4) 2 to 3 times in the past 30 days
+occasion (5) Once in the past 30 days
+(6) Not in the past 30 days
+Shown to: ALC05=1 (Past 12 month (97) Skipped
+drinker) (98) I prefer not to answer
+(99) I don't know
+In the past 30 days, how often did aed01_c (1) Daily or almost daily (5+days/week)
+you drink any of the following? - (2) 2 to 5 times a week
+Alcohol and an energy drink hand- (3) Once a week
+mixed together by you or someone (4) 2 to 3 times in the past 30 days
+else (5) Once in the past 30 days
+(6) Not in the past 30 days
+Shown to: ALC05=1 (Past 12 month (97) Skipped
+drinker) (98) I prefer not to answer
+(99) I don't know
+In the past 30 days, how often did aed01_d (1) Daily or almost daily (5+days/week)
+you drink any of the following? - (2) 2 to 5 times a week
+Store-bought pre-mixed alcoholic (3) Once a week
+beverages with energy drink names (4) 2 to 3 times in the past 30 days
+(such as Rockstar®+Vodka) (5) Once in the past 30 days
+(6) Not in the past 30 days
+(97) Skipped
+Shown to: ALC05=1 (Past 12 month (98) I prefer not to answer
+drinker) (99) I don't know
+In the past 30 days, how often did aed01_e (1) Daily or almost daily (5+days/week)
+you drink any of the following? - (2) 2 to 5 times a week
+Sweetened beverages with high (3) Once a week
+alcohol content (7% or higher) such (4) 2 to 3 times in the past 30 days
+as FourLoko, Clubtails, hard seltzer (5) Once in the past 30 days
+(6) Not in the past 30 days
+Shown to: ALC05=1 (Past 12 month (97) Skipped
+drinker) (98) I prefer not to answer
+(99) I don't know
+Have you ever been a passenger in a alcdr01 (1) Yes, in the past 30 days
+motor vehicle driven by someone (2) Yes, but in the past 12 months
+who had 2 or more drinks of alcohol (3) Yes, but more than 12 months ago
+in the previous 2 hours? (4) Never
+(98) I prefer not to answer
+Shown to: All respondents (99) I don't know
+Do you have a driver’s license? alcdr03 (1) Yes (includes learners license, intermediate
+and full license)
+Shown to: All respondents (2) No
+19
+Variable Description Variable Name Values and Labels
+(98) I prefer not to answer
+(99) I don't know
+Have you driven a vehicle such as a alcdr04 (1) Yes, in past the 30 days
+car, motorbike, van or truck? (2) Yes, but in the past 12 months
+(3) Yes, but more than 12 months ago
+Shown to: All respondents (4) Never
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+Have you ever driven a motor alcdr02 (1) Yes, in the past 30 days
+vehicle after having 2 or more drinks (2) Yes, but in the past 12 months
+in the previous 2 hours? (3) Yes, but more than 12 months ago
+(4) Never
+Shown to: ALC05=1 (Past 12 month (97) Skipped
+drinker) and ALCDR04=1,2 (has (98) I prefer not to answer
+driven in the past 12 months) (99) I don't know
+While drinking, I have said or done ahs_a (1) No, never happened to me
+embarrassing things: Happened to (2) Yes, but more than 30 days ago
+you in the past 30 days due to your (3) Yes, within the past 30 days
+own drinking (97) Skipped
+(98) I prefer not to answer
+Shown to: ALC05=1 (Past 12 month (99) I don't know
+drinker)
+I have had a hangover (headache, ahs_b (1) No, never happened to me
+sick stomach) the morning after I (2) Yes, but more than 30 days ago
+had been drinking: Happened to you (3) Yes, within the past 30 days
+in the past 30 days due to your own (97) Skipped
+drinking (98) I prefer not to answer
+(99) I don't know
+Shown to: ALC05=1 (Past 12 month
+drinker)
+I have felt very sick to my stomach ahs_c (1) No, never happened to me
+or thrown up after drinking: (2) Yes, but more than 30 days ago
+Happened to you in the past 30 days (3) Yes, within the past 30 days
+due to your own drinking (97) Skipped
+(98) I prefer not to answer
+Shown to: ALC05=1 (Past 12 month (99) I don't know
+drinker)
+I have ended up drinking on nights ahs_d (1) No, never happened to me
+when I had planned not to drink: (2) Yes, but more than 30 days ago
+Happened to you in the past 30 days (3) Yes, within the past 30 days
+due to your own drinking (97) Skipped
+(98) I prefer not to answer
+Shown to: ALC05=1 (Past 12 month (99) I don't know
+drinker)
+20
+Variable Description Variable Name Values and Labels
+I have taken foolish risks when I ahs_e (1) No, never happened to me
+have been drinking: Happened to (2) Yes, but more than 30 days ago
+you in the past 30 days due to your (3) Yes, within the past 30 days
+own drinking (97) Skipped
+(98) I prefer not to answer
+Shown to: ALC05=1 (Past 12 month (99) I don't know
+drinker)
+I have passed out from drinking: ahs_f (1) No, never happened to me
+Happened to you in the past 30 days (2) Yes, but more than 30 days ago
+due to your own drinking (3) Yes, within the past 30 days
+(97) Skipped
+Shown to: ALC05=1 (Past 12 month (98) I prefer not to answer
+drinker) (99) I don't know
+I have found that I needed larger ahs_g (1) No, never happened to me
+amounts of alcohol to feel any (2) Yes, but more than 30 days ago
+effect: Happened to you in the past (3) Yes, within the past 30 days
+30 days due to your own drinking (97) Skipped
+(98) I prefer not to answer
+Shown to: ALC05=1 (Past 12 month (99) I don't know
+drinker)
+When drinking, I have done ahs_h (1) No, never happened to me
+impulsive things I regretted later: (2) Yes, but more than 30 days ago
+Happened to you in the past 30 days (3) Yes, within the past 30 days
+due to your own drinking (97) Skipped
+(98) I prefer not to answer
+Shown to: ALC05=1 (Past 12 month (99) I don't know
+drinker)
+I have not been able to remember ahs_i (1) No, never happened to me
+large stretches of time while (2) Yes, but more than 30 days ago
+drinking heavily: Happened to you in (3) Yes, within the past 30 days
+the past 30 days due to your own (97) Skipped
+drinking (98) I prefer not to answer
+(99) I don't know
+Shown to: ALC05=1 (Past 12 month
+drinker)
+I have driven a motor vehicle when I ahs_j (1) No, never happened to me
+knew I had too much to drink to (2) Yes, but more than 30 days ago
+drive safely: Happened to you in the (3) Yes, within the past 30 days
+past 30 days due to your own (97) Skipped
+drinking (98) I prefer not to answer
+(99) I don't know
+Shown to: ALC05=1 (Past 12 month
+drinker)
+I have missed work or classes at ahs_k (1) No, never happened to me
+school because of drinking, a (2) Yes, but more than 30 days ago
+hangover, or illness caused by (3) Yes, within the past 30 days
+21
+Variable Description Variable Name Values and Labels
+drinking: Happened to you in the (97) Skipped
+past 30 days due to your own (98) I prefer not to answer
+drinking (99) I don't know
+Shown to: ALC05=1 (Past 12 month
+drinker)
+I have been in sexual situations that ahs_l (1) No, never happened to me
+I regretted later: Happened to you in (2) Yes, but more than 30 days ago
+the past 30 days due to your own (3) Yes, within the past 30 days
+drinking (97) Skipped
+(98) I prefer not to answer
+Shown to: ALC05=1 (Past 12 month (99) I don't know
+drinker)
+I have found it difficult to limit how ahs_m (1) No, never happened to me
+much I drink: Happened to you in (2) Yes, but more than 30 days ago
+the past 30 days due to your own (3) Yes, within the past 30 days
+drinking (97) Skipped
+(98) I prefer not to answer
+Shown to: ALC05=1 (Past 12 month (99) I don't know
+drinker)
+I have become very rude, obnoxious ahs_n (1) No, never happened to me
+or insulting as a result of my (2) Yes, but more than 30 days ago
+drinking: Happened to you in the (3) Yes, within the past 30 days
+past 30 days due to your own (97) Skipped
+drinking (98) I prefer not to answer
+(99) I don't know
+Shown to: ALC05=1 (Past 12 month
+drinker)
+I have woken up in an unexpected ahs_o (1) No, never happened to me
+place after heavy drinking: (2) Yes, but more than 30 days ago
+Happened to you in the past 30 days (3) Yes, within the past 30 days
+due to your own drinking (97) Skipped
+(98) I prefer not to answer
+Shown to: ALC05=1 (Past 12 month (99) I don't know
+drinker)
+I have felt badly about myself ahs_p (1) No, never happened to me
+because of my drinking: Happened (2) Yes, but more than 30 days ago
+to you in the past 30 days due to (3) Yes, within the past 30 days
+your own drinking (97) Skipped
+(98) I prefer not to answer
+Shown to: ALC05=1 (Past 12 month (99) I don't know
+drinker)
+I have had less energy or felt tired ahs_q (1) No, never happened to me
+because of my drinking: Happened (2) Yes, but more than 30 days ago
+to you in the past 30 days due to (3) Yes, within the past 30 days
+your own drinking (97) Skipped
+22
+Variable Description Variable Name Values and Labels
+(98) I prefer not to answer
+Shown to: ALC05=1 (Past 12 month (99) I don't know
+drinker)
+The quality of my work or ahs_r (1) No, never happened to me
+schoolwork has suffered because of (2) Yes, but more than 30 days ago
+my drinking: Happened to you in the (3) Yes, within the past 30 days
+past 30 days due to your own (97) Skipped
+drinking (98) I prefer not to answer
+(99) I don't know
+Shown to: ALC05=1 (Past 12 month
+drinker)
+I have spent too much time drinking: ahs_s (1) No, never happened to me
+Happened to you in the past 30 days (2) Yes, but more than 30 days ago
+due to your own drinking (3) Yes, within the past 30 days
+(97) Skipped
+Shown to: ALC05=1 (Past 12 month (98) I prefer not to answer
+drinker) (99) I don't know
+I have neglected my obligations to ahs_t (1) No, never happened to me
+family, work or school because of (2) Yes, but more than 30 days ago
+my drinking: Happened to you in the (3) Yes, within the past 30 days
+past 30 days due to your own (97) Skipped
+drinking (98) I prefer not to answer
+(99) I don't know
+Shown to: ALC05=1 (Past 12 month
+drinker)
+My drinking has created problems ahs_u (1) No, never happened to me
+between myself and my (2) Yes, but more than 30 days ago
+boyfriend/girlfriend/spouse/partner, (3) Yes, within the past 30 days
+parents, or other near relatives: (97) Skipped
+Happened to you in the past 30 days (98) I prefer not to answer
+due to your own drinking (99) I don't know
+Shown to: ALC05=1 (Past 12 month
+drinker)
+I have put on weight because of ahs_v (1) No, never happened to me
+drinking: Happened to you in the (2) Yes, but more than 30 days ago
+past 30 days due to your own (3) Yes, within the past 30 days
+drinking (97) Skipped
+(98) I prefer not to answer
+Shown to: ALC05=1 (Past 12 month (99) I don't know
+drinker)
+My physical appearance has been ahs_w (1) No, never happened to me
+harmed by my drinking: Happened (2) Yes, but more than 30 days ago
+to you in the past 30 days due to (3) Yes, within the past 30 days
+your own drinking (97) Skipped
+23
+Variable Description Variable Name Values and Labels
+Shown to: ALC05=1 (Past 12 month (98) I prefer not to answer
+drinker) (99) I don't know
+I have felt like I needed a drink after ahs_x (1) No, never happened to me
+I’d gotten up (that is, before (2) Yes, but more than 30 days ago
+breakfast): Happened to you in the (3) Yes, within the past 30 days
+past 30 days due to your own (97) Skipped
+drinking (98) I prefer not to answer
+(99) I don't know
+Shown to: ALC05=1 (Past 12 month
+drinker)
+I have had trouble with the police as ahs_y (1) No, never happened to me
+a result of my drinking: Happened to (2) Yes, but more than 30 days ago
+you in the past 30 days due to your (3) Yes, within the past 30 days
+own drinking (97) Skipped
+(98) I prefer not to answer
+Shown to: ALC05=1 (Past 12 month (99) I don't know
+drinker)
+When drinking, I have used drugs ahs_z (1) No, never happened to me
+that I had not planned to use: (2) Yes, but more than 30 days ago
+Happened to you in the past 30 days (3) Yes, within the past 30 days
+due to your own drinking (97) Skipped
+(98) I prefer not to answer
+Shown to: ALC05=1 (Past 12 month (99) I don't know
+drinker)
+Myself or someone else have been ahs_aa (1) No, never happened to me
+physically injured as a result of my (2) Yes, but more than 30 days ago
+drinking: Happened to you in the (3) Yes, within the past 30 days
+past 30 days due to your own (97) Skipped
+drinking (98) I prefer not to answer
+(99) I don't know
+Shown to: ALC05=1 (Past 12 month
+drinker)
+Needed to seek help for acute ahs_ab (1) No, never happened to me
+intoxication as a result of my (2) Yes, but more than 30 days ago
+drinking (e.g. go to emergency (3) Yes, within the past 30 days
+room, call 911 or poison control (97) Skipped
+centre): Happened to you in the past (98) I prefer not to answer
+30 days due to your own drinking (99) I don't know
+Shown to: ALC05=1 (Past 12 month
+drinker)
+Interrupted your studies: Happened aho_a (1) No, never happened to me
+to you in the past 30 days because (2) Yes, but more than 30 days ago
+of another student's drinking (3) Yes, within the past 30 days
+(98) I prefer not to answer
+Shown to: All respondents (99) I don't know
+24
+Variable Description Variable Name Values and Labels
+Affected your sleep: Happened to aho_b (1) No, never happened to me
+you in the past 30 days because of (2) Yes, but more than 30 days ago
+another student's drinking (3) Yes, within the past 30 days
+(98) I prefer not to answer
+Shown to: All respondents (99) I don't know
+Made you feel unsafe: Happened to aho_c (1) No, never happened to me
+you in the past 30 days because of (2) Yes, but more than 30 days ago
+another student's drinking (3) Yes, within the past 30 days
+(98) I prefer not to answer
+Shown to: All respondents (99) I don't know
+Messed up your living space or aho_d (1) No, never happened to me
+ruined your belongings: Happened (2) Yes, but more than 30 days ago
+to you in the past 30 days because (3) Yes, within the past 30 days
+of another student's drinking (98) I prefer not to answer
+(99) I don't know
+Shown to: All respondents
+Harassed or bothered you, called aho_e (1) No, never happened to me
+you names or insulted you: (2) Yes, but more than 30 days ago
+Happened to you in the past 30 days (3) Yes, within the past 30 days
+because of another student's (98) I prefer not to answer
+drinking (99) I don't know
+Shown to: All respondents
+Pushed, hit or assaulted you: aho_f (1) No, never happened to me
+Happened to you in the past 30 days (2) Yes, but more than 30 days ago
+because of another student's (3) Yes, within the past 30 days
+drinking (98) I prefer not to answer
+(99) I don't know
+Shown to: All respondents
+Sexually harassed or sexually aho_g (1) No, never happened to me
+assaulted you: Happened to you in (2) Yes, but more than 30 days ago
+the past 30 days because of another (3) Yes, within the past 30 days
+student's drinking (98) I prefer not to answer
+(99) I don't know
+Shown to: All respondents
+Caused an argument with you: aho_h (1) No, never happened to me
+Happened to you in the past 30 days (2) Yes, but more than 30 days ago
+because of another student's (3) Yes, within the past 30 days
+drinking (98) I prefer not to answer
+(99) I don't know
+Shown to: All respondents
+Had to be taken care of by you: aho_i (1) No, never happened to me
+Happened to you in the past 30 days (2) Yes, but more than 30 days ago
+because of another student's (3) Yes, within the past 30 days
+drinking (98) I prefer not to answer
+(99) I don't know
+25
+Variable Description Variable Name Values and Labels
+Shown to: All respondents
+Upset or disappointed you: aho_j (1) No, never happened to me
+Happened to you in the past 30 days (2) Yes, but more than 30 days ago
+because of another student's (3) Yes, within the past 30 days
+drinking (98) I prefer not to answer
+(99) I don't know
+Shown to: All respondents
+Caused a problem in your aho_k (1) No, never happened to me
+friendships or relationships: (2) Yes, but more than 30 days ago
+Happened to you in the past 30 days (3) Yes, within the past 30 days
+because of another student's (98) I prefer not to answer
+drinking (99) I don't know
+Shown to: All respondents
+Alternated non-alcoholic and apb_a (1) Never
+alcoholic beverages on the same (2) Rarely
+occasion: How often you have used (3) Sometimes
+the following strategies during the (4) Usually
+past 30 days (5) Always
+(6) Does not apply
+Shown to: ALC06=1,2,3,4,5 (Past 30 (97) Skipped
+day drinker) (98) I prefer not to answer
+(99) I don't know
+Determined, in advance, not to apb_b (1) Never
+exceed a set number of drinks: How (2) Rarely
+often you have used the following (3) Sometimes
+strategies during the past 30 days (4) Usually
+(5) Always
+Shown to: ALC06=1,2,3,4,5 (Past 30 (6) Does not apply
+day drinker) (97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+Ate before and/or during drinking: apb_c (1) Never
+How often you have used the (2) Rarely
+following strategies during the past (3) Sometimes
+30 days (4) Usually
+(5) Always
+Shown to: ALC06=1,2,3,4,5 (Past 30 (6) Does not apply
+day drinker) (97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+Had a friend let me know when I’ve apb_d (1) Never
+had enough: How often you have (2) Rarely
+used the following strategies during (3) Sometimes
+the past 30 days (4) Usually
+26
+Variable Description Variable Name Values and Labels
+(5) Always
+Shown to: ALC06=1,2,3,4,5 (Past 30 (6) Does not apply
+day drinker) (97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+Kept track of how many drinks I was apb_e (1) Never
+having: How often you have used (2) Rarely
+the following strategies during the (3) Sometimes
+past 30 days (4) Usually
+(5) Always
+Shown to: ALC06=1,2,3,4,5 (Past 30 (6) Does not apply
+day drinker) (97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+Paced my drinks to 1 or fewer per apb_f (1) Never
+hour: How often you have used the (2) Rarely
+following strategies during the past (3) Sometimes
+30 days (4) Usually
+(5) Always
+Shown to: ALC06=1,2,3,4,5 (Past 30 (6) Does not apply
+day drinker) (97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+Avoided drinking games: How often apb_g (1) Never
+you have used the following (2) Rarely
+strategies during the past 30 days (3) Sometimes
+(4) Usually
+Shown to: ALC06=1,2,3,4,5 (Past 30 (5) Always
+day drinker) (6) Does not apply
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+Stopped drinking at least 1-2 hours apb_h (1) Never
+before going home: How often you (2) Rarely
+have used the following strategies (3) Sometimes
+during the past 30 days (4) Usually
+(5) Always
+Shown to: ALC06=1,2,3,4,5 (Past 30 (6) Does not apply
+day drinker) (97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+Limited money spent on alcohol: apb_i (1) Never
+How often you have used the (2) Rarely
+following strategies during the past (3) Sometimes
+30 days (4) Usually
+(5) Always
+27
+Variable Description Variable Name Values and Labels
+Shown to: ALC06=1,2,3,4,5 (Past 30 (6) Does not apply
+day drinker) (97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+Only drank alcohol in safe apb_j (1) Never
+environments (e.g., in the presence (2) Rarely
+of others, at home, at a friend’s (3) Sometimes
+house, at a restaurant): How often (4) Usually
+you have used the following (5) Always
+strategies during the past 30 days (6) Does not apply
+(97) Skipped
+Shown to: ALC06=1,2,3,4,5 (Past 30 (98) I prefer not to answer
+day drinker) (99) I don't know
+Made my own drinks: How often apb_k (1) Never
+you have used the following (2) Rarely
+strategies during the past 30 days (3) Sometimes
+(4) Usually
+Shown to: ALC06=1,2,3,4,5 (Past 30 (5) Always
+day drinker) (6) Does not apply
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+Avoided hard liquor or spirits: How apb_l (1) Never
+often you have used the following (2) Rarely
+strategies during the past 30 days (3) Sometimes
+(4) Usually
+Shown to: ALC06=1,2,3,4,5 (Past 30 (5) Always
+day drinker) (6) Does not apply
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+Refused a drink from a stranger: apb_m (1) Never
+How often you have used the (2) Rarely
+following strategies during the past (3) Sometimes
+30 days (4) Usually
+(5) Always
+Shown to: ALC06=1,2,3,4,5 (Past 30 (6) Does not apply
+day drinker) (97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+Never left a drink unattended: How apb_n (1) Never
+often you have used the following (2) Rarely
+strategies during the past 30 days (3) Sometimes
+(4) Usually
+Shown to: ALC06=1,2,3,4,5 (Past 30 (5) Always
+day drinker) (6) Does not apply
+28
+Variable Description Variable Name Values and Labels
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+Drank an alcohol look-alike: How apb_o (1) Never
+often you have used the following (2) Rarely
+strategies during the past 30 days (3) Sometimes
+(4) Usually
+Shown to: ALC06=1,2,3,4,5 (Past 30 (5) Always
+day drinker) (6) Does not apply
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+Carried around a cup but did not apb_p (1) Never
+drink any alcohol: How often you (2) Rarely
+have used the following strategies (3) Sometimes
+during the past 30 days (4) Usually
+(5) Always
+Shown to: ALC06=1,2,3,4,5 (Past 30 (6) Does not apply
+day drinker) (97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+Avoided situations where there was apb_q (1) Never
+alcohol: How often you have used (2) Rarely
+the following strategies during the (3) Sometimes
+past 30 days (4) Usually
+(5) Always
+Shown to: ALC06=1,2,3,4,5 (Past 30 (6) Does not apply
+day drinker) (97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+Used a designated driver: How often apb_r (1) Never
+you have used the following (2) Rarely
+strategies during the past 30 days (3) Sometimes
+(4) Usually
+Shown to: ALC06=1,2,3,4,5 (Past 30 (5) Always
+day drinker) (6) Does not apply
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+Avoided getting in a car with apb_s (1) Never
+someone who had been drinking: (2) Rarely
+How often you have used the (3) Sometimes
+following strategies during the past (4) Usually
+30 days (5) Always
+(6) Does not apply
+(97) Skipped
+29
+Variable Description Variable Name Values and Labels
+Shown to: ALC06=1,2,3,4,5 (Past 30 (98) I prefer not to answer
+day drinker) (99) I don't know
+In the past 12 months, have you can01_1 (0) Not Selected
+seen/heard education campaigns, (1) Selected
+public health or safety messages (98) I prefer not to answer
+about cannabis in any of the (99) I don't know
+following places? - School (e.g.,
+university campus, institutional e-
+mail)
+Shown to: All respondents
+In the past 12 months, have you can01_2 (0) Not Selected
+seen/heard education campaigns, (1) Selected
+public health or safety messages (98) I prefer not to answer
+about cannabis in any of the (99) I don't know
+following places? – Social media
+Shown to: All respondents
+In the past 12 months, have you can01_3 (0) Not Selected
+seen/heard education campaigns, (1) Selected
+public health or safety messages (98) I prefer not to answer
+about cannabis in any of the (99) I don't know
+following places? - Non-social media
+websites
+Shown to: All respondents
+In the past 12 months, have you can01_4 (0) Not Selected
+seen/heard education campaigns, (1) Selected
+public health or safety messages (98) I prefer not to answer
+about cannabis in any of the (99) I don't know
+following places? - Events (e.g.,
+sporting events, concerts, festivals
+or markets)
+Shown to: All respondents
+In the past 12 months, have you can01_5 (0) Not Selected
+seen/heard education campaigns, (1) Selected
+public health or safety messages (98) I prefer not to answer
+about cannabis in any of the (99) I don't know
+following places? – Kiosk or
+temporary sales locations (in
+shopping centers or on the street):
+Shown to: All respondents
+In the past 12 months, have you can01_6 (0) Not Selected
+seen/heard education campaigns, (1) Selected
+30
+Variable Description Variable Name Values and Labels
+public health or safety messages (98) I prefer not to answer
+about cannabis in any of the (99) I don't know
+following places? - Inside/outside
+legal stores that sell cannabis
+Shown to: All respondents
+In the past 12 months, have you can01_7 (0) Not Selected
+seen/heard education campaigns, (1) Selected
+public health or safety messages (98) I prefer not to answer
+about cannabis in any of the (99) I don't know
+following places? - Public display of
+posters or billboards (e.g., in public
+transit, at bars/restaurants)
+Shown to: All respondents
+In the past 12 months, have you can01_8 (0) Not Selected
+seen/heard education campaigns, (1) Selected
+public health or safety messages (98) I prefer not to answer
+about cannabis in any of the (99) I don't know
+following places? - Health care
+setting (e.g., pharmacy, doctors
+office)
+Shown to: All respondents
+In the past 12 months, have you can01_9 (0) Not Selected
+seen/heard education campaigns, (1) Selected
+public health or safety messages (98) I prefer not to answer
+about cannabis in any of the (99) I don't know
+following places? - Print newspapers
+or magazines
+Shown to: All respondents
+In the past 12 months, have you can01_10 (0) Not Selected
+seen/heard education campaigns, (1) Selected
+public health or safety messages (98) I prefer not to answer
+about cannabis in any of the (99) I don't know
+following places? - TV/radio
+Shown to: All respondents
+In the past 12 months, have you can01_11 (0) Not Selected
+seen/heard education campaigns, (1) Selected
+public health or safety messages (98) I prefer not to answer
+about cannabis in any of the (99) I don't know
+following places? - Inside/outside
+illegal stores that sell cannabis
+31
+Variable Description Variable Name Values and Labels
+Shown to: All respondents
+In the past 12 months, have you can01_12 (0) Not Selected
+seen/heard education campaigns, (1) Selected
+public health or safety messages (98) I prefer not to answer
+about cannabis in any of the (99) I don't know
+following places? - Community-
+based/not for profit organizations
+Shown to: All respondents
+In the past 12 months, have you can01_13 (0) Not Selected
+seen/heard education campaigns, (1) Selected
+public health or safety messages (98) I prefer not to answer
+about cannabis in any of the (99) I don't know
+following places? - Workplace
+Shown to: All respondents
+In the past 12 months, have you can01_14 (0) Not Selected
+seen/heard education campaigns, (1) Selected
+public health or safety messages (98) I prefer not to answer
+about cannabis in any of the (99) I don't know
+following places? - Other
+Shown to: All respondents
+In the past 12 months, have you can01_15 (0) Not Selected
+seen/heard education campaigns, (1) Selected
+public health or safety messages (98) I prefer not to answer
+about cannabis in any of the (99) I don't know
+following places? - I have not
+noticed any education campaigns or
+public health messages
+Shown to: All respondents
+Based on what you know ...Can can02_a (1) Yes
+cannabis smoke be harmful? (2) No
+(98) I prefer not to answer
+Shown to: All respondents (99) I don't know
+Based on what you know ...Can it be can02_b (1) Yes
+harmful to use cannabis when (2) No
+pregnant or breastfeeding? (98) I prefer not to answer
+(99) I don't know
+Shown to: All respondents
+Based on what you know ... Does can02_c (1) Yes
+using cannabis daily or near-daily (2) No
+increase the risk of mental health (98) I prefer not to answer
+problems? (99) I don't know
+32
+Variable Description Variable Name Values and Labels
+Shown to: All respondents
+Based on what you know ...Are can02_d (1) Yes
+young adults at greater risk of harm (2) No
+from using cannabis than adults? (98) I prefer not to answer
+(99) I don't know
+Shown to: All respondents
+Based on what you know ... Does can02_e (1) Yes
+consuming cannabis products with (2) No
+lower levels of THC lead to greater (98) I prefer not to answer
+impairment? (99) I don't know
+Shown to: All respondents
+Based on what you know ... Can it can02_f (1) Yes
+take up to 4 hours to feel the full (2) No
+effects from eating or drinking (98) I prefer not to answer
+cannabis? (99) I don't know
+Shown to: All respondents
+Based on what you know ... Are the can02_g (1) Yes
+effects of inhaling cannabis longer- (2) No
+lasting than eating/drinking (98) I prefer not to answer
+cannabis products? (99) I don't know
+Shown to: All respondents
+Based on what you know ... Can can02_h (1) Yes
+using cannabis become habit (2) No
+forming for some people? (98) I prefer not to answer
+(99) I don't know
+Shown to: All respondents
+Based on what you know ... Is it okay can02_i (1) Yes
+for cannabis topicals to be (2) No
+swallowed or applied internally or to (98) I prefer not to answer
+broken, irritated or itching skin? (99) I don't know
+Shown to: All respondents
+In the past 12 months, have you can04a (1) Yes, on cannabis products/packages
+seen health warning messages on (2) Yes, on Health Canada's website
+cannabis products/packages or on (3) Yes, both of the above
+Health Canada’s website? (4) No
+(5) Don't know/Not sure
+Shown to: All respondents
+Was the information you saw in the can04b (1) Yes
+health warning messages (2) No
+credible/believable? (3) Somewhat
+33
+Variable Description Variable Name Values and Labels
+Shown to: Can04a=1,2,3 (Has seen (4) Don't know/Not sure
+messages) (97) Skipped
+Have the health warning messages can04c (1) Yes
+increased your knowledge of the (2) No
+potential harms related to cannabis (3) Somewhat
+use? (4) Don't know/Not sure
+(97) Skipped
+Shown to: Can04a=1,2,3 (Has seen
+messages)
+In the past 12 months, have you can05 (1) Yes
+used cannabis? (2) No
+(98) I prefer not to answer
+Shown to: All respondents (99) I don't know
+Are you more willing to publicly say can17 (1) Yes, I am more willing to publicly say whether I
+whether you use cannabis now that use cannabis
+cannabis is legal in Canada? (2) No, I was already willing to publicly say
+whether I use cannabis
+Shown to: Can05=1 (Past 12 month (3) No, I am not more willing to publicly say
+cannabis user) whether I use cannabis
+(4) Don't know/Not sure
+(97) Skipped
+Are you using a different amount of can08 (1) I use more
+cannabis since now that the new (2) I use less
+cannabis law is in effect (October (3) I use the same amount
+17, 2018)? (97) Skipped
+(98) I prefer not to answer
+Shown to: CAN05=1 (Past 12 month (99) I don't know
+cannabis user)
+Has the amount/quantity of alcohol COVID1CAN (1) I use more
+you consume changed since March (2) I use less
+2020 with the onset of the COVID-19 (3) I use the same amount
+pandemic? (97) Skipped
+Shown to: CAN05=1 (Past 12 month
+cannabis user)
+Why did your cannabis use change COVID2aCAN_1 (0) Not Selected
+due to the COVID-19 pandemic? – (1) Selected
+Stress (97) Skipped
+Shown to: COVID1CAN=1
+(Consumed more)
+Why did your cannabis use change COVID2aCAN_2 (0) Not Selected
+due to the COVID-19 pandemic? – (1) Selected
+Anxiety (97) Skipped
+34
+Variable Description Variable Name Values and Labels
+Shown to: COVID1CAN=1
+(Consumed more)
+Why did your cannabis use change COVID2aCAN_3 (0) Not Selected
+due to the COVID-19 pandemic? – (1) Selected
+Depression/low-mood (97) Skipped
+Shown to: COVID1CAN=1
+(Consumed more)
+Why did your cannabis use change COVID2aCAN_4 (0) Not Selected
+due to the COVID-19 pandemic? – (1) Selected
+Lack of regular schedule (97) Skipped
+Shown to: COVID1CAN=1
+(Consumed more)
+Why did your cannabis use change COVID2aCAN_5 (0) Not Selected
+due to the COVID-19 pandemic? – (1) Selected
+More social gatherings (online or at (97) Skipped
+home)
+Shown to: COVID1CAN=1
+(Consumed more)
+Why did your cannabis use change COVID2aCAN_6 (0) Not Selected
+due to the COVID-19 pandemic? – (1) Selected
+Boredom (97) Skipped
+Shown to: COVID1CAN=1
+(Consumed more)
+Why did your cannabis use change COVID2aCAN_7 (0) Not Selected
+due to the COVID-19 pandemic? – (1) Selected
+Loneliness (97) Skipped
+Shown to: COVID1CAN=1
+(Consumed more)
+Why did your cannabis use change COVID2aCAN_8 (0) Not Selected
+due to the COVID-19 pandemic? – (1) Selected
+Other (97) Skipped
+Shown to: COVID1CAN=1
+(Consumed more)
+Why did your cannabis use change COVID2aCAN_9 (0) Not Selected
+due to the COVID-19 pandemic? – (1) Selected
+No reason (97) Skipped
+Shown to: COVID1CAN=1
+(Consumed more)
+35
+Variable Description Variable Name Values and Labels
+Why did your cannabis use change COVID2aCAN_10 (0) Not Selected
+due to the COVID-19 pandemic? – (1) Selected
+(R) Turn to legal age (97) Skipped
+Shown to: COVID1CAN=1
+(Consumed more) – coded from
+verbatims
+Why did your cannabis use change COVID2aCAN_11 (0) Not Selected
+due to the COVID-19 pandemic? – (1) Selected
+(R) Help sleeping / insomnia issues (97) Skipped
+Shown to: COVID1CAN=1
+(Consumed more) – coded from
+verbatims
+Why did your cannabis use change COVID2aCAN_12 (0) Not Selected
+due to the COVID-19 pandemic? – (1) Selected
+(R) Chronic pain / other health (97) Skipped
+issues
+Shown to: COVID1CAN=1
+(Consumed more) – coded from
+verbatims
+Why did your cannabis use change COVID2aCAN_13 (0) Not Selected
+due to the COVID-19 pandemic? – (1) Selected
+(R) For fun/curiosity/first time (97) Skipped
+Shown to: COVID1CAN=1
+(Consumed more) – coded from
+verbatims
+Why did your cannabis consumption COVID2bCAN_1 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – Stress (97) Skipped
+Shown to: COVID1CAN=2
+(Consumed less)
+Why did your cannabis consumption COVID2bCAN_2 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – Anxiety (97) Skipped
+Shown to: COVID1CAN=2
+(Consumed less)
+Why did your cannabis consumption COVID2bCAN_3 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – Depression/low-mood (97) Skipped
+36
+Variable Description Variable Name Values and Labels
+Shown to: COVID1CAN=2
+(Consumed less)
+Why did your cannabis consumption COVID2bCAN_4 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – Trying to save money (97) Skipped
+Shown to: COVID1CAN=2
+(Consumed less)
+Why did your cannabis consumption COVID2bCAN_5 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – Living at home with (97) Skipped
+parents
+Shown to: COVID1CAN=2
+(Consumed less)
+Why did your cannabis consumption COVID2bCAN_6 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – More difficulty (97) Skipped
+accessing it
+Shown to: COVID1CAN=2
+(Consumed less)
+Why did your cannabis consumption COVID2bCAN_7 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – Lack of regular (97) Skipped
+schedule
+Shown to: COVID1CAN=2
+(Consumed less)
+Why did your cannabis consumption COVID2bCAN_8 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – More social gatherings (97) Skipped
+(online or at home)
+Shown to: COVID1CAN=2
+(Consumed less)
+Why did your cannabis consumption COVID2bCAN_9 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – Other (97) Skipped
+Shown to: COVID1CAN=2
+(Consumed less)
+Why did your cannabis consumption COVID2bCAN_10 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – No reason (97) Skipped
+37
+Variable Description Variable Name Values and Labels
+Shown to: COVID1CAN=2
+(Consumed less)
+Why did your cannabis consumption COVID2bCAN_11 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – (R) Health Concerns (97) Skipped
+Shown to: COVID1CAN=2
+(Consumed less) – coded from
+verbatims
+Why did your cannabis consumption COVID2bCAN_12 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – (R) Didn’t like it / less (97) Skipped
+enjoyable / Quit
+Shown to: COVID1CAN=2
+(Consumed less) – coded from
+verbatims
+Why did your cannabis consumption COVID2bCAN_13 (0) Not Selected
+change due to the COVID-19 (1) Selected
+pandemic? – (R) Pregnancy / Had a (97) Skipped
+baby / Breastfeeding
+Shown to: COVID1CAN=2
+(Consumed less) – coded from
+verbatims
+Has the frequency of your cannabis COVID3CAN (1) I use more frequently
+use changed since March 2020 with (2) I use less frequently
+the onset of the COVID-19 (3) I use at the same frequency
+pandemic? (97) Skipped
+Shown to:CAN05=1 (Past 12 month
+cannabis user)
+How old were you when you first can07 1 to 63 Numeric values
+tried or started using cannabis? (997) Skipped
+(998) I prefer not to answer
+Shown to: CAN05=1 (Past 12 month (999) I don't know
+cannabis user)
+In the past 30 days, how often did can06 (1) Not in the past 30 days
+you use cannabis? (2) 1 day in the past 30 days
+(3) 2 or 3 days in the past 30 days
+Shown to: CAN05=1 (Past 12 month (4) 1 or 2 day(s) per week
+cannabis user) (5) 3 or 4 days per week
+(6) Daily (5+ days/week)
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+38
+Variable Description Variable Name Values and Labels
+In the past 12 months, did you use can20a_1 (0) Not Selected
+the following method to consume (1) Selected
+cannabis? - Smoked (e.g., a joint, (97) Skipped
+bong, pipe or blunt)
+Shown to: CAN05=1 (Past 12 month
+cannabis user)
+In the past 12 months, did you use can20a_2 (0) Not Selected
+the following method to consume (1) Selected
+cannabis? - Eaten it in food (e.g., (97) Skipped
+brownies, cakes, cookies or candy)
+Shown to: CAN05=1 (Past 12 month
+cannabis user)
+In the past 12 months, did you use can20a_3 (0) Not Selected
+the following method to consume (1) Selected
+cannabis? - Drank it (e.g., sparkling (97) Skipped
+water, tea, dissolvable powder)
+Shown to: CAN05=1 (Past 12 month
+cannabis user)
+In the past 12 months, did you use can20a_4 (0) Not Selected
+the following method to consume (1) Selected
+cannabis? - Vaporized it with a (97) Skipped
+vaporizer, vape pen or e-cigarette
+Shown to: CAN05=1 (Past 12 month
+cannabis user)
+In the past 12 months, did you use can20a_5 (0) Not Selected
+the following method to consume (1) Selected
+cannabis? - Cannabis oil for oral use (97) Skipped
+(e.g., in dropper/syringe,
+softgel/capsules, spray bottle)
+Shown to: CAN05=1 (Past 12 month
+cannabis user)
+In the past 12 months, did you use can20a_6 (0) Not Selected
+the following method to consume (1) Selected
+cannabis? - Dabbing (e.g., including (97) Skipped
+hot knife/nail)
+Shown to: CAN05=1 (Past 12 month
+cannabis user)
+In the past 12 months, did you use can20a_7 (0) Not Selected
+the following method to consume (1) Selected
+cannabis? - Applied to skin (e.g., (97) Skipped
+39
+Variable Description Variable Name Values and Labels
+topicals)
+Shown to: CAN05=1 (Past 12 month
+cannabis user)
+In the past 12 months, did you use can20a_8 (0) Not Selected
+the following method to consume (1) Selected
+cannabis? - Used it some other way (97) Skipped
+(please specify)
+Shown to: CAN05=1 (Past 12 month
+cannabis user)
+What cannabis products did you use can20b_1 (0) Not Selected
+when vaporizing cannabis? - Dried (1) Selected
+flower/leaf (97) Skipped
+Shown to: CAN20a_4=1 (Vaporized
+cannabis)
+What cannabis products did you use can20b_2 (0) Not Selected
+when vaporizing cannabis? - Liquid (1) Selected
+cannabis oil/extract (e.g., butane (97) Skipped
+honey oil (BHO), vaping liquid with
+THC/CBD, etc.)
+Shown to: CAN20a_4=1 (Vaporized
+cannabis)
+What cannabis products did you use can20b_3 (0) Not Selected
+when vaporizing cannabis? - Solids (1) Selected
+cannabis extract (e.g., shatter, hash, (97) Skipped
+etc.)
+Shown to: CAN20a_4=1 (Vaporized
+cannabis)
+What cannabis products did you use can20b_4 (0) Not Selected
+when vaporizing cannabis? - Other (1) Selected
+cannabis product (specify) (97) Skipped
+Shown to: CAN20a_4=1 (Vaporized
+cannabis)
+During the past 30 days, how often can21 (1) Not in the past 30 days
+did you vape cannabis? (2) 1 day in the past 30 days
+(3) 2 or 3 days in the past 30 days
+Shown to: CAN20a_4=1 (Vaporized (4) 1 or 2 day(s) per week
+cannabis) (5) 3 or 4 days per week
+(6) Daily (5+ days/week)
+(97) Skipped
+40
+Variable Description Variable Name Values and Labels
+(98) I prefer not to answer
+(99) I don't know
+When choosing cannabis products, can10 (1) Higher THC, Lower CBD
+what levels of THC and CBD do you (2) Higher CBD, Lower THC
+typically use? (3) Equal levels of THC and CBD
+(4) THC only
+Shown to: CAN05=1 (Past 12 month (5) CBD only
+cannabis user) (6) I typically use a mix of the products above
+(7) Other (please specify):
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+In the past 12 months, have you can11a_1 (0) Not Selected
+used the following cannabis (1) Selected
+products? - Dried flower/leaf (97) Skipped
+(98) I prefer not to answer
+Shown to: CAN05=1 (Past 12 month (99) I don't know
+cannabis user)
+In the past 12 months, have you can11a_2 (0) Not Selected
+used the following cannabis (1) Selected
+products? - Hashish/kief (97) Skipped
+(98) I prefer not to answer
+Shown to: CAN05=1 (Past 12 month (99) I don't know
+cannabis user)
+In the past 12 months, have you can11a_3 (0) Not Selected
+used the following cannabis (1) Selected
+products? - Cannabis oil for oral use (97) Skipped
+– e.g., in dropper/syringe, (98) I prefer not to answer
+softgel/capsules, spray bottle (99) I don't know
+Shown to: CAN05=1 (Past 12 month
+cannabis user)
+In the past 12 months, have you can11a_4 (0) Not Selected
+used the following cannabis (1) Selected
+products? - Cannabis in vape (97) Skipped
+pens/cartridges (98) I prefer not to answer
+(99) I don't know
+Shown to: CAN05=1 (Past 12 month
+cannabis user)
+In the past 12 months, have you can11a_5 (0) Not Selected
+used the following cannabis (1) Selected
+products? - Cannabis (97) Skipped
+concentrate/extracts – e.g., (98) I prefer not to answer
+shatter/wax/budder/butane honey (99) I don't know
+oil
+41
+Variable Description Variable Name Values and Labels
+Shown to: CAN05=1 (Past 12 month
+cannabis user)
+In the past 12 months, have you can11a_6 (0) Not Selected
+used the following cannabis (1) Selected
+products? - Cannabis edible food (97) Skipped
+products – e.g., cookies, candy (98) I prefer not to answer
+(99) I don't know
+Shown to: CAN05=1 (Past 12 month
+cannabis user)
+In the past 12 months, have you can11a_7 (0) Not Selected
+used the following cannabis (1) Selected
+products? - Cannabis beverages - (97) Skipped
+e.g., sparkling water, tea, dissolvable (98) I prefer not to answer
+powder (99) I don't know
+Shown to: CAN05=1 (Past 12 month
+cannabis user)
+In the past 12 months, have you can11a_8 (0) Not Selected
+used the following cannabis (1) Selected
+products? - Other (seeds, tincture, (97) Skipped
+suppository, etc.) (98) I prefer not to answer
+(99) I don't know
+Shown to: CAN05=1 (Past 12 month
+cannabis user)
+In the past 12 months, have you can11a_9 (0) Not Selected
+used the following cannabis (1) Selected
+products? - Topicals - e.g., lotion, (97) Skipped
+ointment, creams applied to skin (98) I prefer not to answer
+(99) I don't know
+Shown to: CAN05=1 (Past 12 month
+cannabis user)
+In the past 12 months, how often can11b_a (1) Not in past 12 months
+have you used the following (2) Once in past 12 months
+cannabis products? - Dried (3) Less than 1 day per month
+flower/leaf (4) 1 day per month
+(5) 2 or 3 days per month
+Shown to: CAN11a_1=1 (Past 12 (6) 1 or 2 day(s) per week
+month dried flower/leaf user) (7) 3 or 4 days per week
+(8) Daily (5+ days/ week)
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+In the past 12 months, how often can11b_b (1) Not in past 12 months
+have you used the following (2) Once in past 12 months
+cannabis products? - Hashish/kief (3) Less than 1 day per month
+(4) 1 day per month
+42
+Variable Description Variable Name Values and Labels
+Shown to: CAN11a_2=1 (Past 12 (5) 2 or 3 days per month
+month hashish/kief user) (6) 1 or 2 day(s) per week
+(7) 3 or 4 days per week
+(8) Daily (5+ days/ week)
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+In the past 12 months, how often can11b_c (1) Not in past 12 months
+have you used the following (2) Once in past 12 months
+cannabis products? - Cannabis oil for (3) Less than 1 day per month
+oral use – e.g., in dropper/syringe, (4) 1 day per month
+softgel/capsules, spray bottle (5) 2 or 3 days per month
+(6) 1 or 2 day(s) per week
+Shown to: CAN11a_3=1 (Past 12 (7) 3 or 4 days per week
+month cannabis oil for oral use user) (8) Daily (5+ days/ week)
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+In the past 12 months, how often can11b_d (1) Not in past 12 months
+have you used the following (2) Once in past 12 months
+cannabis products? - Cannabis in (3) Less than 1 day per month
+vape pens/cartridges (4) 1 day per month
+(5) 2 or 3 days per month
+Shown to: CAN11a_4=1 (Past 12 (6) 1 or 2 day(s) per week
+month vape pen/cartridge user) (7) 3 or 4 days per week
+(8) Daily (5+ days/ week)
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+In the past 12 months, how often can11b_e (1) Not in past 12 months
+have you used the following (2) Once in past 12 months
+cannabis products? - Cannabis (3) Less than 1 day per month
+concentrate/extracts – e.g., (4) 1 day per month
+shatter/wax/budder/butane honey (5) 2 or 3 days per month
+oil (6) 1 or 2 day(s) per week
+(7) 3 or 4 days per week
+Shown to: CAN11a_5=1 (Past 12 (8) Daily (5+ days/ week)
+month cannabis concentrate/extract (97) Skipped
+user) (98) I prefer not to answer
+(99) I don't know
+In the past 12 months, how often can11b_f (1) Not in past 12 months
+have you used the following (2) Once in past 12 months
+cannabis products? - Cannabis (3) Less than 1 day per month
+edible food products – e.g., cookies, (4) 1 day per month
+candy (5) 2 or 3 days per month
+(6) 1 or 2 day(s) per week
+43
+Variable Description Variable Name Values and Labels
+Shown to: CAN11a_6=1 (Past 12 (7) 3 or 4 days per week
+month cannabis edible user) (8) Daily (5+ days/ week)
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+In the past 12 months, how often can11b_g (1) Not in past 12 months
+have you used the following (2) Once in past 12 months
+cannabis products? - Cannabis (3) Less than 1 day per month
+beverages - e.g., cola, tea, coffee (4) 1 day per month
+(5) 2 or 3 days per month
+Shown to: CAN11a_7=1 (Past 12 (6) 1 or 2 day(s) per week
+month cannabis beverage user) (7) 3 or 4 days per week
+(8) Daily (5+ days/ week)
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+In the past 12 months, how often can11b_h (1) Not in past 12 months
+have you used the following (2) Once in past 12 months
+cannabis products? - Other (specify) (3) Less than 1 day per month
+(4) 1 day per month
+Shown to: CAN11a_8=1 (Past 12 (5) 2 or 3 days per month
+month other cannabis user) (6) 1 or 2 day(s) per week
+(7) 3 or 4 days per week
+(8) Daily (5+ days/ week)
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+In the past 12 months, how often can11b_i (1) Not in past 12 months
+have you used the following (2) Once in past 12 months
+cannabis products? - Topicals - e.g., (3) Less than 1 day per month
+lotion, ointment, creams applied to (4) 1 day per month
+skin (5) 2 or 3 days per month
+(6) 1 or 2 day(s) per week
+Shown to: CAN11a_9=1 (Past 12 (7) 3 or 4 days per week
+month topical user) (8) Daily (5+ days/ week)
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+During the past 12 months, when can14_a (1) Never
+you used cannabis, how often did (2) Rarely
+you combine it with any of the (3) Sometimes
+following substances? - Alcohol (4) Usually
+(5) Always
+Shown to: CAN05=1 (Past 12 month (97) Skipped
+cannabis user) (98) I prefer not to answer
+(99) I don't know
+44
+Variable Description Variable Name Values and Labels
+During the past 12 months, when can14_b (1) Never
+you used cannabis, how often did (2) Rarely
+you combine it with any of the (3) Sometimes
+following substances? - Tobacco (4) Usually
+cigarettes (“batching”) (5) Always
+(97) Skipped
+Shown to: CAN05=1 (Past 12 month (98) I prefer not to answer
+cannabis user) (99) I don't know
+During the past 12 months, when can14_d (1) Never
+you used cannabis, how often did (2) Rarely
+you combine it with any of the (3) Sometimes
+following substances? - Prescription (4) Usually
+opioids (e.g., oxy, Dilaudid®, (5) Always
+morphine, Demerol®, Tylenol #3®) (97) Skipped
+(98) I prefer not to answer
+Shown to: CAN05=1 (Past 12 month (99) I don't know
+cannabis user)
+During the past 12 months, when can14_e (1) Never
+you used cannabis, how often did (2) Rarely
+you combine it with any of the (3) Sometimes
+following substances? - Prescription (4) Usually
+stimulants (e.g., Ritalin®, Concerta®, (5) Always
+Adderall®, Dexedrine®) (97) Skipped
+(98) I prefer not to answer
+Shown to: CAN05=1 (Past 12 month (99) I don't know
+cannabis user)
+During the past 12 months, when can14_f (1) Never
+you used cannabis, how often did (2) Rarely
+you combine it with any of the (3) Sometimes
+following substances? - Prescription (4) Usually
+sedatives/tranquilizers (e.g., (5) Always
+diazepam, lorazepam, Valium®, (97) Skipped
+Ativan®, alprazolam, Xanax®, (98) I prefer not to answer
+clonazepam, Rivotril®) (99) I don't know
+Shown to: CAN05=1 (Past 12 month
+cannabis user)
+During the past 12 months, when can14_g (1) Never
+you used cannabis, how often did (2) Rarely
+you combine it with any of the (3) Sometimes
+following substances? - Illegal (4) Usually
+opioids (e.g., heroin, non- (5) Always
+pharmaceutical fentanyl) (97) Skipped
+(98) I prefer not to answer
+Shown to: CAN05=1 (Past 12 month (99) I don't know
+cannabis user)
+45
+Variable Description Variable Name Values and Labels
+During the past 12 months, when can14_h (1) Never
+you used cannabis, how often did (2) Rarely
+you combine it with any of the (3) Sometimes
+following substances? - Illegal (4) Usually
+stimulants (e.g., cocaine, crack, (5) Always
+methamphetamine, ecstasy/MDMA) (97) Skipped
+(98) I prefer not to answer
+Shown to: CAN05=1 (Past 12 month (99) I don't know
+cannabis user)
+During the past 12 months, when can14_i (1) Never
+you used cannabis, how often did (2) Rarely
+you combine it with any of the (3) Sometimes
+following substances? - Illegal (4) Usually
+hallucinogens/dissociative (e.g., LSD, (5) Always
+magic mushrooms, PCP) (97) Skipped
+(98) I prefer not to answer
+Shown to: CAN05=1 (Past 12 month (99) I don't know
+cannabis user)
+During the past 12 months, when can14_j (1) Never
+you used cannabis, how often did (2) Rarely
+you combine it with any of the (3) Sometimes
+following substances? – Some other (4) Usually
+substance or illegal drug (5) Always
+(97) Skipped
+Shown to: CAN05=1 (Past 12 month (98) I prefer not to answer
+cannabis user) (99) I don't know
+In the past 12 months, from whom can12 (1) I grew my own
+did you usually buy or receive (2) It was specifically grown for me
+cannabis you used? (3) From a legal storefront/provincially authorized
+retailer
+Shown to: CAN05=1 (Past 12 month (4) From a legal online source (provincially
+cannabis user) authorized retailer)
+(5) From an illegal storefront
+(6) From an illegal online source
+(7) It was shared around a group of friends
+(8) From a family member
+(9) From a friend
+(10) From an acquaintance
+(11) From a dealer
+(12) Other
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+In the past 12 months, how often can13 (1) Rarely (less than one day per month)
+did you attend class (either in (2) Sometimes (1 to 3 days per month)
+person or online) within 4 hours of (3) Often (weekly)
+46
+Variable Description Variable Name Values and Labels
+ingesting or 2 hours of inhaling (4) Always or almost always (most days you
+cannabis? attend school)
+(5) Have not done this in the past 12 months
+Shown to: CAN05=1 (Past 12 month (97) Skipped
+cannabis user) (98) I prefer not to answer
+(99) I don't know
+Have you ever been a passenger in a can04 (1) Yes, in the past 30 days
+motor vehicle driven by someone (2) Yes, but in the past 12 months
+who had used cannabis within 4 (3) Yes, but more than 12 months ago
+hours of ingesting or 2 hours of (4) Never
+inhaling before driving? (98) I prefer not to answer
+(99) I don't know
+Shown to: All respondents
+Have you driven a motor vehicle can16 (1) Yes, in the past 30 days
+within 2 hours of inhaling or 4 hours (2) Yes, but in the past 12 months
+of ingesting cannabis? (3) Yes, but more than 12 months ago
+(4) Never
+Shown to: CAN05=1 (Past 12 month (97) Skipped
+cannabis user) and ALCD04=1,2 (has (98) I prefer not to answer
+driven in the past 12 months) (99) I don't know
+In the past 12 months, have you can18 (1) Yes, with a medical document from a
+used cannabis for medical purposes healthcare professional
+(used to treat disease/disorder or (2) Yes, without a medical document from a
+improve symptoms)? healthcare professional
+(3) No
+Shown to: CAN05=1 (Past 12 month (97) Skipped
+cannabis user)
+For which of the following can19_1 (0) Not Selected
+symptoms do you use cannabis for (1) Selected
+medical purposes? - Acute pain (97) Skipped
+(severe or sudden pain that resolves
+within a certain amount of time)
+Shown to: CAN18=1 (Used medical
+cannabis past 12 months)
+For which of the following can19_2 (0) Not Selected
+symptoms do you use cannabis for (1) Selected
+medical purposes? - Chronic pain (97) Skipped
+(persistent pain, lasting for months
+or even longer)
+Shown to: CAN18=1 (Used medical
+cannabis past 12 months)
+For which of the following can19_3 (0) Not Selected
+symptoms do you use cannabis for (1) Selected
+medical purposes? - (97) Skipped
+47
+Variable Description Variable Name Values and Labels
+Headaches/migraines
+Shown to: CAN18=1 (Used medical
+cannabis past 12 months)
+For which of the following can19_4 (0) Not Selected
+symptoms do you use cannabis for (1) Selected
+medical purposes? - Problems (97) Skipped
+sleeping
+Shown to: CAN18=1 (Used medical
+cannabis past 12 months)
+For which of the following can19_5 (0) Not Selected
+symptoms do you use cannabis for (1) Selected
+medical purposes? - Alcohol (97) Skipped
+withdrawal symptoms
+Shown to: CAN18=1 (Used medical
+cannabis past 12 months)
+For which of the following can19_6 (0) Not Selected
+symptoms do you use cannabis for (1) Selected
+medical purposes? - Feelings of (97) Skipped
+anxiety
+Shown to: CAN18=1 (Used medical
+cannabis past 12 months)
+For which of the following can19_7 (0) Not Selected
+symptoms do you use cannabis for (1) Selected
+medical purposes? - Feelings of (97) Skipped
+depression
+Shown to: CAN18=1 (Used medical
+cannabis past 12 months)
+For which of the following can19_8 (0) Not Selected
+symptoms do you use cannabis for (1) Selected
+medical purposes? - Other (97) Skipped
+Shown to: CAN18=1 (Used medical
+cannabis past 12 months)
+For which of the following can19_9 (0) Not Selected
+symptoms do you use cannabis for (1) Selected
+medical purposes? – (R) ADHD / (97) Skipped
+PTSD / Attention disorder
+Shown to: CAN18=1 (Used medical
+cannabis past 12 months) – coded
+from verbatims
+48
+Variable Description Variable Name Values and Labels
+For which of the following can19_10 (0) Not Selected
+symptoms do you use cannabis for (1) Selected
+medical purposes? - (R) Eating (97) Skipped
+disorder / Appetite
+Shown to: CAN18=1 (Used medical
+cannabis past 12 months) – coded
+from verbatims
+For which of the following can19_11 (0) Not Selected
+symptoms do you use cannabis for (1) Selected
+medical purposes? - (R) Digestive (97) Skipped
+issues / nausea
+Shown to: CAN18=1 (Used medical
+cannabis past 12 months) – coded
+from verbatims
+For which of the following can19_12 (0) Not Selected
+symptoms do you use cannabis for (1) Selected
+medical purposes? - (R) (97) Skipped
+Endometriosis/menstrual pain
+Shown to: CAN18=1 (Used medical
+cannabis past 12 months) – coded
+from verbatims
+During the past 3 months, how caa00 (1) Never
+often have you used cannabis? (2) Once or twice
+(3) Monthly
+Shown to: All respondents (4) Weekly
+(5) Daily or almost daily
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+During the past 3 months, how caa01 (1) Never
+often have you had a strong desire (2) Once or twice
+or urge to use cannabis? (3) Monthly
+(4) Weekly
+Shown to: All respondents (5) Daily or almost daily
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+During the past 3 months, how caa02 (1) Never
+often has your use of cannabis led to (2) Once or twice
+health, social, legal or financial (3) Monthly
+problems? (4) Weekly
+(5) Daily or almost daily
+(97) Skipped
+49
+Variable Description Variable Name Values and Labels
+Shown to: CAA00=2,3,4,5 (Past 3 (98) I prefer not to answer
+month cannabis user) (99) I don't know
+During the past 3 months, how caa03 (1) Never
+often have you failed to do what (2) Once or twice
+was normally expected of you (3) Monthly
+because of your use of cannabis? (4) Weekly
+(5) Daily or almost daily
+Shown to: CAA00=2,3,4,5 (Past 3 (97) Skipped
+month cannabis user) (98) I prefer not to answer
+(99) I don't know
+Has a friend or relative or anyone caa04 (1) No, never
+else ever expressed concern about (2) Yes, but not in the past 3 months
+your use of cannabis? (3) Yes, in the past 3 months
+(97) Skipped
+Shown to: All respondents (98) I prefer not to answer
+(99) I don't know
+Have you ever tried and failed to caa05 (1) No, never
+control, cut down or stop using (2) Yes, but not in the past 3 months
+cannabis? (3) Yes, in the past 3 months
+(97) Skipped
+Shown to: All respondents (98) I prefer not to answer
+(99) I don't know
+In the past 12 months, have you opi01 (1) Yes, in the past 30 days
+used any pain relievers? (2) Yes, but within the past 12 months
+(3) Yes, but more than 12 months ago
+Shown to: All respondents (4) Never
+(98) I prefer not to answer
+(99) I don't know
+Did you use any of the following opi01b_1 (0) Not Selected
+pain relievers? - Low-dose codeine (1) Selected
+product (e.g., Tylenol® 1, Robaxacet- (97) Skipped
+8®, AC&C, Mersyndol, Calmylin) (98) I prefer not to answer
+(99) I don't know
+Shown to: OPI01=1 or 2 (Used pain
+relievers past 12 months)
+Did you use any of the following opi01b_2 (0) Not Selected
+pain relievers? – Oxycodone (oxy, (1) Selected
+OC, APO, OxyContin®, percs, roxies, (97) Skipped
+OxyNEO®) (98) I prefer not to answer
+(99) I don't know
+Shown to: OPI01=1 or 2 (Used pain
+relievers past 12 months)
+Did you use any of the following opi01b_3 (0) Not Selected
+pain relievers? - Fentanyl (1) Selected
+(97) Skipped
+50
+Variable Description Variable Name Values and Labels
+Shown to: OPI01=1 or 2 (Used pain (98) I prefer not to answer
+relievers past 12 months) (99) I don't know
+(R) Did you use any of the following opi01b_5 (0) Not Selected
+pain relievers? - (1) Selected
+Dilaudid/Hydromorphone (97) Skipped
+(98) I prefer not to answer
+*Recoded from verbatim responses (99) I don't know
+to opi01b_4
+Shown to: OPI01=1 or 2 (Used pain
+relievers past 12 months)
+(R) Did you use any of the following opi01b_6 (0) Not Selected
+pain relievers? - Morphine (1) Selected
+(97) Skipped
+*Recoded from verbatim responses (98) I prefer not to answer
+to opi01b_4 (99) I don't know
+Shown to: OPI01=1 or 2 (Used pain
+relievers past 12 months)
+(R) Did you use any of the following opi01b_7 (0) Not Selected
+pain relievers? - Tylenol 2 or 3 (1) Selected
+(97) Skipped
+*Recoded from verbatim responses (98) I prefer not to answer
+to opi01b_4 (99) I don't know
+Shown to: OPI01=1 or 2 (Used pain
+relievers past 12 months)
+(R) Did you use any of the following opi01b_9 (0) Not Selected
+pain relievers? - Tramadol/Tramacet (1) Selected
+(97) Skipped
+*Recoded from verbatim responses (98) I prefer not to answer
+to opi01b_4 (99) I don't know
+Shown to: OPI01=1 or 2 (Used pain
+relievers past 12 months)
+Have you taken a higher dose of opi02 (1) Yes, in the past 30 days
+pain relievers than the dose (2) Yes, but within the past 12 months
+indicated to you? (3) Yes, but more than 12 months ago
+(4) Never
+Shown to: OPI01=1 or 2 (Used pain (97) Skipped
+relievers past 12 months) (98) I prefer not to answer
+(99) I don't know
+Have you taken pain relievers more opi03 (1) Yes, in the past 30 days
+often than indicated to you? (2) Yes, but within the past 12 months
+(3) Yes, but more than 12 months ago
+Shown to: OPI01=1 or 2 (Used pain (4) Never
+relievers past 12 months) (97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+51
+Variable Description Variable Name Values and Labels
+Have you use pain relievers for opi04a (1) Yes, in the past 30 days
+reasons other than pain relief? (2) Yes, but within the past 12 months
+(3) Yes, but more than 12 months ago
+Shown to: OPI01=1 or 2 (Used pain (4) Never
+relievers past 12 months) (97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+In the past 12 months, what is the opi04b (1) To help you sleep
+main reason you used pain relievers (2) To feel better
+other than pain relief or as (3) To improve mood
+indicated? (4) To cope with stress
+(5) For the experience
+Shown to: OPI04a=1 or 2 (Used pain (6) To feel numb
+relievers for reasons beyond (7) Other reason
+recommended) (8) To party with friends
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+During the past 12 months, were the opi05 (1) No, none were prescribed
+pain relievers you have used (2) Yes, they were all prescribed
+prescribed for you? (3) Some were prescribed and others were not
+(97) Skipped
+Shown to: OPI01=1 or 2 (Used pain (98) I prefer not to answer
+relievers past 12 months) (99) I don't know
+Have you ever sold, traded, or given opi06 (1) Yes, in the past 30 days
+away pain relievers that were (2) Yes, but within the past 12 months
+prescribed to you? (3) Yes, but more than 12 months ago
+(4) Never
+Shown to: OPI05=2,3 (Some or all (97) Skipped
+pain relievers were prescribed) (98) I prefer not to answer
+(99) I don't know
+Where do/did you usually obtain opi08_1 (0) Not Selected
+pain relievers that were not (1) Selected
+prescribed to you? - From a friend or (97) Skipped
+relative (98) I prefer not to answer
+(99) I don't know
+Shown to: OPI05=1,3 (None or some
+of pain relievers were prescribed)
+Where do/did you usually obtain opi08_2 (0) Not Selected
+pain relievers that were not (1) Selected
+prescribed to you? - From a dealer (97) Skipped
+or stranger (98) I prefer not to answer
+(99) I don't know
+Shown to: OPI05=1,3 (None or some
+of pain relievers were prescribed)
+52
+Variable Description Variable Name Values and Labels
+Where do/did you usually obtain opi08_3 (0) Not Selected
+pain relievers that were not (1) Selected
+prescribed to you? - From the (97) Skipped
+internet (98) I prefer not to answer
+(99) I don't know
+Shown to: OPI05=1,3 (None or some
+of pain relievers were prescribed)
+Where do/did you usually obtain opi08_7 (0) Not Selected
+pain relievers that were not (1) Selected
+prescribed to you? - Stolen (97) Skipped
+(98) I prefer not to answer
+Shown to: OPI05=1,3 (None or some (99) I don't know
+of pain relievers were prescribed)
+Where do/did you usually obtain opi08_8 (0) Not Selected
+pain relievers that were not (1) Selected
+prescribed to you? - From another (97) Skipped
+country (98) I prefer not to answer
+(99) I don't know
+Shown to: OPI05=1,3 (None or some
+of pain relievers were prescribed)
+Where do/did you usually obtain opi08_9 (0) Not Selected
+pain relievers that were not (1) Selected
+prescribed to you? - Other (97) Skipped
+(98) I prefer not to answer
+Shown to: OPI05=1,3 (None or some (99) I don't know
+of pain relievers were prescribed)
+Have you ever used any stimulant? sti01 (1) Yes, in the past 30 days
+(2) Yes, but within the past 12 months
+Shown to: All respondents (3) Yes, but more than 12 months ago
+(4) Never
+(98) I prefer not to answer
+(99) I don't know
+Have you taken higher doses of sti02 (1) Yes, in the past 30 days
+stimulants than the dose indicated? (2) Yes, but within the past 12 months
+(3) Yes, but more than 12 months ago
+Shown to: STI01=1,2,3 (Used (4) Never
+stimulants) (98) I prefer not to answer
+(99) I don't know
+Have you taken stimulants more sti03 (1) Yes, in the past 30 days
+often than indicated? (2) Yes, but within the past 12 months
+(3) Yes, but more than 12 months ago
+Shown to: STI01=1,2,3 (Used (4) Never
+stimulants) (98) I prefer not to answer
+(99) I don't know
+Have you used stimulants for sti04a (1) Yes, in the past 30 days
+reasons other than why they are (2) Yes, but within the past 12 months
+53
+Variable Description Variable Name Values and Labels
+indicated? (3) Yes, but more than 12 months ago
+(4) Never
+Shown to: STI01=1,2,3 (Used (98) I prefer not to answer
+stimulants) (99) I don't know
+In the past 12 months, what is the sti04b (1) To cram for exams
+main reason you used stimulants for (2) To stay up all night to finish a project
+reasons other than why they are (3) To decrease appetite
+indicated? (4) For the experience
+(5) To get high
+Shown to: STI04a=1,2 (Used (6) Other reason
+stimulants for reasons beyond (7) To party with friends
+recommended in the past 12 (97) Skipped
+months) (98) I prefer not to answer
+(99) I don't know
+During the past 12 months, were all sti05 (1) No, none were prescribed
+the stimulants you have used (2) Yes, they were all prescribed
+prescribed to you? (3) Some were prescribed and others were not
+(97) Skipped
+Shown to: STI01=1,2 (Used (98) I prefer not to answer
+stimulants past 12 months) (99) I don't know
+Have you sold, traded, or given away sti06 (1) Yes, in the past 30 days
+stimulants that were prescribed to (2) Yes, but within the past 12 months
+you? (3) Yes, but more than 12 months ago
+(4) Never
+Shown to: STI05=2,3 (Some or all (97) Skipped
+stimulants were prescribed) (98) I prefer not to answer
+(99) I don't know
+Where did you usually obtain sti08_1 (0) Not Selected
+stimulants that were not prescribed (1) Selected
+to you? - From a friend or relative (97) Skipped
+(98) I prefer not to answer
+Shown to: STI05=1,3 (None or some (99) I don't know
+stimulants were prescribed)
+Where did you usually obtain sti08_2 (0) Not Selected
+stimulants that were not prescribed (1) Selected
+to you? - From a dealer or stranger (97) Skipped
+(98) I prefer not to answer
+Shown to: STI05=1,3 (None or some (99) I don't know
+stimulants were prescribed)
+Where did you usually obtain sti08_3 (0) Not Selected
+stimulants that were not prescribed (1) Selected
+to you? - From the internet (97) Skipped
+(98) I prefer not to answer
+Shown to: STI05=1,3 (None or some (99) I don't know
+stimulants were prescribed)
+54
+Variable Description Variable Name Values and Labels
+Where did you usually obtain sti08_7 (0) Not Selected
+stimulants that were not prescribed (1) Selected
+to you? - Stolen (97) Skipped
+(98) I prefer not to answer
+Shown to: STI05=1,3 (None or some (99) I don't know
+stimulants were prescribed)
+Where did you usually obtain sti08_8 (0) Not Selected
+stimulants that were not prescribed (1) Selected
+to you? - From another country (97) Skipped
+(98) I prefer not to answer
+Shown to: STI05=1,3 (None or some (99) I don't know
+stimulants were prescribed)
+Where did you usually obtain sti08_9 (0) Not Selected
+stimulants that were not prescribed (1) Selected
+to you? - Other (97) Skipped
+(98) I prefer not to answer
+Shown to: STI05=1,3 (None or some (99) I don't know
+stimulants were prescribed)
+Where did you usually obtain sti08_13 (0) Not Selected
+stimulants that were not prescribed (1) Selected
+to you? - My usual source was not (97) Skipped
+available due to COVID-19 (98) I prefer not to answer
+(99) I don't know
+Shown to: STI05=1,3 (None or some
+stimulants were prescribed)
+Have you ever used any sedatives or sed01 (1) Yes, in past 30 days
+anti-anxiety medication? (2) Yes, but within past 12 months
+(3) Yes, but more than 12 months ago
+Shown to: All respondents (4) Never
+(98) I prefer not to answer
+(99) I don't know
+Have you taken a higher dose of sed02 (1) Yes, in past 30 days
+sedatives or anti-anxiety (2) Yes, but within past 12 months
+medications than the dose (3) Yes, but more than 12 months ago
+indicated? (4) Never
+(97) Skipped
+Shown to: SED01=1,2,3 (Used (98) I prefer not to answer
+sedatives) (99) I don't know
+Have you taken sedatives or anti- sed03 (1) Yes, in past 30 days
+anxiety medication more often than (2) Yes, but within past 12 months
+indicated? (3) Yes, but more than 12 months ago
+(4) Never
+Shown to: SED01=1,2,3 (Used (97) Skipped
+sedatives) (98) I prefer not to answer
+(99) I don't know
+55
+Variable Description Variable Name Values and Labels
+Did you use sedatives or anti-anxiety sed04a (1) Yes, in past 30 days
+medication for reasons other than (2) Yes, but within past 12 months
+why they are indicated? (3) Yes, but more than 12 months ago
+(4) Never
+Shown to: SED01=1,2,3 (Used (97) Skipped
+sedatives) (98) I prefer not to answer
+(99) I don't know
+In the past 12 months, what is the sed04b (1) For the experience
+main reason you used sedatives or (2) To get high/the feeling they caused
+anti-anxiety medication for reasons (3) Other reason
+other than why they are indicated? (4) To sleep
+(5) For stress / anxiety
+Shown to: SED04a=1,2 (Used (97) Skipped
+sedatives for reasons beyond (98) I prefer not to answer
+recommended in past 12 months) (99) I don't know
+During the past 12 months, were all sed05 (1) No, none were prescribed
+the sedatives or anti-anxiety (2) Yes, they were all prescribed
+medications you have used (3) Some were prescribed and others were not
+prescribed to you? (97) Skipped
+(98) I prefer not to answer
+Shown to: SED01=1,2 (Used (99) I don't know
+sedatives past 12 months)
+Have you sold, traded, or given away sed06 (1) Yes, in past 30 days
+sedatives or anti-anxiety (2) Yes, but within past 12 months
+medications that were prescribed to (3) Yes, but more than 12 months ago
+you? (4) Never
+(97) Skipped
+Shown to: SED05=2,3 (Some or all (98) I prefer not to answer
+sedatives were prescribed) (99) I don't know
+Where do/did you usually obtain sed08_1 (0) Not Selected
+sedatives or anti-anxiety (1) Selected
+medications that were not (97) Skipped
+prescribed to you? – From a friend (98) I prefer not to answer
+or relative (99) I don't know
+Shown to: SED05=1,3 (None or some
+sedatives were prescribed)
+Where do/did you usually obtain sed08_2 (0) Not Selected
+sedatives or anti-anxiety (1) Selected
+medications that were not (97) Skipped
+prescribed to you? – From a drug (98) I prefer not to answer
+dealer or stranger (99) I don't know
+Shown to: SED05=1,3 (None or some
+sedatives were prescribed)
+56
+Variable Description Variable Name Values and Labels
+Where do/did you usually obtain sed08_3 (0) Not Selected
+sedatives or anti-anxiety (1) Selected
+medications that were not (97) Skipped
+prescribed to you? – From the (98) I prefer not to answer
+internet (99) I don't know
+Shown to: SED05=1,3 (None or some
+sedatives were prescribed)
+Where do/did you usually obtain sed08_7 (0) Not Selected
+sedatives or anti-anxiety (1) Selected
+medications that were not (97) Skipped
+prescribed to you? - Stolen (98) I prefer not to answer
+(99) I don't know
+Shown to: SED05=1,3 (None or some
+sedatives were prescribed)
+Where do/did you usually obtain sed08_8 (0) Not Selected
+sedatives or anti-anxiety (1) Selected
+medications that were not (97) Skipped
+prescribed to you? - From another (98) I prefer not to answer
+country (99) I don't know
+Shown to: SED05=1,3 (None or some
+sedatives were prescribed)
+Where do/did you usually obtain sed08_9 (0) Not Selected
+sedatives or anti-anxiety (1) Selected
+medications that were not (97) Skipped
+prescribed to you? - Other (98) I prefer not to answer
+(99) I don't know
+Shown to: SED05=1,3 (None or some
+sedatives were prescribed)
+Where do/did you usually obtain sed08_13 (0) Not Selected
+sedatives or anti-anxiety (1) Selected
+medications that were not (97) Skipped
+prescribed to you? - My usual (98) I prefer not to answer
+source was not available due to (99) I don't know
+COVID-19
+Shown to: SED05=1,3 (None or some
+sedatives were prescribed)
+During the past 12 months, have oth01 (1) Yes
+you used or tried over-the counter (2) No
+medication not for health or medical (98) I prefer not to answer
+reasons, but for the experience, the (99) I don't know
+feeling they caused, to get ”high” or
+numb?
+57
+Variable Description Variable Name Values and Labels
+Shown to: All respondents
+Have you ever used or tried … - dru01_a (1) No, never
+Cocaine or crack (rock) (2) Yes, but more than 12 months ago
+(3) Yes, within the past 12 months
+Shown to: All respondents (98) I prefer not to answer
+(99) I don't know
+Have you ever used or tried … - Illicit dru01_b (1) No, never
+amphetamines (2) Yes, but more than 12 months ago
+(3) Yes, within the past 12 months
+Shown to: All respondents (98) I prefer not to answer
+(99) I don't know
+Have you ever used or tried … - dru01_c (1) No, never
+Methamphetamine (2) Yes, but more than 12 months ago
+(3) Yes, within the past 12 months
+Shown to: All respondents (98) I prefer not to answer
+(99) I don't know
+Have you ever used or tried … - dru01_d (1) No, never
+Ecstasy or similar designer drugs (2) Yes, but more than 12 months ago
+(3) Yes, within the past 12 months
+Shown to: All respondents (98) I prefer not to answer
+(99) I don't know
+Have you ever used or tried … - dru01_e (1) No, never
+Salvia (2) Yes, but more than 12 months ago
+(3) Yes, within the past 12 months
+Shown to: All respondents (98) I prefer not to answer
+(99) I don't know
+Have you ever used or tried … - dru01_f (1) No, never
+Hallucinogens/dissociatives (2) Yes, but more than 12 months ago
+(3) Yes, within the past 12 months
+Shown to: All respondents (98) I prefer not to answer
+(99) I don't know
+Have you ever used or tried … - dru01_g (1) No, never
+Sniffed glue, gasoline or other (2) Yes, but more than 12 months ago
+solvents (3) Yes, within the past 12 months
+(98) I prefer not to answer
+Shown to: All respondents (99) I don't know
+Have you ever used or tried … - dru01_h (1) No, never
+Heroin (2) Yes, but more than 12 months ago
+(3) Yes, within the past 12 months
+Shown to: All respondents (98) I prefer not to answer
+(99) I don't know
+Have you ever used or tried … - dru01_i (1) No, never
+Synthetic cannabinoids (2) Yes, but more than 12 months ago
+(3) Yes, within the past 12 months
+Shown to: All respondents
+58
+Variable Description Variable Name Values and Labels
+(98) I prefer not to answer
+(99) I don't know
+Have you ever used or tried … - dru01_j (1) No, never
+Mephedrone (2) Yes, but more than 12 months ago
+(3) Yes, within the past 12 months
+Shown to: All respondents (98) I prefer not to answer
+(99) I don't know
+Have you ever used or tried … - dru01_k (1) No, never
+BZP/TFMPP (2) Yes, but more than 12 months ago
+(3) Yes, within the past 12 months
+Shown to: All respondents (98) I prefer not to answer
+(99) I don't know
+Have you ever used or tried … - Alkyl dru01_l (1) No, never
+Nitrites (2) Yes, but more than 12 months ago
+(3) Yes, within the past 12 months
+Shown to: All respondents (98) I prefer not to answer
+(99) I don't know
+Have you ever injected any drug? dru02 (1) No, never
+(2) Yes, but more than 12 months ago
+Shown to: All respondents (3) Yes, within the past 12 months
+(98) I prefer not to answer
+(99) I don't know
+Have you ever used or tried any dru03 (1) No, never
+other substance or illegal drug to get (2) Yes, but more than 12 months ago
+high without asking or knowing (3) Yes, within the past 12 months
+what it was? (98) I prefer not to answer
+(99) I don't know
+Shown to: All respondents
+Have you ever used an NPS to get dru04 (1) No, never
+high? (2) Yes, but more than 12 months ago
+(3) Yes, within the past 12 months
+Shown to: All respondents (98) I prefer not to answer
+(99) I don't know
+In the past 12 months, have you dru05 (1) Yes
+used or tried any other substance or (2) No
+illegal drug for the experience or to (98) I prefer not to answer
+get high? (99) I don't know
+Shown to: All respondents
+During the past 12 months, has your dha01_a (1) Yes
+drug use had a harmful effect … on (2) No
+your friendships or social life? (97) Skipped
+(98) I prefer not to answer
+Shown to: DRU01=2,3 for any drug (99) I don't know
+(Illegal drug use) or (OPI02=1,2 or
+OPI03=1,2 or OPI04a=1,2
+59
+Variable Description Variable Name Values and Labels
+(Problematic use of pain relievers))
+or (SED02=1,2 or SED03=1,2 or
+SED04a=1,2 (Problematic use of
+sedatives)) or (STI02=1,2 or
+STI03=1,2 or STI04a=1,2
+(Problematic use of stimulants)) or
+CAN05=1 (Cannabis use in past 12
+months)
+During the past 12 months, has your dha01_b (1) Yes
+drug use had a harmful effect … on (2) No
+your physical health? (97) Skipped
+(98) I prefer not to answer
+Shown to: DRU01=2,3 for any drug (99) I don't know
+(Illegal drug use) or (OPI02=1,2 or
+OPI03=1,2 or OPI04a=1,2
+(Problematic use of pain relievers))
+or (SED02=1,2 or SED03=1,2 or
+SED04a=1,2 (Problematic use of
+sedatives)) or (STI02=1,2 or
+STI03=1,2 or STI04a=1,2
+(Problematic use of stimulants)) or
+CAN05=1 (Cannabis use in past 12
+months)
+During the past 12 months, has your dha01_c (1) Yes
+drug use had a harmful effect … on (2) No
+your home life, family or (97) Skipped
+relationship? (98) I prefer not to answer
+(99) I don't know
+Shown to: DRU01=2,3 for any drug
+(Illegal drug use) or (OPI02=1,2 or
+OPI03=1,2 or OPI04a=1,2
+(Problematic use of pain relievers))
+or (SED02=1,2 or SED03=1,2 or
+SED04a=1,2 (Problematic use of
+sedatives)) or (STI02=1,2 or
+STI03=1,2 or STI04a=1,2
+(Problematic use of stimulants)) or
+CAN05=1 (Cannabis use in past 12
+months)
+During the past 12 months, has your dha01_d (1) Yes
+drug use had a harmful effect … on (2) No
+your work, studies, or employment (97) Skipped
+opportunities? (98) I prefer not to answer
+(99) I don't know
+Shown to: DRU01=2,3 for any drug
+(Illegal drug use) or (OPI02=1,2 or
+60
+Variable Description Variable Name Values and Labels
+OPI03=1,2 or OPI04a=1,2
+(Problematic use of pain relievers))
+or (SED02=1,2 or SED03=1,2 or
+SED04a=1,2 (Problematic use of
+sedatives)) or (STI02=1,2 or
+STI03=1,2 or STI04a=1,2
+(Problematic use of stimulants)) or
+CAN05=1 (Cannabis use in past 12
+months)
+During the past 12 months, has your dha01_e (1) Yes
+drug use had a harmful effect … on (2) No
+your financial position? (97) Skipped
+(98) I prefer not to answer
+Shown to: DRU01=2,3 for any drug (99) I don't know
+(Illegal drug use) or (OPI02=1,2 or
+OPI03=1,2 or OPI04a=1,2
+(Problematic use of pain relievers))
+or (SED02=1,2 or SED03=1,2 or
+SED04a=1,2 (Problematic use of
+sedatives)) or (STI02=1,2 or
+STI03=1,2 or STI04a=1,2
+(Problematic use of stimulants)) or
+CAN05=1 (Cannabis use in past 12
+months)
+During the past 12 months, have dha02 (1) Yes
+you had legal problems because of (2) No
+your drug use? (97) Skipped
+(98) I prefer not to answer
+Shown to: DRU01=2,3 for any drug (99) I don't know
+(Illegal drug use) or (OPI02=1,2 or
+OPI03=1,2 or OPI04a=1,2
+(Problematic use of pain relievers))
+or (SED02=1,2 or SED03=1,2 or
+SED04a=1,2 (Problematic use of
+sedatives)) or (STI02=1,2 or
+STI03=1,2 or STI04a=1,2
+(Problematic use of stimulants)) or
+CAN05=1 (Cannabis use in past 12
+months)
+During the past 12 months, have dha03 (1) Yes
+you had housing problems because (2) No
+of your drug use? (97) Skipped
+(98) I prefer not to answer
+Shown to: DRU01=2,3 for any drug (99) I don't know
+(Illegal drug use) or (OPI02=1,2 or
+OPI03=1,2 or OPI04a=1,2
+61
+Variable Description Variable Name Values and Labels
+(Problematic use of pain relievers))
+or (SED02=1,2 or SED03=1,2 or
+SED04a=1,2 (Problematic use of
+sedatives)) or (STI02=1,2 or
+STI03=1,2 or STI04a=1,2
+(Problematic use of stimulants)) or
+CAN05=1 (Cannabis use in past 12
+months)
+During the past 12 months, have dha04 (1) Yes
+you had difficulty learningthings (2) No
+because of your drug use? (97) Skipped
+(98) I prefer not to answer
+Shown to: DRU01=2,3 for any drug (99) I don't know
+(Illegal drug use) or (OPI02=1,2 or
+OPI03=1,2 or OPI04a=1,2
+(Problematic use of pain relievers))
+or (SED02=1,2 or SED03=1,2 or
+SED04a=1,2 (Problematic use of
+sedatives)) or (STI02=1,2 or
+STI03=1,2 or STI04a=1,2
+(Problematic use of stimulants)) or
+CAN05=1 (Cannabis use in past 12
+months)
+Have you ever felt that you needed tre01_1 (0) Not Selected
+professional help for your alcohol, (1) Selected
+cannabis, or drug use? - Yes, for (98) I prefer not to answer
+alcohol
+Shown to: All respondents
+Have you ever felt that you needed tre01_2 (0) Not Selected
+professional help for your alcohol, (1) Selected
+cannabis, or drug use? - Yes, for (98) I prefer not to answer
+cannabis
+Shown to: All respondents
+Have you ever felt that you needed tre01_3 (0) Not Selected
+professional help for your alcohol, (1) Selected
+cannabis, or drug use? - Yes, for (98) I prefer not to answer
+drugs
+Shown to: All respondents
+Have you ever felt that you needed tre01_4 (0) Not Selected
+professional help for your alcohol, (1) Selected
+cannabis, or drug use? – No, never (98) I prefer not to answer
+Shown to: All respondents
+62
+Variable Description Variable Name Values and Labels
+Have you ever sought professional tre02_1 (0) Not Selected
+help for your alcohol, cannabis, or (1) Selected
+drug use (even if you did not end up (97) Skipped
+accessing help)? – Yes, for alcohol (98) I prefer not to answer
+Shown to: TRE01=1,2,3 (Needed
+help)
+Have you ever sought professional tre02_2 (0) Not Selected
+help for your alcohol, cannabis, or (1) Selected
+drug use (even if you did not end up (97) Skipped
+accessing help)? – Yes, for cannabis (98) I prefer not to answer
+Shown to: TRE01=1,2,3 (Needed
+help)
+Have you ever sought professional tre02_3 (0) Not Selected
+help for your alcohol, cannabis, or (1) Selected
+drug use (even if you did not end up (97) Skipped
+accessing help)? – Yes, for drugs (98) I prefer not to answer
+Shown to: TRE01=1,2,3 (Needed
+help)
+Have you ever sought professional tre02_4 (0) Not Selected
+help for your alcohol, cannabis, or (1) Selected
+drug use (even if you did not end up (97) Skipped
+accessing help)? – No, never (98) I prefer not to answer
+Shown to: TRE01=1,2,3 (Needed
+help)
+During the past 12 months, did any tre03_1 (0) Not Selected
+of the following reasons prevent you (1) Selected
+from receiving professional help?– (97) Skipped
+The waiting list was too long
+Shown to: TRE02=4 (Did not seek
+help)
+During the past 12 months, did any tre03_2 (0) Not Selected
+of the following reasons prevent you (1) Selected
+from receiving professional help?– (97) Skipped
+The type of treatment desired was
+not available
+Shown to: TRE02=4 (Did not seek
+help)
+During the past 12 months, did any tre03_3 (0) Not Selected
+of the following reasons prevent you (1) Selected
+from receiving professional help?– (97) Skipped
+63
+Variable Description Variable Name Values and Labels
+The treatment was not covered by
+insurance
+Shown to: TRE02=4 (Did not seek
+help)
+During the past 12 months, did any tre03_4 (0) Not Selected
+of the following reasons prevent you (1) Selected
+from receiving professional help?– (97) Skipped
+Transportation was difficult
+Shown to: TRE02=4 (Did not seek
+help)
+During the past 12 months, did any tre03_5 (0) Not Selected
+of the following reasons prevent you (1) Selected
+from receiving professional help?– (97) Skipped
+You had personal or family
+responsibilities
+Shown to: TRE02=4 (Did not seek
+help)
+During the past 12 months, did any tre03_6 (0) Not Selected
+of the following reasons prevent you (1) Selected
+from receiving professional help?– (97) Skipped
+You were too busy
+Shown to: TRE02=4 (Did not seek
+help)
+During the past 12 months, did any tre03_7 (0) Not Selected
+of the following reasons prevent you (1) Selected
+from receiving professional help?– (97) Skipped
+You felt you did not need treatment
+Shown to: TRE02=4 (Did not seek
+help)
+During the past 12 months, did any tre03_8 (0) Not Selected
+of the following reasons prevent you (1) Selected
+from receiving professional help?– (97) Skipped
+You had language or cultural
+difficulties
+Shown to: TRE02=4 (Did not seek
+help)
+During the past 12 months, did any tre03_9 (0) Not Selected
+of the following reasons prevent you (1) Selected
+from receiving professional help?– (97) Skipped
+Other
+64
+Variable Description Variable Name Values and Labels
+Shown to: TRE02=4 (Did not seek
+help)
+Have you heard of naloxone (e.g., kab02 (1) Yes
+Narcan®)? (2) No
+(98) I prefer not to answer
+Shown to: All respondents (99) I don't know
+In the past 12 months, have you kab03 (1) Yes
+obtained a naloxone kit? (2) No
+(97) Skipped
+Shown to: KAB02=1 (Heard of (98) I prefer not to answer
+naloxone) (99) I don't know
+What is the main reason you kab04 (1) In case you need it for yourself
+obtained a naloxone kit? (2) In case someone in your family needs it
+(3) In case a friend needs it
+Shown to: KAB03=1 (Obtained (4) In case someone on the street or at a venue
+naloxone kit) needs it
+(5) Other
+(6) Work/Training/Profession related (recoded
+from ‘Other’)
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+Have you ever smoked a whole tob02 (1) Yes
+cigarette? (2) No
+(98) I prefer not to answer
+Shown to: All respondents (99) I don't know
+During the past 30 days, how often tob03 (1) Daily
+did you smoke cigarettes? (2) Less than daily, but at least once a week
+(3) Less than once a week, but at least once in the
+Shown to: TOB02=1 (Has smoked past month
+whole cigarette) (4) Not at all
+(97) Skipped
+(98) I prefer not to answer
+Have you smoked at least 100 tob04 (1) Yes
+cigarettes (about 4 packs) in your (2) No
+life? (97) Skipped
+(98) I prefer not to answer
+Shown to: TOB02=1 (Has smoked (99) I don't know
+whole cigarette)
+During the past 30 days, how often vap01 (1) Daily
+did you vape? (2) Less than daily, but at least once a week
+(3) Less than weekly, but at least once in the past
+Shown to: All respondents 30 days
+(4) Tried, but did not use in the last 30 days
+(5) I have never tried
+65
+Variable Description Variable Name Values and Labels
+(98) I prefer not to answer
+(99) I don't know
+What is (was) your primary reason vap03 (1) To quit smoking cigarettes
+for using an e-cigarette or vaping (2) To cut down on smoking cigarettes
+device? (3) To use when I cannot or am not allowed to
+smoke
+Shown to: VAP01=1,2,3,4 (Vape (4) To avoid returning to smoking
+user) (5) Because I enjoy(ed) it
+(6) Curiosity, just wanted to try them
+(7) To reduce stress or calm down
+(8) For the flavours
+(9) Social/peer pressure
+(10) Some other reason
+(97) Skipped
+(98) I prefer not to answer
+(99) I don't know
+Table 3: Derived Variables
+Derived Variables
+Variable Label Variable Name Values and Labels
+(0) Fair/poor
+(R) Self-assessed physical health
+(1) Excellent/very good/good
+status
+(98) I prefer not to answer
+h_grp
+(99) I don't know
+Derived variable: All
+respondents
+NOTE: Self-rated physical health status - 2 categories.
+0 Fair/poor hwbq01=4 or 5
+1 Excellent/very good/good hwbq01=1, 2, or 3
+(R) Self-assessed mental health
+(0) Fair/poor
+status
+(1) Excellent/very good/good
+mh_grp
+(98) I prefer not to answer
+Derived variable: All
+(99) I don't know
+respondents
+NOTE: Self-rated mental health status - 2 categories.
+0 Fair/poor hwbq02=4 or 5
+1 Excellent/very good/good hwbq02=1, 2 or 3
+66
+Derived Variables
+Variable Label Variable Name Values and Labels
+(R) Took advantage of any
+(0) No
+alcohol promotion in the past
+(1) Yes
+12 months
+promotion (97) Skipped
+(98) I prefer not to answer
+Derived variable: ALC05=1 (Past
+(99) I don't know
+12 month drinkers)
+NOTE: Respondents that participated in any alcohol promotion in the past 12 months.
+alc08_a=2 and alc08_b=2 and alc08_c=2 and
+0 No
+alc08_d=2 and alc08_e=2
+alc08_a=1 or alc08_b=1 or alc08_c=1 or
+1 Yes
+alc08_d=1 or alc08_e=1
+(R) Proportion exceeding
+(0) Do not exceed
+chronic daily limits (2/3)
+(1) Exceed
+u_d_lrdg (97) Skipped
+Derived variable:
+(98) I prefer not to answer
+ALC06=1,2,3,4,5 (Past 30 day
+(99) I don't know
+drinkers)
+NOTE: Respondents who exceed daily drinking limits in the LRDG based on drinking amounts reported for a
+“typical” drinking day in the past month.
+0 Do not exceed (sex=2 and alc10≤2) or (sex=1 and alc10≤3)
+1 exceed (sex=2 and alc10>2) or (sex=1 and alc10>3)
+(R) Frequency of heavy drinking
+(1) Not in past 30 days
+- both sexes, past 30 days
+(2) Once in past 30 days
+alc12_30d_freq (3) 2 to 3 times in past 30 days
+Derived variable: ALC12F=1, 2,
+(4) At least once per week
+3, 4, 5, 6 and ALC12M=1, 2, 3, 4,
+(97) Skipped
+5, 6 (Past 30 day drinkers)
+NOTE: Frequency of heavy drinking in past 30 days among past 30 day drinkers. Heavy drinking is defined as
+consuming 4 or more drinks for women and 5 or more drinks for men on one occasion in the past 30 days.
+4 At least once per week (alc12f=1 or 2 or 3) or (alc12m=1 or 2 or 3)
+2 to 3 times in past 30
+3 alc12f =4 or alc12m=4
+days
+2 Once in past 30 days alc12f=5 or alc12m=5
+(alc12f=6 or alc12m=6) or alc05 = 2 or
+1 Not in the past 30 days
+alc03=2
+67
+Derived Variables
+Variable Label Variable Name Values and Labels
+(R) Prevalence of heavy drinking
+- past 30 day drinkers
+(0) No heavy drinking in past 30 days
+alc12_30d_prev (1) Heavy drinking in past 30 days
+Derived variable: ALC12F=1, 2,
+(97) Skipped
+3, 4, 5, 6 and ALC12M=1, 2, 3, 4,
+5, 6 (Past 30 day drinkers)
+NOTE: Respondents who consumed 4 or more (females) or 5 or more (males) drinks on one occasion in the
+past 30 days.
+Heavy drinking in past 30 (alc12f= 1 or 2 or 3 or 4 or 5) or (alc12m=1 or
+1
+days 2 or 3 or 4 or 5)
+No heavy drinking in past
+0 alc12f= 6 or alc12m=6
+30 days
+(R) Prevalence of heavy drinking
+- Overall
+(0) No heavy drinking in past 30 days
+alc12_30d_prev_overall (1) Heavy drinking in past 30 days
+Derived variable: All
+(97) Skipped
+respondents (overall
+population)
+NOTE: Respondents who consumed 4 or more (females) or 5 or more (males) drinks on one occasion in the
+past 30 days.
+Heavy drinking in past 30 (alc12f=1 or 2 or 3 or 4 or 5) or (alc12m=1 or
+1
+days 2 or 3 or 4 or 5)
+No heavy drinking in past
+0 alc12f=6 or alc12m=6 or alc05 = 2 or alc03=2
+30 days
+(R) Exceed chronic LRDG on
+(0) No
+heaviest drinking day, past 30
+(1) Yes
+days
+alc13_lrdg (97) Skipped
+(98) I prefer not to answer
+Derived variable: ALC13a, SEX
+(99) I don't know
+(Past 30 day drinkers)
+NOTE: Respondents who exceed the daily chronic LRDG (2 females/3 males) based on the number of drinks
+consumed on the heaviest drinking days in the past 30 days.
+Yes, exceed chronic LRDG (alc13a>3 and sex =1) or (alc13a>2 and
+1
+on heavy drinking days sex=2)
+68
+Derived Variables
+Variable Label Variable Name Values and Labels
+No, do not exceed chronic
+(alc13a≤3 and sex =1) or (alc13a≤2 and
+0 LRDG on heavy drinking
+sex=2)
+days
+(R) Past 30 days: prevalence of
+(0) No
+energy drink consumption
+(1) Yes
+energy_prev
+(98) I prefer not to answer
+Derived variable: All
+(99) I don't know
+respondents
+NOTE: Respondents who consumed an energy drink in the past 30 days.
+1 Yes aed01_a=1 or 2 or 3 or 4 or 5
+0 No aed01_a=6
+(R) Past 30 days: prevalence of
+(0) No
+energy drink and alcohol
+(1) Yes
+consumed separately
+alcensep_prev (97) Skipped
+(98) I prefer not to answer
+Derived variable: ALC05=1 (Past
+(99) I don't know
+12 month drinkers)
+NOTE: Respondents who consumed an energy drink and alcohol separately in the past 30 days (among past
+12 month drinkers).
+1 Yes aed01_b=1 or 2 or 3 or 4 or 5
+0 No aed01_b=6
+(R) Past 30 days: prevalence of
+(0) No
+energy drink and alcohol hand-
+(1) Yes
+mixed
+alcenhand_prev (97) Skipped
+(98) I prefer not to answer
+Derived variable: ALC05=1 (Past
+(99) I don't know
+12 month drinkers)
+NOTE: Respondents who consumed an energy drink with alcohol, hand-mixed in the past 30 days (among
+past 12 month drinkers).
+1 Yes aed01_c=1 or 2 or 3 or 4 or 5
+0 No aed01_c=6
+(R) Past 30 days: prevalence of
+(0) No
+energy drink and alcohol pre-
+(1) Yes
+mixed
+alcenmix_prev (97) Skipped
+(98) I prefer not to answer
+Derived variable: ALC05=1 (Past
+(99) I don't know
+12 month drinkers)
+69
+Derived Variables
+Variable Label Variable Name Values and Labels
+NOTE: Respondents who consumed an energy drink with alcohol, pre-mixed in the past 30 days (among past
+12 month drinkers).
+1 Yes aed01_d=1 or 2 or 3 or 4 or 5
+0 No aed01_d=6
+(R) Past 30 days: prevalence of
+(0) No to all energy drink + alcohol
+energy drink and alcohol
+(1) Yes to any energy drink + alcohol
+consumed together - any type
+alcmixnrg3_prev (97) Skipped
+(98) I prefer not to answer
+Derived variable: ALC05=1 (Past
+(99) I don't know
+12 month drinkers)
+NOTE: Respondents who consumed an energy drink and alcohol separately, hand-mixed or pre-mixed in the
+past 30 days (among past 12 month drinkers).
+alcensep_prev=1 or alcenhand_prev=1 or
+1 Yes
+alcenmix_prev=1
+alcensep_prev=0 and alcenhand_prev=0 and
+0 No
+alcenmix_prev=0
+(R) Past 30 days: prevalence of
+(0) No
+sweetened alcohol beverages
+(1) Yes
+consumption
+alcensweet_prev (97) Skipped
+(98) I prefer not to answer
+Derived variable: ALC05=1 (Past
+(99) I don't know
+12 month drinkers)
+NOTE: Respondents who consumed an “alcopop” (sweetened alcohol beverages) in the past 30 days.
+1 Yes aed01_e=1 or 2 or 3 or 4 or 5
+0 No aed01_e=6
+(R) Any harm due to own (0) No harm to self in past 30 days
+alcohol intake, past 30 days (1) At least one harm to self in past 30 days
+ahs30d (97) Skipped
+Derived variable: ALC05=1 (Past (98) I prefer not to answer
+12 month drinkers) (99) I don't know
+NOTE: Respondents who experienced at least one harm due to their own drinking in the past 30 days.
+70
+Derived Variables
+Variable Label Variable Name Values and Labels
+ahs_a=3 or ahs_b=3 or ahs_c=3 or ahs_d=3
+or ahs_e=3 or ahs_f=3 or ahs_g=3 or
+ahs_h=3 or ahs_i=3 or ahs_j=3 or ahs_k=3 or
+Yes, at least one harm, ahs_l=3 or ahs_m=3 or ahs_n=3 or ahs_o=3
+1
+past 30 days or ahs_p=3 or ahs_q=3 or ahs_r=3 or
+ahs_s=3 or ahs_t=3 or ahs_u=3 or ahs_v=3
+or ahs_w=3 or ahs_x=3 or ahs_z=3 or
+ahs_aa=3 or ahs_ab=3
+ahs_a<3 and ahs_b <3 and ahs_c <3 and
+ahs_d <3 and ahs_e <3 and ahs_f <3 and
+ahs_g <3 and ahs_h <3 and ahs_i <3 and
+ahs_j <3 and ahs_k <3 and ahs_l <3 and
+ahs_m <3 and ahs_n <3 and ahs_o <3 and
+0 No harms in past 30 days
+ahs_p <3 and ahs_q <3 and ahs_r <3 and
+ahs_s <3 and ahs_t <3 and ahs_u <3 and
+ahs_v <3 and ahs_w <3 and ahs_x <3 and
+ahs_y <3 and ahs_z <3 and ahs_aa <3 and
+ahs_ab <3
+(R) School related effects - due (0) No school related harm in past 30 days
+to own drinking, past 30 days (1) School related harm in past 30 days
+ahs_sch (97) Skipped
+Derived variable: ALC05=1 (Past (98) I prefer not to answer
+12 month drinkers) (99) I don't know
+NOTE: Respondents who experienced at least one school-related harm due to their own drinking in the past
+30 days.
+School related harms, past
+1 ahs_k =3 or ahs_r=3 or ahs_t=3
+30 days
+No school related harms in
+0 ahs_k<3 and ahs_r <3 and ahs_t <3
+past 30 days
+(R) Alcohol dependence - due to (0) No signs of dependence in past 30 days
+own drinking, past 30 days (1) Signs of dependence in past 30 days
+ahs_dependence (97) Skipped
+Derived variable: ALC05=1 (Past (98) I prefer not to answer
+12 month drinkers) (99) I don't know
+NOTE: Respondents who experienced at least one harm indicating alcohol dependence due to their own
+drinking in the past 30 days.
+Signs of dependence, past ahs_g =3 or ahs_m=3 or ahs_x=3 or
+1
+30 days ahs_ab=3
+71
+Derived Variables
+Variable Label Variable Name Values and Labels
+No signs of dependence, ahs_g<3 and ahs_m <3 and ahs_x<3 and
+0
+past 30 days ahs_ab<3
+(R) Acute physical effects - due (0) No physical harms in past 30 days
+to own drinking, past 30 days (1) Physical harms in past 30 days
+ahs_phy (97) Skipped
+Derived variable: ALC05=1 (Past (98) I prefer not to answer
+12 month drinkers) (99) I don't know
+NOTE: Respondents who experienced acute physical effects due to their own drinking in the past 30 days.
+ahs_b =3 or ahs_c=3 or ahs_f=3 or ahs_i=3
+Physical harms, past 30
+1 or ahs_q=3 or ahs_v=3 or ahs_w=3 or
+days
+ahs_aa=3
+ahs_b<3 and ahs_c <3 and ahs_f<3 and
+No physical harms, past 30
+0 ahs_i<3 and ahs_q and ahs_v <3 and
+days
+ahs_w<3 and ahs_aa<3
+(R) Any harm - due to others’
+(0) No harm in past 30 days
+drinking in past 30 days
+(1) Any harm in past 30 days
+aho30d
+(98) I prefer not to answer
+Derived variable: All
+(99) I don't know
+respondents
+NOTE: Respondents who experienced at least one harm due to others’ drinking in the past 30 days.
+aho_a=3 or aho_b =3 or aho_c =3 or aho_d
+=3 or aho_e =3 or aho_f=3 or aho_g =3 or
+1 Harm in past 30 days
+aho_h =3 or aho_i =3 or aho_j =3 or aho_k
+=3
+aho_a<3 and aho_b <3 and aho_c <3 and
+aho_d<3 and aho_e <3 and aho_f <3 and
+0 No harm in past 30 days
+aho_g <3 and aho_h <3 and aho_i <3 and
+aho_j <3 and aho_k <3
+(R) Violence - harm due to
+(0) No
+others’ drinking in past 30 days
+(1) Yes
+aho_violence
+(98) I prefer not to answer
+Derived variable: All
+(99) I don't know
+respondents
+NOTE: Respondents who experienced at least one violent harm due to others’ drinking in the past 30 days
+1 Violence in past 30 days aho_c=3 or aho_f =3 or aho_g =3
+72
+Derived Variables
+Variable Label Variable Name Values and Labels
+0 No violence in past 30 days aho_c<3 and aho_f <3 and aho_g <3
+(R) Disruption - due to others’
+(0) No
+drinking in the past 30 days
+(1) Yes
+aho_disr
+(98) I prefer not to answer
+Derived variable: All
+(99) I don't know
+respondents
+NOTE: Respondents who experienced disruption due to others’ drinking in the past 30 days
+1 Disruption in past 30 days aho_a=3 or aho_b =3 or aho_d =3
+No disruption in past 30
+0 aho_a<3 and aho_b <3 and aho_d <3
+days
+(R) Always or usually used at (0) Rarely, Sometimes, never used or does
+least one protective behaviour, not apply to ALL protective strategies
+past 30 days (1) Always or Usually used ANY protective
+apb30day strategy in past 30 days
+Derived variable: (97) Skipped
+ALC06=1,2,3,4,5 and APB_A to (98) I prefer not to answer
+APB_S (Past 30 day drinkers) (99) I don't know
+NOTE: Respondents who reported "always" or 'usually" using at least one protective behaviour in the past 30
+days.
+apb_a or apb_b or apb_c or apb_d or apb_e
+or apb_f or apb_g or apb_h or apb_i or
+Always or usually used
+1 apb_j or apb_k or apb_l or apb_m or apb_n
+ANY protective strategy
+or apb_o or apb_p or apb_q or apb_r or
+apb_s= 4 or 5
+apb_a and apb_b and apb_c and apb_d and
+Rarely, sometimes, never apb_e and apb_f and apb_g and apb_h and
+0 used or does not apply to apb_i and apb_j and apb_k and apb_l and
+ALL protective strategies apb_m and apb_n and apb_o and apb_p
+and apb_q and apb_r and apb_s=1,2,3,6
+73
+Derived Variables
+Variable Label Variable Name Values and Labels
+(1) 0-3: Low risk of developing health and
+(R) ASSIST - indicator of other problems
+problem substance use (2) 4-26: Moderate risk of developing health
+can_assist and other problems
+Derived variable: CAA00 – (3) 27-39: High risk of developing health and
+CAA05 (Past 30 day drinkers) other problems and be dependent
+(97) Skipped
+NOTE: Respondents who experienced problematic substance use among past 3 month cannabis users.
+ASSIST: The Alcohol, Smoking and Substance Involvement Screening Test (ASSIST) was developed for the
+World Health Organization (WHO) by an international group of substance abuse researchers to detect and
+manage substance use and related problems in primary and general medical care settings. The ASSIST
+module is used to screen respondents of the CPADS for problematic cannabis use.
+ASSIST score calculation for each
+respondent:
+CAA00 + CAA01 + CAA02 + CAA03 + CAA04 +
+CAA05
+Where each variable is recoded as follows:
+CAA00
+1) Never =0
+2) Once or twice =2
+3) Monthly =3
+4) Weekly =4
+5) Daily or almost daily =6
+CAA01
+1) Never =0
+2) Once or twice =3
+3) Monthly =4
+4) Weekly =5
+5) Daily or almost daily =6
+CAA02
+1) Never =0
+2) Once or twice =4
+3) Monthly =5
+4) Weekly =6
+5) Daily or almost daily =7
+CAA03
+74
+Derived Variables
+Variable Label Variable Name Values and Labels
+1) Never =0
+2) Once or twice =5
+3) Monthly =6
+4) Weekly =7
+5) Daily or almost daily =8
+CAA04
+1) Never =0
+2) Yes, not in past 3 months =3
+3) Yes, in past 3 months =6
+CAA05
+1) Never =0
+2) Yes, not in past 3 months =3
+3) Yes, in past 3 months =6
+Low risk of developing
+0-3 ASSIST score within the range of 0 to 3
+health and other problems
+Moderate risk of
+4-26 developing health and ASSIST score within the range of 4 to 26
+other problems
+High risk of developing
+27-39 health and other problems ASSIST score within the range of 27 to 39
+and likely to be dependent
+(R) Problematic use of pain
+(0) No problematic use
+relievers in past 12 months
+(1) Yes, problematic use
+pain12m_problem (97) Skipped
+Derived variable: OPI02, OPI03
+(98) I prefer not to answer
+and OPI04a (Past 12 month pain
+(99) I don't know
+reliever users)
+NOTE: Problematic use of pain relievers, includes using more, more often or using for reasons other than
+prescribed among those who have used pain relievers in the past 12 months
+1 Yes, problematic use opi02=1,2 or opi03=1,2 or opi04a=1,2
+0 No problematic use opi02>2 and opi03>2 and opi04a>2
+75
+Derived Variables
+Variable Label Variable Name Values and Labels
+(R) Problematic use of
+(0) No problematic use
+stimulants in past 12 months
+(1) Yes, problematic use
+stim12m_problem (97) Skipped
+Derived variable: STI02, STI03
+(98) I prefer not to answer
+and STI04a (Past 12 month
+(99) I don't know
+stimulant users)
+NOTE: Respondents who reported problematic use of stimulants, including using more, more often or using
+for reasons other than prescribed among those who have used stimulants in the past 12 months
+1 Yes, problematic use sti02=1,2 or sti03=1,2 or sti04a=1,2
+0 No problematic use sti02>2 and sti03>2 and sti04a>2
+(R) Problematic use of sedatives
+(0) No problematic use
+in past 12 months
+(1) Yes, problematic use
+sed12m_problem (97) Skipped
+Derived variable: SED02, SED03
+(98) I prefer not to answer
+and SED04a (Past 12 month
+(99) I don't know
+sedative users)
+NOTE: Respondents who reported problematic use of sedatives, including using more, more often or using
+for reasons other than prescribed among those who have used sedatives in the past 12 months
+1 Yes, problematic use sed02=1,2 or sed03=1,2 or sed04a=1,2
+0 No problematic use sed02>2 and sed03>2 and sed04a>2
+(R) Estimated Blood Alcohol
+Concentration on heaviest
+drinking day in past month,
+grams/deciliters
+ebac_tot Numeric values
+Derived variable:
+ALC06=1,2,3,4,5 (Past 30 day
+drinker)
+NOTE: Respondents’ Blood Alcohol Concentration (BAC) on their heaviest drinking day in the past 30 days.
+Students who reported zero drinks on their heaviest drinking day were excluded from analysis, as were
+students with a BAC level of 0.5g/dL (500mg/dl) or higher since this level is presumed to result in death.
+The calculation of blood alcohol concentrations (BAC) for the heaviest drinking day is calculated using a
+formula developed by Seidl et. al (Reference: Seidl, Stephan & Jensen, Uwe & Alt, Andreas. (2000). The
+calculation of blood ethanol concentrations in males and females. International journal of legal medicine.
+114. 71-7. 10.1007/s004140000154. ).
+76
+Derived Variables
+Variable Label Variable Name Values and Labels
+The basic equation is: eBAC = A / (r * W) – (Beta * t)
+CALCULATION NOTES:
+1. A is grams of alcohol
+Calculated using variable alc13a (highest number of drinks on heaviest drinking day in past 30
+days) and assumes that one standard drink is 13.6 grams of alcohol. Therefore, ”A” is calculated as 13.6g X
+number of drinks identified in alc13a to obtain the volume of alcohol in grams.
+2. ‘r” is the distribution factor and corrects for reduced body mass and the corresponding ratio of
+total body water and blood water content. The “r” value differs by sex, as follows:
+r (females)= 0.31223 - 0.006446 x body weight (kg) + 0.004466 x body height (cm)
+r (males)= 0.31608 - 0.004821 x body weight (kg) + 0.004632 x body height (cm)
+3. W is body weight in kg is calculated using variable demq4
+4. Body height in cm is calculated using variable demq3
+5. B (Beta) is the elimination rate which is 0.017
+6. Time is elapsed time from first drink in hours
+These two variables are used to calculate the number of hours to consume the highest number
+of drinks on heaviest drinking day.
+alc13b_a (Time to consume heaviest number of drinks on heaviest drinking day in hours)
+alc13b_b (Time to consume heaviest number of drinks on heaviest drinking day in minutes)
+Time in hours: [(alc13b_a x 60) + alc13b_b] /60
+Based on the above calculation notes, the specific equations to calculate BAC by sex are as follows:
+*The specific equation for females is:
+eBAC (g/dl) = [(grams of alcohol) / ((0.31223 - (0.006446 x body weight in kg) + (0.004466 x body
+height in cm)) x (body weight in kg)) – (.017 g/dl/hr x elapsed time from first drink)] / 10
+*The specific equation for males is:
+eBAC (g/dl) = [(grams of alcohol) / ((0.31608 - (0.004821 x body weight in kg) + (0.004632 x body
+height in cm)) x (body weight in kg)) – (.017 g/dl/hr x elapsed time from first drink)] / 10
+(0) Below legal limit <0.081% or
+BAC - legal limit
+81mg/100ml or g/dl
+ebac_legal
+Derived variable: ALC13a (Past (1) Above legal limit >0.08% or 80 mg/100ml
+30 day drinkers) or g/dl
+NOTE: Respondents who exceeded the legal Blood Alcohol Concentration limit for driving (0.08%) on their
+heaviest drinking day in the last month.
+77
+Derived Variables
+Variable Label Variable Name Values and Labels
+1 Above legal limit (>0.08%) ebac_tot >0.08
+Below legal limit
+0 ebac_tot <0.081
+(<0.081%)
+78

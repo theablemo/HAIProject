@@ -1,0 +1,6 @@
+Created: 2019-12-05T16:02:35.301211
+Name: Risk_Management_Plan_reviews_for_new_drug_decisions_completed_within_service_standards
+Original URL: https://health.canada.ca/apps/open-data/rmp-pgr/pct-list-rmp-nds-liste-pgr-pdn.csv
+Package ID: 575504e5-0358-4309-b988-ca687b2f8b0a
+Keywords: ['risk management', 'new drug decisions', 'service standards']
+Notes: Risk Management Plan reviews protect Canadians from preventable hazards, and contribute to effective engagement with partners and stakeholders - in view of the department's reliance on shared responsibilities. This indicator measures post-market effectiveness in providing Canadians with access to safe, effective and quality health products in a timely manner. Risk Management Plan reviews are an important component of improving the health and safety of Canadians.
